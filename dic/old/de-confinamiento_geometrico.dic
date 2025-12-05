@@ -1,0 +1,89 @@
+idioma;archivo;id;texto
+de;confinamiento_geometrico.py;0023;Welle ψ(x)
+de;confinamiento_geometrico.py;0026;Position x
+de;confinamiento_geometrico.py;0027;Amplitude ψ(x)
+de;confinamiento_geometrico.py;0028;EINSTEIN-VED EINSCHLUSS: Welle → Teilchen
+de;confinamiento_geometrico.py;0043;Position x
+de;confinamiento_geometrico.py;0044;Amplitude ψ(x)
+de;confinamiento_geometrico.py;0045;1. Sinuswelle auf ebener Oberfläche
+de;confinamiento_geometrico.py;0064;2. Übergang: Aufwicklung ({progress*100:.0f}%)
+de;confinamiento_geometrico.py;0065;X-Koordinate
+de;confinamiento_geometrico.py;0066;Y-Koordinate
+de;confinamiento_geometrico.py;0076;Eingeschlossen (n={n_cycles})
+de;confinamiento_geometrico.py;0077;EINSTEIN-VED BEDINGUNG: L = {n_cycles}λ
+de;confinamiento_geometrico.py;0080;3. Selbst-eingeschlossene Welle - Stabiles Teilchen
+de;confinamiento_geometrico.py;0081;X-Koordinate
+de;confinamiento_geometrico.py;0082;Y-Koordinate
+de;confinamiento_geometrico.py;0118;a) Freie ebene Welle
+de;confinamiento_geometrico.py;0119;Position x
+de;confinamiento_geometrico.py;0120;Amplitude ψ(x)
+de;confinamiento_geometrico.py;0137;b) Übergang
+de;confinamiento_geometrico.py;0138;X-Koordinate
+de;confinamiento_geometrico.py;0139;Y-Koordinate
+de;confinamiento_geometrico.py;0155;c) Eingeschlossen n=3\nL = 3λ
+de;confinamiento_geometrico.py;0156;X-Koordinate
+de;confinamiento_geometrico.py;0157;Y-Koordinate
+de;confinamiento_geometrico.py;0159;BEDINGUNG: L = nλ
+de;confinamiento_geometrico.py;001;round
+de;confinamiento_geometrico.py;002;yellow
+de;confinamiento_geometrico.py;003;round
+de;confinamiento_geometrico.py;004;yellow
+de;confinamiento_geometrico.py;005;Erzeuge SVG-Animation des Confinements...
+de;confinamiento_geometrico.py;006;✅ SVG-Animation abgeschlossen
+de;confinamiento_geometrico.py;007;__main__
+de;confinamiento_geometrico.py;008;Erzeuge SVG-Animation des Confinements...
+de;confinamiento_geometrico.py;009;✅ SVG-Animation abgeschlossen
+de;confinamiento_geometrico.py;010;equal
+de;confinamiento_geometrico.py;011;Welle ψ(x)
+de;confinamiento_geometrico.py;012;Position x
+de;confinamiento_geometrico.py;013;Amplitude ψ(x)
+de;confinamiento_geometrico.py;014;EINSTEIN-VED CONFINEMENT: Welle → Teilchen
+de;confinamiento_geometrico.py;015;bold
+de;confinamiento_geometrico.py;016;equal
+de;confinamiento_geometrico.py;017;brown
+de;confinamiento_geometrico.py;018;Position x
+de;confinamiento_geometrico.py;019;Amplitude ψ(x)
+de;confinamiento_geometrico.py;020;1. Sinuswelle auf ebener Fläche
+de;confinamiento_geometrico.py;021;bold
+de;confinamiento_geometrico.py;022;gray
+de;confinamiento_geometrico.py;023;center
+de;confinamiento_geometrico.py;024;red
+de;confinamiento_geometrico.py;025;2. Übergang: Aufwicklung ({progress*100:.0f}%)
+de;confinamiento_geometrico.py;026;bold
+de;confinamiento_geometrico.py;027;X-Koordinate
+de;confinamiento_geometrico.py;028;Y-Koordinate
+de;confinamiento_geometrico.py;029;gray
+de;confinamiento_geometrico.py;030;red
+de;confinamiento_geometrico.py;031;Confinert (n={n_cycles})
+de;confinamiento_geometrico.py;032;EINSTEIN-VED BEDINGUNG: L = {n_cycles}λ
+de;confinamiento_geometrico.py;033;bold
+de;confinamiento_geometrico.py;034;3. Selbst-Confinierte Welle - Stabiles Teilchen
+de;confinamiento_geometrico.py;035;bold
+de;confinamiento_geometrico.py;036;X-Koordinate
+de;confinamiento_geometrico.py;037;Y-Koordinate
+de;confinamiento_geometrico.py;038;svg
+de;confinamiento_geometrico.py;039;tight
+de;confinamiento_geometrico.py;040;brown
+de;confinamiento_geometrico.py;041;equal
+de;confinamiento_geometrico.py;042;a) Freie ebene Welle
+de;confinamiento_geometrico.py;043;bold
+de;confinamiento_geometrico.py;044;Position x
+de;confinamiento_geometrico.py;045;Amplitude ψ(x)
+de;confinamiento_geometrico.py;046;orange
+de;confinamiento_geometrico.py;047;equal
+de;confinamiento_geometrico.py;048;b) Übergang
+de;confinamiento_geometrico.py;049;bold
+de;confinamiento_geometrico.py;050;X-Koordinate
+de;confinamiento_geometrico.py;051;Y-Koordinate
+de;confinamiento_geometrico.py;052;gray
+de;confinamiento_geometrico.py;053;red
+de;confinamiento_geometrico.py;054;equal
+de;confinamiento_geometrico.py;055;c) Confiniert n=3\nL = 3λ
+de;confinamiento_geometrico.py;056;bold
+de;confinamiento_geometrico.py;057;X-Koordinate
+de;confinamiento_geometrico.py;058;Y-Koordinate
+de;confinamiento_geometrico.py;059;BEDINGUNG: L = nλ
+de;confinamiento_geometrico.py;060;center
+de;confinamiento_geometrico.py;061;bold
+de;confinamiento_geometrico.py;062;svg
+de;confinamiento_geometrico.py;063;tight

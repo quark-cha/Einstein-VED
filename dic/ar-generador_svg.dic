@@ -1,0 +1,27 @@
+idioma;archivo;id;texto_traducido
+ar;generador_svg.py;0022;دالة شعاعية للحالة 1s: R₁₀(r) = 2/a₀^(3/2) exp(-r/a₀)
+ar;generador_svg.py;0026;دالة شعاعية للحالة 2p: R₂₁(r) = (1/2√6)(r/a₀²) exp(-r/2a₀)
+ar;generador_svg.py;0030;دالة شعاعية للحالة 3d: R₃₂(r) = (4/81√30)(r²/a₀^(7/2)) exp(-r/3a₀)
+ar;generador_svg.py;0035;دالة الموجة الكاملة ψₙℓₘ(r,θ,φ) = Rₙℓ(r)Yℓₘ(θ,φ)
+ar;generador_svg.py;0043;الحالة n={n}, ℓ={ell} غير مُنفذة
+ar;generador_svg.py;0049;يحسب سطح VED: r(θ,φ) = n²a₀(1 + α|Yℓₘ|)
+ar;generador_svg.py;0066;يتحقق من التطابق بين أقصى P(r) ونصف قطر VED
+ar;generador_svg.py;0088;يولّد مقارنة كاملة أينشتاين-VED مقابل ميكانيكا الكم
+ar;generador_svg.py;0093;🔬 يجري حساب المقارنة أينشتاين-VED مقابل ميكانيكا الكم...
+ar;generador_svg.py;0122;كثافة |ψ|² - {estado["label"]}\n(مستوى Z=0.5Y)
+ar;generador_svg.py;0123;س (م)
+ar;generador_svg.py;0124;ص (م)
+ar;generador_svg.py;0132;VED: {r_ved:.2e}م
+ar;generador_svg.py;0150;P(r) ميكانيكا الكم
+ar;generador_svg.py;0152;VED: {r_ved:.2e} م
+ar;generador_svg.py;0158;الدقة: {precision:.2f}%
+ar;generador_svg.py;0162;الاحتمالية الشعاعية - {estado["label"]}
+ar;generador_svg.py;0163;ر (م)
+ar;generador_svg.py;0164;P(r) مُعَيّرة
+ar;generador_svg.py;0175;مقارنة أينشتاين-VED مقابل ميكانيكا الكم - حسابات دقيقة\n
+ar;generador_svg.py;0176;أنصاف أقطار حتمية مقابل توزيعات احتمالية
+ar;generador_svg.py;0192;نتائج دقيقة لأينشتاين-VED
+ar;generador_svg.py;0195;{res['estado']}: r_VED = {res['r_ved']:.3e} م،
+ar;generador_svg.py;0196;r_MC = {res['r_max_mc']:.3e} م،
+ar;generador_svg.py;0197;الدقة = {res['precision']:.2f}%
+ar;generador_svg.py;0199;✅ تم توليد المقارنة - تم تأكيد التطابق >99%

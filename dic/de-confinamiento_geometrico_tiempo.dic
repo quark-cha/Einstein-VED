@@ -1,0 +1,18 @@
+idioma;archivo;id;texto
+de;confinamiento_geometrico_tiempo.py;0013;n=1: Glatte Raumzeit-Röhre + fundamentale Kreiswelle
+de;confinamiento_geometrico_tiempo.py;0046;GRUNDZUSTAND n=1\nRaumzeit + Kreiswelle
+de;confinamiento_geometrico_tiempo.py;0059;n=3: Raumzeit-Mannigfaltigkeit + Welle mit 3 Knoten
+de;confinamiento_geometrico_tiempo.py;0096;ANGEREGTER ZUSTAND n=3\nRaumzeit-Mannigfaltigkeit + 3 Knoten
+de;confinamiento_geometrico_tiempo.py;0109;Seitenvergleich n=1 vs n=3
+de;confinamiento_geometrico_tiempo.py;0136;n=1: Grundzustand
+de;confinamiento_geometrico_tiempo.py;0157;n=3: Angeregter Zustand
+de;confinamiento_geometrico_tiempo.py;0170;Zeigt wie dt-Kurven die Oberfläche n=1 erzeugen
+de;confinamiento_geometrico_tiempo.py;0208;ERZEUGUNG n=1: dt → Oberfläche\nKreisförmige Kurven erzeugen Zylinder
+de;confinamiento_geometrico_tiempo.py;0222;Zeigt wie dt-Kurven die Oberfläche n=3 erzeugen
+de;confinamiento_geometrico_tiempo.py;0265;ERZEUGUNG n=3: dt → Mannigfaltigkeit\nKurven mit Knoten erzeugen Geometrie
+de;confinamiento_geometrico_tiempo.py;0279;Vollständige Evolution dt durch δt
+de;confinamiento_geometrico_tiempo.py;0312;δt={t}
+de;confinamiento_geometrico_tiempo.py;0319;Zeitliche\nEvolution
+de;confinamiento_geometrico_tiempo.py;0323;VOLLSTÄNDIGE EVOLUTION: dt → δt → Zustände n\nEinstein-VED Quanten-Confinement
+de;confinamiento_geometrico_tiempo.py;0336;🎨 ERZEUGUNG DER 6 VOLLSTÄNDIGEN EINSTEIN-VED GRAFIKEN...
+de;confinamiento_geometrico_tiempo.py;0348;\n✅ DIE 6 VOLLSTÄNDIGEN GRAFIKEN:

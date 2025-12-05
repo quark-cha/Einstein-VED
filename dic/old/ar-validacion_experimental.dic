@@ -1,0 +1,85 @@
+idioma;archivo;id;texto
+ar;validacion_experimental.py;001;نصف_قطر_البروتون
+ar;validacion_experimental.py;002;نصف_قطر_النيوترون
+ar;validacion_experimental.py;003;توقع_الكوارك_فيد
+ar;validacion_experimental.py;004;ينشئ مقارنة مع توقعات أينشتاين-فيد الدقيقة
+ar;validacion_experimental.py;005;نصف_قطر_البروتون
+ar;validacion_experimental.py;006;نصف_قطر_النيوترون
+ar;validacion_experimental.py;007;round
+ar;validacion_experimental.py;008;yellow
+ar;validacion_experimental.py;009;نقطي
+ar;validacion_experimental.py;010;نصف_قطر_البروتون
+ar;validacion_experimental.py;011;توقع_الكوارك_فيد
+ar;validacion_experimental.py;012;round
+ar;validacion_experimental.py;013;lightgreen
+ar;validacion_experimental.py;014;توقعات أينشتاين-فيد الدقيقة
+ar;validacion_experimental.py;015;\nالدقة مقابل التجريبي:
+ar;validacion_experimental.py;016;البروتون:  {precisiones_ved[0]:.2f}%
+ar;validacion_experimental.py;017;النيوترون: {precisiones_ved[1]:.2f}%
+ar;validacion_experimental.py;018;\nتوقع الكواركات:
+ar;validacion_experimental.py;019;الحجم الأدنى للكوارك (فيد): {datos_experimentales['prediccion_quark_ved']*1e15:.3f} fm
+ar;validacion_experimental.py;020;الحد التجريبي الحالي: < 0.001 fm
+ar;validacion_experimental.py;021;الخلاصة: الكواركات لا يمكن أن تكون نقطية
+ar;validacion_experimental.py;022;\nعلاقة الكتلة-الحجم:
+ar;validacion_experimental.py;023;الإلكترون (0.511 MeV): {2.426e-12:.2e} m
+ar;validacion_experimental.py;024;كوارك علوي (2.3 MeV):   {8.6e-16:.2e} m
+ar;validacion_experimental.py;025;كوارك سفلي (4.8 MeV): {4.1e-16:.2e} m
+ar;validacion_experimental.py;026;🔬 جاري إنشاء توقعات أينشتاين-فيد...
+ar;validacion_experimental.py;027;✅ اكتمل إنشاء رسم التوقعات
+ar;validacion_experimental.py;028;البروتون
+ar;validacion_experimental.py;029;النيوترون
+ar;validacion_experimental.py;030;أينشتاين-فيد
+ar;validacion_experimental.py;031;red
+ar;validacion_experimental.py;032;LHC (التجريبي)
+ar;validacion_experimental.py;033;green
+ar;validacion_experimental.py;034;النوكليون
+ar;validacion_experimental.py;035;نصف قطر الشحنة (fm)
+ar;validacion_experimental.py;036;أ) الأنصاف النووية: فيد مقابل التجريبي\n(دقة >99%)
+ar;validacion_experimental.py;037;{precision:.1f}%
+ar;validacion_experimental.py;038;center
+ar;validacion_experimental.py;039;bottom
+ar;validacion_experimental.py;040;bold
+ar;validacion_experimental.py;041;البروتون (LHC)
+ar;validacion_experimental.py;042;الكوارك (فيد)
+ar;validacion_experimental.py;043;"""الحد """"النقطي"""""""
+ar;validacion_experimental.py;044;red
+ar;validacion_experimental.py;045;blue
+ar;validacion_experimental.py;046;gray
+ar;validacion_experimental.py;047;الحجم (fm)
+ar;validacion_experimental.py;048;ب) توقع فيد: الكواركات ليست نقطية
+ar;validacion_experimental.py;049;{long*1e15:.3f} fm
+ar;validacion_experimental.py;050;center
+ar;validacion_experimental.py;051;bold
+ar;validacion_experimental.py;052;ro-
+ar;validacion_experimental.py;053;الكتلة (eV/c²) - مقياس لوغاريتمي
+ar;validacion_experimental.py;054;طول كومبتون (m) - مقياس لوغاريتمي
+ar;validacion_experimental.py;055;ج) علاقة الكتلة-الحجم لأينشتاين-فيد\nλ = h/mc
+ar;validacion_experimental.py;056;الإلكترون
+ar;validacion_experimental.py;057;كوارك علوي
+ar;validacion_experimental.py;058;كوارك سفلي
+ar;validacion_experimental.py;059;الميون
+ar;validacion_experimental.py;060;offset points
+ar;validacion_experimental.py;061;توقعات أينشتاين-فيد:
+ar;validacion_experimental.py;062;bold
+ar;validacion_experimental.py;063;red
+ar;validacion_experimental.py;064;• أنصاف أقطار دقيقة من المبادئ الأولى
+ar;validacion_experimental.py;065;red
+ar;validacion_experimental.py;066;• الكواركات: ~0.05 fm (ليست نقطية)
+ar;validacion_experimental.py;067;red
+ar;validacion_experimental.py;068;• بدون احتمالات - قيم حتمية
+ar;validacion_experimental.py;069;red
+ar;validacion_experimental.py;070;الأساس:
+ar;validacion_experimental.py;071;bold
+ar;validacion_experimental.py;072;• الكتلة المعروفة → طول كومبتون دقيق
+ar;validacion_experimental.py;073;• الحصر: L = nλ (n عدد صحيح)
+ar;validacion_experimental.py;074;• الهندسة → بنية دقيقة
+ar;validacion_experimental.py;075;التحقق المستقبلي:\nLHC محسن سيؤكد\nبنية الكوارك المتوقعة
+ar;validacion_experimental.py;076;center
+ar;validacion_experimental.py;077;bold
+ar;validacion_experimental.py;078;off
+ar;validacion_experimental.py;079;توقعات أينشتاين-فيد: هندسة دقيقة مقابل بيانات تجريبية\n
+ar;validacion_experimental.py;080;من الذرات إلى الكواركات - جميع الأحجام قابلة للحساب بدقة
+ar;validacion_experimental.py;081;bold
+ar;validacion_experimental.py;082;svg
+ar;validacion_experimental.py;083;tight
+ar;validacion_experimental.py;084;توقع_الكوارك_فيدch

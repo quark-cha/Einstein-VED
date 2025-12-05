@@ -1,0 +1,52 @@
+idioma;archivo;id;texto
+sk;Constante_G.py;0042;Polomer protónu (stredná čiara)
+sk;Constante_G.py;0046;Obrázok 1: VED uväznená vlna protónu, n=2
+sk;Constante_G.py;0059;Čierna diera
+sk;Constante_G.py;0061;2D povrch
+sk;Constante_G.py;0066;Obrázok 2: Čierna diera a holografický 2D povrch
+sk;Constante_G.py;0078;Experimentálne G
+sk;Constante_G.py;0083;n={n}
+sk;Constante_G.py;0088;Vypočítané G [m^3/kg/s^2]
+sk;Constante_G.py;0089;Obrázok 3: Cieľ G ±3σ
+sk;Constante_G.py;0116;Vypočítané G [m^3/kg/s^2]
+sk;Constante_G.py;0117;Obrázok 4: Cieľ G ±4σ (šípky)
+sk;Constante_G.py;0130;Asymptotické G(n) (kontinuálne)
+sk;Constante_G.py;0133;Experimentálne G
+sk;Constante_G.py;0140;round,pad=0.5
+sk;Constante_G.py;0143;Obrázok 5: Asymptotické správanie G(n) n→∞ (log-log)
+sk;Constante_G.py;0164;Hodnota [m³/kg·s²]
+sk;Constante_G.py;0165;{G_max:.8e}
+sk;Constante_G.py;0166;$G_2^{EXP}$ Experimentálne
+sk;Constante_G.py;0167;{G_min:.8e}
+sk;Constante_G.py;0168;$G_1^{VED}$ (n=2) PRESNÉ
+sk;Constante_G.py;0169;Absolútny rozdiel
+sk;Constante_G.py;0170;Relatívna chyba
+sk;Constante_G.py;0248;GRAVITAČNÁ KONŠTANTA G
+sk;Constante_G.py;0267;Uväznená hmotná vlna
+sk;Constante_G.py;0277;2D hologram
+sk;Constante_G.py;0286;Emergencia G
+sk;Constante_G.py;0288;Obrázok 8: Hmota ako uväznená vlna na 2D holograme
+sk;Constante_G.py;0317;Polomer protónu
+sk;Constante_G.py;0318;Protónové radiálne vlny
+sk;Constante_G.py;0319;Protónová 2D vlnitosť (n=4)
+sk;Constante_G.py;0322;Polomer protónu
+sk;Constante_G.py;0323;Protónové vlny
+sk;Constante_G.py;0324;2D vlnitosť
+sk;Constante_G.py;0326;Protón - Femtometrická mierka (10⁻¹⁵ m)
+sk;Constante_G.py;0342;Elektrónový orbitálny polomer
+sk;Constante_G.py;0343;Elektrónové radiálne vlny
+sk;Constante_G.py;0344;Elektrónová 2D vlnitosť (n=137)
+sk;Constante_G.py;0347;Elektrónový orbitálny polomer
+sk;Constante_G.py;0348;Elektrónové vlny
+sk;Constante_G.py;0349;2D vlnitosť
+sk;Constante_G.py;0351;Elektrón - Atómová mierka (10⁻¹¹ m)
+sk;Constante_G.py;0358;Obrázok 9. 2D a radiálne vlny protónu a elektrónu\n(holografia → častice)
+sk;Constante_G.py;0378;$M_\mathrm{VED} = n h /$
+sk;Constante_G.py;0379;$M_\mathrm{Sch} = c^2 R_s /$
+sk;Constante_G.py;0380;$L_\mathrm{geom}$ definovaná
+sk;Constante_G.py;0381;$R_s$ definovaná
+sk;Constante_G.py;0382;Kvantovanie
+sk;Constante_G.py;0383;n sa neobjaví,\nG je určené
+sk;Constante_G.py;0384;2D uväznenie
+sk;Constante_G.py;0385;3D → implicitná
+sk;Constante_G.py;0409;Obrázok 10: Konceptuálne porovnanie VED vs Schwarzschild

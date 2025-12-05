@@ -1,0 +1,79 @@
+idioma;archivo;id;texto_traducido
+ch;Constante_G.py;0045;质子半径 (中线)
+ch;Constante_G.py;0049;图 1: VED约束质子波, n=2
+ch;Constante_G.py;0062;黑洞
+ch;Constante_G.py;0064;二维表面
+ch;Constante_G.py;0069;图 2: 黑洞和全息二维表面
+ch;Constante_G.py;0080;±3σ
+ch;Constante_G.py;0081;实验G值
+ch;Constante_G.py;0086;n={n}
+ch;Constante_G.py;0090;n ∈ Z⁺
+ch;Constante_G.py;0091;计算G [m^3/kg/s^2]
+ch;Constante_G.py;0092;图 3: G靶心图 ±3σ
+ch;Constante_G.py;0118;n ∈ Z⁺
+ch;Constante_G.py;0119;计算G [m^3/kg/s^2]
+ch;Constante_G.py;0120;图 4: G靶心图 ±4σ (箭头)
+ch;Constante_G.py;0133;G(n)渐近 (连续)
+ch;Constante_G.py;0136;实验G值
+ch;Constante_G.py;0141;n ∈ Z⁺ \n极限 n→∞ G(n)=0
+ch;Constante_G.py;0145;G(n) [m^3/kg/s^2]
+ch;Constante_G.py;0146;图 5: G(n)渐近行为 n→∞ (对数-对数)
+ch;Constante_G.py;0167;数值 [m³/kg·s²]
+ch;Constante_G.py;0168;$G_{MAX}$ +3σ
+ch;Constante_G.py;0168;{G_max:.8e}
+ch;Constante_G.py;0168;上限
+ch;Constante_G.py;0169;$G_2^{EXP}$ 实验值
+ch;Constante_G.py;0169;{G_exp:.8e}
+ch;Constante_G.py;0169;平均值
+ch;Constante_G.py;0170;$G_{MIN}$ -3σ
+ch;Constante_G.py;0170;{G_min:.8e}
+ch;Constante_G.py;0170;下限
+ch;Constante_G.py;0171;$G_1^{VED}$ (n=2) 精确值
+ch;Constante_G.py;0171;{G_n2:.8e}
+ch;Constante_G.py;0171;经验获得
+ch;Constante_G.py;0172;绝对差异
+ch;Constante_G.py;0172;{error_abs:.8e}
+ch;Constante_G.py;0172;|G₁ - G₂|
+ch;Constante_G.py;0173;相对误差
+ch;Constante_G.py;0173;{error_rel:.6f} %
+ch;Constante_G.py;0173;VED精度
+ch;Constante_G.py;0251;万有引力常数 G
+ch;Constante_G.py;0270;约束物质波
+ch;Constante_G.py;0280;二维全息图
+ch;Constante_G.py;0289;G的涌现
+ch;Constante_G.py;0291;图 8: 物质作为二维全息图上的约束波
+ch;Constante_G.py;0320;质子半径
+ch;Constante_G.py;0321;质子径向波
+ch;Constante_G.py;0322;质子二维波动 (n=4)
+ch;Constante_G.py;0325;质子半径
+ch;Constante_G.py;0326;质子波
+ch;Constante_G.py;0327;二维波动
+ch;Constante_G.py;0329;质子 - 飞米尺度 (10⁻¹⁵ m)
+ch;Constante_G.py;0345;电子轨道半径
+ch;Constante_G.py;0346;电子径向波
+ch;Constante_G.py;0347;电子二维波动 (n=137)
+ch;Constante_G.py;0350;电子轨道半径
+ch;Constante_G.py;0351;电子波
+ch;Constante_G.py;0352;二维波动
+ch;Constante_G.py;0354;电子 - 原子尺度 (10⁻¹¹ m)
+ch;Constante_G.py;0361;图 9. 质子和电子的二维及径向波\n(全息 → 粒子)
+ch;Constante_G.py;0381;$M_\mathrm{VED} = n h /$
+ch;Constante_G.py;0381;$(L_\mathrm{geom} c)$
+ch;Constante_G.py;0382;$M_\mathrm{Sch} = c^2 R_s /$
+ch;Constante_G.py;0382;$(2 G)$
+ch;Constante_G.py;0382;质量相等,\nM消失
+ch;Constante_G.py;0383;$L_\mathrm{geom}$ 由
+ch;Constante_G.py;0383;VED定义
+ch;Constante_G.py;0384;$R_s$ 由定义
+ch;Constante_G.py;0384;每边定义\n自己的尺度
+ch;Constante_G.py;0385;量子化
+ch;Constante_G.py;0385;n整数 → 值
+ch;Constante_G.py;0385;M和G的离散值
+ch;Constante_G.py;0386;n不出现,\nG被确定
+ch;Constante_G.py;0386;n=2与\nG的实验值一致
+ch;Constante_G.py;0387;二维约束
+ch;Constante_G.py;0387;(表面)
+ch;Constante_G.py;0388;三维 → 全息
+ch;Constante_G.py;0388;隐含
+ch;Constante_G.py;0388;引力的涌现起源
+ch;Constante_G.py;0412;图 10: VED与Schwarzschild概念比较

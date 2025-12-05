@@ -1,0 +1,18 @@
+idioma;archivo;id;texto
+ar;confinamiento_geometrico_tiempo.py;0013;n=1: أنبوب زمكان أملس + موجة دائرية أساسية
+ar;confinamiento_geometrico_tiempo.py;0046;الحالة الأساسية n=1\nالزمكان + موجة دائرية
+ar;confinamiento_geometrico_tiempo.py;0059;n=3: متعدد الزمكان + موجة ذات 3 عقد
+ar;confinamiento_geometrico_tiempo.py;0096;الحالة المستثارة n=3\nمتعدد الزمكان + 3 عقد
+ar;confinamiento_geometrico_tiempo.py;0109;مقارنة جنبًا إلى جنب n=1 مقابل n=3
+ar;confinamiento_geometrico_tiempo.py;0136;n=1: الحالة الأساسية
+ar;confinamiento_geometrico_tiempo.py;0157;n=3: الحالة المستثارة
+ar;confinamiento_geometrico_tiempo.py;0170;يظهر كيف تنشئ منحنيات dt السطح n=1
+ar;confinamiento_geometrico_tiempo.py;0208;توليد n=1: dt → سطح\nمنحنيات دائرية تولد أسطوانة
+ar;confinamiento_geometrico_tiempo.py;0222;يظهر كيف تنشئ منحنيات dt السطح n=3
+ar;confinamiento_geometrico_tiempo.py;0265;توليد n=3: dt → متعدد\nمنحنيات مع عقد تولد هندسة
+ar;confinamiento_geometrico_tiempo.py;0279;تطور كامل dt عبر δt
+ar;confinamiento_geometrico_tiempo.py;0312;δt={t}
+ar;confinamiento_geometrico_tiempo.py;0319;تطور\nزمني
+ar;confinamiento_geometrico_tiempo.py;0323;تطور كامل: dt → δt → حالات n\nحصر كمي أينشتاين-VED
+ar;confinamiento_geometrico_tiempo.py;0336;🎨 يجري توليد الرسوم البيانية الـ6 الكاملة لأينشتاين-VED...
+ar;confinamiento_geometrico_tiempo.py;0348;\n✅ الرسوم البيانية الـ6 الكاملة:

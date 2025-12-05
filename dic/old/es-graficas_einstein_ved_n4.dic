@@ -1,0 +1,57 @@
+idioma;archivo;id;texto_traducido
+es;graficas_einstein_ved_n4.py;0015;font.size
+es;graficas_einstein_ved_n4.py;0016;axes.titlesize
+es;graficas_einstein_ved_n4.py;0017;axes.labelsize
+es;graficas_einstein_ved_n4.py;0018;xtick.labelsize
+es;graficas_einstein_ved_n4.py;0019;ytick.labelsize
+es;graficas_einstein_ved_n4.py;0020;legend.fontsize
+es;graficas_einstein_ved_n4.py;0021;figure.titlesize
+es;graficas_einstein_ved_n4.py;0054;Modelo Convencional ±3σ
+es;graficas_einstein_ved_n4.py;0058;LHC Experimental ±3σ
+es;graficas_einstein_ved_n4.py;0062;Einstein-VED Determinista
+es;graficas_einstein_ved_n4.py;0072;Modelo Convencional
+es;graficas_einstein_ved_n4.py;0072;LHC Experimental
+es;graficas_einstein_ved_n4.py;0072;Einstein-VED (n=4)
+es;graficas_einstein_ved_n4.py;0073;Radio del Protón (fm)
+es;graficas_einstein_ved_n4.py;0076;upper right
+es;graficas_einstein_ved_n4.py;0082;✅ Guardado: {filename}
+es;graficas_einstein_ved_n4.py;0086;MC Probabilística\n(1920s-)
+es;graficas_einstein_ved_n4.py;0086;Datos LHC\n(2010s-)
+es;graficas_einstein_ved_n4.py;0086;Einstein-VED\n(2024-)
+es;graficas_einstein_ved_n4.py;0095;k--
+es;graficas_einstein_ved_n4.py;0098;Radio del Protón (fm)
+es;graficas_einstein_ved_n4.py;0099;Evolución Teórica: De Probabilidad a Geometría Determinista
+es;graficas_einstein_ved_n4.py;0102;Einstein-VED:\nGeometría exacta\nsin probabilidad
+es;graficas_einstein_ved_n4.py;0105;round,pad=0.3
+es;graficas_einstein_ved_n4.py;0122;Teoría
+es;graficas_einstein_ved_n4.py;0122;Radio (fm)
+es;graficas_einstein_ved_n4.py;0122;Precisión
+es;graficas_einstein_ved_n4.py;0124;Einstein-VED (n=4)
+es;graficas_einstein_ved_n4.py;0124;{VED_mean:.5f}
+es;graficas_einstein_ved_n4.py;0124;99.96%
+es;graficas_einstein_ved_n4.py;0125;LHC Experimental
+es;graficas_einstein_ved_n4.py;0125;{LHC_mean:.5f}
+es;graficas_einstein_ved_n4.py;0125;± 0.014 fm
+es;graficas_einstein_ved_n4.py;0126;Modelo Convencional
+es;graficas_einstein_ved_n4.py;0126;{MC_mean:.2f}
+es;graficas_einstein_ved_n4.py;0126;± 0.90 fm
+es;graficas_einstein_ved_n4.py;0126;Baja precisión
+es;graficas_einstein_ved_n4.py;0144;Comparativa de Radios Protónicos - Datos VED Exactos (n=4)
+es;graficas_einstein_ved_n4.py;0164;Einstein-VED
+es;graficas_einstein_ved_n4.py;0165;MC (máximos prob.)
+es;graficas_einstein_ved_n4.py;0166;Estado Cuántico
+es;graficas_einstein_ved_n4.py;0167;Radio (unidades de a₀)
+es;graficas_einstein_ved_n4.py;0168;Radios Atómicos: Valores Exactos vs Probabilísticos
+es;graficas_einstein_ved_n4.py;0176;{height:.0f}
+es;graficas_einstein_ved_n4.py;0185;1s (MC)
+es;graficas_einstein_ved_n4.py;0186;2p (MC)
+es;graficas_einstein_ved_n4.py;0187;3d (MC)
+es;graficas_einstein_ved_n4.py;0188;Radio VED 1s
+es;graficas_einstein_ved_n4.py;0189;Radio VED 2p
+es;graficas_einstein_ved_n4.py;0190;Radio VED 3d
+es;graficas_einstein_ved_n4.py;0191;Distancia radial (unidades de a₀)
+es;graficas_einstein_ved_n4.py;0192;Densidad (normalizada)
+es;graficas_einstein_ved_n4.py;0193;Interpretación: Probabilidad MC vs Geometría VED
+es;graficas_einstein_ved_n4.py;0210;🚀 GENERANDO TODAS LAS GRÁFICAS EINSTEIN-VED (n=4)...
+es;graficas_einstein_ved_n4.py;0212;Radio del Protón: Comparativa Exacta Einstein-VED
+es;graficas_einstein_ved_n4.py;0217;🎯 TODAS LAS GRÁFICAS GENERADAS ✅

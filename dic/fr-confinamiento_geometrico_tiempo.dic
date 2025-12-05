@@ -1,0 +1,18 @@
+idioma;archivo;id;texto
+fr;confinamiento_geometrico_tiempo.py;0013;n=1: Tube espace-temps lisse + onde circulaire fondamentale
+fr;confinamiento_geometrico_tiempo.py;0046;ÉTAT FONDAMENTAL n=1\nEspace-Temps + Onde Circulaire
+fr;confinamiento_geometrico_tiempo.py;0059;n=3: Variété espace-temps + onde avec 3 nœuds
+fr;confinamiento_geometrico_tiempo.py;0096;ÉTAT EXCITÉ n=3\nVariété Espace-Temps + 3 Nœuds
+fr;confinamiento_geometrico_tiempo.py;0109;Comparaison côte à côte n=1 vs n=3
+fr;confinamiento_geometrico_tiempo.py;0136;n=1: État Fondamental
+fr;confinamiento_geometrico_tiempo.py;0157;n=3: État Excité
+fr;confinamiento_geometrico_tiempo.py;0170;Montre comment les courbes dt génèrent la surface n=1
+fr;confinamiento_geometrico_tiempo.py;0208;GÉNÉRATION n=1: dt → Surface\nCourbes Circulaires Génèrent Cylindre
+fr;confinamiento_geometrico_tiempo.py;0222;Montre comment les courbes dt génèrent la surface n=3
+fr;confinamiento_geometrico_tiempo.py;0265;GÉNÉRATION n=3: dt → Variété\nCourbes avec Nœuds Génèrent Géométrie
+fr;confinamiento_geometrico_tiempo.py;0279;Évolution complète dt à travers δt
+fr;confinamiento_geometrico_tiempo.py;0312;δt={t}
+fr;confinamiento_geometrico_tiempo.py;0319;Évolution\ntemporelle
+fr;confinamiento_geometrico_tiempo.py;0323;ÉVOLUTION COMPLÈTE: dt → δt → États n\nConfinement Quantique Einstein-VED
+fr;confinamiento_geometrico_tiempo.py;0336;🎨 GÉNÉRATION DES 6 GRAPHIQUES COMPLETS EINSTEIN-VED...
+fr;confinamiento_geometrico_tiempo.py;0348;\n✅ LES 6 GRAPHIQUES COMPLETS:

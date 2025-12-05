@@ -1,0 +1,82 @@
+idioma;archivo;id;texto
+it;confinamiento_geometrico_tiempo.py;0011;n=1: Tubo spazio-tempo liscio + onda circolare fondamentale
+it;confinamiento_geometrico_tiempo.py;0044;STATO FONDAMENTALE n=1\nSpazio-Tempo + Onda Circolare
+it;confinamiento_geometrico_tiempo.py;0056;n=3: Varietà spazio-tempo + onda con 3 nodi
+it;confinamiento_geometrico_tiempo.py;0093;STATO ECCITATO n=3\nVarietà Spazio-Tempo + 3 Nodi
+it;confinamiento_geometrico_tiempo.py;0105;Confronto fianco a fianco n=1 vs n=3
+it;confinamiento_geometrico_tiempo.py;0132;n=1: Stato Fondamentale
+it;confinamiento_geometrico_tiempo.py;0153;n=3: Stato Eccitato
+it;confinamiento_geometrico_tiempo.py;0164;Mostra come le curve dt generano la superficie n=1
+it;confinamiento_geometrico_tiempo.py;0202;GENERAZIONE n=1: dt → Superficie\nCurve Circolari Generano Cilindro
+it;confinamiento_geometrico_tiempo.py;0214;Mostra come le curve dt generano la superficie n=3
+it;confinamiento_geometrico_tiempo.py;0257;GENERAZIONE n=3: dt → Varietà\nCurve con Nodi Generano Geometria
+it;confinamiento_geometrico_tiempo.py;0269;Evoluzione completa dt attraverso δt
+it;confinamiento_geometrico_tiempo.py;0302;δt={t}
+it;confinamiento_geometrico_tiempo.py;0309;Evoluzione\ntemporale
+it;confinamiento_geometrico_tiempo.py;0313;EVOLUZIONE COMPLETA: dt → δt → Stati n\nConfinamento Quantistico Einstein-VED
+it;confinamiento_geometrico_tiempo.py;0325;🎨 GENERANDO I 6 GRAFICI COMPLETI EINSTEIN-VED...
+it;confinamiento_geometrico_tiempo.py;0337;\n✅ I 6 GRAFICI COMPLETI:
+it;confinamiento_geometrico_tiempo.py;001;n=1: Tubo spazio-tempo liscio + onda circolare fondamentale
+it;confinamiento_geometrico_tiempo.py;002;n=3: Varietà spazio-tempo + onda con 3 nodi
+it;confinamiento_geometrico_tiempo.py;003;Confronto affiancato n=1 vs n=3
+it;confinamiento_geometrico_tiempo.py;004;Mostra come le curve dt generano la superficie n=1
+it;confinamiento_geometrico_tiempo.py;005;Mostra come le curve dt generano la superficie n=3
+it;confinamiento_geometrico_tiempo.py;006;Evoluzione completa dt attraverso δt
+it;confinamiento_geometrico_tiempo.py;007;round
+it;confinamiento_geometrico_tiempo.py;008;white
+it;confinamiento_geometrico_tiempo.py;009;🎨 GENERAZIONE DEI 6 GRAFICI COMPLETI EINSTEIN-VED...
+it;confinamiento_geometrico_tiempo.py;010;\n✅ 6 GRAFICI COMPLETI:
+it;confinamiento_geometrico_tiempo.py;011;__main__
+it;confinamiento_geometrico_tiempo.py;012;lightblue
+it;confinamiento_geometrico_tiempo.py;013;red
+it;confinamiento_geometrico_tiempo.py;014;STATO FONDAMENTALE n=1\nSpazio-Tempo + Onda Circolare
+it;confinamiento_geometrico_tiempo.py;015;bold
+it;confinamiento_geometrico_tiempo.py;016;tight
+it;confinamiento_geometrico_tiempo.py;017;white
+it;confinamiento_geometrico_tiempo.py;018;red
+it;confinamiento_geometrico_tiempo.py;019;STATO ECCITATO n=3\nVarietà Spazio-Tempo + 3 Nodi
+it;confinamiento_geometrico_tiempo.py;020;bold
+it;confinamiento_geometrico_tiempo.py;021;tight
+it;confinamiento_geometrico_tiempo.py;022;white
+it;confinamiento_geometrico_tiempo.py;023;lightblue
+it;confinamiento_geometrico_tiempo.py;024;red
+it;confinamiento_geometrico_tiempo.py;025;n=1: Stato Fondamentale
+it;confinamiento_geometrico_tiempo.py;026;bold
+it;confinamiento_geometrico_tiempo.py;027;red
+it;confinamiento_geometrico_tiempo.py;028;n=3: Stato Eccitato
+it;confinamiento_geometrico_tiempo.py;029;bold
+it;confinamiento_geometrico_tiempo.py;030;tight
+it;confinamiento_geometrico_tiempo.py;031;white
+it;confinamiento_geometrico_tiempo.py;032;lightblue
+it;confinamiento_geometrico_tiempo.py;033;red
+it;confinamiento_geometrico_tiempo.py;034;green
+it;confinamiento_geometrico_tiempo.py;035;green
+it;confinamiento_geometrico_tiempo.py;036;green
+it;confinamiento_geometrico_tiempo.py;037;bold
+it;confinamiento_geometrico_tiempo.py;038;GENERAZIONE n=1: dt → Superficie\nCurve Circolari Generano Cilindro
+it;confinamiento_geometrico_tiempo.py;039;bold
+it;confinamiento_geometrico_tiempo.py;040;tight
+it;confinamiento_geometrico_tiempo.py;041;white
+it;confinamiento_geometrico_tiempo.py;042;red
+it;confinamiento_geometrico_tiempo.py;043;green
+it;confinamiento_geometrico_tiempo.py;044;green
+it;confinamiento_geometrico_tiempo.py;045;green
+it;confinamiento_geometrico_tiempo.py;046;bold
+it;confinamiento_geometrico_tiempo.py;047;GENERAZIONE n=3: dt → Varietà\nCurve con Nodi Generano Geometria
+it;confinamiento_geometrico_tiempo.py;048;bold
+it;confinamiento_geometrico_tiempo.py;049;tight
+it;confinamiento_geometrico_tiempo.py;050;white
+it;confinamiento_geometrico_tiempo.py;051;red
+it;confinamiento_geometrico_tiempo.py;052;darkred
+it;confinamiento_geometrico_tiempo.py;053;δt={t}
+it;confinamiento_geometrico_tiempo.py;054;center
+it;confinamiento_geometrico_tiempo.py;055;bold
+it;confinamiento_geometrico_tiempo.py;056;blue
+it;confinamiento_geometrico_tiempo.py;057;blue
+it;confinamiento_geometrico_tiempo.py;058;Evoluzione\ntemporale
+it;confinamiento_geometrico_tiempo.py;059;blue
+it;confinamiento_geometrico_tiempo.py;060;bold
+it;confinamiento_geometrico_tiempo.py;061;EVOLUZIONE COMPLETA: dt → δt → Stati n\nConfinamento Quantistico Einstein-VED
+it;confinamiento_geometrico_tiempo.py;062;bold
+it;confinamiento_geometrico_tiempo.py;063;tight
+it;confinamiento_geometrico_tiempo.py;064;white

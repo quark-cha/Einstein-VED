@@ -1,0 +1,52 @@
+idioma;archivo;id;texto
+en;Constante_G.py;0042;Proton radius (mid line)
+en;Constante_G.py;0046;Figure 1: VED confined wave of proton, n=2
+en;Constante_G.py;0059;Black hole
+en;Constante_G.py;0061;2D Surface
+en;Constante_G.py;0066;Figure 2: Black hole and holographic 2D surface
+en;Constante_G.py;0078;Experimental G
+en;Constante_G.py;0083;n={n}
+en;Constante_G.py;0088;Calculated G [m^3/kg/s^2]
+en;Constante_G.py;0089;Figure 3: G target ±3σ
+en;Constante_G.py;0116;Calculated G [m^3/kg/s^2]
+en;Constante_G.py;0117;Figure 4: G target ±4σ (arrows)
+en;Constante_G.py;0130;Asymptotic G(n) (continuous)
+en;Constante_G.py;0133;Experimental G
+en;Constante_G.py;0140;round,pad=0.5
+en;Constante_G.py;0143;Figure 5: Asymptotic behavior of G(n) n→∞ (log-log)
+en;Constante_G.py;0164;Value [m³/kg·s²]
+en;Constante_G.py;0165;{G_max:.8e}
+en;Constante_G.py;0166;$G_2^{EXP}$ Experimental
+en;Constante_G.py;0167;{G_min:.8e}
+en;Constante_G.py;0168;$G_1^{VED}$ (n=2) EXACT
+en;Constante_G.py;0169;Absolute difference
+en;Constante_G.py;0170;Relative error
+en;Constante_G.py;0248;GRAVITATIONAL CONSTANT G
+en;Constante_G.py;0267;Confined matter wave
+en;Constante_G.py;0277;2D Hologram
+en;Constante_G.py;0286;Emergence of G
+en;Constante_G.py;0288;Figure 8: Matter as confined wave on 2D hologram
+en;Constante_G.py;0317;Proton radius
+en;Constante_G.py;0318;Proton radial waves
+en;Constante_G.py;0319;Proton 2D undulation (n=4)
+en;Constante_G.py;0322;Proton radius
+en;Constante_G.py;0323;Proton waves
+en;Constante_G.py;0324;2D Undulation
+en;Constante_G.py;0326;Proton - Femtometric scale (10⁻¹⁵ m)
+en;Constante_G.py;0342;Electron orbital radius
+en;Constante_G.py;0343;Electron radial waves
+en;Constante_G.py;0344;Electron 2D undulation (n=137)
+en;Constante_G.py;0347;Electron orbital radius
+en;Constante_G.py;0348;Electron waves
+en;Constante_G.py;0349;2D Undulation
+en;Constante_G.py;0351;Electron - Atomic scale (10⁻¹¹ m)
+en;Constante_G.py;0358;Figure 9. 2D and radial waves of proton and electron\n(holography → particles)
+en;Constante_G.py;0378;$M_\mathrm{VED} = n h /$
+en;Constante_G.py;0379;$M_\mathrm{Sch} = c^2 R_s /$
+en;Constante_G.py;0380;$L_\mathrm{geom}$ defined
+en;Constante_G.py;0381;$R_s$ defined by
+en;Constante_G.py;0382;Quantization
+en;Constante_G.py;0383;n does not appear,\nG is determined
+en;Constante_G.py;0384;2D Confinement
+en;Constante_G.py;0385;3D → implicit
+en;Constante_G.py;0409;Figure 10: Conceptual comparison VED vs Schwarzschild

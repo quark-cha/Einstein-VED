@@ -1,0 +1,261 @@
+sk;confinamiento.py;0020;Vypočíta rozsah ±3σ pre vizualizáciu
+sk;confinamiento.py;0037;Priemerný polomer (fm)
+sk;confinamiento.py;0037;Min (fm)
+sk;confinamiento.py;0037;Max (fm)
+sk;confinamiento.py;0038;{mc_mean:.3f}
+sk;confinamiento.py;0038;{mc_min:.3f}
+sk;confinamiento.py;0038;{mc_max:.3f}
+sk;confinamiento.py;0038;±{MC_sigma:.3f}
+sk;confinamiento.py;0038;Kvantová mechanika (MC)
+sk;confinamiento.py;0039;{lhc_mean:.5f}
+sk;confinamiento.py;0039;{lhc_min:.5f}
+sk;confinamiento.py;0039;{lhc_max:.5f}
+sk;confinamiento.py;0039;±{LHC_sigma:.3f}
+sk;confinamiento.py;0039;Experimentálny LHC
+sk;confinamiento.py;0040;{ved_mean:.5f}
+sk;confinamiento.py;0040;{ved_min:.5f}
+sk;confinamiento.py;0040;{ved_max:.5f}
+sk;confinamiento.py;0040;±{VED_sigma:.5f}
+sk;confinamiento.py;0040;Einstein-VED
+sk;confinamiento.py;0072;Obrázok 1: 2D vs 3D geometrie uväznenia
+sk;confinamiento.py;0079;Elektrón: 2D uväznenie\nn = 137 (Povrch)
+sk;confinamiento.py;0084;Protón: 3D uväznenie\nn = 4 (Objem)
+sk;confinamiento.py;0089;Kvarky: Geometrické dipóly\n3D ukotvenie
+sk;confinamiento.py;0094;Emergentná kvantová štatistika: 2D vs 3D
+sk;confinamiento.py;0100;Elektrón 2D povrch - ČISTÉ MĚŘÍTKA
+sk;confinamiento.py;0132;Protón 3D objem - ČISTÉ MĚŘÍTKA
+sk;confinamiento.py;0171;Kvarkové dipóly ukotvené k dimenziám
+sk;confinamiento.py;0187;Kvark {dim}
+sk;confinamiento.py;0192;Hadrónové uväznenie
+sk;confinamiento.py;0200;Štatistické porovnanie Fermi vs Bose
+sk;confinamiento.py;0201;2D uväznenie\n(Elektrón)
+sk;confinamiento.py;0201;3D uväznenie\n(Protón)
+sk;confinamiento.py;0208;Fermi-Dirac (Vylúčenie)
+sk;confinamiento.py;0210;Bose-Einstein (Kondenzácia)
+sk;confinamiento.py;0213;Štatistické správanie
+sk;confinamiento.py;0218;Maximum 1 častica\nna stav
+sk;confinamiento.py;0219;Viaceré častice\nróvny stav
+sk;confinamiento.py;0224;Obrázok 2: Experimentálna validácia
+sk;confinamiento.py;0228;Protón VED
+sk;confinamiento.py;0228;Protón LHC
+sk;confinamiento.py;0228;Neutrón VED
+sk;confinamiento.py;0228;Neutrón Exp
+sk;confinamiento.py;0234;Polomer (fm)
+sk;confinamiento.py;0235;Predpoveď hadrónových polomerov
+sk;confinamiento.py;0240;{radius:.5f}
+sk;confinamiento.py;0243;Einstein-VED
+sk;confinamiento.py;0243;Mriežková QCD
+sk;confinamiento.py;0243;Konštituentný model
+sk;confinamiento.py;0247;Presnosť (%)
+sk;confinamiento.py;0248;Porovnanie presností
+sk;confinamiento.py;0253;{prec}%
+sk;confinamiento.py;0259;Einstein-VED
+sk;confinamiento.py;0265;Konštanta jemnej štruktúry
+sk;confinamiento.py;0270;{value:.3f}
+sk;confinamiento.py;0275;DIPOLÁRNE VYSVETLENIE LHC JETOV:\n\n
+sk;confinamiento.py;0276;• Kvarky = Geometrické dipóly ukotvené k dimenziám\n
+sk;confinamiento.py;0277;• Pri aplikácii energie: dipólové prerušenie\n
+sk;confinamiento.py;0278;• Tvorba nových párov kvark-antikvark\n
+sk;confinamiento.py;0279;• Formácia hadrónových jetov v opačných smeroch\n
+sk;confinamiento.py;0280;• Žiadna nekonečná 'sila uväznenia'\n
+sk;confinamiento.py;0280;sila uväznenia
+sk;confinamiento.py;0281;• Iba prirodzená geometrická rekonfigurácia
+sk;confinamiento.py;0290;Obrázok 3: Riešenie kvantových paradoxov
+sk;confinamiento.py;0310;Riešenie dvojštrbiny
+sk;confinamiento.py;0328;Smer šírenia
+sk;confinamiento.py;0329;Pozícia
+sk;confinamiento.py;0330;RIEŠENIE DVOJŠTRBINY:\nCelý povrch interaguje
+sk;confinamiento.py;0333;častica cez dve cesty
+sk;confinamiento.py;0333;Nie "častica cez dve cesty"\nJe to POVRCH cez obe
+sk;confinamiento.py;0337;Geometrické riešenie preprevázania
+sk;confinamiento.py;0349;Častica A
+sk;confinamiento.py;0350;Častica B
+sk;confinamiento.py;0351;ZDELENÁ GEOMETRIA
+sk;confinamiento.py;0357;PREVÁZANIE:\nSpoločná geometria, žiadna akcia na diaľku
+sk;confinamiento.py;0362;Riešenie kolapsu vlnovej funkcie
+sk;confinamiento.py;0368;Reálna geometria (vždy definovaná)
+sk;confinamiento.py;0369;Pravdepodobnosť pred meraním
+sk;confinamiento.py;0369;MC: "Pravdepodobnosť pred meraním"
+sk;confinamiento.py;0375;Pozícia
+sk;confinamiento.py;0377;KONIEC "KOLAPSU":\nDefinovaná geometria, nie pravdepodobnostná
+sk;confinamiento.py;0383;Riešenie kvantovej štatistiky
+sk;confinamiento.py;0387;EMERGENTNÁ KVANTOVÁ ŠTATISTIKA\n\n
+sk;confinamiento.py;0388;Fermi-Dirac (Vylúčenie):\n
+sk;confinamiento.py;0389;• 2D uväznenie (elektrón)\n
+sk;confinamiento.py;0390;• Prirodzené topologické obmedzenie\n
+sk;confinamiento.py;0391;• Iba 1 častica na stav\n\n
+sk;confinamiento.py;0392;Bose-Einstein (Kondenzácia):\n
+sk;confinamiento.py;0393;• 3D uväznenie (protón)\n
+sk;confinamiento.py;0394;• Kompletná sférická geometria\n
+sk;confinamiento.py;0395;• Viaceré častice rovnaký stav\n\n
+sk;confinamiento.py;0396;Nie sú základné vlastnosti\n
+sk;confinamiento.py;0397;Sú geometrické dôsledky
+sk;confinamiento.py;0405;Uložiť všetky obrázky
+sk;confinamiento.py;0408;Generovanie Einstein-VED vizualizácií...
+sk;confinamiento.py;0411;Generovanie Obrázok 1: Geometrie uväznenia...
+sk;confinamiento.py;0418;✓ Geometrie uväznenia uložené
+sk;confinamiento.py;0420;Generovanie Obrázok 2: Experimentálna validácia...
+sk;confinamiento.py;0427;✓ Experimentálna validácia uložená
+sk;confinamiento.py;0429;Generovanie Obrázok 3: Riešenie kvantových paradoxov...
+sk;confinamiento.py;0435;✓ Riešenie kvantových paradoxov uložené
+sk;confinamiento.py;0437;\n✅ Všetky obrázky uložené vo formáte {format} (DPI: {dpi})
+sk;confinamiento.py;0440;❌ Chyba počas generovania: {e}
+sk;confinamiento.py;0448;Začína generovanie Einstein-VED vizualizácií...
+sk;confinamiento.py;0453;\n🎨 Vizualizácie dokončené!
+sk;confinamiento.py;0454;Vygenerované súbory:
+sk;confinamiento_geometrico.py;0023;Vlna ψ(x)
+sk;confinamiento_geometrico.py;0026;Pozícia x
+sk;confinamiento_geometrico.py;0027;Amplitúda ψ(x)
+sk;confinamiento_geometrico.py;0028;EINSTEIN-VED UVÄZNENIE: Vlna → Častica
+sk;confinamiento_geometrico.py;0043;Pozícia x
+sk;confinamiento_geometrico.py;0044;Amplitúda ψ(x)
+sk;confinamiento_geometrico.py;0045;1. Sínusová vlna na rovnom povrchu
+sk;confinamiento_geometrico.py;0064;2. Prechod: Zvinovanie ({progress*100:.0f}%)
+sk;confinamiento_geometrico.py;0065;X súradnica
+sk;confinamiento_geometrico.py;0066;Y súradnica
+sk;confinamiento_geometrico.py;0076;Uväznená (n={n_cycles})
+sk;confinamiento_geometrico.py;0077;EINSTEIN-VED PODMIENKA: L = {n_cycles}λ
+sk;confinamiento_geometrico.py;0080;3. Samo-uväznená vlna - Stabilná častica
+sk;confinamiento_geometrico.py;0081;X súradnica
+sk;confinamiento_geometrico.py;0082;Y súradnica
+sk;confinamiento_geometrico.py;0118;a) Voľná rovinná vlna
+sk;confinamiento_geometrico.py;0119;Pozícia x
+sk;confinamiento_geometrico.py;0120;Amplitúda ψ(x)
+sk;confinamiento_geometrico.py;0137;b) Prechod
+sk;confinamiento_geometrico.py;0138;X súradnica
+sk;confinamiento_geometrico.py;0139;Y súradnica
+sk;confinamiento_geometrico.py;0155;c) Uväznené n=3\nL = 3λ
+sk;confinamiento_geometrico.py;0156;X súradnica
+sk;confinamiento_geometrico.py;0157;Y súradnica
+sk;confinamiento_geometrico.py;0159;PODMIENKA: L = nλ
+sk;confinamiento_geometrico_tiempo.py;0011;n=1: Hladká časopriestorová trubica + fundamentálna kruhová vlna
+sk;confinamiento_geometrico_tiempo.py;0044;ZÁKLADNÝ STAV n=1\nČasopriestor + Kruhová vlna
+sk;confinamiento_geometrico_tiempo.py;0056;n=3: Časopriestorová varieta + vlna s 3 uzlami
+sk;confinamiento_geometrico_tiempo.py;0093;EXCITOVANÝ STAV n=3\nČasopriestorovú varieta + 3 Uzly
+sk;confinamiento_geometrico_tiempo.py;0105;Porovnanie vedľa seba n=1 vs n=3
+sk;confinamiento_geometrico_tiempo.py;0132;n=1: Základný stav
+sk;confinamiento_geometrico_tiempo.py;0153;n=3: Excitovaný stav
+sk;confinamiento_geometrico_tiempo.py;0164;Ukazuje ako dt krivky generujú povrch n=1
+sk;confinamiento_geometrico_tiempo.py;0202;GENEROVANIE n=1: dt → Povrch\nKruhové krivky generujú valec
+sk;confinamiento_geometrico_tiempo.py;0214;Ukazuje ako dt krivky generujú povrch n=3
+sk;confinamiento_geometrico_tiempo.py;0257;GENEROVANIE n=3: dt → Varieta\nKrivky s uzlami generujú geometriu
+sk;confinamiento_geometrico_tiempo.py;0269;Kompletná dt evolúcia cez δt
+sk;confinamiento_geometrico_tiempo.py;0302;δt={t}
+sk;confinamiento_geometrico_tiempo.py;0309;Časová\nevolúcia
+sk;confinamiento_geometrico_tiempo.py;0313;KOMPLETNÁ EVOLÚCIA: dt → δt → n Stavov\nEinstein-VED kvantové uväznenie
+sk;confinamiento_geometrico_tiempo.py;0325;🎨 GENEROVANIE 6 KOMPLETNÝCH EINSTEIN-VED GRAFOV...
+sk;confinamiento_geometrico_tiempo.py;0337;\n✅ 6 KOMPLETNÝCH GRAFOV:
+sk;Constante_G.py;0042;Polomer protónu (stredná čiara)
+sk;Constante_G.py;0046;Obrázok 1: VED uväznená vlna protónu, n=2
+sk;Constante_G.py;0059;Čierna diera
+sk;Constante_G.py;0061;2D povrch
+sk;Constante_G.py;0066;Obrázok 2: Čierna diera a holografický 2D povrch
+sk;Constante_G.py;0078;Experimentálne G
+sk;Constante_G.py;0083;n={n}
+sk;Constante_G.py;0088;Vypočítané G [m^3/kg/s^2]
+sk;Constante_G.py;0089;Obrázok 3: Cieľ G ±3σ
+sk;Constante_G.py;0116;Vypočítané G [m^3/kg/s^2]
+sk;Constante_G.py;0117;Obrázok 4: Cieľ G ±4σ (šípky)
+sk;Constante_G.py;0130;Asymptotické G(n) (kontinuálne)
+sk;Constante_G.py;0133;Experimentálne G
+sk;Constante_G.py;0140;round,pad=0.5
+sk;Constante_G.py;0143;Obrázok 5: Asymptotické správanie G(n) n→∞ (log-log)
+sk;Constante_G.py;0164;Hodnota [m³/kg·s²]
+sk;Constante_G.py;0165;{G_max:.8e}
+sk;Constante_G.py;0165;Horná hranica
+sk;Constante_G.py;0166;$G_2^{EXP}$ Experimentálne
+sk;Constante_G.py;0166;{G_exp:.8e}
+sk;Constante_G.py;0166;Stredná hodnota
+sk;Constante_G.py;0167;{G_min:.8e}
+sk;Constante_G.py;0167;Dolná hranica
+sk;Constante_G.py;0168;$G_1^{VED}$ (n=2) PRESNÉ
+sk;Constante_G.py;0168;Empiricky získané
+sk;Constante_G.py;0169;Absolútny rozdiel
+sk;Constante_G.py;0169;{error_abs:.8e}
+sk;Constante_G.py;0170;Relatívna chyba
+sk;Constante_G.py;0170;{error_rel:.6f} %
+sk;Constante_G.py;0170;VED presnosť
+sk;Constante_G.py;0248;GRAVITAČNÁ KONŠTANTA G
+sk;Constante_G.py;0267;Uväznená hmotná vlna
+sk;Constante_G.py;0277;2D hologram
+sk;Constante_G.py;0286;Emergencia G
+sk;Constante_G.py;0288;Obrázok 8: Hmota ako uväznená vlna na 2D holograme
+sk;Constante_G.py;0317;Polomer protónu
+sk;Constante_G.py;0318;Protónové radiálne vlny
+sk;Constante_G.py;0319;Protónová 2D vlnitosť (n=4)
+sk;Constante_G.py;0322;Polomer protónu
+sk;Constante_G.py;0323;Protónové vlny
+sk;Constante_G.py;0324;2D vlnitosť
+sk;Constante_G.py;0326;Protón - Femtometrická mierka (10⁻¹⁵ m)
+sk;Constante_G.py;0342;Elektrónový orbitálny polomer
+sk;Constante_G.py;0343;Elektrónové radiálne vlny
+sk;Constante_G.py;0344;Elektrónová 2D vlnitosť (n=137)
+sk;Constante_G.py;0347;Elektrónový orbitálny polomer
+sk;Constante_G.py;0348;Elektrónové vlny
+sk;Constante_G.py;0349;2D vlnitosť
+sk;Constante_G.py;0351;Elektrón - Atómová mierka (10⁻¹¹ m)
+sk;Constante_G.py;0358;Obrázok 9. 2D a radiálne vlny protónu a elektrónu\n(holografia → častice)
+sk;Constante_G.py;0378;$M_\mathrm{VED} = n h /$
+sk;Constante_G.py;0378;$(L_\mathrm{geom} c)$
+sk;Constante_G.py;0379;$M_\mathrm{Sch} = c^2 R_s /$
+sk;Constante_G.py;0379;Rovnajúce sa hmotnosti,\nM zmizne
+sk;Constante_G.py;0380;$L_\mathrm{geom}$ definovaná
+sk;Constante_G.py;0380;VED
+sk;Constante_G.py;0381;$R_s$ definovaná
+sk;Constante_G.py;0381;Každá strana definuje\nvlastnú mierku
+sk;Constante_G.py;0382;Kvantovanie
+sk;Constante_G.py;0382;n celé → diskrétne
+sk;Constante_G.py;0382;hodnoty M a G
+sk;Constante_G.py;0383;n sa neobjaví,\nG je určené
+sk;Constante_G.py;0383;n=2 sa zhoduje s\nexperimentálnou hodnotou G
+sk;Constante_G.py;0384;2D uväznenie
+sk;Constante_G.py;0384;(povrch)
+sk;Constante_G.py;0385;3D → implicitná
+sk;Constante_G.py;0385;holografia
+sk;Constante_G.py;0385;Emergentný pôvod\ngravitácie
+sk;Constante_G.py;0409;Obrázok 10: Konceptuálne porovnanie VED vs Schwarzschild
+sk;entrelazamiento_geometrico.py;0009;Einsteinova základňa
+sk;entrelazamiento_geometrico.py;0009;Základné rovnice
+sk;entrelazamiento_geometrico.py;0032;KVANTOVÉ PREVÁZANIE: Geometrické vysvetlenie Einstein-VED
+sk;entrelazamiento_geometrico.py;0049;Interný rámec: Zdieľaný vlastný čas
+sk;entrelazamiento_geometrico.py;0068;Externý rámec: Konvenčná perspektíva
+sk;entrelazamiento_geometrico.py;0073;SYMBOLIKA:\n\n
+sk;entrelazamiento_geometrico.py;0074;🔴 Častica A (45°)\n
+sk;entrelazamiento_geometrico.py;0075;🟢 Častica B (225°)\n
+sk;entrelazamiento_geometrico.py;0076;⚫ Pozorovateľ\n
+sk;entrelazamiento_geometrico.py;0077;▬▬ Geometrické spojenie\n
+sk;entrelazamiento_geometrico.py;0078;▬▬ Línie videnia
+sk;entrelazamiento_geometrico.py;0084;round,pad=0.6
+sk;entrelazamiento_geometrico.py;0088;VLNOVÉ ČELO
+sk;entrelazamiento_geometrico.py;0090;KĽÚČ EINSTEIN-VED:\n\n
+sk;entrelazamiento_geometrico.py;0091;Obe častice (vrátane antipodálnych)\nzdieľajú rovnaký vlastný časopriestor t₀, s₀\n\n
+sk;entrelazamiento_geometrico.py;0092;Pretože: dt' → 0 a ds' → 0 pri rýchlosti c\n\n
+sk;entrelazamiento_geometrico.py;0095;Žiadna akcia na diaľku
+sk;entrelazamiento_geometrico.py;0101;round,pad=0.8
+sk;entrelazamiento_geometrico.py;0109;ZÁKLAD EINSTEIN-VED:\n\n
+sk;entrelazamiento_geometrico.py;0110;Previazané častice zdieľajú spoločný vlastný časopriestor od svojho pôvodu.
+sk;entrelazamiento_geometrico.py;0111;Pri cestovaní rýchlosťou c, ich diferenciály vlastného času a priestoru majú tendenciu k nule
+sk;entrelazamiento_geometrico.py;0112;(dt' → 0, ds' → 0), udržujúc ich spojené v rovnakom okamihu t₀ a polohe s₀.
+sk;entrelazamiento_geometrico.py;0113;Táto geometrická simultánnosť vysvetľuje kvantové korelácie bez porušenia relativity.
+sk;entrelazamiento_geometrico.py;0119;round,pad=0.8
+sk;entrelazamiento_geometrico.py;0125;ZÁKLADNÉ ROVNICE:\n\n
+sk;entrelazamiento_geometrico.py;0126;Pre častice pri rýchlosti c:\n
+sk;entrelazamiento_geometrico.py;0130;Polná rovnica:\n
+sk;entrelazamiento_geometrico.py;0131;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+sk;entrelazamiento_geometrico.py;0132;Absolútna simultánnosť vo vlastnom rámci
+sk;entrelazamiento_geometrico.py;0138;round,pad=0.8
+sk;entrelazamiento_geometrico.py;0144;INTERPRETÁCIA EINSTEIN-VED: Kvantové previazanie prestáva byť paradoxné keď pochopené
+sk;entrelazamiento_geometrico.py;0145;z časopriestorovej geometrie. Častice generované v rovnakom udalosti zdieľajú vlnové
+sk;entrelazamiento_geometrico.py;0146;čelo kde ich vlastný čas zostáva zmrazený pri t₀. Táto vnútorná simultánnosť vysvetľuje
+sk;entrelazamiento_geometrico.py;0147;perfektné korelácie bez 'strašidelného pôsobenia'. Kvantová pravdepodobnosť odráža obmedzenú
+sk;entrelazamiento_geometrico.py;0147;strašidelné pôsobenie
+sk;entrelazamiento_geometrico.py;0148;perspektívu pozorovateľa, nie základnú vlastnosť.
+sk;entrelazamiento_geometrico.py;0154;round,pad=0.8
+sk;entrelazamiento_geometrico.py;0167;🎯 TVORBA FINÁLNEJ VERZIE S RÁMCE NA ROVNAKEJ ÚROVNI...
+sk;entrelazamiento_geometrico.py;0170;\n✨ OPRAVY APLIKOVANÉ:
+sk;entrelazamiento_geometrico.py;0171;• Rámce 'Einsteinova základňa' a 'Rovnice' NA ROVNAKEJ ÚROVNI
+sk;entrelazamiento_geometrico.py;0171;Einsteinova základňa
+sk;entrelazamiento_geometrico.py;0172;• ŠIRŠÍ Obrázok (16x10) pre obe
+sk;entrelazamiento_geometrico.py;0173;• Vyvážený a symetrický dizajn
+sk;entrelazamiento_geometrico.py;0174;• Dekorácia a farby REŠPEKTOVANÉ
+sk;entrelazamiento_geometrico.py;0175;• NULA prekrytí

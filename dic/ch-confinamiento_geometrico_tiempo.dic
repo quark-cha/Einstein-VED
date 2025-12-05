@@ -1,0 +1,18 @@
+idioma;archivo;id;texto
+ch;confinamiento_geometrico_tiempo.py;0011;n=1: 光滑时空管 + 基本圆波
+ch;confinamiento_geometrico_tiempo.py;0044;基态 n=1\n时空 + 圆波
+ch;confinamiento_geometrico_tiempo.py;0056;n=3: 时空流形 + 带3节点的波
+ch;confinamiento_geometrico_tiempo.py;0093;激发态 n=3\n时空流形 + 3节点
+ch;confinamiento_geometrico_tiempo.py;0105;并排比较 n=1 对 n=3
+ch;confinamiento_geometrico_tiempo.py;0132;n=1: 基态
+ch;confinamiento_geometrico_tiempo.py;0153;n=3: 激发态
+ch;confinamiento_geometrico_tiempo.py;0164;显示dt曲线如何生成n=1表面
+ch;confinamiento_geometrico_tiempo.py;0202;生成 n=1: dt → 表面\n圆曲线生成圆柱
+ch;confinamiento_geometrico_tiempo.py;0214;显示dt曲线如何生成n=3表面
+ch;confinamiento_geometrico_tiempo.py;0257;生成 n=3: dt → 流形\n带节点曲线生成几何
+ch;confinamiento_geometrico_tiempo.py;0269;通过δt的完整dt演化
+ch;confinamiento_geometrico_tiempo.py;0302;δt={t}
+ch;confinamiento_geometrico_tiempo.py;0309;时间\n演化
+ch;confinamiento_geometrico_tiempo.py;0313;完整演化: dt → δt → n状态\n爱因斯坦-VED量子约束
+ch;confinamiento_geometrico_tiempo.py;0325;🎨 生成6个完整爱因斯坦-VED图形...
+ch;confinamiento_geometrico_tiempo.py;0337;\n✅ 6个完整图形:

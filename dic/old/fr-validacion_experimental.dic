@@ -1,0 +1,126 @@
+idioma;archivo;id;texto
+fr;validacion_experimental.py;0020;Génère comparaison avec PRÉDICTIONS EXACTES Einstein-VED
+fr;validacion_experimental.py;0027;Proton
+fr;validacion_experimental.py;0036;Einstein-VED
+fr;validacion_experimental.py;0038;LHC (Expérimental)
+fr;validacion_experimental.py;0040;Nucléon
+fr;validacion_experimental.py;0041;Rayon de Charge (fm)
+fr;validacion_experimental.py;0042;a) Rayons Nucléaires: VED vs Expérimental\n(Précision >99%)
+fr;validacion_experimental.py;0053;{precision:.1f}%
+fr;validacion_experimental.py;0060;Proton (LHC)
+fr;validacion_experimental.py;0073;Taille (fm)
+fr;validacion_experimental.py;0074;b) Prédiction VED: Quarks NON Ponctuels
+fr;validacion_experimental.py;0079;{long*1e15:.3f} fm
+fr;validacion_experimental.py;0089;ro-
+fr;validacion_experimental.py;0090;Masse (eV/c²) - Échelle log
+fr;validacion_experimental.py;0091;Longueur Compton (m) - Échelle log
+fr;validacion_experimental.py;0092;c) Relation Masse-Taille Einstein-VED\nλ = h/mc
+fr;validacion_experimental.py;0096;électron
+fr;validacion_experimental.py;0098;offset points
+fr;validacion_experimental.py;0103;PRÉDICTIONS EINSTEIN-VED:
+fr;validacion_experimental.py;0104;• Rayons EXACTS depuis premiers principes
+fr;validacion_experimental.py;0105;• Quarks: ~0.05 fm (NON ponctuels)
+fr;validacion_experimental.py;0106;• Sans probabilités - Valeurs déterministes
+fr;validacion_experimental.py;0108;FONDEMENT:
+fr;validacion_experimental.py;0109;• Masse connue → Longueur Compton exacte
+fr;validacion_experimental.py;0110;• Confinement: L = nλ (n entier)
+fr;validacion_experimental.py;0111;• Géométrie → Structure exacte
+fr;validacion_experimental.py;0113;VÉRIFICATION FUTURE:\nLHC amélioré confirmera\nstructure quark prédite
+fr;validacion_experimental.py;0121;PRÉDICTIONS EINSTEIN-VED: Géométrie Exacte vs Données Expérimentales\n
+fr;validacion_experimental.py;0122;D'atomes à quarks - Toutes tailles calculables exactement
+fr;validacion_experimental.py;0130;PRÉDICTIONS EXACTES EINSTEIN-VED
+fr;validacion_experimental.py;0133;\nPRÉCISION vs EXPÉRIMENTAL:
+fr;validacion_experimental.py;0134;Proton:  {precisiones_ved[0]:.2f}%
+fr;validacion_experimental.py;0135;Neutron: {precisiones_ved[1]:.2f}%
+fr;validacion_experimental.py;0137;\nPRÉDICTION SUR QUARKS:
+fr;validacion_experimental.py;0138;Taille minimale quark (VED): {datos_experimentales['prediccion_quark_ved']*1e15:.3f} fm
+fr;validacion_experimental.py;0139;Limite expérimentale actuelle: < 0.001 fm
+fr;validacion_experimental.py;0140;Conclusion: Les quarks NE peuvent PAS être ponctuels
+fr;validacion_experimental.py;0142;\nRELATION MASSE-TAILLE:
+fr;validacion_experimental.py;0145;Quark down (4.8 MeV): {4.1e-16:.2e} m
+fr;validacion_experimental.py;0148;🔬 GÉNÉRATION PRÉDICTIONS EINSTEIN-VED...
+fr;validacion_experimental.py;0150;✅ GRAPHIQUE DE PRÉDICTIONS GÉNÉRÉidioma
+fr;validacion_experimental.py;001;rayon_proton
+fr;validacion_experimental.py;002;rayon_neutron
+fr;validacion_experimental.py;003;prediction_quark_ved
+fr;validacion_experimental.py;004;Génère comparaison avec PRÉDICTIONS EXACTES Einstein-VED
+fr;validacion_experimental.py;005;rayon_proton
+fr;validacion_experimental.py;006;rayon_neutron
+fr;validacion_experimental.py;007;round
+fr;validacion_experimental.py;008;yellow
+fr;validacion_experimental.py;009;ponctuel
+fr;validacion_experimental.py;010;rayon_proton
+fr;validacion_experimental.py;011;prediction_quark_ved
+fr;validacion_experimental.py;012;round
+fr;validacion_experimental.py;013;lightgreen
+fr;validacion_experimental.py;014;PRÉDICTIONS EXACTES EINSTEIN-VED
+fr;validacion_experimental.py;015;\nPRÉCISION vs EXPÉRIMENTAL:
+fr;validacion_experimental.py;016;Proton:  {precisiones_ved[0]:.2f}%
+fr;validacion_experimental.py;017;Neutron: {precisiones_ved[1]:.2f}%
+fr;validacion_experimental.py;018;\nPRÉDICTION SUR LES QUARKS:
+fr;validacion_experimental.py;019;Taille minimale quark (VED): {datos_experimentales['prediccion_quark_ved']*1e15:.3f} fm
+fr;validacion_experimental.py;020;Limite expérimentale actuelle: < 0.001 fm
+fr;validacion_experimental.py;021;Conclusion: Les quarks NE peuvent PAS être ponctuels
+fr;validacion_experimental.py;022;\nRELATION MASSE-TAILLE:
+fr;validacion_experimental.py;023;Électron (0.511 MeV): {2.426e-12:.2e} m
+fr;validacion_experimental.py;024;Quark up (2.3 MeV):   {8.6e-16:.2e} m
+fr;validacion_experimental.py;025;Quark down (4.8 MeV): {4.1e-16:.2e} m
+fr;validacion_experimental.py;026;🔬 GÉNÉRATION PRÉDICTIONS EINSTEIN-VED...
+fr;validacion_experimental.py;027;✅ GRAPHIQUE DES PRÉDICTIONS GÉNÉRÉ
+fr;validacion_experimental.py;028;Proton
+fr;validacion_experimental.py;029;Neutron
+fr;validacion_experimental.py;030;Einstein-VED
+fr;validacion_experimental.py;031;red
+fr;validacion_experimental.py;032;LHC (Expérimental)
+fr;validacion_experimental.py;033;green
+fr;validacion_experimental.py;034;Nucléon
+fr;validacion_experimental.py;035;Rayon de Charge (fm)
+fr;validacion_experimental.py;036;a) Rayons Nucléaires: VED vs Expérimental\n(Précision >99%)
+fr;validacion_experimental.py;037;{precision:.1f}%
+fr;validacion_experimental.py;038;center
+fr;validacion_experimental.py;039;bottom
+fr;validacion_experimental.py;040;bold
+fr;validacion_experimental.py;041;Proton (LHC)
+fr;validacion_experimental.py;042;Quark (VED)
+fr;validacion_experimental.py;043;"""Limite """"ponctuelle"""""""
+fr;validacion_experimental.py;044;red
+fr;validacion_experimental.py;045;blue
+fr;validacion_experimental.py;046;gray
+fr;validacion_experimental.py;047;Taille (fm)
+fr;validacion_experimental.py;048;b) Prédiction VED: Quarks NON Ponctuels
+fr;validacion_experimental.py;049;{long*1e15:.3f} fm
+fr;validacion_experimental.py;050;center
+fr;validacion_experimental.py;051;bold
+fr;validacion_experimental.py;052;ro-
+fr;validacion_experimental.py;053;Masse (eV/c²) - Échelle log
+fr;validacion_experimental.py;054;Longueur Compton (m) - Échelle log
+fr;validacion_experimental.py;055;c) Relation Masse-Taille Einstein-VED\nλ = h/mc
+fr;validacion_experimental.py;056;électron
+fr;validacion_experimental.py;057;quark up
+fr;validacion_experimental.py;058;quark down
+fr;validacion_experimental.py;059;muon
+fr;validacion_experimental.py;060;offset points
+fr;validacion_experimental.py;061;PRÉDICTIONS EINSTEIN-VED:
+fr;validacion_experimental.py;062;bold
+fr;validacion_experimental.py;063;red
+fr;validacion_experimental.py;064;• Rayons EXACTS depuis premiers principes
+fr;validacion_experimental.py;065;red
+fr;validacion_experimental.py;066;• Quarks: ~0.05 fm (NON ponctuels)
+fr;validacion_experimental.py;067;red
+fr;validacion_experimental.py;068;• Sans probabilités - Valeurs déterministes
+fr;validacion_experimental.py;069;red
+fr;validacion_experimental.py;070;FONDEMENT:
+fr;validacion_experimental.py;071;bold
+fr;validacion_experimental.py;072;• Masse connue → Longueur Compton exacte
+fr;validacion_experimental.py;073;• Confinement: L = nλ (n entier)
+fr;validacion_experimental.py;074;• Géométrie → Structure exacte
+fr;validacion_experimental.py;075;VÉRIFICATION FUTURE:\nLHC amélioré confirmera\nstructure quark prédite
+fr;validacion_experimental.py;076;center
+fr;validacion_experimental.py;077;bold
+fr;validacion_experimental.py;078;off
+fr;validacion_experimental.py;079;PRÉDICTIONS EINSTEIN-VED: Géométrie Exacte vs Données Expérimentales\n
+fr;validacion_experimental.py;080;Des atomes aux quarks - Toutes les tailles calculables exactement
+fr;validacion_experimental.py;081;bold
+fr;validacion_experimental.py;082;svg
+fr;validacion_experimental.py;083;tight
+fr;validacion_experimental.py;084;prediction_quark_vedit

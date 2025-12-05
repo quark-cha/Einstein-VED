@@ -1,0 +1,52 @@
+idioma;archivo;id;texto
+ch;Constante_G.py;0042;质子半径 (中线)
+ch;Constante_G.py;0046;图1: 质子的VED约束波, n=2
+ch;Constante_G.py;0059;黑洞
+ch;Constante_G.py;0061;2D表面
+ch;Constante_G.py;0066;图2: 黑洞和全息2D表面
+ch;Constante_G.py;0078;实验G
+ch;Constante_G.py;0083;n={n}
+ch;Constante_G.py;0088;计算G [m^3/kg/s^2]
+ch;Constante_G.py;0089;图3: G目标 ±3σ
+ch;Constante_G.py;0116;计算G [m^3/kg/s^2]
+ch;Constante_G.py;0117;图4: G目标 ±4σ (箭头)
+ch;Constante_G.py;0130;渐近G(n) (连续)
+ch;Constante_G.py;0133;实验G
+ch;Constante_G.py;0140;round,pad=0.5
+ch;Constante_G.py;0143;图5: G(n)的渐近行为 n→∞ (对数-对数)
+ch;Constante_G.py;0164;值 [m³/kg·s²]
+ch;Constante_G.py;0165;{G_max:.8e}
+ch;Constante_G.py;0166;$G_2^{EXP}$ 实验
+ch;Constante_G.py;0167;{G_min:.8e}
+ch;Constante_G.py;0168;$G_1^{VED}$ (n=2) 精确
+ch;Constante_G.py;0169;绝对差
+ch;Constante_G.py;0170;相对误差
+ch;Constante_G.py;0248;引力常数 G
+ch;Constante_G.py;0267;约束物质波
+ch;Constante_G.py;0277;2D全息图
+ch;Constante_G.py;0286;G的涌现
+ch;Constante_G.py;0288;图8: 物质作为2D全息图上的约束波
+ch;Constante_G.py;0317;质子半径
+ch;Constante_G.py;0318;质子径向波
+ch;Constante_G.py;0319;质子2D波动 (n=4)
+ch;Constante_G.py;0322;质子半径
+ch;Constante_G.py;0323;质子波
+ch;Constante_G.py;0324;2D波动
+ch;Constante_G.py;0326;质子 - 飞米尺度 (10⁻¹⁵ m)
+ch;Constante_G.py;0342;电子轨道半径
+ch;Constante_G.py;0343;电子径向波
+ch;Constante_G.py;0344;电子2D波动 (n=137)
+ch;Constante_G.py;0347;电子轨道半径
+ch;Constante_G.py;0348;电子波
+ch;Constante_G.py;0349;2D波动
+ch;Constante_G.py;0351;电子 - 原子尺度 (10⁻¹¹ m)
+ch;Constante_G.py;0358;图9. 质子和电子的2D和径向波\n(全息 → 粒子)
+ch;Constante_G.py;0378;$M_\mathrm{VED} = n h /$
+ch;Constante_G.py;0379;$M_\mathrm{Sch} = c^2 R_s /$
+ch;Constante_G.py;0380;$L_\mathrm{geom}$ 定义
+ch;Constante_G.py;0381;$R_s$ 定义通过
+ch;Constante_G.py;0382;量子化
+ch;Constante_G.py;0383;n不出现，\nG被确定
+ch;Constante_G.py;0384;2D约束
+ch;Constante_G.py;0385;3D → 隐含\n全息
+ch;Constante_G.py;0409;图10: VED与史瓦西概念比较

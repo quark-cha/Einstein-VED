@@ -1,0 +1,82 @@
+idioma;archivo;id;texto
+jp;confinamiento.py;0037;平均半径 (fm)
+jp;confinamiento.py;0038;{mc_mean:.3f}
+jp;confinamiento.py;0039;{lhc_mean:.5f}
+jp;confinamiento.py;0040;{ved_mean:.5f}
+jp;confinamiento.py;0072;図1: 2D対3D閉じ込め幾何学
+jp;confinamiento.py;0079;電子: 2D閉じ込め\nn = 137 (表面)
+jp;confinamiento.py;0084;陽子: 3D閉じ込め\nn = 4 (体積)
+jp;confinamiento.py;0089;クォーク: 幾何学的双極子\n3D固定
+jp;confinamiento.py;0094;創発量子統計: 2D対3D
+jp;confinamiento.py;0100;電子2D表面 - クリーンスケール
+jp;confinamiento.py;0132;陽子3D体積 - クリーンスケール
+jp;confinamiento.py;0171;次元に固定されたクォーク双極子
+jp;confinamiento.py;0187;クォーク {dim}
+jp;confinamiento.py;0192;ハドロン閉じ込め
+jp;confinamiento.py;0200;フェルミ対ボース統計比較
+jp;confinamiento.py;0201;2D閉じ込め\n(電子)
+jp;confinamiento.py;0208;フェルミ-ディラック (排他)
+jp;confinamiento.py;0210;ボース-アインシュタイン (凝縮)
+jp;confinamiento.py;0213;統計的振る舞い
+jp;confinamiento.py;0218;最大1粒子\n状態ごと
+jp;confinamiento.py;0219;複数粒子\n同じ状態
+jp;confinamiento.py;0224;図2: 実験的検証
+jp;confinamiento.py;0228;陽子 VED
+jp;confinamiento.py;0234;半径 (fm)
+jp;confinamiento.py;0235;ハドロン半径予測
+jp;confinamiento.py;0240;{radius:.5f}
+jp;confinamiento.py;0243;アインシュタイン-VED
+jp;confinamiento.py;0247;精度 (%)
+jp;confinamiento.py;0248;精度比較
+jp;confinamiento.py;0253;{prec}%
+jp;confinamiento.py;0259;アインシュタイン-VED
+jp;confinamiento.py;0265;微細構造定数
+jp;confinamiento.py;0270;{value:.3f}
+jp;confinamiento.py;0275;LHCジェットの双極子説明:\n\n
+jp;confinamiento.py;0276;• クォーク = 次元に固定された幾何学的双極子\n
+jp;confinamiento.py;0277;• エネルギー印加時: 双極子破断\n
+jp;confinamiento.py;0278;• 新しいクォーク-反クォーク対の生成\n
+jp;confinamiento.py;0279;• 反対方向へのハドロンジェット形成\n
+jp;confinamiento.py;0280;• 無限の'閉じ込め力'なし\n
+jp;confinamiento.py;0281;• 自然な幾何学的再構成のみ
+jp;confinamiento.py;0290;図3: 量子パラドックス解決
+jp;confinamiento.py;0310;二重スリット解決
+jp;confinamiento.py;0328;伝播方向
+jp;confinamiento.py;0329;位置
+jp;confinamiento.py;0330;二重スリット解決:\n完全表面が相互作用
+jp;confinamiento.py;0333;二経路を通る粒子
+jp;confinamiento.py;0337;量子もつれの幾何学的解決
+jp;confinamiento.py;0349;粒子A
+jp;confinamiento.py;0350;粒子B
+jp;confinamiento.py;0351;共有幾何学
+jp;confinamiento.py;0357;量子もつれ:\n共通幾何学、遠隔作用なし
+jp;confinamiento.py;0362;波動関数収縮解決
+jp;confinamiento.py;0368;実幾何学 (常に定義)
+jp;confinamiento.py;0369;測定前確率
+jp;confinamiento.py;0375;位置
+jp;confinamiento.py;0377;"""収縮""の終わり:\n定義幾何学、非確率的"
+jp;confinamiento.py;0383;量子統計解決
+jp;confinamiento.py;0387;創発量子統計\n\n
+jp;confinamiento.py;0388;フェルミ-ディラック (排他):\n
+jp;confinamiento.py;0389;• 2D閉じ込め (電子)\n
+jp;confinamiento.py;0390;• 自然な位相制限\n
+jp;confinamiento.py;0391;• 状態ごと1粒子のみ\n\n
+jp;confinamiento.py;0392;ボース-アインシュタイン (凝縮):\n
+jp;confinamiento.py;0393;• 3D閉じ込め (陽子)\n
+jp;confinamiento.py;0394;• 完全球面幾何学\n
+jp;confinamiento.py;0395;• 複数粒子同じ状態\n\n
+jp;confinamiento.py;0396;基本的性質ではない\n
+jp;confinamiento.py;0397;幾何学的結果である
+jp;confinamiento.py;0405;全ての図を保存
+jp;confinamiento.py;0408;アインシュタイン-VED可視化生成中...
+jp;confinamiento.py;0411;図1生成: 閉じ込め幾何学...
+jp;confinamiento.py;0418;✓ 閉じ込め幾何学保存済
+jp;confinamiento.py;0420;図2生成: 実験的検証...
+jp;confinamiento.py;0427;✓ 実験的検証保存済
+jp;confinamiento.py;0429;図3生成: 量子パラドックス解決...
+jp;confinamiento.py;0435;✓ 量子パラドックス解決保存済
+jp;confinamiento.py;0437;\n✅ 全ての図を{format}形式で保存 (DPI: {dpi})
+jp;confinamiento.py;0440;❌ 生成中エラー: {e}
+jp;confinamiento.py;0448;アインシュタイン-VED可視化生成開始...
+jp;confinamiento.py;0453;\n🎨 可視化完了!
+jp;confinamiento.py;0454;生成ファイル:

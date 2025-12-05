@@ -1,0 +1,48 @@
+de;entrelazamiento_geometrico.py;0012;Einstein-Grundlage
+de;entrelazamiento_geometrico.py;0012;Grundlegende Gleichungen
+de;entrelazamiento_geometrico.py;0035;QUANTENVERSCHRÄNKUNG: Geometrische Erklärung Einstein-VED
+de;entrelazamiento_geometrico.py;0052;Interner Rahmen: Gemeinsame Eigenzeit
+de;entrelazamiento_geometrico.py;0071;Externer Rahmen: Konventionelle Perspektive
+de;entrelazamiento_geometrico.py;0076;SYMBOLIK:\n\n
+de;entrelazamiento_geometrico.py;0077;🔴 Teilchen A (45°)\n
+de;entrelazamiento_geometrico.py;0078;🟢 Teilchen B (225°)\n
+de;entrelazamiento_geometrico.py;0079;⚫ Beobachter\n
+de;entrelazamiento_geometrico.py;0080;▬▬ Geometrische Verbindung\n
+de;entrelazamiento_geometrico.py;0081;▬▬ Sichtlinien
+de;entrelazamiento_geometrico.py;0091;WELLENFRONT
+de;entrelazamiento_geometrico.py;0093;EINSTEIN-VED SCHLÜSSEL:\n\n
+de;entrelazamiento_geometrico.py;0094;Beide Teilchen (einschließlich antipodaler)\nteilen dieselbe Eigenzeit-Raum t₀, s₀\n\n
+de;entrelazamiento_geometrico.py;0095;Weil: dt' → 0 und ds' → 0 bei Lichtgeschwindigkeit c\n\n
+de;entrelazamiento_geometrico.py;0095;→ 0 und ds
+de;entrelazamiento_geometrico.py;0096;t = t₀ + dt' → t₀\n
+de;entrelazamiento_geometrico.py;0097;s = s₀ + ds' → s₀\n\n
+de;entrelazamiento_geometrico.py;0098;Keine Fernwirkung
+de;entrelazamiento_geometrico.py;0112;EINSTEIN-VED GRUNDLAGE:\n\n
+de;entrelazamiento_geometrico.py;0113;Verschränkte Teilchen teilen gemeinsame Eigenzeit-Raum von ihrem Ursprung.
+de;entrelazamiento_geometrico.py;0114;Bei Bewegung mit Lichtgeschwindigkeit c tendieren ihre Eigenzeit- und Raumdifferentiale zu Null
+de;entrelazamiento_geometrico.py;0115;(dt' → 0, ds' → 0), was sie im selben Moment t₀ und Position s₀ verbunden hält.
+de;entrelazamiento_geometrico.py;0115;→ 0, ds
+de;entrelazamiento_geometrico.py;0116;Diese geometrische Gleichzeitigkeit erklärt Quantenkorrelationen ohne Relativität zu verletzen.
+de;entrelazamiento_geometrico.py;0128;GRUNDLEGENDE GLEICHUNGEN:\n\n
+de;entrelazamiento_geometrico.py;0129;Für Teilchen bei Lichtgeschwindigkeit c:\n
+de;entrelazamiento_geometrico.py;0130;• dt' → 0, ds' → 0\n
+de;entrelazamiento_geometrico.py;0130;→ 0, ds
+de;entrelazamiento_geometrico.py;0131;• t = t₀ + dt' → t₀\n
+de;entrelazamiento_geometrico.py;0132;• s = s₀ + ds' → s₀\n\n
+de;entrelazamiento_geometrico.py;0133;Feldgleichung:\n
+de;entrelazamiento_geometrico.py;0134;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+de;entrelazamiento_geometrico.py;0135;Absolute Gleichzeitigkeit im Eigenrahmen
+de;entrelazamiento_geometrico.py;0147;EINSTEIN-VED INTERPRETATION: Quantenverschränkung hört auf paradox zu sein, wenn sie
+de;entrelazamiento_geometrico.py;0148;aus der Raumzeit-Geometrie verstanden wird. Teilchen, die im selben Ereignis erzeugt werden, teilen eine Wellenfront
+de;entrelazamiento_geometrico.py;0149;wo ihre Eigenzeit bei t₀ eingefroren bleibt. Diese intrinsische Gleichzeitigkeit erklärt
+de;entrelazamiento_geometrico.py;0150;"perfekte Korrelationen ohne ""spukhafte Fernwirkung"". Quantenwahrscheinlichkeit reflektiert"
+de;entrelazamiento_geometrico.py;0150;spukhafte Fernwirkung
+de;entrelazamiento_geometrico.py;0151;begrenzte Perspektive des Beobachters, keine fundamentale Eigenschaft.
+de;entrelazamiento_geometrico.py;0170;🎯 ERSTELLE FINALE VERSION MIT RAHMEN AUF GLEICHER EBENE...
+de;entrelazamiento_geometrico.py;0173;\n✨ ANGEWENDETE KORREKTUREN:
+de;entrelazamiento_geometrico.py;0174;• Rahmen 'Einstein-Grundlage' und 'Gleichungen' auf GLEICHER EBENE
+de;entrelazamiento_geometrico.py;0174;Einstein-Grundlage
+de;entrelazamiento_geometrico.py;0175;• Breiteres Diagramm (16x10) für beide
+de;entrelazamiento_geometrico.py;0176;• Ausgewogenes und symmetrisches Design
+de;entrelazamiento_geometrico.py;0177;• Dekoration und Farben BEIBEHALTEN
+de;entrelazamiento_geometrico.py;0178;• NULL ÜBERLAPPUNGEN

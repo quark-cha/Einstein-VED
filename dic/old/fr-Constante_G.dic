@@ -1,0 +1,52 @@
+idioma;archivo;id;texto
+fr;Constante_G.py;0042;Rayon du proton (ligne médiane)
+fr;Constante_G.py;0046;Figure 1: Onde confinée VED du proton, n=2
+fr;Constante_G.py;0059;Trou noir
+fr;Constante_G.py;0061;Surface 2D
+fr;Constante_G.py;0066;Figure 2: Trou noir et surface holographique 2D
+fr;Constante_G.py;0078;G expérimental
+fr;Constante_G.py;0083;n={n}
+fr;Constante_G.py;0088;G calculé [m^3/kg/s^2]
+fr;Constante_G.py;0089;Figure 3: Cible G ±3σ
+fr;Constante_G.py;0116;G calculé [m^3/kg/s^2]
+fr;Constante_G.py;0117;Figure 4: Cible G ±4σ (flèches)
+fr;Constante_G.py;0130;G(n) asymptotique (continu)
+fr;Constante_G.py;0133;G expérimental
+fr;Constante_G.py;0140;round,pad=0.5
+fr;Constante_G.py;0143;Figure 5: Comportement asymptotique de G(n) n→∞ (log-log)
+fr;Constante_G.py;0164;Valeur [m³/kg·s²]
+fr;Constante_G.py;0165;{G_max:.8e}
+fr;Constante_G.py;0166;$G_2^{EXP}$ Expérimental
+fr;Constante_G.py;0167;{G_min:.8e}
+fr;Constante_G.py;0168;$G_1^{VED}$ (n=2) EXACT
+fr;Constante_G.py;0169;Différence absolue
+fr;Constante_G.py;0170;Erreur relative
+fr;Constante_G.py;0248;CONSTANTE GRAVITATIONNELLE G
+fr;Constante_G.py;0267;Onde de matière confinée
+fr;Constante_G.py;0277;Hologramme 2D
+fr;Constante_G.py;0286;Émergence de G
+fr;Constante_G.py;0288;Figure 8: Matière comme onde confinée sur hologramme 2D
+fr;Constante_G.py;0317;Rayon du proton
+fr;Constante_G.py;0318;Ondes radiales proton
+fr;Constante_G.py;0319;Ondulation 2D proton (n=4)
+fr;Constante_G.py;0322;Rayon du proton
+fr;Constante_G.py;0323;Ondes du proton
+fr;Constante_G.py;0324;Ondulation 2D
+fr;Constante_G.py;0326;Proton - Échelle femtométrique (10⁻¹⁵ m)
+fr;Constante_G.py;0342;Rayon orbital électron
+fr;Constante_G.py;0343;Ondes radiales électron
+fr;Constante_G.py;0344;Ondulation 2D électron (n=137)
+fr;Constante_G.py;0347;Rayon orbital électron
+fr;Constante_G.py;0348;Ondes de l'électron
+fr;Constante_G.py;0349;Ondulation 2D
+fr;Constante_G.py;0351;Électron - Échelle atomique (10⁻¹¹ m)
+fr;Constante_G.py;0358;Figure 9. Ondes 2D et radiales du proton et de l'électron\n(holographie → particules)
+fr;Constante_G.py;0378;$M_\mathrm{VED} = n h /$
+fr;Constante_G.py;0379;$M_\mathrm{Sch} = c^2 R_s /$
+fr;Constante_G.py;0380;$L_\mathrm{geom}$ définie
+fr;Constante_G.py;0381;$R_s$ définie par
+fr;Constante_G.py;0382;Quantification
+fr;Constante_G.py;0383;n n'apparaît pas,\nG est déterminé
+fr;Constante_G.py;0384;Confinement 2D
+fr;Constante_G.py;0385;3D → holographie
+fr;Constante_G.py;0409;Figure 10: Comparaison conceptuelle VED vs Schwarzschild

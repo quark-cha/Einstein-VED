@@ -1,0 +1,126 @@
+idioma;archivo;id;texto
+it;validacion_experimental.py;0020;Genera confronto con PREDIZIONI ESATTE Einstein-VED
+it;validacion_experimental.py;0027;Protone
+it;validacion_experimental.py;0036;Einstein-VED
+it;validacion_experimental.py;0038;LHC (Sperimentale)
+it;validacion_experimental.py;0040;Nucleone
+it;validacion_experimental.py;0041;Raggio di Carica (fm)
+it;validacion_experimental.py;0042;a) Raggi Nucleari: VED vs Sperimentale\n(Precisione >99%)
+it;validacion_experimental.py;0053;{precision:.1f}%
+it;validacion_experimental.py;0060;Protone (LHC)
+it;validacion_experimental.py;0073;Dimensione (fm)
+it;validacion_experimental.py;0074;b) Predizione VED: Quark NON Puntiformi
+it;validacion_experimental.py;0079;{long*1e15:.3f} fm
+it;validacion_experimental.py;0089;ro-
+it;validacion_experimental.py;0090;Massa (eV/c²) - Scala log
+it;validacion_experimental.py;0091;Lunghezza Compton (m) - Scala log
+it;validacion_experimental.py;0092;c) Relazione Massa-Dimensione Einstein-VED\nλ = h/mc
+it;validacion_experimental.py;0096;elettrone
+it;validacion_experimental.py;0098;offset points
+it;validacion_experimental.py;0103;PREDIZIONI EINSTEIN-VED:
+it;validacion_experimental.py;0104;• Raggi ESATTI da primi principi
+it;validacion_experimental.py;0105;• Quark: ~0.05 fm (NON puntiformi)
+it;validacion_experimental.py;0106;• Senza probabilità - Valori deterministici
+it;validacion_experimental.py;0108;FONDAZIONE:
+it;validacion_experimental.py;0109;• Massa conosciuta → Lunghezza Compton esatta
+it;validacion_experimental.py;0110;• Confinamento: L = nλ (n intero)
+it;validacion_experimental.py;0111;• Geometria → Struttura esatta
+it;validacion_experimental.py;0113;VERIFICA FUTURA:\nLHC migliorato confermerà\nstruttura quark predetta
+it;validacion_experimental.py;0121;PREDIZIONI EINSTEIN-VED: Geometria Esatta vs Dati Sperimentali\n
+it;validacion_experimental.py;0122;Da atomi a quark - Tutte dimensioni calcolabili esattamente
+it;validacion_experimental.py;0130;PREDIZIONI ESATTE EINSTEIN-VED
+it;validacion_experimental.py;0133;\nPRECISIONE vs SPERIMENTALE:
+it;validacion_experimental.py;0134;Protone:  {precisiones_ved[0]:.2f}%
+it;validacion_experimental.py;0135;Neutrone: {precisiones_ved[1]:.2f}%
+it;validacion_experimental.py;0137;\nPREDIZIONE SU QUARK:
+it;validacion_experimental.py;0138;Dimensione minima quark (VED): {datos_experimentales['prediccion_quark_ved']*1e15:.3f} fm
+it;validacion_experimental.py;0139;Limite sperimentale attuale: < 0.001 fm
+it;validacion_experimental.py;0140;Conclusione: I quark NON possono essere puntiformi
+it;validacion_experimental.py;0142;\nRELAZIONE MASSA-DIMENSIONE:
+it;validacion_experimental.py;0145;Quark down (4.8 MeV): {4.1e-16:.2e} m
+it;validacion_experimental.py;0148;🔬 GENERANDO PREDIZIONI EINSTEIN-VED...
+it;validacion_experimental.py;0150;✅ GRAFICO DI PREDIZIONI GENERATOidioma
+it;validacion_experimental.py;001;raggio_protone
+it;validacion_experimental.py;002;raggio_neutrone
+it;validacion_experimental.py;003;predizione_quark_ved
+it;validacion_experimental.py;004;Genera confronto con PREDIZIONI ESATTE Einstein-VED
+it;validacion_experimental.py;005;raggio_protone
+it;validacion_experimental.py;006;raggio_neutrone
+it;validacion_experimental.py;007;round
+it;validacion_experimental.py;008;yellow
+it;validacion_experimental.py;009;puntiforme
+it;validacion_experimental.py;010;raggio_protone
+it;validacion_experimental.py;011;predizione_quark_ved
+it;validacion_experimental.py;012;round
+it;validacion_experimental.py;013;lightgreen
+it;validacion_experimental.py;014;PREDIZIONI ESATTE EINSTEIN-VED
+it;validacion_experimental.py;015;\nPRECISIONE vs SPERIMENTALE:
+it;validacion_experimental.py;016;Protone:  {precisiones_ved[0]:.2f}%
+it;validacion_experimental.py;017;Neutrone: {precisiones_ved[1]:.2f}%
+it;validacion_experimental.py;018;\nPREDIZIONE SUI QUARK:
+it;validacion_experimental.py;019;Dimensione minima quark (VED): {datos_experimentales['prediccion_quark_ved']*1e15:.3f} fm
+it;validacion_experimental.py;020;Limite sperimentale attuale: < 0.001 fm
+it;validacion_experimental.py;021;Conclusione: I quark NON possono essere puntiformi
+it;validacion_experimental.py;022;\nRELAZIONE MASSA-DIMENSIONE:
+it;validacion_experimental.py;023;Elettrone (0.511 MeV): {2.426e-12:.2e} m
+it;validacion_experimental.py;024;Quark up (2.3 MeV):   {8.6e-16:.2e} m
+it;validacion_experimental.py;025;Quark down (4.8 MeV): {4.1e-16:.2e} m
+it;validacion_experimental.py;026;🔬 GENERAZIONE PREDIZIONI EINSTEIN-VED...
+it;validacion_experimental.py;027;✅ GRAFICO DELLE PREDIZIONI GENERATO
+it;validacion_experimental.py;028;Protone
+it;validacion_experimental.py;029;Neutrone
+it;validacion_experimental.py;030;Einstein-VED
+it;validacion_experimental.py;031;red
+it;validacion_experimental.py;032;LHC (Sperimentale)
+it;validacion_experimental.py;033;green
+it;validacion_experimental.py;034;Nucleone
+it;validacion_experimental.py;035;Raggio di Carica (fm)
+it;validacion_experimental.py;036;a) Raggi Nucleari: VED vs Sperimentale\n(Precisione >99%)
+it;validacion_experimental.py;037;{precision:.1f}%
+it;validacion_experimental.py;038;center
+it;validacion_experimental.py;039;bottom
+it;validacion_experimental.py;040;bold
+it;validacion_experimental.py;041;Protone (LHC)
+it;validacion_experimental.py;042;Quark (VED)
+it;validacion_experimental.py;043;"""Limite """"puntiforme"""""""
+it;validacion_experimental.py;044;red
+it;validacion_experimental.py;045;blue
+it;validacion_experimental.py;046;gray
+it;validacion_experimental.py;047;Dimensione (fm)
+it;validacion_experimental.py;048;b) Predizione VED: Quark NON Puntiformi
+it;validacion_experimental.py;049;{long*1e15:.3f} fm
+it;validacion_experimental.py;050;center
+it;validacion_experimental.py;051;bold
+it;validacion_experimental.py;052;ro-
+it;validacion_experimental.py;053;Massa (eV/c²) - Scala log
+it;validacion_experimental.py;054;Lunghezza Compton (m) - Scala log
+it;validacion_experimental.py;055;c) Relazione Massa-Dimensione Einstein-VED\nλ = h/mc
+it;validacion_experimental.py;056;elettrone
+it;validacion_experimental.py;057;quark up
+it;validacion_experimental.py;058;quark down
+it;validacion_experimental.py;059;muone
+it;validacion_experimental.py;060;offset points
+it;validacion_experimental.py;061;PREDIZIONI EINSTEIN-VED:
+it;validacion_experimental.py;062;bold
+it;validacion_experimental.py;063;red
+it;validacion_experimental.py;064;• Raggi ESATTI da primi principi
+it;validacion_experimental.py;065;red
+it;validacion_experimental.py;066;• Quark: ~0.05 fm (NON puntiformi)
+it;validacion_experimental.py;067;red
+it;validacion_experimental.py;068;• Senza probabilità - Valori deterministici
+it;validacion_experimental.py;069;red
+it;validacion_experimental.py;070;FONDAMENTO:
+it;validacion_experimental.py;071;bold
+it;validacion_experimental.py;072;• Massa nota → Lunghezza Compton esatta
+it;validacion_experimental.py;073;• Confinamento: L = nλ (n intero)
+it;validacion_experimental.py;074;• Geometria → Struttura esatta
+it;validacion_experimental.py;075;VERIFICA FUTURA:\nLHC migliorato confermerà\nstruttura quark predetta
+it;validacion_experimental.py;076;center
+it;validacion_experimental.py;077;bold
+it;validacion_experimental.py;078;off
+it;validacion_experimental.py;079;PREDIZIONI EINSTEIN-VED: Geometria Esatta vs Dati Sperimentali\n
+it;validacion_experimental.py;080;Da atomi a quark - Tutte le dimensioni calcolabili esattamente
+it;validacion_experimental.py;081;bold
+it;validacion_experimental.py;082;svg
+it;validacion_experimental.py;083;tight
+it;validacion_experimental.py;084;predizione_quark_vedjp

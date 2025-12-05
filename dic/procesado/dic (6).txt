@@ -1,0 +1,234 @@
+es;confinamiento_geometrico.py;001;round
+es;confinamiento_geometrico.py;002;yellow
+es;confinamiento_geometrico.py;003;round
+es;confinamiento_geometrico.py;004;yellow
+es;confinamiento_geometrico.py;005;Generando animación SVG del confinamiento...
+es;confinamiento_geometrico.py;006;✅ Animación SVG completada
+es;confinamiento_geometrico.py;007;__main__
+es;confinamiento_geometrico.py;008;Generando animación SVG del confinamiento...
+es;confinamiento_geometrico.py;009;✅ Animación SVG completada
+es;confinamiento_geometrico.py;010;equal
+es;confinamiento_geometrico.py;011;Onda ψ(x)
+es;confinamiento_geometrico.py;012;Posición x
+es;confinamiento_geometrico.py;013;Amplitud ψ(x)
+es;confinamiento_geometrico.py;014;CONFINAMIENTO EINSTEIN-VED: Onda → Partícula
+es;confinamiento_geometrico.py;015;bold
+es;confinamiento_geometrico.py;016;equal
+es;confinamiento_geometrico.py;017;brown
+es;confinamiento_geometrico.py;018;Posición x
+es;confinamiento_geometrico.py;019;Amplitud ψ(x)
+es;confinamiento_geometrico.py;020;1. Onda Sinusoidal en Superficie Plana
+es;confinamiento_geometrico.py;021;bold
+es;confinamiento_geometrico.py;022;gray
+es;confinamiento_geometrico.py;023;center
+es;confinamiento_geometrico.py;024;red
+es;confinamiento_geometrico.py;025;2. Transición: Enrollamiento ({progress*100:.0f}%)
+es;confinamiento_geometrico.py;026;bold
+es;confinamiento_geometrico.py;027;Coordenada X
+es;confinamiento_geometrico.py;028;Coordenada Y
+es;confinamiento_geometrico.py;029;gray
+es;confinamiento_geometrico.py;030;red
+es;confinamiento_geometrico.py;031;Confinada (n={n_cycles})
+es;confinamiento_geometrico.py;032;CONDICIÓN EINSTEIN-VED: L = {n_cycles}λ
+es;confinamiento_geometrico.py;033;bold
+es;confinamiento_geometrico.py;034;3. Onda Auto-Confinada - Partícula Estable
+es;confinamiento_geometrico.py;035;bold
+es;confinamiento_geometrico.py;036;Coordenada X
+es;confinamiento_geometrico.py;037;Coordenada Y
+es;confinamiento_geometrico.py;038;svg
+es;confinamiento_geometrico.py;039;tight
+es;confinamiento_geometrico.py;040;brown
+es;confinamiento_geometrico.py;041;equal
+es;confinamiento_geometrico.py;042;a) Onda Plana Libre
+es;confinamiento_geometrico.py;043;bold
+es;confinamiento_geometrico.py;044;Posición x
+es;confinamiento_geometrico.py;045;Amplitud ψ(x)
+es;confinamiento_geometrico.py;046;orange
+es;confinamiento_geometrico.py;047;equal
+es;confinamiento_geometrico.py;048;b) Transición
+es;confinamiento_geometrico.py;049;bold
+es;confinamiento_geometrico.py;050;Coordenada X
+es;confinamiento_geometrico.py;051;Coordenada Y
+es;confinamiento_geometrico.py;052;gray
+es;confinamiento_geometrico.py;053;red
+es;confinamiento_geometrico.py;054;equal
+es;confinamiento_geometrico.py;055;c) Confinado n=3\nL = 3λ
+es;confinamiento_geometrico.py;056;bold
+es;confinamiento_geometrico.py;057;Coordenada X
+es;confinamiento_geometrico.py;058;Coordenada Y
+es;confinamiento_geometrico.py;059;CONDICIÓN: L = nλ
+es;confinamiento_geometrico.py;060;center
+es;confinamiento_geometrico.py;061;bold
+es;confinamiento_geometrico.py;062;svg
+es;confinamiento_geometrico.py;063;tight
+es;confinamiento_geometrico_tiempo.py;001;n=1: Tubo espacio-tiempo liso + onda circular fundamental
+es;confinamiento_geometrico_tiempo.py;002;n=3: Variedad espacio-tiempo + onda con 3 nodos
+es;confinamiento_geometrico_tiempo.py;003;Comparación lado a lado n=1 vs n=3
+es;confinamiento_geometrico_tiempo.py;004;Muestra cómo las curvas dt generan la superficie n=1
+es;confinamiento_geometrico_tiempo.py;005;Muestra cómo las curvas dt generan la superficie n=3
+es;confinamiento_geometrico_tiempo.py;006;Evolución completa dt a través de δt
+es;confinamiento_geometrico_tiempo.py;007;round
+es;confinamiento_geometrico_tiempo.py;008;white
+es;confinamiento_geometrico_tiempo.py;009;🎨 GENERANDO LAS 6 GRÁFICAS COMPLETAS EINSTEIN-VED...
+es;confinamiento_geometrico_tiempo.py;010;\n✅ LAS 6 GRÁFICAS COMPLETAS:
+es;confinamiento_geometrico_tiempo.py;011;__main__
+es;confinamiento_geometrico_tiempo.py;012;lightblue
+es;confinamiento_geometrico_tiempo.py;013;red
+es;confinamiento_geometrico_tiempo.py;014;ESTADO FUNDAMENTAL n=1\nEspacio-Tiempo + Onda Circular
+es;confinamiento_geometrico_tiempo.py;015;bold
+es;confinamiento_geometrico_tiempo.py;016;tight
+es;confinamiento_geometrico_tiempo.py;017;white
+es;confinamiento_geometrico_tiempo.py;018;red
+es;confinamiento_geometrico_tiempo.py;019;ESTADO EXCITADO n=3\nVariedad Espacio-Tiempo + 3 Nodos
+es;confinamiento_geometrico_tiempo.py;020;bold
+es;confinamiento_geometrico_tiempo.py;021;tight
+es;confinamiento_geometrico_tiempo.py;022;white
+es;confinamiento_geometrico_tiempo.py;023;lightblue
+es;confinamiento_geometrico_tiempo.py;024;red
+es;confinamiento_geometrico_tiempo.py;025;n=1: Estado Fundamental
+es;confinamiento_geometrico_tiempo.py;026;bold
+es;confinamiento_geometrico_tiempo.py;027;red
+es;confinamiento_geometrico_tiempo.py;028;n=3: Estado Excitado
+es;confinamiento_geometrico_tiempo.py;029;bold
+es;confinamiento_geometrico_tiempo.py;030;tight
+es;confinamiento_geometrico_tiempo.py;031;white
+es;confinamiento_geometrico_tiempo.py;032;lightblue
+es;confinamiento_geometrico_tiempo.py;033;red
+es;confinamiento_geometrico_tiempo.py;034;green
+es;confinamiento_geometrico_tiempo.py;035;green
+es;confinamiento_geometrico_tiempo.py;036;green
+es;confinamiento_geometrico_tiempo.py;037;bold
+es;confinamiento_geometrico_tiempo.py;038;GENERACIÓN n=1: dt → Superficie\nCurvas Circulares Generan Cilindro
+es;confinamiento_geometrico_tiempo.py;039;bold
+es;confinamiento_geometrico_tiempo.py;040;tight
+es;confinamiento_geometrico_tiempo.py;041;white
+es;confinamiento_geometrico_tiempo.py;042;red
+es;confinamiento_geometrico_tiempo.py;043;green
+es;confinamiento_geometrico_tiempo.py;044;green
+es;confinamiento_geometrico_tiempo.py;045;green
+es;confinamiento_geometrico_tiempo.py;046;bold
+es;confinamiento_geometrico_tiempo.py;047;GENERACIÓN n=3: dt → Variedad\nCurvas con Nodos Generan Geometría
+es;confinamiento_geometrico_tiempo.py;048;bold
+es;confinamiento_geometrico_tiempo.py;049;tight
+es;confinamiento_geometrico_tiempo.py;050;white
+es;confinamiento_geometrico_tiempo.py;051;red
+es;confinamiento_geometrico_tiempo.py;052;darkred
+es;confinamiento_geometrico_tiempo.py;053;δt={t}
+es;confinamiento_geometrico_tiempo.py;054;center
+es;confinamiento_geometrico_tiempo.py;055;bold
+es;confinamiento_geometrico_tiempo.py;056;blue
+es;confinamiento_geometrico_tiempo.py;057;blue
+es;confinamiento_geometrico_tiempo.py;058;Evolución\ntemporal
+es;confinamiento_geometrico_tiempo.py;059;blue
+es;confinamiento_geometrico_tiempo.py;060;bold
+es;confinamiento_geometrico_tiempo.py;061;EVOLUCIÓN COMPLETA: dt → δt → Estados n\nConfinamiento Cuántico Einstein-VED
+es;confinamiento_geometrico_tiempo.py;062;bold
+es;confinamiento_geometrico_tiempo.py;063;tight
+es;confinamiento_geometrico_tiempo.py;064;white
+es;entrelazamiento_geometrico.py;001;"
+    Versión final corregida:
+    - Cuadros "
+es;entrelazamiento_geometrico.py;002; y 
+es;entrelazamiento_geometrico.py;003;" en mismo nivel
+    - Diseño más ancho para acomodar ambos cuadros
+    - Respetando la decoración actual
+    "
+es;entrelazamiento_geometrico.py;004;SIMBOLOGÍA:\n\n
+es;entrelazamiento_geometrico.py;005;🔴 Partícula A (45°)\n
+es;entrelazamiento_geometrico.py;006;🟢 Partícula B (225°)\n
+es;entrelazamiento_geometrico.py;007;⚫ Observador\n
+es;entrelazamiento_geometrico.py;008;▬▬ Conexión geométrica\n
+es;entrelazamiento_geometrico.py;009;▬▬ Líneas de visión
+es;entrelazamiento_geometrico.py;010;round,pad=0.6
+es;entrelazamiento_geometrico.py;011;white
+es;entrelazamiento_geometrico.py;012;FRENTE DE ONDA
+es;entrelazamiento_geometrico.py;013;CLAVE EINSTEIN-VED:\n\n
+es;entrelazamiento_geometrico.py;014;Ambas partículas (incluidas las antipodales)\ncomparten el mismo espacio-tiempo propio t₀, s₀\n\n
+es;entrelazamiento_geometrico.py;015;Porque: dt' → 0 y ds' → 0 a velocidad c\n\n
+es;entrelazamiento_geometrico.py;016;t = t₀ + dt' → t₀\n
+es;entrelazamiento_geometrico.py;017;s = s₀ + ds' → s₀\n\n
+es;entrelazamiento_geometrico.py;018;No hay acción a distancia
+es;entrelazamiento_geometrico.py;019;round,pad=0.8
+es;entrelazamiento_geometrico.py;020;#fffacd
+es;entrelazamiento_geometrico.py;021;FUNDAMENTO EINSTEIN-VED:\n\n
+es;entrelazamiento_geometrico.py;022;Las partículas entrelazadas comparten un espacio-tiempo propio común desde su origen. 
+es;entrelazamiento_geometrico.py;023;Cuando viajan a velocidad c, sus diferenciales de tiempo y espacio propios tienden a cero 
+es;entrelazamiento_geometrico.py;024;(dt' → 0, ds' → 0), manteniéndolas conectadas en el mismo instante t₀ y posición s₀. 
+es;entrelazamiento_geometrico.py;025;Esta simultaneidad geométrica explica las correlaciones cuánticas sin violar la relatividad.
+es;entrelazamiento_geometrico.py;026;round,pad=0.8
+es;entrelazamiento_geometrico.py;027;#ffebee
+es;entrelazamiento_geometrico.py;028;ECUACIONES FUNDAMENTALES:\n\n
+es;entrelazamiento_geometrico.py;029;Para partículas a velocidad c:\n
+es;entrelazamiento_geometrico.py;030;• dt' → 0, ds' → 0\n
+es;entrelazamiento_geometrico.py;031;• t = t₀ + dt' → t₀\n
+es;entrelazamiento_geometrico.py;032;• s = s₀ + ds' → s₀\n\n
+es;entrelazamiento_geometrico.py;033;Ecuación de campo:\n
+es;entrelazamiento_geometrico.py;034;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+es;entrelazamiento_geometrico.py;035;Simultaneidad absoluta en marco propio
+es;entrelazamiento_geometrico.py;036;round,pad=0.8
+es;entrelazamiento_geometrico.py;037;#f0f8ff
+es;entrelazamiento_geometrico.py;038;INTERPRETACIÓN EINSTEIN-VED: El entrelazamiento cuántico deja de ser paradójico cuando se comprende 
+es;entrelazamiento_geometrico.py;039;desde la geometría del espacio-tiempo. Partículas generadas en el mismo evento comparten un frente 
+es;entrelazamiento_geometrico.py;040;de onda donde su tiempo propio permanece congelado en t₀. Esta simultaneidad intrínseca explica 
+es;entrelazamiento_geometrico.py;041;correlaciones perfectas sin 'acción fantasmal'. La probabilidad cuántica refleja perspectiva 
+es;entrelazamiento_geometrico.py;042;limitada del observador, no propiedad fundamental.
+es;entrelazamiento_geometrico.py;043;round,pad=0.8
+es;entrelazamiento_geometrico.py;044;#f5f5f5
+es;entrelazamiento_geometrico.py;045;__main__
+es;entrelazamiento_geometrico.py;046;🎯 CREANDO VERSIÓN FINAL CON CUADROS EN MISMO NIVEL...
+es;entrelazamiento_geometrico.py;047;\n✨ CORRECCIONES APLICADAS:
+es;entrelazamiento_geometrico.py;048;   • Cuadros 'Fundamento Einstein' y 'Ecuaciones' en MISMO NIVEL
+es;entrelazamiento_geometrico.py;049;   • Figura más ANCHA (16x10) para acomodar ambos
+es;entrelazamiento_geometrico.py;050;   • Diseño equilibrado y simétrico
+es;entrelazamiento_geometrico.py;051;   • Decoración y colores RESPETADOS
+es;entrelazamiento_geometrico.py;052;   • CERO solapamientos
+es;entrelazamiento_geometrico.py;053;ENTRELAZAMIENTO CUÁNTICO: Explicación Geométrica Einstein-VED
+es;entrelazamiento_geometrico.py;054;bold
+es;entrelazamiento_geometrico.py;055;blue
+es;entrelazamiento_geometrico.py;056;k--
+es;entrelazamiento_geometrico.py;057;equal
+es;entrelazamiento_geometrico.py;058;Marco Interno: Tiempo Propio Compartido
+es;entrelazamiento_geometrico.py;059;bold
+es;entrelazamiento_geometrico.py;060;blue
+es;entrelazamiento_geometrico.py;061;equal
+es;entrelazamiento_geometrico.py;062;Marco Externo: Perspectiva Convencional
+es;entrelazamiento_geometrico.py;063;bold
+es;entrelazamiento_geometrico.py;064;left
+es;entrelazamiento_geometrico.py;065;center
+es;entrelazamiento_geometrico.py;066;bold
+es;entrelazamiento_geometrico.py;067;gray
+es;entrelazamiento_geometrico.py;068; → 0 y ds
+es;entrelazamiento_geometrico.py;069;" → t₀\n""
+        ""s = s₀ + ds"
+es;entrelazamiento_geometrico.py;070;center
+es;entrelazamiento_geometrico.py;071;center
+es;entrelazamiento_geometrico.py;072;bold
+es;entrelazamiento_geometrico.py;073;orange
+es;entrelazamiento_geometrico.py;074; → 0, ds
+es;entrelazamiento_geometrico.py;075;center
+es;entrelazamiento_geometrico.py;076;center
+es;entrelazamiento_geometrico.py;077;italic
+es;entrelazamiento_geometrico.py;078;red
+es;entrelazamiento_geometrico.py;079; → 0, ds
+es;entrelazamiento_geometrico.py;080;" → t₀\n"" 
+        ""• s = s₀ + ds"
+es;entrelazamiento_geometrico.py;081;center
+es;entrelazamiento_geometrico.py;082;center
+es;entrelazamiento_geometrico.py;083;bold
+es;entrelazamiento_geometrico.py;084;blue
+es;entrelazamiento_geometrico.py;085;acción fantasmal
+es;entrelazamiento_geometrico.py;086;center
+es;entrelazamiento_geometrico.py;087;center
+es;entrelazamiento_geometrico.py;088;black
+es;entrelazamiento_geometrico.py;089;svg
+es;entrelazamiento_geometrico.py;090;tight
+es;entrelazamiento_geometrico.py;091;white
+es;entrelazamiento_geometrico.py;092;Fundamento Einstein
+es;entrelazamiento_geometrico.py;093;Ecuaciones
+es;generador_svg.py;001;Función radial estado 1s: R₁₀(r) = 2/a₀^(3/2) exp(-r/a₀)
+es;generador_svg.py;002;Función radial estado 2p: R₂₁(r) = (1/2√6)(r/a₀²) exp(-r/2a₀)
+es;generador_svg.py;003;Función radial estado 3d: R₃₂(r) = (4/81√30)(r²/a₀^(7/2)) exp(-r/3a₀)
+es;generador_svg.py;004;Función de onda completa ψₙℓₘ(r,θ,φ) = Rₙℓ(r)Yℓₘ(θ,φ)
+es;generador_svg.py;005;Estado n={n}, ℓ={ell} no implementado
+es;generador_svg.py;006;Calcula superficie VED: r(θ,φ) = n²a₀(1 + α|Yℓₘ|)
+es;generador_svg.py;007;Verifica coincidencia entre máximo P(r)

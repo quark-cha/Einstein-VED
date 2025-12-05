@@ -1,0 +1,814 @@
+fr;confinamiento_geometrico.py;064;blanc
+fr;confinamiento_geometrico.py;065;gras
+fr;confinamiento_geometrico.py;066;svg
+fr;confinamiento_geometrico.py;067;serré
+
+sk;confinamiento_geometrico.py;064;biely
+sk;confinamiento_geometrico.py;065;tučný
+sk;confinamiento_geometrico.py;066;svg
+sk;confinamiento_geometrico.py;067;tesný
+
+ar;confinamiento_geometrico.py;064;أبيض
+ar;confinamiento_geometrico.py;065;عريض
+ar;confinamiento_geometrico.py;066;svg
+ar;confinamiento_geometrico.py;067;مضغوط
+
+zh;confinamiento_geometrico.py;064;白色
+zh;confinamiento_geometrico.py;065;粗体
+zh;confinamiento_geometrico.py;066;svg
+zh;confinamiento_geometrico.py;067;紧凑
+
+ja;confinamiento_geometrico.py;064;白
+ja;confinamiento_geometrico.py;065;太字
+ja;confinamiento_geometrico.py;066;svg
+ja;confinamiento_geometrico.py;067;密
+
+fr;generador_svg.py;001;Fonction radiale état 1s: R₁₀(r) = 2/a₀^(3/2) exp(-r/a₀)
+fr;generador_svg.py;002;Fonction radiale état 2p: R₂₁(r) = (1/2√6)(r/a₀²) exp(-r/2a₀)
+fr;generador_svg.py;003;Fonction radiale état 3d: R₃₂(r) = (4/81√30)(r²/a₀^(7/2)) exp(-r/3a₀)
+fr;generador_svg.py;004;Fonction d'onde complète ψₙℓₘ(r,θ,φ) = Rₙℓ(r)Yℓₘ(θ,φ)
+fr;generador_svg.py;005;État n={n}, ℓ={ell} non implémenté
+fr;generador_svg.py;006;Calcule surface VED: r(θ,φ) = n²a₀(1 + α|Yℓₘ|)
+fr;generador_svg.py;007;Vérifie coïncidence entre maximum P(r) et rayon VED
+fr;generador_svg.py;008;ell
+fr;generador_svg.py;009;alpha
+fr;generador_svg.py;010;étiquette
+fr;generador_svg.py;011;ell
+fr;generador_svg.py;012;alpha
+fr;generador_svg.py;013;étiquette
+fr;generador_svg.py;014;ell
+fr;generador_svg.py;015;alpha
+fr;generador_svg.py;016;étiquette
+fr;generador_svg.py;017;Génère comparaison complète Einstein-VED vs Mécanique Quantique
+fr;generador_svg.py;018;🔬 CALCUL COMPARAISON EINSTEIN-VED vs MQ...
+fr;generador_svg.py;019;ell
+fr;generador_svg.py;020;alpha
+fr;generador_svg.py;021;étiquette
+fr;generador_svg.py;022;rond
+fr;generador_svg.py;023;vert clair
+fr;generador_svg.py;024;étiquette
+fr;generador_svg.py;025;étiquette
+fr;generador_svg.py;026;__main__
+fr;generador_svg.py;027;RÉSULTATS EXACTS EINSTEIN-VED
+fr;generador_svg.py;028;{res['estado']}: r_VED = {res['r_ved']:.3e} m, 
+fr;generador_svg.py;029;r_MC = {res['r_max_mc']:.3e} m, 
+fr;generador_svg.py;030;Précision = {res['precision']:.2f}%
+fr;generador_svg.py;031;✅ COMPARAISON GÉNÉRÉE - COÏNCIDENCE >99% CONFIRMÉE
+fr;generador_svg.py;032;inférieur
+fr;generador_svg.py;033;viridis
+fr;generador_svg.py;034;auto
+fr;generador_svg.py;035;"Densité |ψ|² - {estado[""label""]}\n(plan Z=0.5Y)"
+fr;generador_svg.py;036;x (m)
+fr;generador_svg.py;037;y (m)
+fr;generador_svg.py;038;rouge
+fr;generador_svg.py;039;VED: {r_ved:.2e}m
+fr;generador_svg.py;040;bleu
+fr;generador_svg.py;041;P(r) MQ
+fr;generador_svg.py;042;rouge
+fr;generador_svg.py;043;VED: {r_ved:.2e} m
+fr;generador_svg.py;044;Précision: {precision:.2f}%
+fr;generador_svg.py;045;"Probabilité Radiale - {estado[""label""]}"
+fr;generador_svg.py;046;r (m)
+fr;generador_svg.py;047;P(r) normalisée
+fr;generador_svg.py;048;état
+fr;generador_svg.py;049;r_ved
+fr;generador_svg.py;050;r_max_mc
+fr;generador_svg.py;051;précision
+fr;generador_svg.py;052;COMPARAISON EINSTEIN-VED vs MÉCANIQUE QUANTIQUE - CALCULS EXACTS\n
+fr;generador_svg.py;053;Rayons déterministes vs distributions probabilistiques
+fr;generador_svg.py;054;gras
+fr;generador_svg.py;055;svg
+fr;generador_svg.py;056;serré
+fr;generador_svg.py;057;png
+fr;generador_svg.py;058;serré
+fr;generador_svg.py;059;état
+fr;generador_svg.py;060;r_ved
+fr;generador_svg.py;061;r_max_mc
+fr;generador_svg.py;062;précision
+
+sk;generador_svg.py;001;Radiálna funkcia stavu 1s: R₁₀(r) = 2/a₀^(3/2) exp(-r/a₀)
+sk;generador_svg.py;002;Radiálna funkcia stavu 2p: R₂₁(r) = (1/2√6)(r/a₀²) exp(-r/2a₀)
+sk;generador_svg.py;003;Radiálna funkcia stavu 3d: R₃₂(r) = (4/81√30)(r²/a₀^(7/2)) exp(-r/3a₀)
+sk;generador_svg.py;004;Úplná vlnová funkcia ψₙℓₘ(r,θ,φ) = Rₙℓ(r)Yℓₘ(θ,φ)
+sk;generador_svg.py;005;Stav n={n}, ℓ={ell} nie je implementovaný
+sk;generador_svg.py;006;Počíta povrch VED: r(θ,φ) = n²a₀(1 + α|Yℓₘ|)
+sk;generador_svg.py;007;Kontroluje zhodu medzi maximom P(r) a polomerom VED
+sk;generador_svg.py;008;ell
+sk;generador_svg.py;009;alpha
+sk;generador_svg.py;010;štítok
+sk;generador_svg.py;011;ell
+sk;generador_svg.py;012;alpha
+sk;generador_svg.py;013;štítok
+sk;generador_svg.py;014;ell
+sk;generador_svg.py;015;alpha
+sk;generador_svg.py;016;štítok
+sk;generador_svg.py;017;Generuje úplné porovnanie Einstein-VED vs Kvantová Mechanika
+sk;generador_svg.py;018;🔬 VÝPOČET POROVNANIA EINSTEIN-VED vs KM...
+sk;generador_svg.py;019;ell
+sk;generador_svg.py;020;alpha
+sk;generador_svg.py;021;štítok
+sk;generador_svg.py;022;okrúhly
+sk;generador_svg.py;023;svetlozelená
+sk;generador_svg.py;024;štítok
+sk;generador_svg.py;025;štítok
+sk;generador_svg.py;026;__main__
+sk;generador_svg.py;027;PRESNÉ VÝSLEDKY EINSTEIN-VED
+sk;generador_svg.py;028;{res['estado']}: r_VED = {res['r_ved']:.3e} m, 
+sk;generador_svg.py;029;r_KM = {res['r_max_mc']:.3e} m, 
+sk;generador_svg.py;030;Presnosť = {res['precision']:.2f}%
+sk;generador_svg.py;031;✅ POROVNANIE VYGENEROVANÉ - ZHODA >99% POTVRDENÁ
+sk;generador_svg.py;032;nižší
+sk;generador_svg.py;033;viridis
+sk;generador_svg.py;034;auto
+sk;generador_svg.py;035;"Hustota |ψ|² - {estado[""label""]}\n(rovina Z=0.5Y)"
+sk;generador_svg.py;036;x (m)
+sk;generador_svg.py;037;y (m)
+sk;generador_svg.py;038;červená
+sk;generador_svg.py;039;VED: {r_ved:.2e}m
+sk;generador_svg.py;040;modrá
+sk;generador_svg.py;041;P(r) KM
+sk;generador_svg.py;042;červená
+sk;generador_svg.py;043;VED: {r_ved:.2e} m
+sk;generador_svg.py;044;Presnosť: {precision:.2f}%
+sk;generador_svg.py;045;"Radiálna Pravdepodobnosť - {estado[""label""]}"
+sk;generador_svg.py;046;r (m)
+sk;generador_svg.py;047;P(r) normalizovaná
+sk;generador_svg.py;048;stav
+sk;generador_svg.py;049;r_ved
+sk;generador_svg.py;050;r_max_mc
+sk;generador_svg.py;051;presnosť
+sk;generador_svg.py;052;POROVNANIE EINSTEIN-VED vs KVANTOVÁ MECHANIKA - PRESNÉ VÝPOČTY\n
+sk;generador_svg.py;053;Deterministické polomery vs pravdepodobnostné distribúcie
+sk;generador_svg.py;054;tučný
+sk;generador_svg.py;055;svg
+sk;generador_svg.py;056;tesný
+sk;generador_svg.py;057;png
+sk;generador_svg.py;058;tesný
+sk;generador_svg.py;059;stav
+sk;generador_svg.py;060;r_ved
+sk;generador_svg.py;061;r_max_mc
+sk;generador_svg.py;062;presnosť
+
+ar;generador_svg.py;001;دالة نصف قطر الحالة 1s: R₁₀(r) = 2/a₀^(3/2) exp(-r/a₀)
+ar;generador_svg.py;002;دالة نصف قطر الحالة 2p: R₂₁(r) = (1/2√6)(r/a₀²) exp(-r/2a₀)
+ar;generador_svg.py;003;دالة نصف قطر الحالة 3d: R₃₂(r) = (4/81√30)(r²/a₀^(7/2)) exp(-r/3a₀)
+ar;generador_svg.py;004;دالة الموجة الكاملة ψₙℓₘ(r,θ,φ) = Rₙℓ(r)Yℓₘ(θ,φ)
+ar;generador_svg.py;005;الحالة n={n}, ℓ={ell} غير مطبقة
+ar;generador_svg.py;006;يحسب سطح VED: r(θ,φ) = n²a₀(1 + α|Yℓₘ|)
+ar;generador_svg.py;007;يتحقق من تطابق بين P(r) الأقصى ونصف قطر VED
+ar;generador_svg.py;008;ell
+ar;generador_svg.py;009;alpha
+ar;generador_svg.py;010;تسمية
+ar;generador_svg.py;011;ell
+ar;generador_svg.py;012;alpha
+ar;generador_svg.py;013;تسمية
+ar;generador_svg.py;014;ell
+ar;generador_svg.py;015;alpha
+ar;generador_svg.py;016;تسمية
+ar;generador_svg.py;017;ينشئ مقارنة كاملة أينشتاين-فيد vs ميكانيكا الكم
+ar;generador_svg.py;018;🔬 حساب المقارنة أينشتاين-فيد vs ميكانيكا الكم...
+ar;generador_svg.py;019;ell
+ar;generador_svg.py;020;alpha
+ar;generador_svg.py;021;تسمية
+ar;generador_svg.py;022;مدور
+ar;generador_svg.py;023;أخضر فاتح
+ar;generador_svg.py;024;تسمية
+ar;generador_svg.py;025;تسمية
+ar;generador_svg.py;026;__main__
+ar;generador_svg.py;027;نتائج دقيقة أينشتاين-فيد
+ar;generador_svg.py;028;{res['estado']}: r_VED = {res['r_ved']:.3e} م, 
+ar;generador_svg.py;029;r_MC = {res['r_max_mc']:.3e} م, 
+ar;generador_svg.py;030;الدقة = {res['precision']:.2f}%
+ar;generador_svg.py;031;✅ تم إنشاء المقارنة - تطابق >99% مؤكد
+ar;generador_svg.py;032;أدنى
+ar;generador_svg.py;033;viridis
+ar;generador_svg.py;034;تلقائي
+ar;generador_svg.py;035;"الكثافة |ψ|² - {estado[""label""]}\n(مستوى Z=0.5Y)"
+ar;generador_svg.py;036;س (م)
+ar;generador_svg.py;037;ص (م)
+ar;generador_svg.py;038;أحمر
+ar;generador_svg.py;039;فيد: {r_ved:.2e}م
+ar;generador_svg.py;040;أزرق
+ar;generador_svg.py;041;P(r) ميكانيكا الكم
+ar;generador_svg.py;042;أحمر
+ar;generador_svg.py;043;فيد: {r_ved:.2e} م
+ar;generador_svg.py;044;الدقة: {precision:.2f}%
+ar;generador_svg.py;045;"الاحتمال الشعاعي - {estado[""label""]}"
+ar;generador_svg.py;046;ن (م)
+ar;generador_svg.py;047;P(r) موحدة
+ar;generador_svg.py;048;حالة
+ar;generador_svg.py;049;r_ved
+ar;generador_svg.py;050;r_max_mc
+ar;generador_svg.py;051;دقة
+ar;generador_svg.py;052;مقارنة أينشتاين-فيد vs ميكانيكا الكم - حسابات دقيقة\n
+ar;generador_svg.py;053;أنصاف أقطار حتمية vs توزيعات احتمالية
+ar;generador_svg.py;054;عريض
+ar;generador_svg.py;055;svg
+ar;generador_svg.py;056;مضغوط
+ar;generador_svg.py;057;png
+ar;generador_svg.py;058;مضغوط
+ar;generador_svg.py;059;حالة
+ar;generador_svg.py;060;r_ved
+ar;generador_svg.py;061;r_max_mc
+ar;generador_svg.py;062;دقة
+
+zh;generador_svg.py;001;1s态径向函数: R₁₀(r) = 2/a₀^(3/2) exp(-r/a₀)
+zh;generador_svg.py;002;2p态径向函数: R₂₁(r) = (1/2√6)(r/a₀²) exp(-r/2a₀)
+zh;generador_svg.py;003;3d态径向函数: R₃₂(r) = (4/81√30)(r²/a₀^(7/2)) exp(-r/3a₀)
+zh;generador_svg.py;004;完整波函数 ψₙℓₘ(r,θ,φ) = Rₙℓ(r)Yℓₘ(θ,φ)
+zh;generador_svg.py;005;状态 n={n}, ℓ={ell} 未实现
+zh;generador_svg.py;006;计算VED表面: r(θ,φ) = n²a₀(1 + α|Yℓₘ|)
+zh;generador_svg.py;007;验证P(r)最大值与VED半径之间的重合
+zh;generador_svg.py;008;ell
+zh;generador_svg.py;009;alpha
+zh;generador_svg.py;010;标签
+zh;generador_svg.py;011;ell
+zh;generador_svg.py;012;alpha
+zh;generador_svg.py;013;标签
+zh;generador_svg.py;014;ell
+zh;generador_svg.py;015;alpha
+zh;generador_svg.py;016;标签
+zh;generador_svg.py;017;生成完整的爱因斯坦-VED vs 量子力学比较
+zh;generador_svg.py;018;🔬 计算爱因斯坦-VED vs 量子力学比较...
+zh;generador_svg.py;019;ell
+zh;generador_svg.py;020;alpha
+zh;generador_svg.py;021;标签
+zh;generador_svg.py;022;圆形
+zh;generador_svg.py;023;浅绿色
+zh;generador_svg.py;024;标签
+zh;generador_svg.py;025;标签
+zh;generador_svg.py;026;__main__
+zh;generador_svg.py;027;精确的爱因斯坦-VED结果
+zh;generador_svg.py;028;{res['estado']}: r_VED = {res['r_ved']:.3e} 米, 
+zh;generador_svg.py;029;r_量子力学 = {res['r_max_mc']:.3e} 米, 
+zh;generador_svg.py;030;精度 = {res['precision']:.2f}%
+zh;generador_svg.py;031;✅ 比较已生成 - 重合度 >99% 已确认
+zh;generador_svg.py;032;下
+zh;generador_svg.py;033;viridis
+zh;generador_svg.py;034;自动
+zh;generador_svg.py;035;"密度 |ψ|² - {estado[""label""]}\n(平面 Z=0.5Y)"
+zh;generador_svg.py;036;x (米)
+zh;generador_svg.py;037;y (米)
+zh;generador_svg.py;038;红色
+zh;generador_svg.py;039;VED: {r_ved:.2e}米
+zh;generador_svg.py;040;蓝色
+zh;generador_svg.py;041;P(r) 量子力学
+zh;generador_svg.py;042;红色
+zh;generador_svg.py;043;VED: {r_ved:.2e} 米
+zh;generador_svg.py;044;精度: {precision:.2f}%
+zh;generador_svg.py;045;"径向概率 - {estado[""label""]}"
+zh;generador_svg.py;046;r (米)
+zh;generador_svg.py;047;P(r) 归一化
+zh;generador_svg.py;048;状态
+zh;generador_svg.py;049;r_ved
+zh;generador_svg.py;050;r_max_mc
+zh;generador_svg.py;051;精度
+zh;generador_svg.py;052;爱因斯坦-VED vs 量子力学比较 - 精确计算\n
+zh;generador_svg.py;053;确定性半径 vs 概率分布
+zh;generador_svg.py;054;粗体
+zh;generador_svg.py;055;svg
+zh;generador_svg.py;056;紧凑
+zh;generador_svg.py;057;png
+zh;generador_svg.py;058;紧凑
+zh;generador_svg.py;059;状态
+zh;generador_svg.py;060;r_ved
+zh;generador_svg.py;061;r_max_mc
+zh;generador_svg.py;062;精度
+
+ja;generador_svg.py;001;1s状態動径関数: R₁₀(r) = 2/a₀^(3/2) exp(-r/a₀)
+ja;generador_svg.py;002;2p状態動径関数: R₂₁(r) = (1/2√6)(r/a₀²) exp(-r/2a₀)
+ja;generador_svg.py;003;3d状態動径関数: R₃₂(r) = (4/81√30)(r²/a₀^(7/2)) exp(-r/3a₀)
+ja;generador_svg.py;004;完全波動関数 ψₙℓₘ(r,θ,φ) = Rₙℓ(r)Yℓₘ(θ,φ)
+ja;generador_svg.py;005;状態 n={n}, ℓ={ell} は実装されていません
+ja;generador_svg.py;006;VED表面を計算: r(θ,φ) = n²a₀(1 + α|Yℓₘ|)
+ja;generador_svg.py;007;P(r)最大値とVED半径の一致を確認
+ja;generador_svg.py;008;ell
+ja;generador_svg.py;009;alpha
+ja;generador_svg.py;010;ラベル
+ja;generador_svg.py;011;ell
+ja;generador_svg.py;012;alpha
+ja;generador_svg.py;013;ラベル
+ja;generador_svg.py;014;ell
+ja;generador_svg.py;015;alpha
+ja;generador_svg.py;016;ラベル
+ja;generador_svg.py;017;完全なアインシュタイン-VED vs 量子力学比較を生成
+ja;generador_svg.py;018;🔬 アインシュタイン-VED vs 量子力学比較計算中...
+ja;generador_svg.py;019;ell
+ja;generador_svg.py;020;alpha
+ja;generador_svg.py;021;ラベル
+ja;generador_svg.py;022;丸い
+ja;generador_svg.py;023;薄緑色
+ja;generador_svg.py;024;ラベル
+ja;generador_svg.py;025;ラベル
+ja;generador_svg.py;026;__main__
+ja;generador_svg.py;027;正確なアインシュタイン-VED結果
+ja;generador_svg.py;028;{res['estado']}: r_VED = {res['r_ved']:.3e} m, 
+ja;generador_svg.py;029;r_量子力学 = {res['r_max_mc']:.3e} m, 
+ja;generador_svg.py;030;精度 = {res['precision']:.2f}%
+ja;generador_svg.py;031;✅ 比較生成完了 - >99%一致確認
+ja;generador_svg.py;032;下
+ja;generador_svg.py;033;viridis
+ja;generador_svg.py;034;自動
+ja;generador_svg.py;035;"密度 |ψ|² - {estado[""label""]}\n(平面 Z=0.5Y)"
+ja;generador_svg.py;036;x (m)
+ja;generador_svg.py;037;y (m)
+ja;generador_svg.py;038;赤色
+ja;generador_svg.py;039;VED: {r_ved:.2e}m
+ja;generador_svg.py;040;青色
+ja;generador_svg.py;041;P(r) 量子力学
+ja;generador_svg.py;042;赤色
+ja;generador_svg.py;043;VED: {r_ved:.2e} m
+ja;generador_svg.py;044;精度: {precision:.2f}%
+ja;generador_svg.py;045;"動径確率 - {estado[""label""]}"
+ja;generador_svg.py;046;r (m)
+ja;generador_svg.py;047;P(r) 正規化
+ja;generador_svg.py;048;状態
+ja;generador_svg.py;049;r_ved
+ja;generador_svg.py;050;r_max_mc
+ja;generador_svg.py;051;精度
+ja;generador_svg.py;052;アインシュタイン-VED vs 量子力学比較 - 正確な計算\n
+ja;generador_svg.py;053;決定論的半径 vs 確率分布
+ja;generador_svg.py;054;太字
+ja;generador_svg.py;055;svg
+ja;generador_svg.py;056;密
+ja;generador_svg.py;057;png
+ja;generador_svg.py;058;密
+ja;generador_svg.py;059;状態
+ja;generador_svg.py;060;r_ved
+ja;generador_svg.py;061;r_max_mc
+ja;generador_svg.py;062;精度
+
+fr;graficas_einstein_ved_n4.py;001;#377eb8
+fr;graficas_einstein_ved_n4.py;002;#4daf4a
+fr;graficas_einstein_ved_n4.py;003;#e41a1c
+fr;graficas_einstein_ved_n4.py;004;#f0f0f0
+fr;graficas_einstein_ved_n4.py;005;✅ Sauvegardé: {filename}
+fr;graficas_einstein_ved_n4.py;006;rond,pad=0.3
+fr;graficas_einstein_ved_n4.py;007;#ffebee
+fr;graficas_einstein_ved_n4.py;008;__main__
+fr;graficas_einstein_ved_n4.py;009;🚀 GÉNÉRATION DE TOUS LES GRAPHIQUES EINSTEIN-VED (n=4)...
+fr;graficas_einstein_ved_n4.py;010;Rayon du Proton: Comparaison Exacte Einstein-VED
+fr;graficas_einstein_ved_n4.py;011;🎯 TOUS LES GRAPHIQUES GÉNÉRÉS ✅
+fr;graficas_einstein_ved_n4.py;012;taille de police
+fr;graficas_einstein_ved_n4.py;013;taille des titres d'axes
+fr;graficas_einstein_ved_n4.py;014;taille des labels d'axes
+fr;graficas_einstein_ved_n4.py;015;taille des labels xtick
+fr;graficas_einstein_ved_n4.py;016;taille des labels ytick
+fr;graficas_einstein_ved_n4.py;017;taille de police de légende
+fr;graficas_einstein_ved_n4.py;018;taille du titre de figure
+fr;graficas_einstein_ved_n4.py;019;Modèle Conventionnel ±3σ
+fr;graficas_einstein_ved_n4.py;020;Expérimental LHC ±3σ
+fr;graficas_einstein_ved_n4.py;021;Einstein-VED Déterministe
+fr;graficas_einstein_ved_n4.py;022;Modèle Conventionnel
+fr;graficas_einstein_ved_n4.py;023;Expérimental LHC
+fr;graficas_einstein_ved_n4.py;024;Einstein-VED (n=4)
+fr;graficas_einstein_ved_n4.py;025;Rayon du Proton (fm)
+fr;graficas_einstein_ved_n4.py;026;gras
+fr;graficas_einstein_ved_n4.py;027;en haut à droite
+fr;graficas_einstein_ved_n4.py;028;svg
+fr;graficas_einstein_ved_n4.py;029;serré
+fr;graficas_einstein_ved_n4.py;030;MQ Probabiliste\n(1920s-)
+fr;graficas_einstein_ved_n4.py;031;Données LHC\n(2010s-)
+fr;graficas_einstein_ved_n4.py;032;Einstein-VED\n(2024-)
+fr;graficas_einstein_ved_n4.py;033;k--
+fr;graficas_einstein_ved_n4.py;034;Rayon du Proton (fm)
+fr;graficas_einstein_ved_n4.py;035;Évolution Théorique: De Probabilité à Géométrie Déterministe
+fr;graficas_einstein_ved_n4.py;036;gras
+fr;graficas_einstein_ved_n4.py;037;Einstein-VED:\nGéométrie exacte\nsans probabilité
+fr;graficas_einstein_ved_n4.py;038;svg
+fr;graficas_einstein_ved_n4.py;039;serré
+fr;graficas_einstein_ved_n4.py;040;serré
+fr;graficas_einstein_ved_n4.py;041;désactivé
+fr;graficas_einstein_ved_n4.py;042;Théorie
+fr;graficas_einstein_ved_n4.py;043;Rayon (fm)
+fr;graficas_einstein_ved_n4.py;044;Incertitude
+fr;graficas_einstein_ved_n4.py;045;Précision
+fr;graficas_einstein_ved_n4.py;046;Einstein-VED (n=4)
+fr;graficas_einstein_ved_n4.py;047;{VED_mean:.5f}
+fr;graficas_einstein_ved_n4.py;048;Déterministe
+fr;graficas_einstein_ved_n4.py;049;Expérimental LHC
+fr;graficas_einstein_ved_n4.py;050;{LHC_mean:.5f}
+fr;graficas_einstein_ved_n4.py;051;± 0.014 fm
+fr;graficas_einstein_ved_n4.py;052;Référence
+fr;graficas_einstein_ved_n4.py;053;Modèle Conventionnel
+fr;graficas_einstein_ved_n4.py;054;{MC_mean:.2f}
+fr;graficas_einstein_ved_n4.py;055;± 0.90 fm
+fr;graficas_einstein_ved_n4.py;056;Faible précision
+fr;graficas_einstein_ved_n4.py;057;#ffeaea
+fr;graficas_einstein_ved_n4.py;058;#f0f9e8
+fr;graficas_einstein_ved_n4.py;059;#e8f4fd
+fr;graficas_einstein_ved_n4.py;060;centre
+fr;graficas_einstein_ved_n4.py;061;centre
+fr;graficas_einstein_ved_n4.py;062;#dddddd
+fr;graficas_einstein_ved_n4.py;063;gras
+fr;graficas_einstein_ved_n4.py;064;Comparaison des Rayons Protoniques - Données VED Exactes (n=4)
+fr;graficas_einstein_ved_n4.py;065;gras
+fr;graficas_einstein_ved_n4.py;066;svg
+fr;graficas_einstein_ved_n4.py;067;serré
+fr;graficas_einstein_ved_n4.py;068;Einstein-VED
+fr;graficas_einstein_ved_n4.py;069;MQ (max. prob.)
+fr;graficas_einstein_ved_n4.py;070;État Quantique
+fr;graficas_einstein_ved_n4.py;071;Rayon (unités de a₀)
+fr;graficas_einstein_ved_n4.py;072;Rayons Atomiques: Valeurs Exactes vs Probabilistes
+fr;graficas_einstein_ved_n4.py;073;gras
+fr;graficas_einstein_ved_n4.py;074;{height:.0f}
+fr;graficas_einstein_ved_n4.py;075;centre
+fr;graficas_einstein_ved_n4.py;076;bas
+fr;graficas_einstein_ved_n4.py;077;1s (MQ)
+fr;graficas_einstein_ved_n4.py;078;bleu
+fr;graficas_einstein_ved_n4.py;079;2p (MQ)
+fr;graficas_einstein_ved_n4.py;080;vert
+fr;graficas_einstein_ved_n4.py;081;3d (MQ)
+fr;graficas_einstein_ved_n4.py;082;rouge
+fr;graficas_einstein_ved_n4.py;083;bleu
+fr;graficas_einstein_ved_n4.py;084;Rayon VED 1s
+fr;graficas_einstein_ved_n4.py;085;vert
+fr;graficas_einstein_ved_n4.py;086;Rayon VED 2p
+fr;graficas_einstein_ved_n4.py;087;rouge
+fr;graficas_einstein_ved_n4.py;088;Rayon VED 3d
+fr;graficas_einstein_ved_n4.py;089;Distance radiale (unités de a₀)
+fr;graficas_einstein_ved_n4.py;090;Densité (normalisée)
+fr;graficas_einstein_ved_n4.py;091;Interprétation: Probabilité MQ vs Géométrie VED
+fr;graficas_einstein_ved_n4.py;092;gras
+fr;graficas_einstein_ved_n4.py;093;svg
+fr;graficas_einstein_ved_n4.py;094;serré
+
+sk;graficas_einstein_ved_n4.py;001;#377eb8
+sk;graficas_einstein_ved_n4.py;002;#4daf4a
+sk;graficas_einstein_ved_n4.py;003;#e41a1c
+sk;graficas_einstein_ved_n4.py;004;#f0f0f0
+sk;graficas_einstein_ved_n4.py;005;✅ Uložené: {filename}
+sk;graficas_einstein_ved_n4.py;006;okrúhly,pad=0.3
+sk;graficas_einstein_ved_n4.py;007;#ffebee
+sk;graficas_einstein_ved_n4.py;008;__main__
+sk;graficas_einstein_ved_n4.py;009;🚀 GENEROVANIE VŠETKÝCH GRAFOV EINSTEIN-VED (n=4)...
+sk;graficas_einstein_ved_n4.py;010;Polomer Protónu: Presné Porovnanie Einstein-VED
+sk;graficas_einstein_ved_n4.py;011;🎯 VŠETKY GRAFY VYGENEROVANÉ ✅
+sk;graficas_einstein_ved_n4.py;012;veľkosť písma
+sk;graficas_einstein_ved_n4.py;013;veľkosť titulkov osí
+sk;graficas_einstein_ved_n4.py;014;veľkosť popisov osí
+sk;graficas_einstein_ved_n4.py;015;veľkosť popisov xtick
+sk;graficas_einstein_ved_n4.py;016;veľkosť popisov ytick
+sk;graficas_einstein_ved_n4.py;017;veľkosť písma legendy
+sk;graficas_einstein_ved_n4.py;018;veľkosť titulku obrázka
+sk;graficas_einstein_ved_n4.py;019;Konvenčný Model ±3σ
+sk;graficas_einstein_ved_n4.py;020;Experimentálny LHC ±3σ
+sk;graficas_einstein_ved_n4.py;021;Einstein-VED Deterministický
+sk;graficas_einstein_ved_n4.py;022;Konvenčný Model
+sk;graficas_einstein_ved_n4.py;023;Experimentálny LHC
+sk;graficas_einstein_ved_n4.py;024;Einstein-VED (n=4)
+sk;graficas_einstein_ved_n4.py;025;Polomer Protónu (fm)
+sk;graficas_einstein_ved_n4.py;026;tučný
+sk;graficas_einstein_ved_n4.py;027;vpravo hore
+sk;graficas_einstein_ved_n4.py;028;svg
+sk;graficas_einstein_ved_n4.py;029;tesný
+sk;graficas_einstein_ved_n4.py;030;KM Pravdepodobnostná\n(1920s-)
+sk;graficas_einstein_ved_n4.py;031;Dáta LHC\n(2010s-)
+sk;graficas_einstein_ved_n4.py;032;Einstein-VED\n(2024-)
+sk;graficas_einstein_ved_n4.py;033;k--
+sk;graficas_einstein_ved_n4.py;034;Polomer Protónu (fm)
+sk;graficas_einstein_ved_n4.py;035;Teoretický Vývoj: Od Pravdepodobnosti k Deterministickej Geometrii
+sk;graficas_einstein_ved_n4.py;036;tučný
+sk;graficas_einstein_ved_n4.py;037;Einstein-VED:\nPresná geometria\nbez pravdepodobnosti
+sk;graficas_einstein_ved_n4.py;038;svg
+sk;graficas_einstein_ved_n4.py;039;tesný
+sk;graficas_einstein_ved_n4.py;040;tesný
+sk;graficas_einstein_ved_n4.py;041;vypnuté
+sk;graficas_einstein_ved_n4.py;042;Teória
+sk;graficas_einstein_ved_n4.py;043;Polomer (fm)
+sk;graficas_einstein_ved_n4.py;044;Neistota
+sk;graficas_einstein_ved_n4.py;045;Presnosť
+sk;graficas_einstein_ved_n4.py;046;Einstein-VED (n=4)
+sk;graficas_einstein_ved_n4.py;047;{VED_mean:.5f}
+sk;graficas_einstein_ved_n4.py;048;Deterministický
+sk;graficas_einstein_ved_n4.py;049;Experimentálny LHC
+sk;graficas_einstein_ved_n4.py;050;{LHC_mean:.5f}
+sk;graficas_einstein_ved_n4.py;051;± 0.014 fm
+sk;graficas_einstein_ved_n4.py;052;Referencia
+sk;graficas_einstein_ved_n4.py;053;Konvenčný Model
+sk;graficas_einstein_ved_n4.py;054;{MC_mean:.2f}
+sk;graficas_einstein_ved_n4.py;055;± 0.90 fm
+sk;graficas_einstein_ved_n4.py;056;Nízka presnosť
+sk;graficas_einstein_ved_n4.py;057;#ffeaea
+sk;graficas_einstein_ved_n4.py;058;#f0f9e8
+sk;graficas_einstein_ved_n4.py;059;#e8f4fd
+sk;graficas_einstein_ved_n4.py;060;stred
+sk;graficas_einstein_ved_n4.py;061;stred
+sk;graficas_einstein_ved_n4.py;062;#dddddd
+sk;graficas_einstein_ved_n4.py;063;tučný
+sk;graficas_einstein_ved_n4.py;064;Porovnanie Protónových Polomerov - Presné Údaje VED (n=4)
+sk;graficas_einstein_ved_n4.py;065;tučný
+sk;graficas_einstein_ved_n4.py;066;svg
+sk;graficas_einstein_ved_n4.py;067;tesný
+sk;graficas_einstein_ved_n4.py;068;Einstein-VED
+sk;graficas_einstein_ved_n4.py;069;KM (max. pravdep.)
+sk;graficas_einstein_ved_n4.py;070;Kvantový Stav
+sk;graficas_einstein_ved_n4.py;071;Polomer (jednotky a₀)
+sk;graficas_einstein_ved_n4.py;072;Atómové Polomery: Presné vs Pravdepodobnostné Hodnoty
+sk;graficas_einstein_ved_n4.py;073;tučný
+sk;graficas_einstein_ved_n4.py;074;{height:.0f}
+sk;graficas_einstein_ved_n4.py;075;stred
+sk;graficas_einstein_ved_n4.py;076;spodok
+sk;graficas_einstein_ved_n4.py;077;1s (KM)
+sk;graficas_einstein_ved_n4.py;078;modrá
+sk;graficas_einstein_ved_n4.py;079;2p (KM)
+sk;graficas_einstein_ved_n4.py;080;zelená
+sk;graficas_einstein_ved_n4.py;081;3d (KM)
+sk;graficas_einstein_ved_n4.py;082;červená
+sk;graficas_einstein_ved_n4.py;083;modrá
+sk;graficas_einstein_ved_n4.py;084;Polomer VED 1s
+sk;graficas_einstein_ved_n4.py;085;zelená
+sk;graficas_einstein_ved_n4.py;086;Polomer VED 2p
+sk;graficas_einstein_ved_n4.py;087;červená
+sk;graficas_einstein_ved_n4.py;088;Polomer VED 3d
+sk;graficas_einstein_ved_n4.py;089;Radiálna vzdialenosť (jednotky a₀)
+sk;graficas_einstein_ved_n4.py;090;Hustota (normalizovaná)
+sk;graficas_einstein_ved_n4.py;091;Interpretácia: Pravdepodobnosť KM vs Geometria VED
+sk;graficas_einstein_ved_n4.py;092;tučný
+sk;graficas_einstein_ved_n4.py;093;svg
+sk;graficas_einstein_ved_n4.py;094;tesný
+
+ar;graficas_einstein_ved_n4.py;001;#377eb8
+ar;graficas_einstein_ved_n4.py;002;#4daf4a
+ar;graficas_einstein_ved_n4.py;003;#e41a1c
+ar;graficas_einstein_ved_n4.py;004;#f0f0f0
+ar;graficas_einstein_ved_n4.py;005;✅ تم الحفظ: {filename}
+ar;graficas_einstein_ved_n4.py;006;مدور,pad=0.3
+ar;graficas_einstein_ved_n4.py;007;#ffebee
+ar;graficas_einstein_ved_n4.py;008;__main__
+ar;graficas_einstein_ved_n4.py;009;🚀 إنشاء جميع رسومات أينشتاين-فيد (n=4)...
+ar;graficas_einstein_ved_n4.py;010;نصف قطر البروتون: مقارنة دقيقة أينشتاين-فيد
+ar;graficas_einstein_ved_n4.py;011;🎯 جميع الرسومات تم إنشاؤها ✅
+ar;graficas_einstein_ved_n4.py;012;حجم الخط
+ar;graficas_einstein_ved_n4.py;013;حجم عناوين المحاور
+ar;graficas_einstein_ved_n4.py;014;حجم تسميات المحاور
+ar;graficas_einstein_ved_n4.py;015;حجم تسميات xtick
+ar;graficas_einstein_ved_n4.py;016;حجم تسميات ytick
+ar;graficas_einstein_ved_n4.py;017;حجم خط وسيلة الإيضاح
+ar;graficas_einstein_ved_n4.py;018;حجم عنوان الشكل
+ar;graficas_einstein_ved_n4.py;019;النموذج التقليدي ±3σ
+ar;graficas_einstein_ved_n4.py;020;التجريبي LHC ±3σ
+ar;graficas_einstein_ved_n4.py;021;أينشتاين-فيد حتمي
+ar;graficas_einstein_ved_n4.py;022;النموذج التقليدي
+ar;graficas_einstein_ved_n4.py;023;التجريبي LHC
+ar;graficas_einstein_ved_n4.py;024;أينشتاين-فيد (n=4)
+ar;graficas_einstein_ved_n4.py;025;نصف قطر البروتون (فيمتو متر)
+ar;graficas_einstein_ved_n4.py;026;عريض
+ar;graficas_einstein_ved_n4.py;027;أعلى اليمين
+ar;graficas_einstein_ved_n4.py;028;svg
+ar;graficas_einstein_ved_n4.py;029;مضغوط
+ar;graficas_einstein_ved_n4.py;030;ميكانيكا الكم الاحتمالية\n(1920s-)
+ar;graficas_einstein_ved_n4.py;031;بيانات LHC\n(2010s-)
+ar;graficas_einstein_ved_n4.py;032;أينشتاين-فيد\n(2024-)
+ar;graficas_einstein_ved_n4.py;033;k--
+ar;graficas_einstein_ved_n4.py;034;نصف قطر البروتون (فيمتو متر)
+ar;graficas_einstein_ved_n4.py;035;التطور النظري: من الاحتمالية إلى الهندسة الحتمية
+ar;graficas_einstein_ved_n4.py;036;عريض
+ar;graficas_einstein_ved_n4.py;037;أينشتاين-فيد:\nهندسة دقيقة\nبدون احتمالية
+ar;graficas_einstein_ved_n4.py;038;svg
+ar;graficas_einstein_ved_n4.py;039;مضغوط
+ar;graficas_einstein_ved_n4.py;040;مضغوط
+ar;graficas_einstein_ved_n4.py;041;معطل
+ar;graficas_einstein_ved_n4.py;042;نظرية
+ar;graficas_einstein_ved_n4.py;043;نصف القطر (فيمتو متر)
+ar;graficas_einstein_ved_n4.py;044;عدم اليقين
+ar;graficas_einstein_ved_n4.py;045;الدقة
+ar;graficas_einstein_ved_n4.py;046;أينشتاين-فيد (n=4)
+ar;graficas_einstein_ved_n4.py;047;{VED_mean:.5f}
+ar;graficas_einstein_ved_n4.py;048;حتمي
+ar;graficas_einstein_ved_n4.py;049;التجريبي LHC
+ar;graficas_einstein_ved_n4.py;050;{LHC_mean:.5f}
+ar;graficas_einstein_ved_n4.py;051;± 0.014 فيمتو متر
+ar;graficas_einstein_ved_n4.py;052;مرجع
+ar;graficas_einstein_ved_n4.py;053;النموذج التقليدي
+ar;graficas_einstein_ved_n4.py;054;{MC_mean:.2f}
+ar;graficas_einstein_ved_n4.py;055;± 0.90 فيمتو متر
+ar;graficas_einstein_ved_n4.py;056;دقة منخفضة
+ar;graficas_einstein_ved_n4.py;057;#ffeaea
+ar;graficas_einstein_ved_n4.py;058;#f0f9e8
+ar;graficas_einstein_ved_n4.py;059;#e8f4fd
+ar;graficas_einstein_ved_n4.py;060;مركز
+ar;graficas_einstein_ved_n4.py;061;مركز
+ar;graficas_einstein_ved_n4.py;062;#dddddd
+ar;graficas_einstein_ved_n4.py;063;عريض
+ar;graficas_einstein_ved_n4.py;064;مقارنة أنصاف أقطار البروتون - بيانات فيد دقيقة (n=4)
+ar;graficas_einstein_ved_n4.py;065;عريض
+ar;graficas_einstein_ved_n4.py;066;svg
+ar;graficas_einstein_ved_n4.py;067;مضغوط
+ar;graficas_einstein_ved_n4.py;068;أينشتاين-فيد
+ar;graficas_einstein_ved_n4.py;069;ميكانيكا الكم (الحد الأقصى للاحتمال)
+ar;graficas_einstein_ved_n4.py;070;الحالة الكمومية
+ar;graficas_einstein_ved_n4.py;071;نصف القطر (وحدات a₀)
+ar;graficas_einstein_ved_n4.py;072;أنصاف أقطار ذرية: قيم دقيقة vs احتمالية
+ar;graficas_einstein_ved_n4.py;073;عريض
+ar;graficas_einstein_ved_n4.py;074;{height:.0f}
+ar;graficas_einstein_ved_n4.py;075;مركز
+ar;graficas_einstein_ved_n4.py;076;أسفل
+ar;graficas_einstein_ved_n4.py;077;1s (ميكانيكا الكم)
+ar;graficas_einstein_ved_n4.py;078;أزرق
+ar;graficas_einstein_ved_n4.py;079;2p (ميكانيكا الكم)
+ar;graficas_einstein_ved_n4.py;080;أخضر
+ar;graficas_einstein_ved_n4.py;081;3d (ميكانيكا الكم)
+ar;graficas_einstein_ved_n4.py;082;أحمر
+ar;graficas_einstein_ved_n4.py;083;أزرق
+ar;graficas_einstein_ved_n4.py;084;نصف قطر فيد 1s
+ar;graficas_einstein_ved_n4.py;085;أخضر
+ar;graficas_einstein_ved_n4.py;086;نصف قطر فيد 2p
+ar;graficas_einstein_ved_n4.py;087;أحمر
+ar;graficas_einstein_ved_n4.py;088;نصف قطر فيد 3d
+ar;graficas_einstein_ved_n4.py;089;المسافة الشعاعية (وحدات a₀)
+ar;graficas_einstein_ved_n4.py;090;الكثافة (موحدة)
+ar;graficas_einstein_ved_n4.py;091;التفسير: احتمالية ميكانيكا الكم vs هندسة فيد
+ar;graficas_einstein_ved_n4.py;092;عريض
+ar;graficas_einstein_ved_n4.py;093;svg
+ar;graficas_einstein_ved_n4.py;094;مضغوط
+
+zh;graficas_einstein_ved_n4.py;001;#377eb8
+zh;graficas_einstein_ved_n4.py;002;#4daf4a
+zh;graficas_einstein_ved_n4.py;003;#e41a1c
+zh;graficas_einstein_ved_n4.py;004;#f0f0f0
+zh;graficas_einstein_ved_n4.py;005;✅ 已保存: {filename}
+zh;graficas_einstein_ved_n4.py;006;圆形,pad=0.3
+zh;graficas_einstein_ved_n4.py;007;#ffebee
+zh;graficas_einstein_ved_n4.py;008;__main__
+zh;graficas_einstein_ved_n4.py;009;🚀 生成所有爱因斯坦-VED图表 (n=4)...
+zh;graficas_einstein_ved_n4.py;010;质子半径: 精确的爱因斯坦-VED比较
+zh;graficas_einstein_ved_n4.py;011;🎯 所有图表已生成 ✅
+zh;graficas_einstein_ved_n4.py;012;字体大小
+zh;graficas_einstein_ved_n4.py;013;坐标轴标题大小
+zh;graficas_einstein_ved_n4.py;014;坐标轴标签大小
+zh;graficas_einstein_ved_n4.py;015;xtick标签大小
+zh;graficas_einstein_ved_n4.py;016;ytick标签大小
+zh;graficas_einstein_ved_n4.py;017;图例字体大小
+zh;graficas_einstein_ved_n4.py;018;图形标题大小
+zh;graficas_einstein_ved_n4.py;019;传统模型 ±3σ
+zh;graficas_einstein_ved_n4.py;020;LHC实验 ±3σ
+zh;graficas_einstein_ved_n4.py;021;爱因斯坦-VED确定性
+zh;graficas_einstein_ved_n4.py;022;传统模型
+zh;graficas_einstein_ved_n4.py;023;LHC实验
+zh;graficas_einstein_ved_n4.py;024;爱因斯坦-VED (n=4)
+zh;graficas_einstein_ved_n4.py;025;质子半径 (飞米)
+zh;graficas_einstein_ved_n4.py;026;粗体
+zh;graficas_einstein_ved_n4.py;027;右上
+zh;graficas_einstein_ved_n4.py;028;svg
+zh;graficas_einstein_ved_n4.py;029;紧凑
+zh;graficas_einstein_ved_n4.py;030;量子力学概率性\n(1920年代-)
+zh;graficas_einstein_ved_n4.py;031;LHC数据\n(2010年代-)
+zh;graficas_einstein_ved_n4.py;032;爱因斯坦-VED\n(2024-)
+zh;graficas_einstein_ved_n4.py;033;k--
+zh;graficas_einstein_ved_n4.py;034;质子半径 (飞米)
+zh;graficas_einstein_ved_n4.py;035;理论演进: 从概率到确定性几何
+zh;graficas_einstein_ved_n4.py;036;粗体
+zh;graficas_einstein_ved_n4.py;037;爱因斯坦-VED:\n精确几何\n无概率
+zh;graficas_einstein_ved_n4.py;038;svg
+zh;graficas_einstein_ved_n4.py;039;紧凑
+zh;graficas_einstein_ved_n4.py;040;紧凑
+zh;graficas_einstein_ved_n4.py;041;关闭
+zh;graficas_einstein_ved_n4.py;042;理论
+zh;graficas_einstein_ved_n4.py;043;半径 (飞米)
+zh;graficas_einstein_ved_n4.py;044;不确定性
+zh;graficas_einstein_ved_n4.py;045;精度
+zh;graficas_einstein_ved_n4.py;046;爱因斯坦-VED (n=4)
+zh;graficas_einstein_ved_n4.py;047;{VED_mean:.5f}
+zh;graficas_einstein_ved_n4.py;048;确定性
+zh;graficas_einstein_ved_n4.py;049;LHC实验
+zh;graficas_einstein_ved_n4.py;050;{LHC_mean:.5f}
+zh;graficas_einstein_ved_n4.py;051;± 0.014 飞米
+zh;graficas_einstein_ved_n4.py;052;参考
+zh;graficas_einstein_ved_n4.py;053;传统模型
+zh;graficas_einstein_ved_n4.py;054;{MC_mean:.2f}
+zh;graficas_einstein_ved_n4.py;055;± 0.90 飞米
+zh;graficas_einstein_ved_n4.py;056;低精度
+zh;graficas_einstein_ved_n4.py;057;#ffeaea
+zh;graficas_einstein_ved_n4.py;058;#f0f9e8
+zh;graficas_einstein_ved_n4.py;059;#e8f4fd
+zh;graficas_einstein_ved_n4.py;060;居中
+zh;graficas_einstein_ved_n4.py;061;居中
+zh;graficas_einstein_ved_n4.py;062;#dddddd
+zh;graficas_einstein_ved_n4.py;063;粗体
+zh;graficas_einstein_ved_n4.py;064;质子半径比较 - 精确的VED数据 (n=4)
+zh;graficas_einstein_ved_n4.py;065;粗体
+zh;graficas_einstein_ved_n4.py;066;svg
+zh;graficas_einstein_ved_n4.py;067;紧凑
+zh;graficas_einstein_ved_n4.py;068;爱因斯坦-VED
+zh;graficas_einstein_ved_n4.py;069;量子力学 (最大概率)
+zh;graficas_einstein_ved_n4.py;070;量子态
+zh;graficas_einstein_ved_n4.py;071;半径 (a₀单位)
+zh;graficas_einstein_ved_n4.py;072;原子半径: 精确值 vs 概率值
+zh;graficas_einstein_ved_n4.py;073;粗体
+zh;graficas_einstein_ved_n4.py;074;{height:.0f}
+zh;graficas_einstein_ved_n4.py;075;居中
+zh;graficas_einstein_ved_n4.py;076;底部
+zh;graficas_einstein_ved_n4.py;077;1s (量子力学)
+zh;graficas_einstein_ved_n4.py;078;蓝色
+zh;graficas_einstein_ved_n4.py;079;2p (量子力学)
+zh;graficas_einstein_ved_n4.py;080;绿色
+zh;graficas_einstein_ved_n4.py;081;3d (量子力学)
+zh;graficas_einstein_ved_n4.py;082;红色
+zh;graficas_einstein_ved_n4.py;083;蓝色
+zh;graficas_einstein_ved_n4.py;084;VED半径 1s
+zh;graficas_einstein_ved_n4.py;085;绿色
+zh;graficas_einstein_ved_n4.py;086;VED半径 2p
+zh;graficas_einstein_ved_n4.py;087;红色
+zh;graficas_einstein_ved_n4.py;088;VED半径 3d
+zh;graficas_einstein_ved_n4.py;089;径向距离 (a₀单位)
+zh;graficas_einstein_ved_n4.py;090;密度 (归一化)
+zh;graficas_einstein_ved_n4.py;091;解释: 量子力学概率 vs VED几何
+zh;graficas_einstein_ved_n4.py;092;粗体
+zh;graficas_einstein_ved_n4.py;093;svg
+zh;graficas_einstein_ved_n4.py;094;紧凑
+
+ja;graficas_einstein_ved_n4.py;001;#377eb8
+ja;graficas_einstein_ved_n4.py;002;#4daf4a
+ja;graficas_einstein_ved_n4.py;003;#e41a1c
+ja;graficas_einstein_ved_n4.py;004;#f0f0f0
+ja;graficas_einstein_ved_n4.py;005;✅ 保存済み: {filename}
+ja;graficas_einstein_ved_n4.py;006;丸い,pad=0.3
+ja;graficas_einstein_ved_n4.py;007;#ffebee
+ja;graficas_einstein_ved_n4.py;008;__main__
+ja;graficas_einstein_ved_n4.py;009;🚀 すべてのアインシュタイン-VEDグラフ生成中 (n=4)...
+ja;graficas_einstein_ved_n4.py;010;陽子半径: 正確なアインシュタイン-VED比較
+ja;graficas_einstein_ved_n4.py;011;🎯 すべてのグラフ生成完了 ✅
+ja;graficas_einstein_ved_n4.py;012;フォントサイズ
+ja;graficas_einstein_ved_n4.py;013;軸タイトルサイズ
+ja;graficas_einstein_ved_n4.py;014;軸ラベルサイズ
+ja;graficas_einstein_ved_n4.py;015;xtickラベルサイズ
+ja;graficas_einstein_ved_n4.py;016;ytickラベルサイズ
+ja;graficas_einstein_ved_n4.py;017;凡例フォントサイズ
+ja;graficas_einstein_ved_n4.py;018;図タイトルサイズ
+ja;graficas_einstein_ved_n4.py;019;従来モデル ±3σ
+ja;graficas_einstein_ved_n4.py;020;LHC実験 ±3σ
+ja;graficas_einstein_ved_n4.py;021;アインシュタイン-VED決定論的
+ja;graficas_einstein_ved_n4.py;022;従来モデル
+ja;graficas_einstein_ved_n4.py;023;LHC実験
+ja;graficas_einstein_ved_n4.py;024;アインシュタイン-VED (n=4)
+ja;graficas_einstein_ved_n4.py;025;陽子半径 (fm)
+ja;graficas_einstein_ved_n4.py;026;太字
+ja;graficas_einstein_ved_n4.py;027;右上
+ja;graficas_einstein_ved_n4.py;028;svg
+ja;graficas_einstein_ved_n4.py;029;密
+ja;graficas_einstein_ved_n4.py;030;量子力学確率的\n(1920年代-)
+ja;graficas_einstein_ved_n4.py;031;LHCデータ\n(2010年代-)
+ja;graficas_einstein_ved_n4.py;032;アインシュタイン-VED\n(2024-)
+ja;graficas_einstein_ved_n4.py;033;k--
+ja;graficas_einstein_ved_n4.py;034;陽子半径 (fm)
+ja;graficas_einstein_ved_n4.py;035;理論的進化: 確率から決定論的幾何学へ
+ja;graficas_einstein_ved_n4.py;036;太字
+ja;graficas_einstein_ved_n4.py;037;アインシュタイン-VED:\n正確な幾何学\n確率なし
+ja;graficas_einstein_ved_n4.py;038;svg
+ja;graficas_einstein_ved_n4.py;039;密
+ja;graficas_einstein_ved_n4.py;040;密
+ja;graficas_einstein_ved_n4.py;041;オフ
+ja;graficas_einstein_ved_n4.py;042;理論
+ja;graficas_einstein_ved_n4.py;043;半径 (fm)
+ja;graficas_einstein_ved_n4.py;044;不確かさ
+ja;graficas_einstein_ved_n4.py;045;精度
+ja;graficas_einstein_ved_n4.py;046;アインシュタイン-VED (n=4)
+ja;graficas_einstein_ved_n4.py;047;{VED_mean:.5f}
+ja;graficas_einstein_ved_n4.py;048;決定論的
+ja;graficas_einstein_ved_n4.py;049;LHC実験
+ja;graficas_einstein_ved_n4.py;050;{LHC_mean:.5f}
+ja;graficas_einstein_ved_n4.py;051;± 0.014 fm
+ja;graficas_einstein_ved_n4.py;052;参照
+ja;graficas_einstein_ved_n4.py;053;従来モデル
+ja;graficas_einstein_ved_n4.py;054;{MC_mean:.2f}
+ja;graficas_einstein_ved_n4.py;055;± 0.90 fm
+ja;graficas_einstein_ved_n4.py;056;低精度
+ja;graficas_einstein_ved_n4.py;057;#ffeaea
+ja;graficas_einstein_ved_n4.py;058;#f0f9e8
+ja;graficas_einstein_ved_n4.py;059;#e8f4fd
+ja;graficas_einstein_ved_n4.py;060;中央
+ja;graficas_einstein_ved_n4.py;061;中央
+ja;graficas_einstein_ved_n4.py;062;#dddddd
+ja;graficas_einstein_ved_n4.py;063;太字
+ja;graficas_einstein_ved_n4.py;064;陽子半径比較 - 正確なVEDデータ (n=4)
+ja;graficas_einstein_ved_n4.py;065;太字
+ja;graficas_einstein_ved_n4.py;066;svg
+ja;graficas_einstein_ved_n4.py;067;密
+ja;graficas_einstein_ved_n4.py;068;アインシュタイン-VED
+ja;graficas_einstein_ved_n4.py;069;量子力学 (最大確率)
+ja;graficas_einstein_ved_n4.py;070;量子状態
+ja;graficas_einstein_ved_n4.py;071;半径 (a₀単位)
+ja;graficas_einstein_ved_n4.py;072;原子半径: 正確な値 vs 確率的值
+ja;graficas_einstein_ved_n4.py;073;太字
+ja;graficas_einstein_ved_n4.py;074;{height:.0f}
+ja;graficas_einstein_ved_n4.py;075;中央
+ja;graficas_einstein_ved_n4.py;076;下部
+ja;graficas_einstein_ved_n4.py;077;1s (量子力学)
+ja;graficas_einstein_ved_n4.py;078;青色
+ja;graficas_einstein_ved_n4.py;079;2p (量子力学)
+ja;graficas_einstein_ved_n4.py;080;緑色
+ja;graficas_einstein_ved_n4.py;081;3d (量子力学)
+ja;graficas_einstein_ved_n4.py;082;赤色
+ja;graficas_einstein_ved_n4.py;083;青色
+ja;graficas_einstein_ved_n4.py;084;VED半径 1s
+ja;graficas_einstein_ved_n4.py;085;緑色
+ja;graficas_einstein_ved_n4.py;086;VED半径 2p
+ja;graficas_einstein_ved_n4.py;087;赤色
+ja;graficas_einstein_ved_n4.py;088;VED半径 3d
+ja;graficas_einstein_ved_n4.py;089;動径距離 (a₀単位)
+ja;graficas_einstein_ved_n4.py;090;密度 (正規化)
+ja;graficas_einstein_ved_n4.py;091;解釈: 量子力学確率 vs VED幾何学
+ja;graficas_einstein_ved_n4.py;092;太字
+ja;graficas_einstein_ved_n4.py;093;svg
+ja;graficas_einstein_ved_n4.py;094;密

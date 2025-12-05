@@ -1,0 +1,136 @@
+idioma;archivo;id;texto
+it;entrelazamiento_geometrico.py;0009;Fondamento Einstein
+it;entrelazamiento_geometrico.py;0032;ENTANGLEMENT QUANTISTICO: Spiegazione Geometrica Einstein-VED
+it;entrelazamiento_geometrico.py;0049;Cornice Interna: Tempo Proprio Condiviso
+it;entrelazamiento_geometrico.py;0068;Cornice Esterna: Prospettiva Convenzionale
+it;entrelazamiento_geometrico.py;0073;SIMBOLOGIA:\n\n
+it;entrelazamiento_geometrico.py;0074;🔴 Particella A (45°)\n
+it;entrelazamiento_geometrico.py;0075;🟢 Particella B (225°)\n
+it;entrelazamiento_geometrico.py;0076;⚫ Osservatore\n
+it;entrelazamiento_geometrico.py;0077;▬▬ Connessione geometrica\n
+it;entrelazamiento_geometrico.py;0078;▬▬ Linee di visione
+it;entrelazamiento_geometrico.py;0084;round,pad=0.6
+it;entrelazamiento_geometrico.py;0088;FRONTE D'ONDA
+it;entrelazamiento_geometrico.py;0090;CHIAVE EINSTEIN-VED:\n\n
+it;entrelazamiento_geometrico.py;0091;Entrambe le particelle (incluse antipodali)\ncondividono lo stesso spazio-tempo proprio t₀, s₀\n\n
+it;entrelazamiento_geometrico.py;0092;Perché: dt' → 0 e ds' → 0 a velocità c\n\n
+it;entrelazamiento_geometrico.py;0095;Nessuna azione a distanza
+it;entrelazamiento_geometrico.py;0101;round,pad=0.8
+it;entrelazamiento_geometrico.py;0109;FONDAZIONE EINSTEIN-VED:\n\n
+it;entrelazamiento_geometrico.py;0110;Le particelle entangled condividono uno spazio-tempo proprio comune dalla loro origine.
+it;entrelazamiento_geometrico.py;0111;Quando viaggiano a velocità c, i loro differenziali di tempo e spazio propri tendono a zero
+it;entrelazamiento_geometrico.py;0112;(dt' → 0, ds' → 0), mantenendole connesse allo stesso istante t₀ e posizione s₀.
+it;entrelazamiento_geometrico.py;0113;Questa simultaneità geometrica spiega le correlazioni quantistiche senza violare la relatività.
+it;entrelazamiento_geometrico.py;0119;round,pad=0.8
+it;entrelazamiento_geometrico.py;0125;EQUAZIONI FONDAMENTALI:\n\n
+it;entrelazamiento_geometrico.py;0126;Per particelle a velocità c:\n
+it;entrelazamiento_geometrico.py;0130;Equazione di campo:\n
+it;entrelazamiento_geometrico.py;0131;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+it;entrelazamiento_geometrico.py;0132;Simultaneità assoluta in cornice propria
+it;entrelazamiento_geometrico.py;0138;round,pad=0.8
+it;entrelazamiento_geometrico.py;0144;INTERPRETAZIONE EINSTEIN-VED: L'entanglement quantistico cessa di essere paradossale quando compreso
+it;entrelazamiento_geometrico.py;0145;dalla geometria dello spazio-tempo. Particelle generate nello stesso evento condividono un fronte
+it;entrelazamiento_geometrico.py;0146;d'onda dove il loro tempo proprio rimane congelato a t₀. Questa simultaneità intrinseca spiega
+it;entrelazamiento_geometrico.py;0147;correlazioni perfette senza 'azione spettrale'. La probabilità quantistica riflette prospettiva
+it;entrelazamiento_geometrico.py;0148;limitata dell'osservatore, non proprietà fondamentale.
+it;entrelazamiento_geometrico.py;0154;round,pad=0.8
+it;entrelazamiento_geometrico.py;0167;🎯 CREANDO VERSIONE FINALE CON QUADRI STESSO LIVELLO...
+it;entrelazamiento_geometrico.py;0170;\n✨ CORREZIONI APPLICATE:
+it;entrelazamiento_geometrico.py;0171;• Quadri 'Fondamento Einstein' e 'Equazioni' STESSO LIVELLO
+it;entrelazamiento_geometrico.py;0172;• Figura più LARGA (16x10) per accomodare entrambi
+it;entrelazamiento_geometrico.py;0173;• Design equilibrato e simmetrico
+it;entrelazamiento_geometrico.py;0174;• Decorazione e colori RISPETTATI
+it;entrelazamiento_geometrico.py;0175;• ZERO sovrapposizioni
+it;entrelazamiento_geometrico.py;001;""""
+it;entrelazamiento_geometrico.py;002; e 
+it;entrelazamiento_geometrico.py;003;""" allo stesso livello"
+it;entrelazamiento_geometrico.py;004;SIMBOLOGIA:\n\n
+it;entrelazamiento_geometrico.py;005;🔴 Particella A (45°)\n
+it;entrelazamiento_geometrico.py;006;🟢 Particella B (225°)\n
+it;entrelazamiento_geometrico.py;007;⚫ Osservatore\n
+it;entrelazamiento_geometrico.py;008;▬▬ Connessione geometrica\n
+it;entrelazamiento_geometrico.py;009;▬▬ Linee di vista
+it;entrelazamiento_geometrico.py;010;round,pad=0.6
+it;entrelazamiento_geometrico.py;011;white
+it;entrelazamiento_geometrico.py;012;FRONTE D'ONDA
+it;entrelazamiento_geometrico.py;013;CHIAVE EINSTEIN-VED:\n\n
+it;entrelazamiento_geometrico.py;014;Entrambe le particelle (incluse quelle antipodali)\ncondividono lo stesso spazio-tempo proprio t₀, s₀\n\n
+it;entrelazamiento_geometrico.py;015;Perché: dt' → 0 e ds' → 0 alla velocità c\n\n
+it;entrelazamiento_geometrico.py;016;t = t₀ + dt' → t₀\n
+it;entrelazamiento_geometrico.py;017;s = s₀ + ds' → s₀\n\n
+it;entrelazamiento_geometrico.py;018;Nessuna azione a distanza
+it;entrelazamiento_geometrico.py;019;round,pad=0.8
+it;entrelazamiento_geometrico.py;020;#fffacd
+it;entrelazamiento_geometrico.py;021;FONDAMENTO EINSTEIN-VED:\n\n
+it;entrelazamiento_geometrico.py;022;Le particelle entangled condividono uno spazio-tempo proprio comune dalla loro origine. 
+it;entrelazamiento_geometrico.py;023;Quando viaggiano alla velocità c, i loro differenziali di tempo e spazio propri tendono a zero 
+it;entrelazamiento_geometrico.py;024;(dt' → 0, ds' → 0), mantenendole connesse nello stesso istante t₀ e posizione s₀. 
+it;entrelazamiento_geometrico.py;025;Questa simultaneità geometrica spiega le correlazioni quantistiche senza violare la relatività.
+it;entrelazamiento_geometrico.py;026;round,pad=0.8
+it;entrelazamiento_geometrico.py;027;#ffebee
+it;entrelazamiento_geometrico.py;028;EQUAZIONI FONDAMENTALI:\n\n
+it;entrelazamiento_geometrico.py;029;Per particelle alla velocità c:\n
+it;entrelazamiento_geometrico.py;030;• dt' → 0, ds' → 0\n
+it;entrelazamiento_geometrico.py;031;• t = t₀ + dt' → t₀\n
+it;entrelazamiento_geometrico.py;032;• s = s₀ + ds' → s₀\n\n
+it;entrelazamiento_geometrico.py;033;Equazione di campo:\n
+it;entrelazamiento_geometrico.py;034;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+it;entrelazamiento_geometrico.py;035;Simultaneità assoluta nel sistema proprio
+it;entrelazamiento_geometrico.py;036;round,pad=0.8
+it;entrelazamiento_geometrico.py;037;#f0f8ff
+it;entrelazamiento_geometrico.py;038;INTERPRETAZIONE EINSTEIN-VED: L'entanglement quantistico cessa di essere paradossale quando compreso 
+it;entrelazamiento_geometrico.py;039;dalla geometria dello spazio-tempo. Particelle generate nello stesso evento condividono un fronte 
+it;entrelazamiento_geometrico.py;040;d'onda dove il loro tempo proprio rimane congelato a t₀. Questa simultaneità intrinseca spiega 
+it;entrelazamiento_geometrico.py;041;correlazioni perfette senza 'azione spettrale'. La probabilità quantistica riflette la prospettiva 
+it;entrelazamiento_geometrico.py;042;limitata dell'osservatore, non proprietà fondamentale.
+it;entrelazamiento_geometrico.py;043;round,pad=0.8
+it;entrelazamiento_geometrico.py;044;#f5f5f5
+it;entrelazamiento_geometrico.py;045;__main__
+it;entrelazamiento_geometrico.py;046;🎯 CREAZIONE VERSIONE FINALE CON RIQUADRI ALLO STESSO LIVELLO...
+it;entrelazamiento_geometrico.py;047;\n✨ CORREZIONI APPLICATE:
+it;entrelazamiento_geometrico.py;048;   • Riquadri 'Fondamento Einstein' e 'Equazioni' allo STESSO LIVELLO
+it;entrelazamiento_geometrico.py;049;   • Figura più AMPIA (16x10) per accomodare entrambi
+it;entrelazamiento_geometrico.py;050;   • Design bilanciato e simmetrico
+it;entrelazamiento_geometrico.py;051;   • Decorazione e colori RISPETTATI
+it;entrelazamiento_geometrico.py;052;   • ZERO sovrapposizioni
+it;entrelazamiento_geometrico.py;053;ENTANGLEMENT QUANTISTICO: Spiegazione Geometrica Einstein-VED
+it;entrelazamiento_geometrico.py;054;bold
+it;entrelazamiento_geometrico.py;055;blue
+it;entrelazamiento_geometrico.py;056;k--
+it;entrelazamiento_geometrico.py;057;equal
+it;entrelazamiento_geometrico.py;058;Sistema Interno: Tempo Proprio Condiviso
+it;entrelazamiento_geometrico.py;059;bold
+it;entrelazamiento_geometrico.py;060;blue
+it;entrelazamiento_geometrico.py;061;equal
+it;entrelazamiento_geometrico.py;062;Sistema Esterno: Prospettiva Convenzionale
+it;entrelazamiento_geometrico.py;063;bold
+it;entrelazamiento_geometrico.py;064;left
+it;entrelazamiento_geometrico.py;065;center
+it;entrelazamiento_geometrico.py;066;bold
+it;entrelazamiento_geometrico.py;067;gray
+it;entrelazamiento_geometrico.py;068; → 0 e ds
+it;entrelazamiento_geometrico.py;069;""" → t₀\n"""""
+it;entrelazamiento_geometrico.py;070;center
+it;entrelazamiento_geometrico.py;071;center
+it;entrelazamiento_geometrico.py;072;bold
+it;entrelazamiento_geometrico.py;073;orange
+it;entrelazamiento_geometrico.py;074; → 0, ds
+it;entrelazamiento_geometrico.py;075;center
+it;entrelazamiento_geometrico.py;076;center
+it;entrelazamiento_geometrico.py;077;italic
+it;entrelazamiento_geometrico.py;078;red
+it;entrelazamiento_geometrico.py;079; → 0, ds
+it;entrelazamiento_geometrico.py;080;""" → t₀\n"""" "
+it;entrelazamiento_geometrico.py;081;center
+it;entrelazamiento_geometrico.py;082;center
+it;entrelazamiento_geometrico.py;083;bold
+it;entrelazamiento_geometrico.py;084;blue
+it;entrelazamiento_geometrico.py;085;azione spettrale
+it;entrelazamiento_geometrico.py;086;center
+it;entrelazamiento_geometrico.py;087;center
+it;entrelazamiento_geometrico.py;088;black
+it;entrelazamiento_geometrico.py;089;svg
+it;entrelazamiento_geometrico.py;090;tight
+it;entrelazamiento_geometrico.py;091;white
+it;entrelazamiento_geometrico.py;092;Fondamento Einstein
+it;entrelazamiento_geometrico.py;093;Equazioni

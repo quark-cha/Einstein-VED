@@ -1,0 +1,573 @@
+idioma;archivo;id;texto
+ar;confinamiento_geometrico.py;001;round
+ar;confinamiento_geometrico.py;002;yellow
+ar;confinamiento_geometrico.py;003;round
+ar;confinamiento_geometrico.py;004;yellow
+ar;confinamiento_geometrico.py;005;جاري إنشاء رسوم متحركة SVG للحصر...
+ar;confinamiento_geometrico.py;006;✅ اكتملت رسوم SVG المتحركة
+ar;confinamiento_geometrico.py;007;__main__
+ar;confinamiento_geometrico.py;008;جاري إنشاء رسوم متحركة SVG للحصر...
+ar;confinamiento_geometrico.py;009;✅ اكتملت رسوم SVG المتحركة
+ar;confinamiento_geometrico.py;010;equal
+ar;confinamiento_geometrico.py;011;موجة ψ(x)
+ar;confinamiento_geometrico.py;012;الموضع x
+ar;confinamiento_geometrico.py;013;السعة ψ(x)
+ar;confinamiento_geometrico.py;014;الحصر الهندسي لأينشتاين-فيد: موجة → جسيم
+ar;confinamiento_geometrico.py;015;bold
+ar;confinamiento_geometrico.py;016;equal
+ar;confinamiento_geometrico.py;017;brown
+ar;confinamiento_geometrico.py;018;الموضع x
+ar;confinamiento_geometrico.py;019;السعة ψ(x)
+ar;confinamiento_geometrico.py;020;1. موجة جيبية على سطح مستو
+ar;confinamiento_geometrico.py;021;bold
+ar;confinamiento_geometrico.py;022;gray
+ar;confinamiento_geometrico.py;023;center
+ar;confinamiento_geometrico.py;024;red
+ar;confinamiento_geometrico.py;025;2. انتقال: لف ({progress*100:.0f}%)
+ar;confinamiento_geometrico.py;026;bold
+ar;confinamiento_geometrico.py;027;الإحداثي X
+ar;confinamiento_geometrico.py;028;الإحداثي Y
+ar;confinamiento_geometrico.py;029;gray
+ar;confinamiento_geometrico.py;030;red
+ar;confinamiento_geometrico.py;031;محصورة (n={n_cycles})
+ar;confinamiento_geometrico.py;032;شرط أينشتاين-فيد: L = {n_cycles}λ
+ar;confinamiento_geometrico.py;033;bold
+ar;confinamiento_geometrico.py;034;3. موجة ذاتية الحصر - جسيم مستقر
+ar;confinamiento_geometrico.py;035;bold
+ar;confinamiento_geometrico.py;036;الإحداثي X
+ar;confinamiento_geometrico.py;037;الإحداثي Y
+ar;confinamiento_geometrico.py;038;svg
+ar;confinamiento_geometrico.py;039;tight
+ar;confinamiento_geometrico.py;040;brown
+ar;confinamiento_geometrico.py;041;equal
+ar;confinamiento_geometrico.py;042;أ) موجة حرة مستوية
+ar;confinamiento_geometrico.py;043;bold
+ar;confinamiento_geometrico.py;044;الموضع x
+ar;confinamiento_geometrico.py;045;السعة ψ(x)
+ar;confinamiento_geometrico.py;046;orange
+ar;confinamiento_geometrico.py;047;equal
+ar;confinamiento_geometrico.py;048;ب) انتقال
+ar;confinamiento_geometrico.py;049;bold
+ar;confinamiento_geometrico.py;050;الإحداثي X
+ar;confinamiento_geometrico.py;051;الإحداثي Y
+ar;confinamiento_geometrico.py;052;gray
+ar;confinamiento_geometrico.py;053;red
+ar;confinamiento_geometrico.py;054;equal
+ar;confinamiento_geometrico.py;055;ج) محصورة n=3\nL = 3λ
+ar;confinamiento_geometrico.py;056;bold
+ar;confinamiento_geometrico.py;057;الإحداثي X
+ar;confinamiento_geometrico.py;058;الإحداثي Y
+ar;confinamiento_geometrico.py;059;الشرط: L = nλ
+ar;confinamiento_geometrico.py;060;center
+ar;confinamiento_geometrico.py;061;bold
+ar;confinamiento_geometrico.py;062;svg
+ar;confinamiento_geometrico.py;063;tight
+ar;confinamiento_geometrico_tiempo.py;001;n=1: أنبوب زمكاني أملس + موجة دائرية أساسية
+ar;confinamiento_geometrico_tiempo.py;002;n=3: متشعب زمكاني + موجة ذات 3 عقد
+ar;confinamiento_geometrico_tiempo.py;003;مقارنة جنبًا إلى جنب n=1 مقابل n=3
+ar;confinamiento_geometrico_tiempo.py;004;يوضح كيف تنشئ منحنيات dt السطح n=1
+ar;confinamiento_geometrico_tiempo.py;005;يوضح كيف تنشئ منحنيات dt السطح n=3
+ar;confinamiento_geometrico_tiempo.py;006;تطور كامل dt عبر δt
+ar;confinamiento_geometrico_tiempo.py;007;round
+ar;confinamiento_geometrico_tiempo.py;008;white
+ar;confinamiento_geometrico_tiempo.py;009;🎨 جاري إنشاء 6 رسوم كاملة لأينشتاين-فيد...
+ar;confinamiento_geometrico_tiempo.py;010;\n✅ 6 رسوم كاملة:
+ar;confinamiento_geometrico_tiempo.py;011;__main__
+ar;confinamiento_geometrico_tiempo.py;012;lightblue
+ar;confinamiento_geometrico_tiempo.py;013;red
+ar;confinamiento_geometrico_tiempo.py;014;الحالة الأساسية n=1\nالزمكان + موجة دائرية
+ar;confinamiento_geometrico_tiempo.py;015;bold
+ar;confinamiento_geometrico_tiempo.py;016;tight
+ar;confinamiento_geometrico_tiempo.py;017;white
+ar;confinamiento_geometrico_tiempo.py;018;red
+ar;confinamiento_geometrico_tiempo.py;019;الحالة المثارة n=3\nمتشعب الزمكان + 3 عقد
+ar;confinamiento_geometrico_tiempo.py;020;bold
+ar;confinamiento_geometrico_tiempo.py;021;tight
+ar;confinamiento_geometrico_tiempo.py;022;white
+ar;confinamiento_geometrico_tiempo.py;023;lightblue
+ar;confinamiento_geometrico_tiempo.py;024;red
+ar;confinamiento_geometrico_tiempo.py;025;n=1: الحالة الأساسية
+ar;confinamiento_geometrico_tiempo.py;026;bold
+ar;confinamiento_geometrico_tiempo.py;027;red
+ar;confinamiento_geometrico_tiempo.py;028;n=3: الحالة المثارة
+ar;confinamiento_geometrico_tiempo.py;029;bold
+ar;confinamiento_geometrico_tiempo.py;030;tight
+ar;confinamiento_geometrico_tiempo.py;031;white
+ar;confinamiento_geometrico_tiempo.py;032;lightblue
+ar;confinamiento_geometrico_tiempo.py;033;red
+ar;confinamiento_geometrico_tiempo.py;034;green
+ar;confinamiento_geometrico_tiempo.py;035;green
+ar;confinamiento_geometrico_tiempo.py;036;green
+ar;confinamiento_geometrico_tiempo.py;037;bold
+ar;confinamiento_geometrico_tiempo.py;038;توليد n=1: dt → سطح\nمنحنيات دائرية تولد أسطوانة
+ar;confinamiento_geometrico_tiempo.py;039;bold
+ar;confinamiento_geometrico_tiempo.py;040;tight
+ar;confinamiento_geometrico_tiempo.py;041;white
+ar;confinamiento_geometrico_tiempo.py;042;red
+ar;confinamiento_geometrico_tiempo.py;043;green
+ar;confinamiento_geometrico_tiempo.py;044;green
+ar;confinamiento_geometrico_tiempo.py;045;green
+ar;confinamiento_geometrico_tiempo.py;046;bold
+ar;confinamiento_geometrico_tiempo.py;047;توليد n=3: dt → متشعب\nمنحنيات عقدية تولد هندسة
+ar;confinamiento_geometrico_tiempo.py;048;bold
+ar;confinamiento_geometrico_tiempo.py;049;tight
+ar;confinamiento_geometrico_tiempo.py;050;white
+ar;confinamiento_geometrico_tiempo.py;051;red
+ar;confinamiento_geometrico_tiempo.py;052;darkred
+ar;confinamiento_geometrico_tiempo.py;053;δt={t}
+ar;confinamiento_geometrico_tiempo.py;054;center
+ar;confinamiento_geometrico_tiempo.py;055;bold
+ar;confinamiento_geometrico_tiempo.py;056;blue
+ar;confinamiento_geometrico_tiempo.py;057;blue
+ar;confinamiento_geometrico_tiempo.py;058;تطور\nزمني
+ar;confinamiento_geometrico_tiempo.py;059;blue
+ar;confinamiento_geometrico_tiempo.py;060;bold
+ar;confinamiento_geometrico_tiempo.py;061;تطور كامل: dt → δt → حالات n\nالحصر الكمومي لأينشتاين-فيد
+ar;confinamiento_geometrico_tiempo.py;062;bold
+ar;confinamiento_geometrico_tiempo.py;063;tight
+ar;confinamiento_geometrico_tiempo.py;064;white
+ar;entrelazamiento_geometrico.py;001;"
+    النسخة النهائية المصححة:
+    - المربعات "
+ar;entrelazamiento_geometrico.py;002; و 
+ar;entrelazamiento_geometrico.py;003;" على نفس المستوى
+    - تصميم أوسع لاستيعاب كلا المربعين
+    - مع الاحتفاظ بالزخرفة الحالية
+    "
+ar;entrelazamiento_geometrico.py;004;الرموز:\n\n
+ar;entrelazamiento_geometrico.py;005;🔴 الجسيم A (45°)\n
+ar;entrelazamiento_geometrico.py;006;🟢 الجسيم B (225°)\n
+ar;entrelazamiento_geometrico.py;007;⚫ المراقب\n
+ar;entrelazamiento_geometrico.py;008;▬▬ اتصال هندسي\n
+ar;entrelazamiento_geometrico.py;009;▬▬ خطوط الرؤية
+ar;entrelazamiento_geometrico.py;010;round,pad=0.6
+ar;entrelazamiento_geometrico.py;011;white
+ar;entrelazamiento_geometrico.py;012;جبهة الموجة
+ar;entrelazamiento_geometrico.py;013;مفتاح أينشتاين-فيد:\n\n
+ar;entrelazamiento_geometrico.py;014;كلا الجسيمين (بما في ذلك المتقابلة)\nيتشاركان نفس الزمكان الخاص t₀, s₀\n\n
+ar;entrelazamiento_geometrico.py;015;لأن: dt' → 0 و ds' → 0 عند السرعة c\n\n
+ar;entrelazamiento_geometrico.py;016;t = t₀ + dt' → t₀\n
+ar;entrelazamiento_geometrico.py;017;s = s₀ + ds' → s₀\n\n
+ar;entrelazamiento_geometrico.py;018;لا يوجد فعل عن بعد
+ar;entrelazamiento_geometrico.py;019;round,pad=0.8
+ar;entrelazamiento_geometrico.py;020;#fffacd
+ar;entrelazamiento_geometrico.py;021;أساس أينشتاين-فيد:\n\n
+ar;entrelazamiento_geometrico.py;022;الجسيمات المتشابكة تتشارك زمكانًا خاصًا مشتركًا من منشأها. 
+ar;entrelazamiento_geometrico.py;023;عند السفر بسرعة c، فإن تفاضلات الزمان والمكان الخاصين tend إلى الصفر 
+ar;entrelazamiento_geometrico.py;024;(dt' → 0, ds' → 0)، مما يبقيها متصلة في نفس اللحظة t₀ والموضع s₀. 
+ar;entrelazamiento_geometrico.py;025;هذا التزامن الهندسي يفسر الارتباطات الكمومية دون انتهاك النسبية.
+ar;entrelazamiento_geometrico.py;026;round,pad=0.8
+ar;entrelazamiento_geometrico.py;027;#ffebee
+ar;entrelazamiento_geometrico.py;028;المعادلات الأساسية:\n\n
+ar;entrelazamiento_geometrico.py;029;للجسيمات عند السرعة c:\n
+ar;entrelazamiento_geometrico.py;030;• dt' → 0, ds' → 0\n
+ar;entrelazamiento_geometrico.py;031;• t = t₀ + dt' → t₀\n
+ar;entrelazamiento_geometrico.py;032;• s = s₀ + ds' → s₀\n\n
+ar;entrelazamiento_geometrico.py;033;معادلة المجال:\n
+ar;entrelazamiento_geometrico.py;034;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+ar;entrelazamiento_geometrico.py;035;تزامن مطلق في الإطار الخاص
+ar;entrelazamiento_geometrico.py;036;round,pad=0.8
+ar;entrelazamiento_geometrico.py;037;#f0f8ff
+ar;entrelazamiento_geometrico.py;038;تفسير أينشتاين-فيد: التشابك الكمومي يتوقف عن كونه مفارقة عندما يُفهم 
+ar;entrelazamiento_geometrico.py;039;من هندسة الزمكان. الجسيمات المتولدة في نفس الحدث تتشارك جبهة 
+ar;entrelazamiento_geometrico.py;040;موجة حيث يظل وقتها الخاص متجمدًا عند t₀. هذا التزامن الجوهري يفسر 
+ar;entrelazamiento_geometrico.py;041;ارتباطات مثالية دون 'فعل شبحي'. الاحتمال الكمومي يعكس منظور 
+ar;entrelazamiento_geometrico.py;042;المراقب المحدود، وليس خاصية أساسية.
+ar;entrelazamiento_geometrico.py;043;round,pad=0.8
+ar;entrelazamiento_geometrico.py;044;#f5f5f5
+ar;entrelazamiento_geometrico.py;045;__main__
+ar;entrelazamiento_geometrico.py;046;🎯 جاري إنشاء النسخة النهائية بمربعات على نفس المستوى...
+ar;entrelazamiento_geometrico.py;047;\n✨ التصحيحات المطبقة:
+ar;entrelazamiento_geometrico.py;048;   • مربعات 'أساس أينشتاين' و'معادلات' على نفس المستوى
+ar;entrelazamiento_geometrico.py;049;   • شكل أوسع (16x10) لاستيعاب كليهما
+ar;entrelazamiento_geometrico.py;050;   • تصميم متوازن ومتناظر
+ar;entrelazamiento_geometrico.py;051;   • الزخرفة والألوان محفوظة
+ar;entrelazamiento_geometrico.py;052;   • صفر تداخلات
+ar;entrelazamiento_geometrico.py;053;التشابك الكمومي: التفسير الهندسي لأينشتاين-فيد
+ar;entrelazamiento_geometrico.py;054;bold
+ar;entrelazamiento_geometrico.py;055;blue
+ar;entrelazamiento_geometrico.py;056;k--
+ar;entrelazamiento_geometrico.py;057;equal
+ar;entrelazamiento_geometrico.py;058;الإطار الداخلي: الوقت الخاص المشترك
+ar;entrelazamiento_geometrico.py;059;bold
+ar;entrelazamiento_geometrico.py;060;blue
+ar;entrelazamiento_geometrico.py;061;equal
+ar;entrelazamiento_geometrico.py;062;الإطار الخارجي: المنظور التقليدي
+ar;entrelazamiento_geometrico.py;063;bold
+ar;entrelazamiento_geometrico.py;064;left
+ar;entrelazamiento_geometrico.py;065;center
+ar;entrelazamiento_geometrico.py;066;bold
+ar;entrelazamiento_geometrico.py;067;gray
+ar;entrelazamiento_geometrico.py;068; → 0 و ds
+ar;entrelazamiento_geometrico.py;069;" → t₀\n""
+        ""s = s₀ + ds"
+ar;entrelazamiento_geometrico.py;070;center
+ar;entrelazamiento_geometrico.py;071;center
+ar;entrelazamiento_geometrico.py;072;bold
+ar;entrelazamiento_geometrico.py;073;orange
+ar;entrelazamiento_geometrico.py;074; → 0, ds
+ar;entrelazamiento_geometrico.py;075;center
+ar;entrelazamiento_geometrico.py;076;center
+ar;entrelazamiento_geometrico.py;077;italic
+ar;entrelazamiento_geometrico.py;078;red
+ar;entrelazamiento_geometrico.py;079; → 0, ds
+ar;entrelazamiento_geometrico.py;080;" → t₀\n"" 
+        ""• s = s₀ + ds"
+ar;entrelazamiento_geometrico.py;081;center
+ar;entrelazamiento_geometrico.py;082;center
+ar;entrelazamiento_geometrico.py;083;bold
+ar;entrelazamiento_geometrico.py;084;blue
+ar;entrelazamiento_geometrico.py;085;فعل شبحي
+ar;entrelazamiento_geometrico.py;086;center
+ar;entrelazamiento_geometrico.py;087;center
+ar;entrelazamiento_geometrico.py;088;black
+ar;entrelazamiento_geometrico.py;089;svg
+ar;entrelazamiento_geometrico.py;090;tight
+ar;entrelazamiento_geometrico.py;091;white
+ar;entrelazamiento_geometrico.py;092;أساس أينشتاين
+ar;entrelazamiento_geometrico.py;093;معادلات
+ar;generador_svg.py;001;دالة نصف قطر الحالة 1s: R₁₀(r) = 2/a₀^(3/2) exp(-r/a₀)
+ar;generador_svg.py;002;دالة نصف قطر الحالة 2p: R₂₁(r) = (1/2√6)(r/a₀²) exp(-r/2a₀)
+ar;generador_svg.py;003;دالة نصف قطر الحالة 3d: R₃₂(r) = (4/81√30)(r²/a₀^(7/2)) exp(-r/3a₀)
+ar;generador_svg.py;004;دالة الموجة الكاملة ψₙℓₘ(r,θ,φ) = Rₙℓ(r)Yℓₘ(θ,φ)
+ar;generador_svg.py;005;الحالة n={n}, ℓ={ell} غير مطبقة
+ar;generador_svg.py;006;يحسب سطح فيد: r(θ,φ) = n²a₀(1 + α|Yℓₘ|)
+ar;generador_svg.py;007;يتحقق من تطابق أقصى P(r) مع نصف قطر فيد
+ar;generador_svg.py;008;ell
+ar;generador_svg.py;009;alpha
+ar;generador_svg.py;010;label
+ar;generador_svg.py;011;ell
+ar;generador_svg.py;012;alpha
+ar;generador_svg.py;013;label
+ar;generador_svg.py;014;ell
+ar;generador_svg.py;015;alpha
+ar;generador_svg.py;016;label
+ar;generador_svg.py;017;ينشئ مقارنة كاملة أينشتاين-فيد مقابل ميكانيكا الكم
+ar;generador_svg.py;018;🔬 جاري حساب مقارنة أينشتاين-فيد مقابل ميكانيكا الكم...
+ar;generador_svg.py;019;ell
+ar;generador_svg.py;020;alpha
+ar;generador_svg.py;021;label
+ar;generador_svg.py;022;round
+ar;generador_svg.py;023;lightgreen
+ar;generador_svg.py;024;label
+ar;generador_svg.py;025;label
+ar;generador_svg.py;026;__main__
+ar;generador_svg.py;027;نتائج أينشتاين-فيد الدقيقة
+ar;generador_svg.py;028;{res['estado']}: r_VED = {res['r_ved']:.3e} m, 
+ar;generador_svg.py;029;r_MC = {res['r_max_mc']:.3e} m, 
+ar;generador_svg.py;030;الدقة = {res['precision']:.2f}%
+ar;generador_svg.py;031;✅ اكتملت المقارنة - تم تأكيد تطابق >99%
+ar;generador_svg.py;032;lower
+ar;generador_svg.py;033;viridis
+ar;generador_svg.py;034;auto
+ar;generador_svg.py;035;"الكثافة |ψ|² - {estado[""label""]}\n(المستوى Z=0.5Y)"
+ar;generador_svg.py;036;x (m)
+ar;generador_svg.py;037;y (m)
+ar;generador_svg.py;038;red
+ar;generador_svg.py;039;فيد: {r_ved:.2e}m
+ar;generador_svg.py;040;blue
+ar;generador_svg.py;041;P(r) ميكانيكا الكم
+ar;generador_svg.py;042;red
+ar;generador_svg.py;043;فيد: {r_ved:.2e} m
+ar;generador_svg.py;044;الدقة: {precision:.2f}%
+ar;generador_svg.py;045;"الاحتمال الشعاعي - {estado[""label""]}"
+ar;generador_svg.py;046;r (m)
+ar;generador_svg.py;047;P(r) طبيعي
+ar;generador_svg.py;048;estado
+ar;generador_svg.py;049;r_ved
+ar;generador_svg.py;050;r_max_mc
+ar;generador_svg.py;051;precision
+ar;generador_svg.py;052;مقارنة أينشتاين-فيد مقابل ميكانيكا الكم - حسابات دقيقة\n
+ar;generador_svg.py;053;أنصاف أقطار حتمية مقابل توزيعات احتمالية
+ar;generador_svg.py;054;bold
+ar;generador_svg.py;055;svg
+ar;generador_svg.py;056;tight
+ar;generador_svg.py;057;png
+ar;generador_svg.py;058;tight
+ar;generador_svg.py;059;estado
+ar;generador_svg.py;060;r_ved
+ar;generador_svg.py;061;r_max_mc
+ar;generador_svg.py;062;precision
+ar;graficas_einstein_ved_n4.py;001;#377eb8
+ar;graficas_einstein_ved_n4.py;002;#4daf4a
+ar;graficas_einstein_ved_n4.py;003;#e41a1c
+ar;graficas_einstein_ved_n4.py;004;#f0f0f0
+ar;graficas_einstein_ved_n4.py;005;✅ تم الحفظ: {filename}
+ar;graficas_einstein_ved_n4.py;006;round,pad=0.3
+ar;graficas_einstein_ved_n4.py;007;#ffebee
+ar;graficas_einstein_ved_n4.py;008;__main__
+ar;graficas_einstein_ved_n4.py;009;🚀 جاري إنشاء جميع رسوم أينشتاين-فيد (n=4)...
+ar;graficas_einstein_ved_n4.py;010;نصف قطر البروتون: مقارنة دقيقة لأينشتاين-فيد
+ar;graficas_einstein_ved_n4.py;011;🎯 اكتمل إنشاء جميع الرسوم ✅
+ar;graficas_einstein_ved_n4.py;012;font.size
+ar;graficas_einstein_ved_n4.py;013;axes.titlesize
+ar;graficas_einstein_ved_n4.py;014;axes.labelsize
+ar;graficas_einstein_ved_n4.py;015;xtick.labelsize
+ar;graficas_einstein_ved_n4.py;016;ytick.labelsize
+ar;graficas_einstein_ved_n4.py;017;legend.fontsize
+ar;graficas_einstein_ved_n4.py;018;figure.titlesize
+ar;graficas_einstein_ved_n4.py;019;النموذج التقليدي ±3σ
+ar;graficas_einstein_ved_n4.py;020;LHC التجريبي ±3σ
+ar;graficas_einstein_ved_n4.py;021;أينشتاين-فيد الحتمي
+ar;graficas_einstein_ved_n4.py;022;النموذج التقليدي
+ar;graficas_einstein_ved_n4.py;023;LHC التجريبي
+ar;graficas_einstein_ved_n4.py;024;أينشتاين-فيد (n=4)
+ar;graficas_einstein_ved_n4.py;025;نصف قطر البروتون (fm)
+ar;graficas_einstein_ved_n4.py;026;bold
+ar;graficas_einstein_ved_n4.py;027;upper right
+ar;graficas_einstein_ved_n4.py;028;svg
+ar;graficas_einstein_ved_n4.py;029;tight
+ar;graficas_einstein_ved_n4.py;030;ميكانيكا الكم الاحتمالية\n(1920s-)
+ar;graficas_einstein_ved_n4.py;031;بيانات LHC\n(2010s-)
+ar;graficas_einstein_ved_n4.py;032;أينشتاين-فيد\n(2024-)
+ar;graficas_einstein_ved_n4.py;033;k--
+ar;graficas_einstein_ved_n4.py;034;نصف قطر البروتون (fm)
+ar;graficas_einstein_ved_n4.py;035;التطور النظري: من الاحتمالية إلى الهندسة الحتمية
+ar;graficas_einstein_ved_n4.py;036;bold
+ar;graficas_einstein_ved_n4.py;037;أينشتاين-فيد:\nهندسة دقيقة\nبدون احتمالية
+ar;graficas_einstein_ved_n4.py;038;svg
+ar;graficas_einstein_ved_n4.py;039;tight
+ar;graficas_einstein_ved_n4.py;040;tight
+ar;graficas_einstein_ved_n4.py;041;off
+ar;graficas_einstein_ved_n4.py;042;النظرية
+ar;graficas_einstein_ved_n4.py;043;نصف القطر (fm)
+ar;graficas_einstein_ved_n4.py;044;عدم اليقين
+ar;graficas_einstein_ved_n4.py;045;الدقة
+ar;graficas_einstein_ved_n4.py;046;أينشتاين-فيد (n=4)
+ar;graficas_einstein_ved_n4.py;047;{VED_mean:.5f}
+ar;graficas_einstein_ved_n4.py;048;حتمي
+ar;graficas_einstein_ved_n4.py;049;LHC التجريبي
+ar;graficas_einstein_ved_n4.py;050;{LHC_mean:.5f}
+ar;graficas_einstein_ved_n4.py;051;± 0.014 fm
+ar;graficas_einstein_ved_n4.py;052;المرجع
+ar;graficas_einstein_ved_n4.py;053;النموذج التقليدي
+ar;graficas_einstein_ved_n4.py;054;{MC_mean:.2f}
+ar;graficas_einstein_ved_n4.py;055;± 0.90 fm
+ar;graficas_einstein_ved_n4.py;056;دقة منخفضة
+ar;graficas_einstein_ved_n4.py;057;#ffeaea
+ar;graficas_einstein_ved_n4.py;058;#f0f9e8
+ar;graficas_einstein_ved_n4.py;059;#e8f4fd
+ar;graficas_einstein_ved_n4.py;060;center
+ar;graficas_einstein_ved_n4.py;061;center
+ar;graficas_einstein_ved_n4.py;062;#dddddd
+ar;graficas_einstein_ved_n4.py;063;bold
+ar;graficas_einstein_ved_n4.py;064;مقارنة أنصاف أقطار البروتون - بيانات فيد الدقيقة (n=4)
+ar;graficas_einstein_ved_n4.py;065;bold
+ar;graficas_einstein_ved_n4.py;066;svg
+ar;graficas_einstein_ved_n4.py;067;tight
+ar;graficas_einstein_ved_n4.py;068;أينشتاين-فيد
+ar;graficas_einstein_ved_n4.py;069;ميكانيكا الكم (القيم القصوى الاحتمالية)
+ar;graficas_einstein_ved_n4.py;070;الحالة الكمومية
+ar;graficas_einstein_ved_n4.py;071;نصف القطر (وحدات a₀)
+ar;graficas_einstein_ved_n4.py;072;أنصاف أقطار ذرية: قيم دقيقة مقابل احتمالية
+ar;graficas_einstein_ved_n4.py;073;bold
+ar;graficas_einstein_ved_n4.py;074;{height:.0f}
+ar;graficas_einstein_ved_n4.py;075;center
+ar;graficas_einstein_ved_n4.py;076;bottom
+ar;graficas_einstein_ved_n4.py;077;1s (ميكانيكا الكم)
+ar;graficas_einstein_ved_n4.py;078;blue
+ar;graficas_einstein_ved_n4.py;079;2p (ميكانيكا الكم)
+ar;graficas_einstein_ved_n4.py;080;green
+ar;graficas_einstein_ved_n4.py;081;3d (ميكانيكا الكم)
+ar;graficas_einstein_ved_n4.py;082;red
+ar;graficas_einstein_ved_n4.py;083;blue
+ar;graficas_einstein_ved_n4.py;084;نصف قطر فيد 1s
+ar;graficas_einstein_ved_n4.py;085;green
+ar;graficas_einstein_ved_n4.py;086;نصف قطر فيد 2p
+ar;graficas_einstein_ved_n4.py;087;red
+ar;graficas_einstein_ved_n4.py;088;نصف قطر فيد 3d
+ar;graficas_einstein_ved_n4.py;089;المسافة الشعاعية (وحدات a₀)
+ar;graficas_einstein_ved_n4.py;090;الكثافة (طبيعية)
+ar;graficas_einstein_ved_n4.py;091;التفسير: احتمالية ميكانيكا الكم مقابل هندسة فيد
+ar;graficas_einstein_ved_n4.py;092;bold
+ar;graficas_einstein_ved_n4.py;093;svg
+ar;graficas_einstein_ved_n4.py;094;tight
+ar;proton_comparativa_destacado.py;001;#377eb8
+ar;proton_comparativa_destacado.py;002;#4daf4a
+ar;proton_comparativa_destacado.py;003;#e41a1c
+ar;proton_comparativa_destacado.py;004;#f0f0f0
+ar;proton_comparativa_destacado.py;005;يحسب نطاق ±3σ للعرض
+ar;proton_comparativa_destacado.py;006;"
+    رسم مزدوج مع موضع وسيلة مصحح
+    "
+ar;proton_comparativa_destacado.py;007;أينشتاين-فيد: هندسة زمكانية حتمية. 
+ar;proton_comparativa_destacado.py;008;أنصاف أقطار دقيقة بدون احتمالية أساسية. 
+ar;proton_comparativa_destacado.py;009;المادة = زمكان محصور.
+ar;proton_comparativa_destacado.py;010;round,pad=0.3
+ar;proton_comparativa_destacado.py;011;#ffebee
+ar;proton_comparativa_destacado.py;012;{mc_min:.3f}
+ar;proton_comparativa_destacado.py;013;{mc_mean:.3f}
+ar;proton_comparativa_destacado.py;014;{mc_max:.3f}
+ar;proton_comparativa_destacado.py;015;LHC
+ar;proton_comparativa_destacado.py;016;{lhc_min:.3f}
+ar;proton_comparativa_destacado.py;017;{lhc_mean:.5f}
+ar;proton_comparativa_destacado.py;018;{lhc_max:.3f}
+ar;proton_comparativa_destacado.py;019;فيد
+ar;proton_comparativa_destacado.py;020;{ved_min:.3f}
+ar;proton_comparativa_destacado.py;021;{ved_mean:.3f}
+ar;proton_comparativa_destacado.py;022;{ved_max:.3f}
+ar;proton_comparativa_destacado.py;023;الحد الأدنى
+ar;proton_comparativa_destacado.py;024;المتوسط
+ar;proton_comparativa_destacado.py;025;الحد الأقصى
+ar;proton_comparativa_destacado.py;026;النطاقات (±3σ) بالـ fm
+ar;proton_comparativa_destacado.py;027;round,pad=0.2
+ar;proton_comparativa_destacado.py;028;white
+ar;proton_comparativa_destacado.py;029;round,pad=0.3
+ar;proton_comparativa_destacado.py;030;#ffebee
+ar;proton_comparativa_destacado.py;031;round,pad=0.3
+ar;proton_comparativa_destacado.py;032;#e8f4fd
+ar;proton_comparativa_destacado.py;033;round,pad=0.3
+ar;proton_comparativa_destacado.py;034;#ffebee
+ar;proton_comparativa_destacado.py;035;مقارنة أنصاف أقطار البروتون: 
+ar;proton_comparativa_destacado.py;036;ميكانيكا الكم={mc_mean:.3f}±{3*MC_sigma:.3f} fm (±{(3*MC_sigma/mc_mean*100):.0f}%) | 
+ar;proton_comparativa_destacado.py;037;LHC={lhc_mean:.5f}±{3*LHC_sigma:.3f} fm (±{(3*LHC_sigma/lhc_mean*100):.1f}%) | 
+ar;proton_comparativa_destacado.py;038;فيد={ved_mean:.3f}±{3*VED_sigma:.3f} fm (±{(3*VED_sigma/ved_mean*100):.1f}%) | 
+ar;proton_comparativa_destacado.py;039;أينشتاين-فيد: قيم حتمية من هندسة الزمكان.
+ar;proton_comparativa_destacado.py;040;__main__
+ar;proton_comparativa_destacado.py;041;🔄 جاري إنشاء رسم مزدوج بمقياس مصحح...
+ar;proton_comparativa_destacado.py;042;✨ تم إنشاء رسم مقياس مزدوج مصحح مع:
+ar;proton_comparativa_destacado.py;043;   • وسيلة منقولة للأسفل: bbox_to_anchor=(0.02, 0.75)
+ar;proton_comparativa_destacado.py;044;   • لا تداخل مع مربع أينشتاين-فيد
+ar;proton_comparativa_destacado.py;045;   • يحتفظ بجميع التحسينات السابقة
+ar;proton_comparativa_destacado.py;046;   • نص موزع جيدًا وقابل للقراءة
+ar;proton_comparativa_destacado.py;047;font.size
+ar;proton_comparativa_destacado.py;048;axes.titlesize
+ar;proton_comparativa_destacado.py;049;axes.labelsize
+ar;proton_comparativa_destacado.py;050;xtick.labelsize
+ar;proton_comparativa_destacado.py;051;ytick.labelsize
+ar;proton_comparativa_destacado.py;052;legend.fontsize
+ar;proton_comparativa_destacado.py;053;figure.titlesize
+ar;proton_comparativa_destacado.py;054;white
+ar;proton_comparativa_destacado.py;055;white
+ar;proton_comparativa_destacado.py;056;ميكانيكا الكم: نموذج احتمالي
+ar;proton_comparativa_destacado.py;057;LHC: بيانات تجريبية
+ar;proton_comparativa_destacado.py;058;أينشتاين-فيد: نموذج هندسي
+ar;proton_comparativa_destacado.py;059;black
+ar;proton_comparativa_destacado.py;060;ميكانيكا\nالكم
+ar;proton_comparativa_destacado.py;061;LHC\nالتجريبي
+ar;proton_comparativa_destacado.py;062;أينشتاين-فيد
+ar;proton_comparativa_destacado.py;063;نصف قطر البروتون (fm)
+ar;proton_comparativa_destacado.py;064;bold
+ar;proton_comparativa_destacado.py;065;توقع أينشتاين-فيد مقابل البيانات التجريبية\n(منطقة الاهتمام: 0.72-0.84 fm)
+ar;proton_comparativa_destacado.py;066;bold
+ar;proton_comparativa_destacado.py;067;top
+ar;proton_comparativa_destacado.py;068;bold
+ar;proton_comparativa_destacado.py;069;upper left
+ar;proton_comparativa_destacado.py;070;ميكانيكا الكم: نموذج احتمالي
+ar;proton_comparativa_destacado.py;071;LHC: بيانات تجريبية
+ar;proton_comparativa_destacado.py;072;أينشتاين-فيد: نموذج هندسي
+ar;proton_comparativa_destacado.py;073;black
+ar;proton_comparativa_destacado.py;074;ميكانيكا\nالكم
+ar;proton_comparativa_destacado.py;075;LHC\nالتجريبي
+ar;proton_comparativa_destacado.py;076;أينشتاين-فيد
+ar;proton_comparativa_destacado.py;077;نصف قطر البروتون (fm)
+ar;proton_comparativa_destacado.py;078;bold
+ar;proton_comparativa_destacado.py;079;مقارنة كاملة: عدم اليقين في ميكانيكا الكم مقابل دقة فيد\n(مقياس كامل: 0.1-1.9 fm)
+ar;proton_comparativa_destacado.py;080;bold
+ar;proton_comparativa_destacado.py;081;upper right
+ar;proton_comparativa_destacado.py;082;center
+ar;proton_comparativa_destacado.py;083;center
+ar;proton_comparativa_destacado.py;084;center
+ar;proton_comparativa_destacado.py;085;#dddddd
+ar;proton_comparativa_destacado.py;086;bold
+ar;proton_comparativa_destacado.py;087;#eeeeee
+ar;proton_comparativa_destacado.py;088;bold
+ar;proton_comparativa_destacado.py;089;bold
+ar;proton_comparativa_destacado.py;090;center
+ar;proton_comparativa_destacado.py;091;توقع دقيق\nهندسة حتمية
+ar;proton_comparativa_destacado.py;092;center
+ar;proton_comparativa_destacado.py;093;bold
+ar;proton_comparativa_destacado.py;094;عدم يقين عالي في ميكانيكا الكم\n(±0.9 fm = ±90%)
+ar;proton_comparativa_destacado.py;095;center
+ar;proton_comparativa_destacado.py;096;bold
+ar;proton_comparativa_destacado.py;097;دقة فيد\n(±0.045 fm = ±5.8%)
+ar;proton_comparativa_destacado.py;098;center
+ar;proton_comparativa_destacado.py;099;bold
+ar;proton_comparativa_destacado.py;100;center
+ar;proton_comparativa_destacado.py;101;italic
+ar;proton_comparativa_destacado.py;102;svg
+ar;proton_comparativa_destacado.py;103;tight
+ar;validacion_experimental.py;001;نصف_قطر_البروتون
+ar;validacion_experimental.py;002;نصف_قطر_النيوترون
+ar;validacion_experimental.py;003;توقع_الكوارك_فيد
+ar;validacion_experimental.py;004;ينشئ مقارنة مع توقعات أينشتاين-فيد الدقيقة
+ar;validacion_experimental.py;005;نصف_قطر_البروتون
+ar;validacion_experimental.py;006;نصف_قطر_النيوترون
+ar;validacion_experimental.py;007;round
+ar;validacion_experimental.py;008;yellow
+ar;validacion_experimental.py;009;نقطي
+ar;validacion_experimental.py;010;نصف_قطر_البروتون
+ar;validacion_experimental.py;011;توقع_الكوارك_فيد
+ar;validacion_experimental.py;012;round
+ar;validacion_experimental.py;013;lightgreen
+ar;validacion_experimental.py;014;توقعات أينشتاين-فيد الدقيقة
+ar;validacion_experimental.py;015;\nالدقة مقابل التجريبي:
+ar;validacion_experimental.py;016;البروتون:  {precisiones_ved[0]:.2f}%
+ar;validacion_experimental.py;017;النيوترون: {precisiones_ved[1]:.2f}%
+ar;validacion_experimental.py;018;\nتوقع الكواركات:
+ar;validacion_experimental.py;019;الحجم الأدنى للكوارك (فيد): {datos_experimentales['prediccion_quark_ved']*1e15:.3f} fm
+ar;validacion_experimental.py;020;الحد التجريبي الحالي: < 0.001 fm
+ar;validacion_experimental.py;021;الخلاصة: الكواركات لا يمكن أن تكون نقطية
+ar;validacion_experimental.py;022;\nعلاقة الكتلة-الحجم:
+ar;validacion_experimental.py;023;الإلكترون (0.511 MeV): {2.426e-12:.2e} m
+ar;validacion_experimental.py;024;كوارك علوي (2.3 MeV):   {8.6e-16:.2e} m
+ar;validacion_experimental.py;025;كوارك سفلي (4.8 MeV): {4.1e-16:.2e} m
+ar;validacion_experimental.py;026;🔬 جاري إنشاء توقعات أينشتاين-فيد...
+ar;validacion_experimental.py;027;✅ اكتمل إنشاء رسم التوقعات
+ar;validacion_experimental.py;028;البروتون
+ar;validacion_experimental.py;029;النيوترون
+ar;validacion_experimental.py;030;أينشتاين-فيد
+ar;validacion_experimental.py;031;red
+ar;validacion_experimental.py;032;LHC (التجريبي)
+ar;validacion_experimental.py;033;green
+ar;validacion_experimental.py;034;النوكليون
+ar;validacion_experimental.py;035;نصف قطر الشحنة (fm)
+ar;validacion_experimental.py;036;أ) الأنصاف النووية: فيد مقابل التجريبي\n(دقة >99%)
+ar;validacion_experimental.py;037;{precision:.1f}%
+ar;validacion_experimental.py;038;center
+ar;validacion_experimental.py;039;bottom
+ar;validacion_experimental.py;040;bold
+ar;validacion_experimental.py;041;البروتون (LHC)
+ar;validacion_experimental.py;042;الكوارك (فيد)
+ar;validacion_experimental.py;043;"الحد ""النقطي"""
+ar;validacion_experimental.py;044;red
+ar;validacion_experimental.py;045;blue
+ar;validacion_experimental.py;046;gray
+ar;validacion_experimental.py;047;الحجم (fm)
+ar;validacion_experimental.py;048;ب) توقع فيد: الكواركات ليست نقطية
+ar;validacion_experimental.py;049;{long*1e15:.3f} fm
+ar;validacion_experimental.py;050;center
+ar;validacion_experimental.py;051;bold
+ar;validacion_experimental.py;052;ro-
+ar;validacion_experimental.py;053;الكتلة (eV/c²) - مقياس لوغاريتمي
+ar;validacion_experimental.py;054;طول كومبتون (m) - مقياس لوغاريتمي
+ar;validacion_experimental.py;055;ج) علاقة الكتلة-الحجم لأينشتاين-فيد\nλ = h/mc
+ar;validacion_experimental.py;056;الإلكترون
+ar;validacion_experimental.py;057;كوارك علوي
+ar;validacion_experimental.py;058;كوارك سفلي
+ar;validacion_experimental.py;059;الميون
+ar;validacion_experimental.py;060;offset points
+ar;validacion_experimental.py;061;توقعات أينشتاين-فيد:
+ar;validacion_experimental.py;062;bold
+ar;validacion_experimental.py;063;red
+ar;validacion_experimental.py;064;• أنصاف أقطار دقيقة من المبادئ الأولى
+ar;validacion_experimental.py;065;red
+ar;validacion_experimental.py;066;• الكواركات: ~0.05 fm (ليست نقطية)
+ar;validacion_experimental.py;067;red
+ar;validacion_experimental.py;068;• بدون احتمالات - قيم حتمية
+ar;validacion_experimental.py;069;red
+ar;validacion_experimental.py;070;الأساس:
+ar;validacion_experimental.py;071;bold
+ar;validacion_experimental.py;072;• الكتلة المعروفة → طول كومبتون دقيق
+ar;validacion_experimental.py;073;• الحصر: L = nλ (n عدد صحيح)
+ar;validacion_experimental.py;074;• الهندسة → بنية دقيقة
+ar;validacion_experimental.py;075;التحقق المستقبلي:\nLHC محسن سيؤكد\nبنية الكوارك المتوقعة
+ar;validacion_experimental.py;076;center
+ar;validacion_experimental.py;077;bold
+ar;validacion_experimental.py;078;off
+ar;validacion_experimental.py;079;توقعات أينشتاين-فيد: هندسة دقيقة مقابل بيانات تجريبية\n
+ar;validacion_experimental.py;080;من الذرات إلى الكواركات - جميع الأحجام قابلة للحساب بدقة
+ar;validacion_experimental.py;081;bold
+ar;validacion_experimental.py;082;svg
+ar;validacion_experimental.py;083;tight
+ar;validacion_experimental.py;084;توقع_الكوارك_فيد

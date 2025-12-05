@@ -1,0 +1,85 @@
+idioma;archivo;id;texto
+de;validacion_experimental.py;001;protonenradius
+de;validacion_experimental.py;002;neutronenradius
+de;validacion_experimental.py;003;quark_ved_vorhersage
+de;validacion_experimental.py;004;Erzeugt Vergleich mit EXAKTEN EINSTEIN-VED VORHERSAGEN
+de;validacion_experimental.py;005;protonenradius
+de;validacion_experimental.py;006;neutronenradius
+de;validacion_experimental.py;007;round
+de;validacion_experimental.py;008;yellow
+de;validacion_experimental.py;009;punktförmig
+de;validacion_experimental.py;010;protonenradius
+de;validacion_experimental.py;011;quark_ved_vorhersage
+de;validacion_experimental.py;012;round
+de;validacion_experimental.py;013;lightgreen
+de;validacion_experimental.py;014;EXAKTE EINSTEIN-VED VORHERSAGEN
+de;validacion_experimental.py;015;\nGENAUIGKEIT vs EXPERIMENTELL:
+de;validacion_experimental.py;016;Proton:  {precisiones_ved[0]:.2f}%
+de;validacion_experimental.py;017;Neutron: {precisiones_ved[1]:.2f}%
+de;validacion_experimental.py;018;\nQUARK-VORHERSAGE:
+de;validacion_experimental.py;019;Minimale Quark-Größe (VED): {datos_experimentales['prediccion_quark_ved']*1e15:.3f} fm
+de;validacion_experimental.py;020;Aktuelle experimentelle Grenze: < 0.001 fm
+de;validacion_experimental.py;021;Schlussfolgerung: Quarks können NICHT punktförmig sein
+de;validacion_experimental.py;022;\nMASSE-GRÖSSE-BEZIEHUNG:
+de;validacion_experimental.py;023;Elektron (0.511 MeV): {2.426e-12:.2e} m
+de;validacion_experimental.py;024;Quark up (2.3 MeV):   {8.6e-16:.2e} m
+de;validacion_experimental.py;025;Quark down (4.8 MeV): {4.1e-16:.2e} m
+de;validacion_experimental.py;026;🔬 ERZEUGUNG EINSTEIN-VED VORHERSAGEN...
+de;validacion_experimental.py;027;✅ VORHERSAGE-DIAGRAMM ERZEUGT
+de;validacion_experimental.py;028;Proton
+de;validacion_experimental.py;029;Neutron
+de;validacion_experimental.py;030;Einstein-VED
+de;validacion_experimental.py;031;red
+de;validacion_experimental.py;032;LHC (Experimentell)
+de;validacion_experimental.py;033;green
+de;validacion_experimental.py;034;Nukleon
+de;validacion_experimental.py;035;Ladungsradius (fm)
+de;validacion_experimental.py;036;a) Nukleare Radien: VED vs Experimentell\n(Genauigkeit >99%)
+de;validacion_experimental.py;037;{precision:.1f}%
+de;validacion_experimental.py;038;center
+de;validacion_experimental.py;039;bottom
+de;validacion_experimental.py;040;bold
+de;validacion_experimental.py;041;Proton (LHC)
+de;validacion_experimental.py;042;Quark (VED)
+de;validacion_experimental.py;043;"""""Punktförmig""""-Grenze"""
+de;validacion_experimental.py;044;red
+de;validacion_experimental.py;045;blue
+de;validacion_experimental.py;046;gray
+de;validacion_experimental.py;047;Größe (fm)
+de;validacion_experimental.py;048;b) VED-Vorhersage: Quarks NICHT punktförmig
+de;validacion_experimental.py;049;{long*1e15:.3f} fm
+de;validacion_experimental.py;050;center
+de;validacion_experimental.py;051;bold
+de;validacion_experimental.py;052;ro-
+de;validacion_experimental.py;053;Masse (eV/c²) - Log-Skala
+de;validacion_experimental.py;054;Compton-Länge (m) - Log-Skala
+de;validacion_experimental.py;055;c) Masse-Größe-Beziehung Einstein-VED\nλ = h/mc
+de;validacion_experimental.py;056;Elektron
+de;validacion_experimental.py;057;Quark up
+de;validacion_experimental.py;058;Quark down
+de;validacion_experimental.py;059;Myon
+de;validacion_experimental.py;060;offset points
+de;validacion_experimental.py;061;EINSTEIN-VED VORHERSAGEN:
+de;validacion_experimental.py;062;bold
+de;validacion_experimental.py;063;red
+de;validacion_experimental.py;064;• EXAKTE Radien aus ersten Prinzipien
+de;validacion_experimental.py;065;red
+de;validacion_experimental.py;066;• Quarks: ~0.05 fm (NICHT punktförmig)
+de;validacion_experimental.py;067;red
+de;validacion_experimental.py;068;• Ohne Wahrscheinlichkeiten - Deterministische Werte
+de;validacion_experimental.py;069;red
+de;validacion_experimental.py;070;GRUNDLAGE:
+de;validacion_experimental.py;071;bold
+de;validacion_experimental.py;072;• Bekannte Masse → Exakte Compton-Länge
+de;validacion_experimental.py;073;• Confinement: L = nλ (n ganzzahlig)
+de;validacion_experimental.py;074;• Geometrie → Exakte Struktur
+de;validacion_experimental.py;075;ZUKÜNFTIGE VERIFIZIERUNG:\nVerbesserter LHC wird vorhergesagte\nQuark-Struktur bestätigen
+de;validacion_experimental.py;076;center
+de;validacion_experimental.py;077;bold
+de;validacion_experimental.py;078;off
+de;validacion_experimental.py;079;EINSTEIN-VED VORHERSAGEN: Exakte Geometrie vs Experimentelle Daten\n
+de;validacion_experimental.py;080;Von Atomen zu Quarks - Alle Größen exakt berechenbar
+de;validacion_experimental.py;081;bold
+de;validacion_experimental.py;082;svg
+de;validacion_experimental.py;083;tight
+de;validacion_experimental.py;084;quark_ved_vorhersageen

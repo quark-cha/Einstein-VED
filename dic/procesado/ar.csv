@@ -1,0 +1,261 @@
+ar;confinamiento.py;0020;يحسب نطاق ±3σ للتصور
+ar;confinamiento.py;0037;متوسط نصف القطر (فم)
+ar;confinamiento.py;0037;الحد الأدنى (فم)
+ar;confinamiento.py;0037;الحد الأقصى (فم)
+ar;confinamiento.py;0038;{mc_mean:.3f}
+ar;confinamiento.py;0038;{mc_min:.3f}
+ar;confinamiento.py;0038;{mc_max:.3f}
+ar;confinamiento.py;0038;±{MC_sigma:.3f}
+ar;confinamiento.py;0038;ميكانيكا الكم (MC)
+ar;confinamiento.py;0039;{lhc_mean:.5f}
+ar;confinamiento.py;0039;{lhc_min:.5f}
+ar;confinamiento.py;0039;{lhc_max:.5f}
+ar;confinamiento.py;0039;±{LHC_sigma:.3f}
+ar;confinamiento.py;0039;تجريبي LHC
+ar;confinamiento.py;0040;{ved_mean:.5f}
+ar;confinamiento.py;0040;{ved_min:.5f}
+ar;confinamiento.py;0040;{ved_max:.5f}
+ar;confinamiento.py;0040;±{VED_sigma:.5f}
+ar;confinamiento.py;0040;أينشتاين-VED
+ar;confinamiento.py;0072;الشكل 1: هندسات الحصر ثنائية وثلاثية الأبعاد
+ar;confinamiento.py;0079;الإلكترون: حصر ثنائي الأبعاد\nن = 137 (السطح)
+ar;confinamiento.py;0084;البروتون: حصر ثلاثي الأبعاد\nن = 4 (الحجم)
+ar;confinamiento.py;0089;الكواركات: ثنائيات قطب هندسية\nتثبيت ثلاثي الأبعاد
+ar;confinamiento.py;0094;إحصاءات كمية ناشئة: ثنائي vs ثلاثي الأبعاد
+ar;confinamiento.py;0100;سطح الإلكترون ثنائي الأبعاد - مقاييس نظيفة
+ar;confinamiento.py;0132;حجم البروتون ثلاثي الأبعاد - مقاييس نظيفة
+ar;confinamiento.py;0171;ثنائيات قطب الكواركات مثبتة في الأبعاد
+ar;confinamiento.py;0187;كوارك {dim}
+ar;confinamiento.py;0192;الحصر الهادروني
+ar;confinamiento.py;0200;مقارنة إحصائية فيرمي vs بوز
+ar;confinamiento.py;0201;حصر ثنائي الأبعاد\n(الإلكترون)
+ar;confinamiento.py;0201;حصر ثلاثي الأبعاد\n(البروتون)
+ar;confinamiento.py;0208;فيرمي-ديراك (استبعاد)
+ar;confinamiento.py;0210;بوز-أينشتاين (تكثيف)
+ar;confinamiento.py;0213;السلوك الإحصائي
+ar;confinamiento.py;0218;أقصى 1 جسيم\nلكل حالة
+ar;confinamiento.py;0219;جسيمات متعددة\nنفس الحالة
+ar;confinamiento.py;0224;الشكل 2: التحقق التجريبي
+ar;confinamiento.py;0228;بروتون VED
+ar;confinamiento.py;0228;بروتون LHC
+ar;confinamiento.py;0228;نيوترون VED
+ar;confinamiento.py;0228;نيوترون تجريبي
+ar;confinamiento.py;0234;نصف القطر (فم)
+ar;confinamiento.py;0235;تنبؤ أنصاف أقطار هادرونية
+ar;confinamiento.py;0240;{radius:.5f}
+ar;confinamiento.py;0243;أينشتاين-VED
+ar;confinamiento.py;0243;QCD شبكي
+ar;confinamiento.py;0243;النموذج المكون
+ar;confinamiento.py;0247;الدقة (%)
+ar;confinamiento.py;0248;مقارنة الدقة
+ar;confinamiento.py;0253;{prec}%
+ar;confinamiento.py;0259;أينشتاين-VED
+ar;confinamiento.py;0265;ثابت البناء الدقيق
+ar;confinamiento.py;0270;{value:.3f}
+ar;confinamiento.py;0275;التفسير ثنائي القطب لنيازك LHC:\n\n
+ar;confinamiento.py;0276;• الكواركات = ثنائيات قطب هندسية مثبتة في الأبعاد\n
+ar;confinamiento.py;0277;• عند تطبيق الطاقة: كسر ثنائي القطب\n
+ar;confinamiento.py;0278;• تكوين أزواج كوارك-ضديد كوارك جديدة\n
+ar;confinamiento.py;0279;• تشكيل نيازك هادرونية في اتجاهات متعاكسة\n
+ar;confinamiento.py;0280;• لا توجد 'قوة حصر' لا نهائية\n
+ar;confinamiento.py;0280;قوة الحصر
+ar;confinamiento.py;0281;• فقط إعادة تكوين هندسية طبيعية
+ar;confinamiento.py;0290;الشكل 3: حل للمفارقات الكمية
+ar;confinamiento.py;0310;حل الشق المزدوج
+ar;confinamiento.py;0328;اتجاه الانتشار
+ar;confinamiento.py;0329;الموضع
+ar;confinamiento.py;0330;حل الشق المزدوج:\nالسطح الكامل يتفاعل
+ar;confinamiento.py;0333;جسيم عبر مسارين
+ar;confinamiento.py;0333;ليس "جسيم عبر مسارين"\nإنه سطح عبر كليهما
+ar;confinamiento.py;0337;حل هندسي للتشابك
+ar;confinamiento.py;0349;الجسيم أ
+ar;confinamiento.py;0350;الجسيم ب
+ar;confinamiento.py;0351;هندسة مشتركة
+ar;confinamiento.py;0357;التشابك:\nهندسة مشتركة، لا فعل عن بعد
+ar;confinamiento.py;0362;حل لانهيار دالة الموجة
+ar;confinamiento.py;0368;هندسة حقيقية (محددة دائماً)
+ar;confinamiento.py;0369;الاحتمال قبل القياس
+ar;confinamiento.py;0369;MC: "الاحتمال قبل القياس"
+ar;confinamiento.py;0375;الموضع
+ar;confinamiento.py;0377;نهاية "الانهيار":\nهندسة محددة، غير احتمالية
+ar;confinamiento.py;0383;حل للإحصاءات الكمية
+ar;confinamiento.py;0387;إحصاءات كمية ناشئة\n\n
+ar;confinamiento.py;0388;فيرمي-ديراك (استبعاد):\n
+ar;confinamiento.py;0389;• حصر ثنائي الأبعاد (الإلكترون)\n
+ar;confinamiento.py;0390;• قيد طوبولوجي طبيعي\n
+ar;confinamiento.py;0391;• فقط 1 جسيم لكل حالة\n\n
+ar;confinamiento.py;0392;بوز-أينشتاين (تكثيف):\n
+ar;confinamiento.py;0393;• حصر ثلاثي الأبعاد (البروتون)\n
+ar;confinamiento.py;0394;• هندسة كروية كاملة\n
+ar;confinamiento.py;0395;• جسيمات متعددة نفس الحالة\n\n
+ar;confinamiento.py;0396;ليست خصائص أساسية\n
+ar;confinamiento.py;0397;هي عواقب هندسية
+ar;confinamiento.py;0405;حفظ جميع الأشكال
+ar;confinamiento.py;0408;توليد تصورات أينشتاين-VED...
+ar;confinamiento.py;0411;توليد الشكل 1: هندسات الحصر...
+ar;confinamiento.py;0418;✓ هندسات الحصر محفوظة
+ar;confinamiento.py;0420;توليد الشكل 2: التحقق التجريبي...
+ar;confinamiento.py;0427;✓ التحقق التجريبي محفوظ
+ar;confinamiento.py;0429;توليد الشكل 3: حل مفارقات الكم...
+ar;confinamiento.py;0435;✓ حل مفارقات الكم محفوظ
+ar;confinamiento.py;0437;\n✅ جميع الأشكال محفوظة بصيغة {format} (DPI: {dpi})
+ar;confinamiento.py;0440;❌ خطأ أثناء التوليد: {e}
+ar;confinamiento.py;0448;بدء توليد تصورات أينشتاين-VED...
+ar;confinamiento.py;0453;\n🎨 اكتملت التصورات!
+ar;confinamiento.py;0454;الملفات المولدة:
+ar;confinamiento_geometrico.py;0023;موجة ψ(x)
+ar;confinamiento_geometrico.py;0026;الموضع x
+ar;confinamiento_geometrico.py;0027;السعة ψ(x)
+ar;confinamiento_geometrico.py;0028;الحصر أينشتاين-VED: موجة → جسيم
+ar;confinamiento_geometrico.py;0043;الموضع x
+ar;confinamiento_geometrico.py;0044;السعة ψ(x)
+ar;confinamiento_geometrico.py;0045;1. موجة جيبية على سطح مستو
+ar;confinamiento_geometrico.py;0064;2. انتقال: لف ({progress*100:.0f}%)
+ar;confinamiento_geometrico.py;0065;الإحداثي X
+ar;confinamiento_geometrico.py;0066;الإحداثي Y
+ar;confinamiento_geometrico.py;0076;محصور (ن={n_cycles})
+ar;confinamiento_geometrico.py;0077;شرط أينشتاين-VED: ل = {n_cycles}λ
+ar;confinamiento_geometrico.py;0080;3. موجة ذاتية الحصر - جسيم مستقر
+ar;confinamiento_geometrico.py;0081;الإحداثي X
+ar;confinamiento_geometrico.py;0082;الإحداثي Y
+ar;confinamiento_geometrico.py;0118;أ) موجة مستوية حرة
+ar;confinamiento_geometrico.py;0119;الموضع x
+ar;confinamiento_geometrico.py;0120;السعة ψ(x)
+ar;confinamiento_geometrico.py;0137;ب) انتقال
+ar;confinamiento_geometrico.py;0138;الإحداثي X
+ar;confinamiento_geometrico.py;0139;الإحداثي Y
+ar;confinamiento_geometrico.py;0155;ج) محصور ن=3\nل = 3λ
+ar;confinamiento_geometrico.py;0156;الإحداثي X
+ar;confinamiento_geometrico.py;0157;الإحداثي Y
+ar;confinamiento_geometrico.py;0159;الشرط: ل = نλ
+ar;confinamiento_geometrico_tiempo.py;0011;ن=1: أنبوب زمكان أملس + موجة دائرية أساسية
+ar;confinamiento_geometrico_tiempo.py;0044;الحالة الأساسية ن=1\nالزمكان + موجة دائرية
+ar;confinamiento_geometrico_tiempo.py;0056;ن=3: متشعب زمكان + موجة مع 3 عقد
+ar;confinamiento_geometrico_tiempo.py;0093;الحالة المثارة ن=3\nمتشعب الزمكان + 3 عقد
+ar;confinamiento_geometrico_tiempo.py;0105;مقارنة جنباً إلى جنب ن=1 ضد ن=3
+ar;confinamiento_geometrico_tiempo.py;0132;ن=1: الحالة الأساسية
+ar;confinamiento_geometrico_tiempo.py;0153;ن=3: الحالة المثارة
+ar;confinamiento_geometrico_tiempo.py;0164;يظهر كيف تنشئ منحنيات dt السطح ن=1
+ar;confinamiento_geometrico_tiempo.py;0202;توليد ن=1: dt → سطح\nمنحنيات دائرية تنشئ أسطوانة
+ar;confinamiento_geometrico_tiempo.py;0214;يظهر كيف تنشئ منحنيات dt السطح ن=3
+ar;confinamiento_geometrico_tiempo.py;0257;توليد ن=3: dt → متشعب\nمنحنيات مع عقد تنشئ هندسة
+ar;confinamiento_geometrico_tiempo.py;0269;تطور dt كامل عبر δt
+ar;confinamiento_geometrico_tiempo.py;0302;δt={t}
+ar;confinamiento_geometrico_tiempo.py;0309;تطور\nزمني
+ar;confinamiento_geometrico_tiempo.py;0313;التطور الكامل: dt → δt → حالات ن\nالحصر الكمي أينشتاين-VED
+ar;confinamiento_geometrico_tiempo.py;0325;🎨 توليد الـ6 رسومات كاملة أينشتاين-VED...
+ar;confinamiento_geometrico_tiempo.py;0337;\n✅ الـ6 رسومات الكاملة:
+ar;Constante_G.py;0042;نصف قطر البروتون (خط الوسط)
+ar;Constante_G.py;0046;الشكل 1: موجة VED محصورة للبروتون، ن=2
+ar;Constante_G.py;0059;ثقب أسود
+ar;Constante_G.py;0061;سطح ثنائي الأبعاد
+ar;Constante_G.py;0066;الشكل 2: الثقب الأسود والسطح الهولوغرافي ثنائي الأبعاد
+ar;Constante_G.py;0078;G تجريبي
+ar;Constante_G.py;0083;ن={n}
+ar;Constante_G.py;0088;G محسوب [م^3/كغ/ث^2]
+ar;Constante_G.py;0089;الشكل 3: هدف G ±3σ
+ar;Constante_G.py;0116;G محسوب [م^3/كغ/ث^2]
+ar;Constante_G.py;0117;الشكل 4: هدف G ±4σ (أسهم)
+ar;Constante_G.py;0130;G(ن) مقارب (مستمر)
+ar;Constante_G.py;0133;G تجريبي
+ar;Constante_G.py;0140;round,pad=0.5
+ar;Constante_G.py;0143;الشكل 5: السلوك المقارب لـ G(ن) ن→∞ (سجل-سجل)
+ar;Constante_G.py;0164;القيمة [م³/كغ·ث²]
+ar;Constante_G.py;0165;{G_max:.8e}
+ar;Constante_G.py;0165;الحد الأعلى
+ar;Constante_G.py;0166;$G_2^{EXP}$ تجريبي
+ar;Constante_G.py;0166;{G_exp:.8e}
+ar;Constante_G.py;0166;القيمة المتوسطة
+ar;Constante_G.py;0167;{G_min:.8e}
+ar;Constante_G.py;0167;الحد الأدنى
+ar;Constante_G.py;0168;$G_1^{VED}$ (ن=2) مضبوط
+ar;Constante_G.py;0168;تم الحصول عليه تجريبياً
+ar;Constante_G.py;0169;الفرق المطلق
+ar;Constante_G.py;0169;{error_abs:.8e}
+ar;Constante_G.py;0170;الخطأ النسبي
+ar;Constante_G.py;0170;{error_rel:.6f} %
+ar;Constante_G.py;0170;دقة VED
+ar;Constante_G.py;0248;ثابت الجاذبية G
+ar;Constante_G.py;0267;موجة مادة محصورة
+ar;Constante_G.py;0277;هولوغرام ثنائي الأبعاد
+ar;Constante_G.py;0286;ظهور G
+ar;Constante_G.py;0288;الشكل 8: المادة كموجة محصورة على هولوغرام ثنائي الأبعاد
+ar;Constante_G.py;0317;نصف قطر البروتون
+ar;Constante_G.py;0318;موجات بروتونية شعاعية
+ar;Constante_G.py;0319;تموج بروتون ثنائي الأبعاد (ن=4)
+ar;Constante_G.py;0322;نصف قطر البروتون
+ar;Constante_G.py;0323;موجات البروتون
+ar;Constante_G.py;0324;تموج ثنائي الأبعاد
+ar;Constante_G.py;0326;البروتون - مقياس فيمتومتري (10⁻¹⁵ م)
+ar;Constante_G.py;0342;نصف قطر مدار الإلكترون
+ar;Constante_G.py;0343;موجات إلكترونية شعاعية
+ar;Constante_G.py;0344;تموج إلكترون ثنائي الأبعاد (ن=137)
+ar;Constante_G.py;0347;نصف قطر مدار الإلكترون
+ar;Constante_G.py;0348;موجات الإلكترون
+ar;Constante_G.py;0349;تموج ثنائي الأبعاد
+ar;Constante_G.py;0351;الإلكترون - مقياس ذري (10⁻¹¹ م)
+ar;Constante_G.py;0358;الشكل 9. موجات ثنائية الأبعاد وشعاعية للبروتون والإلكترون\n(هولوغرافيا → جسيمات)
+ar;Constante_G.py;0378;$M_\mathrm{VED} = n h /$
+ar;Constante_G.py;0378;$(L_\mathrm{geom} c)$
+ar;Constante_G.py;0379;$M_\mathrm{Sch} = c^2 R_s /$
+ar;Constante_G.py;0379;مساواة الكتل،\nM تختفي
+ar;Constante_G.py;0380;$L_\mathrm{geom}$ محددة
+ar;Constante_G.py;0380;بواسطة VED
+ar;Constante_G.py;0381;$R_s$ محددة بواسطة
+ar;Constante_G.py;0381;كل جانب يحدد\nمقياسه الخاص
+ar;Constante_G.py;0382;تكميم
+ar;Constante_G.py;0382;ن صحيح → قيم
+ar;Constante_G.py;0382;منفصلة لـ M و G
+ar;Constante_G.py;0383;ن لا يظهر،\nG محدد
+ar;Constante_G.py;0383;ن=2 يتطابق مع\nالقيمة التجريبية لـ G
+ar;Constante_G.py;0384;حصر ثنائي الأبعاد
+ar;Constante_G.py;0384;(سطح)
+ar;Constante_G.py;0385;ثلاثي الأبعاد → هولوغرافيا
+ar;Constante_G.py;0385;ضمنية
+ar;Constante_G.py;0385;أصل ناشئ\nللموجة
+ar;Constante_G.py;0409;الشكل 10: مقارنة مفاهيمية VED ضد شوارزشيلد
+ar;entrelazamiento_geometrico.py;0009;أساس أينشتاين
+ar;entrelazamiento_geometrico.py;0009;معادلات أساسية
+ar;entrelazamiento_geometrico.py;0032;التشابك الكمي: شرح هندسي أينشتاين-VED
+ar;entrelazamiento_geometrico.py;0049;الإطار الداخلي: زمن ذاتي مشترك
+ar;entrelazamiento_geometrico.py;0068;الإطار الخارجي: منظور تقليدي
+ar;entrelazamiento_geometrico.py;0073;الرموز:\n\n
+ar;entrelazamiento_geometrico.py;0074;🔴 الجسيم أ (45°)\n
+ar;entrelazamiento_geometrico.py;0075;🟢 الجسيم ب (225°)\n
+ar;entrelazamiento_geometrico.py;0076;⚫ المراقب\n
+ar;entrelazamiento_geometrico.py;0077;▬▬ اتصال هندسي\n
+ar;entrelazamiento_geometrico.py;0078;▬▬ خطوط الرؤية
+ar;entrelazamiento_geometrico.py;0084;round,pad=0.6
+ar;entrelazamiento_geometrico.py;0088;جبهة الموجة
+ar;entrelazamiento_geometrico.py;0090;مفتاح أينشتاين-VED:\n\n
+ar;entrelazamiento_geometrico.py;0091;كلا الجسيمين (بما في ذلك المتقابلان)\nيتشاركان نفس الزمكان الذاتي t₀, s₀\n\n
+ar;entrelazamiento_geometrico.py;0092;لأن: dt' → 0 و ds' → 0 عند السرعة c\n\n
+ar;entrelazamiento_geometrico.py;0095;لا فعل عن بعد
+ar;entrelazamiento_geometrico.py;0101;round,pad=0.8
+ar;entrelazamiento_geometrico.py;0109;أساس أينشتاين-VED:\n\n
+ar;entrelazamiento_geometrico.py;0110;الجسيمات المتشابكة تتشارك زمكاناً ذاتياً مشتركاً من أصلها.
+ar;entrelazamiento_geometrico.py;0111;عند السفر بسرعة c، تتفاضلات زمنها وفضائها الذاتيين نحو الصفر
+ar;entrelazamiento_geometrico.py;0112;(dt' → 0, ds' → 0)، تبقيهم متصلين في نفس اللحظة t₀ والموقع s₀.
+ar;entrelazamiento_geometrico.py;0113;هذه التزامن الهندسي يفسر الارتباطات الكمية دون انتهاك النسبية.
+ar;entrelazamiento_geometrico.py;0119;round,pad=0.8
+ar;entrelazamiento_geometrico.py;0125;معادلات أساسية:\n\n
+ar;entrelazamiento_geometrico.py;0126;لجسيمات بسرعة c:\n
+ar;entrelazamiento_geometrico.py;0130;معادلة حقل:\n
+ar;entrelazamiento_geometrico.py;0131;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+ar;entrelazamiento_geometrico.py;0132;تزامن مطلق في الإطار الذاتي
+ar;entrelazamiento_geometrico.py;0138;round,pad=0.8
+ar;entrelazamiento_geometrico.py;0144;تفسير أينشتاين-VED: التشابك الكمي يتوقف عن كونه مفارقة عندما يُفهم
+ar;entrelazamiento_geometrico.py;0145;من هندسة الزمكان. الجسيمات المتولدة في نفس الحدث تتشارك جبهة
+ar;entrelazamiento_geometrico.py;0146;موجة حيث زمنها الذاتي يبقى مجمداً عند t₀. هذا التزامن الجوهري يفسر
+ar;entrelazamiento_geometrico.py;0147;ارتباطات مثالية دون 'فعل شبحي'. الاحتمال الكمي يعكس منظور
+ar;entrelazamiento_geometrico.py;0147;فعل شبحي
+ar;entrelazamiento_geometrico.py;0148;مراقب محدود، ليس خاصية أساسية.
+ar;entrelazamiento_geometrico.py;0154;round,pad=0.8
+ar;entrelazamiento_geometrico.py;0167;🎯 إنشاء النسخة النهائية بمربعات في نفس المستوى...
+ar;entrelazamiento_geometrico.py;0170;\n✨ التصحيحات المطبقة:
+ar;entrelazamiento_geometrico.py;0171;• مربعات 'أساس أينشتاين' و'معادلات' في نفس المستوى
+ar;entrelazamiento_geometrico.py;0171;أساس أينشتاين
+ar;entrelazamiento_geometrico.py;0172;• شكل أوسع (16x10) لاستيعاب كليهما
+ar;entrelazamiento_geometrico.py;0173;• تصميم متوازن ومتناظر
+ar;entrelazamiento_geometrico.py;0174;• الزخرفة والألوان محترمة
+ar;entrelazamiento_geometrico.py;0175;• صفر تداخلات

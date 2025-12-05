@@ -1,0 +1,43 @@
+idioma;archivo;id;texto
+jp;entrelazamiento_geometrico.py;0009;アインシュタイン基礎
+jp;entrelazamiento_geometrico.py;0032;量子もつれ: 幾何学的説明 アインシュタイン-VED
+jp;entrelazamiento_geometrico.py;0049;内部枠: 共有固有時間
+jp;entrelazamiento_geometrico.py;0068;外部枠: 従来の視点
+jp;entrelazamiento_geometrico.py;0073;象徴:\n\n
+jp;entrelazamiento_geometrico.py;0074;🔴 粒子A (45°)\n
+jp;entrelazamiento_geometrico.py;0075;🟢 粒子B (225°)\n
+jp;entrelazamiento_geometrico.py;0076;⚫ 観測者\n
+jp;entrelazamiento_geometrico.py;0077;▬▬ 幾何学的接続\n
+jp;entrelazamiento_geometrico.py;0078;▬▬ 視線
+jp;entrelazamiento_geometrico.py;0084;round,pad=0.6
+jp;entrelazamiento_geometrico.py;0088;波面
+jp;entrelazamiento_geometrico.py;0090;アインシュタイン-VED鍵:\n\n
+jp;entrelazamiento_geometrico.py;0091;両粒子 (反対点を含む)\n同じ固有時空t₀, s₀を共有\n\n
+jp;entrelazamiento_geometrico.py;0092;なぜなら: 速度cでdt' → 0およびds' → 0\n\n
+jp;entrelazamiento_geometrico.py;0095;遠隔作用なし
+jp;entrelazamiento_geometrico.py;0101;round,pad=0.8
+jp;entrelazamiento_geometrico.py;0109;アインシュタイン-VED基礎:\n\n
+jp;entrelazamiento_geometrico.py;0110;もつれ粒子は起源から共通の固有時空を共有する。
+jp;entrelazamiento_geometrico.py;0111;光速で移動すると、それらの固有時間と空間微分はゼロに向かう
+jp;entrelazamiento_geometrico.py;0112;(dt' → 0, ds' → 0)、同じ瞬間t₀と位置s₀で接続を維持。
+jp;entrelazamiento_geometrico.py;0113;この幾何学的同時性は、相対性を破ることなく量子相関を説明する。
+jp;entrelazamiento_geometrico.py;0119;round,pad=0.8
+jp;entrelazamiento_geometrico.py;0125;基本方程式:\n\n
+jp;entrelazamiento_geometrico.py;0126;光速の粒子の場合:\n
+jp;entrelazamiento_geometrico.py;0130;場の方程式:\n
+jp;entrelazamiento_geometrico.py;0131;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+jp;entrelazamiento_geometrico.py;0132;固有枠での絶対同時性
+jp;entrelazamiento_geometrico.py;0138;round,pad=0.8
+jp;entrelazamiento_geometrico.py;0144;アインシュタイン-VED解釈: 量子もつれは理解されると\n
+jp;entrelazamiento_geometrico.py;0145;時空幾何学からパラドックスでなくなる。同じ事象で生成された粒子は波面を共有し\n
+jp;entrelazamiento_geometrico.py;0146;それらの固有時間はt₀で凍結されたまま。この内在的同時性は\n
+jp;entrelazamiento_geometrico.py;0147;完璧な相関を'不気味な遠隔作用'なしで説明。量子確率は限られた\n
+jp;entrelazamiento_geometrico.py;0148;観測者視点を反映、基本性質ではない。
+jp;entrelazamiento_geometrico.py;0154;round,pad=0.8
+jp;entrelazamiento_geometrico.py;0167;🎯 同じレベルでボックスを持つ最終版作成中...
+jp;entrelazamiento_geometrico.py;0170;\n✨ 適用された修正:
+jp;entrelazamiento_geometrico.py;0171;• 'アインシュタイン基礎'と'方程式'ボックスを同じレベルに
+jp;entrelazamiento_geometrico.py;0172;• 両方を収容するより広い図 (16x10)
+jp;entrelazamiento_geometrico.py;0173;• バランスの取れた対称デザイン
+jp;entrelazamiento_geometrico.py;0174;• 装飾と色を尊重
+jp;entrelazamiento_geometrico.py;0175;• ゼロ重複sk

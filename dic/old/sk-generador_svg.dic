@@ -1,0 +1,63 @@
+idioma;archivo;id;texto
+sk;generador_svg.py;001;Radiálna funkcia stav 1s: R₁₀(r) = 2/a₀^(3/2) exp(-r/a₀)
+sk;generador_svg.py;002;Radiálna funkcia stav 2p: R₂₁(r) = (1/2√6)(r/a₀²) exp(-r/2a₀)
+sk;generador_svg.py;003;Radiálna funkcia stav 3d: R₃₂(r) = (4/81√30)(r²/a₀^(7/2)) exp(-r/3a₀)
+sk;generador_svg.py;004;Úplná vlnová funkcia ψₙℓₘ(r,θ,φ) = Rₙℓ(r)Yℓₘ(θ,φ)
+sk;generador_svg.py;005;Stav n={n}, ℓ={ell} nie je implementovaný
+sk;generador_svg.py;006;Počíta VED povrch: r(θ,φ) = n²a₀(1 + α|Yℓₘ|)
+sk;generador_svg.py;007;Overuje zhodu medzi maximom P(r) a VED polomerom
+sk;generador_svg.py;008;ell
+sk;generador_svg.py;009;alpha
+sk;generador_svg.py;010;label
+sk;generador_svg.py;011;ell
+sk;generador_svg.py;012;alpha
+sk;generador_svg.py;013;label
+sk;generador_svg.py;014;ell
+sk;generador_svg.py;015;alpha
+sk;generador_svg.py;016;label
+sk;generador_svg.py;017;Generuje úplné porovnanie Einstein-VED vs Kvantová mechanika
+sk;generador_svg.py;018;🔬 VÝPOČET POROVNANIA EINSTEIN-VED vs KM...
+sk;generador_svg.py;019;ell
+sk;generador_svg.py;020;alpha
+sk;generador_svg.py;021;label
+sk;generador_svg.py;022;round
+sk;generador_svg.py;023;lightgreen
+sk;generador_svg.py;024;label
+sk;generador_svg.py;025;label
+sk;generador_svg.py;026;__main__
+sk;generador_svg.py;027;EXAKTNÉ EINSTEIN-VED VÝSLEDKY
+sk;generador_svg.py;028;{res['estado']}: r_VED = {res['r_ved']:.3e} m, 
+sk;generador_svg.py;029;r_KM = {res['r_max_mc']:.3e} m, 
+sk;generador_svg.py;030;Presnosť = {res['precision']:.2f}%
+sk;generador_svg.py;031;✅ POROVNANIE VYGENEROVANÉ - >99% ZHODA POTVRDENÁ
+sk;generador_svg.py;032;lower
+sk;generador_svg.py;033;viridis
+sk;generador_svg.py;034;auto
+sk;generador_svg.py;035;"""Hustota |ψ|² - {estado[""""label""""]}\n(rovina Z=0.5Y)"""
+sk;generador_svg.py;036;x (m)
+sk;generador_svg.py;037;y (m)
+sk;generador_svg.py;038;red
+sk;generador_svg.py;039;VED: {r_ved:.2e}m
+sk;generador_svg.py;040;blue
+sk;generador_svg.py;041;P(r) KM
+sk;generador_svg.py;042;red
+sk;generador_svg.py;043;VED: {r_ved:.2e} m
+sk;generador_svg.py;044;Presnosť: {precision:.2f}%
+sk;generador_svg.py;045;"""Radiálna pravdepodobnosť - {estado[""""label""""]}"""
+sk;generador_svg.py;046;r (m)
+sk;generador_svg.py;047;P(r) normalizovaná
+sk;generador_svg.py;048;stav
+sk;generador_svg.py;049;r_ved
+sk;generador_svg.py;050;r_max_mc
+sk;generador_svg.py;051;presnosť
+sk;generador_svg.py;052;POROVNANIE EINSTEIN-VED vs KVANTOVÁ MECHANIKA - EXAKTNE VÝPOČTY\n
+sk;generador_svg.py;053;Deterministické polomery vs pravdepodobnostné distribúcie
+sk;generador_svg.py;054;bold
+sk;generador_svg.py;055;svg
+sk;generador_svg.py;056;tight
+sk;generador_svg.py;057;png
+sk;generador_svg.py;058;tight
+sk;generador_svg.py;059;stav
+sk;generador_svg.py;060;r_ved
+sk;generador_svg.py;061;r_max_mc
+sk;generador_svg.py;062;presnosť

@@ -1,0 +1,49 @@
+idioma;archivo;id;texto_traducido
+es;entrelazamiento_geometrico.py;0012;Fundamento Einstein
+es;entrelazamiento_geometrico.py;0012;Ecuaciones Fundamentales
+es;entrelazamiento_geometrico.py;0035;ENTRELAZAMIENTO CUÁNTICO: Explicación Geométrica Einstein-VED
+es;entrelazamiento_geometrico.py;0052;Marco Interno: Tiempo Propio Compartido
+es;entrelazamiento_geometrico.py;0071;Marco Externo: Perspectiva Convencional
+es;entrelazamiento_geometrico.py;0076;SIMBOLOGÍA:\n\n
+es;entrelazamiento_geometrico.py;0077;🔴 Partícula A (45°)\n
+es;entrelazamiento_geometrico.py;0078;🟢 Partícula B (225°)\n
+es;entrelazamiento_geometrico.py;0079;⚫ Observador\n
+es;entrelazamiento_geometrico.py;0080;▬▬ Conexión geométrica\n
+es;entrelazamiento_geometrico.py;0081;▬▬ Líneas de visión
+es;entrelazamiento_geometrico.py;0091;FRENTE DE ONDA
+es;entrelazamiento_geometrico.py;0093;CLAVE EINSTEIN-VED:\n\n
+es;entrelazamiento_geometrico.py;0094;Ambas partículas (incluidas las antipodales)\ncomparten el mismo espacio-tiempo propio t₀, s₀\n\n
+es;entrelazamiento_geometrico.py;0095;Porque: dt' → 0 y ds' → 0 a velocidad c\n\n
+es;entrelazamiento_geometrico.py;0095;→ 0 y ds
+es;entrelazamiento_geometrico.py;0096;t = t₀ + dt' → t₀\n
+es;entrelazamiento_geometrico.py;0097;s = s₀ + ds' → s₀\n\n
+es;entrelazamiento_geometrico.py;0098;No hay acción a distancia
+es;entrelazamiento_geometrico.py;0112;FUNDAMENTO EINSTEIN-VED:\n\n
+es;entrelazamiento_geometrico.py;0113;Las partículas entrelazadas comparten un espacio-tiempo propio común desde su origen.
+es;entrelazamiento_geometrico.py;0114;Cuando viajan a velocidad c, sus diferenciales de tiempo y espacio propios tienden a cero
+es;entrelazamiento_geometrico.py;0115;(dt' → 0, ds' → 0), manteniéndolas conectadas en el mismo instante t₀ y posición s₀.
+es;entrelazamiento_geometrico.py;0115;→ 0, ds
+es;entrelazamiento_geometrico.py;0116;Esta simultaneidad geométrica explica las correlaciones cuánticas sin violar la relatividad.
+es;entrelazamiento_geometrico.py;0128;ECUACIONES FUNDAMENTALES:\n\n
+es;entrelazamiento_geometrico.py;0129;Para partículas a velocidad c:\n
+es;entrelazamiento_geometrico.py;0130;• dt' → 0, ds' → 0\n
+es;entrelazamiento_geometrico.py;0130;→ 0, ds
+es;entrelazamiento_geometrico.py;0131;• t = t₀ + dt' → t₀\n
+es;entrelazamiento_geometrico.py;0132;• s = s₀ + ds' → s₀\n\n
+es;entrelazamiento_geometrico.py;0133;Ecuación de campo:\n
+es;entrelazamiento_geometrico.py;0134;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+es;entrelazamiento_geometrico.py;0135;Simultaneidad absoluta en marco propio
+es;entrelazamiento_geometrico.py;0147;INTERPRETACIÓN EINSTEIN-VED: El entrelazamiento cuántico deja de ser paradójico cuando se comprende
+es;entrelazamiento_geometrico.py;0148;desde la geometría del espacio-tiempo. Partículas generadas en el mismo evento comparten un frente
+es;entrelazamiento_geometrico.py;0149;de onda donde su tiempo propio permanece congelado en t₀. Esta simultaneidad intrínseca explica
+es;entrelazamiento_geometrico.py;0150;correlaciones perfectas sin 'acción fantasmal'. La probabilidad cuántica refleja perspectiva
+es;entrelazamiento_geometrico.py;0150;acción fantasmal
+es;entrelazamiento_geometrico.py;0151;limitada del observador, no propiedad fundamental.
+es;entrelazamiento_geometrico.py;0170;🎯 CREANDO VERSIÓN FINAL CON CUADROS EN MISMO NIVEL...
+es;entrelazamiento_geometrico.py;0173;\n✨ CORRECCIONES APLICADAS:
+es;entrelazamiento_geometrico.py;0174;• Cuadros 'Fundamento Einstein' y 'Ecuaciones' en MISMO NIVEL
+es;entrelazamiento_geometrico.py;0174;Fundamento Einstein
+es;entrelazamiento_geometrico.py;0175;• Figura más ANCHA (16x10) para acomodar ambos
+es;entrelazamiento_geometrico.py;0176;• Diseño equilibrado y simétrico
+es;entrelazamiento_geometrico.py;0177;• Decoración y colores RESPETADOS
+es;entrelazamiento_geometrico.py;0178;• CERO solapamientos

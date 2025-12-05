@@ -1,0 +1,50 @@
+idioma;archivo;id;texto_traducido
+es;validacion_experimental.py;0023;Genera comparación con PREDICCIONES EXACTAS Einstein-VED
+es;validacion_experimental.py;0030;Protón
+es;validacion_experimental.py;0030;Neutrón
+es;validacion_experimental.py;0039;Einstein-VED
+es;validacion_experimental.py;0041;LHC (Experimental)
+es;validacion_experimental.py;0043;Nucleón
+es;validacion_experimental.py;0044;Radio de Carga (fm)
+es;validacion_experimental.py;0045;a) Radios Nucleares: VED vs Experimental\n(Precisión >99%)
+es;validacion_experimental.py;0056;{precision:.1f}%
+es;validacion_experimental.py;0063;Protón (LHC)
+es;validacion_experimental.py;0063;Quark (VED)
+es;validacion_experimental.py;0063;Límite "puntual"
+es;validacion_experimental.py;0076;Tamaño (fm)
+es;validacion_experimental.py;0077;b) Predicción VED: Quarks NO Puntuales
+es;validacion_experimental.py;0082;{long*1e15:.3f} fm
+es;validacion_experimental.py;0092;ro-
+es;validacion_experimental.py;0093;Masa (eV/c²) - Escala log
+es;validacion_experimental.py;0094;Longitud Compton (m) - Escala log
+es;validacion_experimental.py;0095;c) Relación Masa-Tamaño Einstein-VED\nλ = h/mc
+es;validacion_experimental.py;0099;electrón
+es;validacion_experimental.py;0099;quark up
+es;validacion_experimental.py;0099;quark down
+es;validacion_experimental.py;0099;muón
+es;validacion_experimental.py;0101;offset points
+es;validacion_experimental.py;0106;PREDICCIONES EINSTEIN-VED:
+es;validacion_experimental.py;0107;• Radios EXACTOS desde primeros principios
+es;validacion_experimental.py;0108;• Quarks: ~0.05 fm (NO puntuales)
+es;validacion_experimental.py;0109;• Sin probabilidades - Valores deterministas
+es;validacion_experimental.py;0111;FUNDAMENTO:
+es;validacion_experimental.py;0112;• Masa conocida → Longitud Compton exacta
+es;validacion_experimental.py;0113;• Confinamiento: L = nλ (n entero)
+es;validacion_experimental.py;0114;• Geometría → Estructura exacta
+es;validacion_experimental.py;0116;VERIFICACIÓN FUTURA:\nLHC mejorado confirmará\nestructura quark predicha
+es;validacion_experimental.py;0124;PREDICCIONES EINSTEIN-VED: Geometría Exacta vs Datos Experimentales\n
+es;validacion_experimental.py;0125;De átomos a quarks - Todos los tamaños calculables exactamente
+es;validacion_experimental.py;0133;PREDICCIONES EXACTAS EINSTEIN-VED
+es;validacion_experimental.py;0136;\nPRECISIÓN vs EXPERIMENTAL:
+es;validacion_experimental.py;0137;Protón:  {precisiones_ved[0]:.2f}%
+es;validacion_experimental.py;0138;Neutrón: {precisiones_ved[1]:.2f}%
+es;validacion_experimental.py;0140;\nPREDICCIÓN SOBRE QUARKS:
+es;validacion_experimental.py;0141;Tamaño mínimo quark (VED): {datos_experimentales['prediccion_quark_ved']*1e15:.3f} fm
+es;validacion_experimental.py;0142;Límite experimental actual: < 0.001 fm
+es;validacion_experimental.py;0143;Conclusión: Los quarks NO pueden ser puntuales
+es;validacion_experimental.py;0145;\nRELACIÓN MASA-TAMAÑO:
+es;validacion_experimental.py;0146;Electrón (0.511 MeV): {2.426e-12:.2e} m
+es;validacion_experimental.py;0147;Quark up (2.3 MeV):   {8.6e-16:.2e} m
+es;validacion_experimental.py;0148;Quark down (4.8 MeV): {4.1e-16:.2e} m
+es;validacion_experimental.py;0151;🔬 GENERANDO PREDICCIONES EINSTEIN-VED...
+es;validacion_experimental.py;0153;✅ GRÁFICO DE PREDICCIONES GENERADO

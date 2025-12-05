@@ -1,0 +1,26 @@
+idioma;archivo;id;texto
+ch;confinamiento_geometrico.py;0023;波函数 ψ(x)
+ch;confinamiento_geometrico.py;0026;位置 x
+ch;confinamiento_geometrico.py;0027;振幅 ψ(x)
+ch;confinamiento_geometrico.py;0028;爱因斯坦-VED约束: 波 → 粒子
+ch;confinamiento_geometrico.py;0043;位置 x
+ch;confinamiento_geometrico.py;0044;振幅 ψ(x)
+ch;confinamiento_geometrico.py;0045;1. 平面上的正弦波
+ch;confinamiento_geometrico.py;0064;2. 过渡: 卷绕 ({progress*100:.0f}%)
+ch;confinamiento_geometrico.py;0065;X坐标
+ch;confinamiento_geometrico.py;0066;Y坐标
+ch;confinamiento_geometrico.py;0076;约束 (n={n_cycles})
+ch;confinamiento_geometrico.py;0077;爱因斯坦-VED条件: L = {n_cycles}λ
+ch;confinamiento_geometrico.py;0080;3. 自约束波 - 稳定粒子
+ch;confinamiento_geometrico.py;0081;X坐标
+ch;confinamiento_geometrico.py;0082;Y坐标
+ch;confinamiento_geometrico.py;0118;a) 自由平面波
+ch;confinamiento_geometrico.py;0119;位置 x
+ch;confinamiento_geometrico.py;0120;振幅 ψ(x)
+ch;confinamiento_geometrico.py;0137;b) 过渡
+ch;confinamiento_geometrico.py;0138;X坐标
+ch;confinamiento_geometrico.py;0139;Y坐标
+ch;confinamiento_geometrico.py;0155;c) 约束 n=3\nL = 3λ
+ch;confinamiento_geometrico.py;0156;X坐标
+ch;confinamiento_geometrico.py;0157;Y坐标
+ch;confinamiento_geometrico.py;0159;条件: L = nλ

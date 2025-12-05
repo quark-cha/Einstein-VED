@@ -1,0 +1,52 @@
+idioma;archivo;id;texto
+ar;Constante_G.py;0042;نصف قطر البروتون (خط الوسط)
+ar;Constante_G.py;0046;الشكل 1: موجة VED محصورة للبروتون، ن=2
+ar;Constante_G.py;0059;ثقب أسود
+ar;Constante_G.py;0061;سطح ثنائي الأبعاد
+ar;Constante_G.py;0066;الشكل 2: الثقب الأسود والسطح الهولوغرافي ثنائي الأبعاد
+ar;Constante_G.py;0078;G تجريبي
+ar;Constante_G.py;0083;ن={n}
+ar;Constante_G.py;0088;G محسوب [م^3/كغ/ث^2]
+ar;Constante_G.py;0089;الشكل 3: هدف G ±3σ
+ar;Constante_G.py;0116;G محسوب [م^3/كغ/ث^2]
+ar;Constante_G.py;0117;الشكل 4: هدف G ±4σ (أسهم)
+ar;Constante_G.py;0130;G(ن) مقارب (مستمر)
+ar;Constante_G.py;0133;G تجريبي
+ar;Constante_G.py;0140;round,pad=0.5
+ar;Constante_G.py;0143;الشكل 5: السلوك المقارب لـ G(ن) ن→∞ (سجل-سجل)
+ar;Constante_G.py;0164;القيمة [م³/كغ·ث²]
+ar;Constante_G.py;0165;{G_max:.8e}
+ar;Constante_G.py;0166;$G_2^{EXP}$ تجريبي
+ar;Constante_G.py;0167;{G_min:.8e}
+ar;Constante_G.py;0168;$G_1^{VED}$ (ن=2) مضبوط
+ar;Constante_G.py;0169;الفرق المطلق
+ar;Constante_G.py;0170;الخطأ النسبي
+ar;Constante_G.py;0248;ثابت الجاذبية G
+ar;Constante_G.py;0267;موجة مادة محصورة
+ar;Constante_G.py;0277;هولوغرام ثنائي الأبعاد
+ar;Constante_G.py;0286;ظهور G
+ar;Constante_G.py;0288;الشكل 8: المادة كموجة محصورة على هولوغرام ثنائي الأبعاد
+ar;Constante_G.py;0317;نصف قطر البروتون
+ar;Constante_G.py;0318;موجات بروتونية شعاعية
+ar;Constante_G.py;0319;تموج بروتون ثنائي الأبعاد (ن=4)
+ar;Constante_G.py;0322;نصف قطر البروتون
+ar;Constante_G.py;0323;موجات البروتون
+ar;Constante_G.py;0324;تموج ثنائي الأبعاد
+ar;Constante_G.py;0326;البروتون - مقياس فيمتومتري (10⁻¹⁵ م)
+ar;Constante_G.py;0342;نصف قطر مدار الإلكترون
+ar;Constante_G.py;0343;موجات إلكترونية شعاعية
+ar;Constante_G.py;0344;تموج إلكترون ثنائي الأبعاد (ن=137)
+ar;Constante_G.py;0347;نصف قطر مدار الإلكترون
+ar;Constante_G.py;0348;موجات الإلكترون
+ar;Constante_G.py;0349;تموج ثنائي الأبعاد
+ar;Constante_G.py;0351;الإلكترون - مقياس ذري (10⁻¹¹ م)
+ar;Constante_G.py;0358;الشكل 9. موجات ثنائية الأبعاد وشعاعية للبروتون والإلكترون\n(هولوغرافيا → جسيمات)
+ar;Constante_G.py;0378;$M_\mathrm{VED} = n h /$
+ar;Constante_G.py;0379;$M_\mathrm{Sch} = c^2 R_s /$
+ar;Constante_G.py;0380;$L_\mathrm{geom}$ محددة
+ar;Constante_G.py;0381;$R_s$ محددة بواسطة
+ar;Constante_G.py;0382;تكميم
+ar;Constante_G.py;0383;ن لا يظهر،\nG محدد
+ar;Constante_G.py;0384;حصر ثنائي الأبعاد
+ar;Constante_G.py;0385;ثلاثي الأبعاد → هولوغرافيا
+ar;Constante_G.py;0409;الشكل 10: مقارنة مفاهيمية VED ضد شوارزشيلد

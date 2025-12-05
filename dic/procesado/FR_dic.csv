@@ -1,0 +1,573 @@
+idioma;archivo;id;texto
+fr;confinamiento_geometrico.py;001;round
+fr;confinamiento_geometrico.py;002;yellow
+fr;confinamiento_geometrico.py;003;round
+fr;confinamiento_geometrico.py;004;yellow
+fr;confinamiento_geometrico.py;005;Génération de l'animation SVG du confinement...
+fr;confinamiento_geometrico.py;006;✅ Animation SVG terminée
+fr;confinamiento_geometrico.py;007;__main__
+fr;confinamiento_geometrico.py;008;Génération de l'animation SVG du confinement...
+fr;confinamiento_geometrico.py;009;✅ Animation SVG terminée
+fr;confinamiento_geometrico.py;010;equal
+fr;confinamiento_geometrico.py;011;Onde ψ(x)
+fr;confinamiento_geometrico.py;012;Position x
+fr;confinamiento_geometrico.py;013;Amplitude ψ(x)
+fr;confinamiento_geometrico.py;014;CONFINEMENT EINSTEIN-VED: Onde → Particule
+fr;confinamiento_geometrico.py;015;bold
+fr;confinamiento_geometrico.py;016;equal
+fr;confinamiento_geometrico.py;017;brown
+fr;confinamiento_geometrico.py;018;Position x
+fr;confinamiento_geometrico.py;019;Amplitude ψ(x)
+fr;confinamiento_geometrico.py;020;1. Onde Sinusoïdale sur Surface Plane
+fr;confinamiento_geometrico.py;021;bold
+fr;confinamiento_geometrico.py;022;gray
+fr;confinamiento_geometrico.py;023;center
+fr;confinamiento_geometrico.py;024;red
+fr;confinamiento_geometrico.py;025;2. Transition: Enroulement ({progress*100:.0f}%)
+fr;confinamiento_geometrico.py;026;bold
+fr;confinamiento_geometrico.py;027;Coordonnée X
+fr;confinamiento_geometrico.py;028;Coordonnée Y
+fr;confinamiento_geometrico.py;029;gray
+fr;confinamiento_geometrico.py;030;red
+fr;confinamiento_geometrico.py;031;Confinée (n={n_cycles})
+fr;confinamiento_geometrico.py;032;CONDITION EINSTEIN-VED: L = {n_cycles}λ
+fr;confinamiento_geometrico.py;033;bold
+fr;confinamiento_geometrico.py;034;3. Onde Auto-Confinée - Particule Stable
+fr;confinamiento_geometrico.py;035;bold
+fr;confinamiento_geometrico.py;036;Coordonnée X
+fr;confinamiento_geometrico.py;037;Coordonnée Y
+fr;confinamiento_geometrico.py;038;svg
+fr;confinamiento_geometrico.py;039;tight
+fr;confinamiento_geometrico.py;040;brown
+fr;confinamiento_geometrico.py;041;equal
+fr;confinamiento_geometrico.py;042;a) Onde Plane Libre
+fr;confinamiento_geometrico.py;043;bold
+fr;confinamiento_geometrico.py;044;Position x
+fr;confinamiento_geometrico.py;045;Amplitude ψ(x)
+fr;confinamiento_geometrico.py;046;orange
+fr;confinamiento_geometrico.py;047;equal
+fr;confinamiento_geometrico.py;048;b) Transition
+fr;confinamiento_geometrico.py;049;bold
+fr;confinamiento_geometrico.py;050;Coordonnée X
+fr;confinamiento_geometrico.py;051;Coordonnée Y
+fr;confinamiento_geometrico.py;052;gray
+fr;confinamiento_geometrico.py;053;red
+fr;confinamiento_geometrico.py;054;equal
+fr;confinamiento_geometrico.py;055;c) Confiné n=3\nL = 3λ
+fr;confinamiento_geometrico.py;056;bold
+fr;confinamiento_geometrico.py;057;Coordonnée X
+fr;confinamiento_geometrico.py;058;Coordonnée Y
+fr;confinamiento_geometrico.py;059;CONDITION: L = nλ
+fr;confinamiento_geometrico.py;060;center
+fr;confinamiento_geometrico.py;061;bold
+fr;confinamiento_geometrico.py;062;svg
+fr;confinamiento_geometrico.py;063;tight
+fr;confinamiento_geometrico_tiempo.py;001;n=1: Tube espace-temps lisse + onde circulaire fondamentale
+fr;confinamiento_geometrico_tiempo.py;002;n=3: Variété espace-temps + onde avec 3 nœuds
+fr;confinamiento_geometrico_tiempo.py;003;Comparaison côte à côte n=1 vs n=3
+fr;confinamiento_geometrico_tiempo.py;004;Montre comment les courbes dt génèrent la surface n=1
+fr;confinamiento_geometrico_tiempo.py;005;Montre comment les courbes dt génèrent la surface n=3
+fr;confinamiento_geometrico_tiempo.py;006;Évolution complète dt à travers δt
+fr;confinamiento_geometrico_tiempo.py;007;round
+fr;confinamiento_geometrico_tiempo.py;008;white
+fr;confinamiento_geometrico_tiempo.py;009;🎨 GÉNÉRATION DES 6 GRAPHIQUES COMPLETS EINSTEIN-VED...
+fr;confinamiento_geometrico_tiempo.py;010;\n✅ 6 GRAPHIQUES COMPLETS:
+fr;confinamiento_geometrico_tiempo.py;011;__main__
+fr;confinamiento_geometrico_tiempo.py;012;lightblue
+fr;confinamiento_geometrico_tiempo.py;013;red
+fr;confinamiento_geometrico_tiempo.py;014;ÉTAT FONDAMENTAL n=1\nEspace-Temps + Onde Circulaire
+fr;confinamiento_geometrico_tiempo.py;015;bold
+fr;confinamiento_geometrico_tiempo.py;016;tight
+fr;confinamiento_geometrico_tiempo.py;017;white
+fr;confinamiento_geometrico_tiempo.py;018;red
+fr;confinamiento_geometrico_tiempo.py;019;ÉTAT EXCITÉ n=3\nVariété Espace-Temps + 3 Nœuds
+fr;confinamiento_geometrico_tiempo.py;020;bold
+fr;confinamiento_geometrico_tiempo.py;021;tight
+fr;confinamiento_geometrico_tiempo.py;022;white
+fr;confinamiento_geometrico_tiempo.py;023;lightblue
+fr;confinamiento_geometrico_tiempo.py;024;red
+fr;confinamiento_geometrico_tiempo.py;025;n=1: État Fondamental
+fr;confinamiento_geometrico_tiempo.py;026;bold
+fr;confinamiento_geometrico_tiempo.py;027;red
+fr;confinamiento_geometrico_tiempo.py;028;n=3: État Excité
+fr;confinamiento_geometrico_tiempo.py;029;bold
+fr;confinamiento_geometrico_tiempo.py;030;tight
+fr;confinamiento_geometrico_tiempo.py;031;white
+fr;confinamiento_geometrico_tiempo.py;032;lightblue
+fr;confinamiento_geometrico_tiempo.py;033;red
+fr;confinamiento_geometrico_tiempo.py;034;green
+fr;confinamiento_geometrico_tiempo.py;035;green
+fr;confinamiento_geometrico_tiempo.py;036;green
+fr;confinamiento_geometrico_tiempo.py;037;bold
+fr;confinamiento_geometrico_tiempo.py;038;GÉNÉRATION n=1: dt → Surface\nCourbes Circulaires Génèrent Cylindre
+fr;confinamiento_geometrico_tiempo.py;039;bold
+fr;confinamiento_geometrico_tiempo.py;040;tight
+fr;confinamiento_geometrico_tiempo.py;041;white
+fr;confinamiento_geometrico_tiempo.py;042;red
+fr;confinamiento_geometrico_tiempo.py;043;green
+fr;confinamiento_geometrico_tiempo.py;044;green
+fr;confinamiento_geometrico_tiempo.py;045;green
+fr;confinamiento_geometrico_tiempo.py;046;bold
+fr;confinamiento_geometrico_tiempo.py;047;GÉNÉRATION n=3: dt → Variété\nCourbes avec Nœuds Génèrent Géométrie
+fr;confinamiento_geometrico_tiempo.py;048;bold
+fr;confinamiento_geometrico_tiempo.py;049;tight
+fr;confinamiento_geometrico_tiempo.py;050;white
+fr;confinamiento_geometrico_tiempo.py;051;red
+fr;confinamiento_geometrico_tiempo.py;052;darkred
+fr;confinamiento_geometrico_tiempo.py;053;δt={t}
+fr;confinamiento_geometrico_tiempo.py;054;center
+fr;confinamiento_geometrico_tiempo.py;055;bold
+fr;confinamiento_geometrico_tiempo.py;056;blue
+fr;confinamiento_geometrico_tiempo.py;057;blue
+fr;confinamiento_geometrico_tiempo.py;058;Évolution\ntemporelle
+fr;confinamiento_geometrico_tiempo.py;059;blue
+fr;confinamiento_geometrico_tiempo.py;060;bold
+fr;confinamiento_geometrico_tiempo.py;061;ÉVOLUTION COMPLÈTE: dt → δt → États n\nConfinement Quantique Einstein-VED
+fr;confinamiento_geometrico_tiempo.py;062;bold
+fr;confinamiento_geometrico_tiempo.py;063;tight
+fr;confinamiento_geometrico_tiempo.py;064;white
+fr;entrelazamiento_geometrico.py;001;"
+    Version finale corrigée:
+    - Cadres "
+fr;entrelazamiento_geometrico.py;002; et 
+fr;entrelazamiento_geometrico.py;003;" au même niveau
+    - Design plus large pour accommoder les deux cadres
+    - Respect de la décoration actuelle
+    "
+fr;entrelazamiento_geometrico.py;004;SYMBOLOGIE:\n\n
+fr;entrelazamiento_geometrico.py;005;🔴 Particule A (45°)\n
+fr;entrelazamiento_geometrico.py;006;🟢 Particule B (225°)\n
+fr;entrelazamiento_geometrico.py;007;⚫ Observateur\n
+fr;entrelazamiento_geometrico.py;008;▬▬ Connexion géométrique\n
+fr;entrelazamiento_geometrico.py;009;▬▬ Lignes de vision
+fr;entrelazamiento_geometrico.py;010;round,pad=0.6
+fr;entrelazamiento_geometrico.py;011;white
+fr;entrelazamiento_geometrico.py;012;FRONT D'ONDE
+fr;entrelazamiento_geometrico.py;013;CLÉ EINSTEIN-VED:\n\n
+fr;entrelazamiento_geometrico.py;014;Les deux particules (y compris les antipodales)\npartagent le même espace-temps propre t₀, s₀\n\n
+fr;entrelazamiento_geometrico.py;015;Car: dt' → 0 et ds' → 0 à vitesse c\n\n
+fr;entrelazamiento_geometrico.py;016;t = t₀ + dt' → t₀\n
+fr;entrelazamiento_geometrico.py;017;s = s₀ + ds' → s₀\n\n
+fr;entrelazamiento_geometrico.py;018;Pas d'action à distance
+fr;entrelazamiento_geometrico.py;019;round,pad=0.8
+fr;entrelazamiento_geometrico.py;020;#fffacd
+fr;entrelazamiento_geometrico.py;021;FONDEMENT EINSTEIN-VED:\n\n
+fr;entrelazamiento_geometrico.py;022;Les particules intriquées partagent un espace-temps propre commun depuis leur origine. 
+fr;entrelazamiento_geometrico.py;023;Lorsqu'elles voyagent à vitesse c, leurs différentiels de temps et d'espace propres tendent vers zéro 
+fr;entrelazamiento_geometrico.py;024;(dt' → 0, ds' → 0), les maintenant connectées au même instant t₀ et position s₀. 
+fr;entrelazamiento_geometrico.py;025;Cette simultanéité géométrique explique les corrélations quantiques sans violer la relativité.
+fr;entrelazamiento_geometrico.py;026;round,pad=0.8
+fr;entrelazamiento_geometrico.py;027;#ffebee
+fr;entrelazamiento_geometrico.py;028;ÉQUATIONS FONDAMENTALES:\n\n
+fr;entrelazamiento_geometrico.py;029;Pour les particules à vitesse c:\n
+fr;entrelazamiento_geometrico.py;030;• dt' → 0, ds' → 0\n
+fr;entrelazamiento_geometrico.py;031;• t = t₀ + dt' → t₀\n
+fr;entrelazamiento_geometrico.py;032;• s = s₀ + ds' → s₀\n\n
+fr;entrelazamiento_geometrico.py;033;Équation de champ:\n
+fr;entrelazamiento_geometrico.py;034;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+fr;entrelazamiento_geometrico.py;035;Simultanéité absolue dans le référentiel propre
+fr;entrelazamiento_geometrico.py;036;round,pad=0.8
+fr;entrelazamiento_geometrico.py;037;#f0f8ff
+fr;entrelazamiento_geometrico.py;038;INTERPRÉTATION EINSTEIN-VED: L'intrication quantique cesse d'être paradoxale lorsqu'elle est comprise 
+fr;entrelazamiento_geometrico.py;039;depuis la géométrie de l'espace-temps. Les particules générées dans le même événement partagent un front 
+fr;entrelazamiento_geometrico.py;040;d'onde où leur temps propre reste gelé à t₀. Cette simultanéité intrinsèque explique 
+fr;entrelazamiento_geometrico.py;041;des corrélations parfaites sans 'action fantôme'. La probabilité quantique reflète la perspective 
+fr;entrelazamiento_geometrico.py;042;limitée de l'observateur, pas une propriété fondamentale.
+fr;entrelazamiento_geometrico.py;043;round,pad=0.8
+fr;entrelazamiento_geometrico.py;044;#f5f5f5
+fr;entrelazamiento_geometrico.py;045;__main__
+fr;entrelazamiento_geometrico.py;046;🎯 CRÉATION VERSION FINALE AVEC CADRES AU MÊME NIVEAU...
+fr;entrelazamiento_geometrico.py;047;\n✨ CORRECTIONS APPLIQUÉES:
+fr;entrelazamiento_geometrico.py;048;   • Cadres 'Fondement Einstein' et 'Équations' au MÊME NIVEAU
+fr;entrelazamiento_geometrico.py;049;   • Figure plus LARGE (16x10) pour accommoder les deux
+fr;entrelazamiento_geometrico.py;050;   • Design équilibré et symétrique
+fr;entrelazamiento_geometrico.py;051;   • Décoration et couleurs RESPECTÉES
+fr;entrelazamiento_geometrico.py;052;   • ZÉRO chevauchements
+fr;entrelazamiento_geometrico.py;053;INTRICATION QUANTIQUE: Explication Géométrique Einstein-VED
+fr;entrelazamiento_geometrico.py;054;bold
+fr;entrelazamiento_geometrico.py;055;blue
+fr;entrelazamiento_geometrico.py;056;k--
+fr;entrelazamiento_geometrico.py;057;equal
+fr;entrelazamiento_geometrico.py;058;Référentiel Interne: Temps Propre Partagé
+fr;entrelazamiento_geometrico.py;059;bold
+fr;entrelazamiento_geometrico.py;060;blue
+fr;entrelazamiento_geometrico.py;061;equal
+fr;entrelazamiento_geometrico.py;062;Référentiel Externe: Perspective Conventionnelle
+fr;entrelazamiento_geometrico.py;063;bold
+fr;entrelazamiento_geometrico.py;064;left
+fr;entrelazamiento_geometrico.py;065;center
+fr;entrelazamiento_geometrico.py;066;bold
+fr;entrelazamiento_geometrico.py;067;gray
+fr;entrelazamiento_geometrico.py;068; → 0 et ds
+fr;entrelazamiento_geometrico.py;069;" → t₀\n""
+        ""s = s₀ + ds"
+fr;entrelazamiento_geometrico.py;070;center
+fr;entrelazamiento_geometrico.py;071;center
+fr;entrelazamiento_geometrico.py;072;bold
+fr;entrelazamiento_geometrico.py;073;orange
+fr;entrelazamiento_geometrico.py;074; → 0, ds
+fr;entrelazamiento_geometrico.py;075;center
+fr;entrelazamiento_geometrico.py;076;center
+fr;entrelazamiento_geometrico.py;077;italic
+fr;entrelazamiento_geometrico.py;078;red
+fr;entrelazamiento_geometrico.py;079; → 0, ds
+fr;entrelazamiento_geometrico.py;080;" → t₀\n"" 
+        ""• s = s₀ + ds"
+fr;entrelazamiento_geometrico.py;081;center
+fr;entrelazamiento_geometrico.py;082;center
+fr;entrelazamiento_geometrico.py;083;bold
+fr;entrelazamiento_geometrico.py;084;blue
+fr;entrelazamiento_geometrico.py;085;action fantôme
+fr;entrelazamiento_geometrico.py;086;center
+fr;entrelazamiento_geometrico.py;087;center
+fr;entrelazamiento_geometrico.py;088;black
+fr;entrelazamiento_geometrico.py;089;svg
+fr;entrelazamiento_geometrico.py;090;tight
+fr;entrelazamiento_geometrico.py;091;white
+fr;entrelazamiento_geometrico.py;092;Fondement Einstein
+fr;entrelazamiento_geometrico.py;093;Équations
+fr;generador_svg.py;001;Fonction radiale état 1s: R₁₀(r) = 2/a₀^(3/2) exp(-r/a₀)
+fr;generador_svg.py;002;Fonction radiale état 2p: R₂₁(r) = (1/2√6)(r/a₀²) exp(-r/2a₀)
+fr;generador_svg.py;003;Fonction radiale état 3d: R₃₂(r) = (4/81√30)(r²/a₀^(7/2)) exp(-r/3a₀)
+fr;generador_svg.py;004;Fonction d'onde complète ψₙℓₘ(r,θ,φ) = Rₙℓ(r)Yℓₘ(θ,φ)
+fr;generador_svg.py;005;État n={n}, ℓ={ell} non implémenté
+fr;generador_svg.py;006;Calcule surface VED: r(θ,φ) = n²a₀(1 + α|Yℓₘ|)
+fr;generador_svg.py;007;Vérifie correspondance entre maximum P(r) et rayon VED
+fr;generador_svg.py;008;ell
+fr;generador_svg.py;009;alpha
+fr;generador_svg.py;010;label
+fr;generador_svg.py;011;ell
+fr;generador_svg.py;012;alpha
+fr;generador_svg.py;013;label
+fr;generador_svg.py;014;ell
+fr;generador_svg.py;015;alpha
+fr;generador_svg.py;016;label
+fr;generador_svg.py;017;Génère comparaison complète Einstein-VED vs Mécanique Quantique
+fr;generador_svg.py;018;🔬 CALCUL COMPARAISON EINSTEIN-VED vs MQ...
+fr;generador_svg.py;019;ell
+fr;generador_svg.py;020;alpha
+fr;generador_svg.py;021;label
+fr;generador_svg.py;022;round
+fr;generador_svg.py;023;lightgreen
+fr;generador_svg.py;024;label
+fr;generador_svg.py;025;label
+fr;generador_svg.py;026;__main__
+fr;generador_svg.py;027;RÉSULTATS EXACTS EINSTEIN-VED
+fr;generador_svg.py;028;{res['estado']}: r_VED = {res['r_ved']:.3e} m, 
+fr;generador_svg.py;029;r_MQ = {res['r_max_mc']:.3e} m, 
+fr;generador_svg.py;030;Précision = {res['precision']:.2f}%
+fr;generador_svg.py;031;✅ COMPARAISON GÉNÉRÉE - CORRESPONDANCE >99% CONFIRMÉE
+fr;generador_svg.py;032;lower
+fr;generador_svg.py;033;viridis
+fr;generador_svg.py;034;auto
+fr;generador_svg.py;035;"Densité |ψ|² - {estado[""label""]}\n(plan Z=0.5Y)"
+fr;generador_svg.py;036;x (m)
+fr;generador_svg.py;037;y (m)
+fr;generador_svg.py;038;red
+fr;generador_svg.py;039;VED: {r_ved:.2e}m
+fr;generador_svg.py;040;blue
+fr;generador_svg.py;041;P(r) MQ
+fr;generador_svg.py;042;red
+fr;generador_svg.py;043;VED: {r_ved:.2e} m
+fr;generador_svg.py;044;Précision: {precision:.2f}%
+fr;generador_svg.py;045;"Probabilité Radiale - {estado[""label""]}"
+fr;generador_svg.py;046;r (m)
+fr;generador_svg.py;047;P(r) normalisée
+fr;generador_svg.py;048;état
+fr;generador_svg.py;049;r_ved
+fr;generador_svg.py;050;r_max_mc
+fr;generador_svg.py;051;précision
+fr;generador_svg.py;052;COMPARAISON EINSTEIN-VED vs MÉCANIQUE QUANTIQUE - CALCULS EXACTS\n
+fr;generador_svg.py;053;Rayons déterministes vs distributions probabilistes
+fr;generador_svg.py;054;bold
+fr;generador_svg.py;055;svg
+fr;generador_svg.py;056;tight
+fr;generador_svg.py;057;png
+fr;generador_svg.py;058;tight
+fr;generador_svg.py;059;état
+fr;generador_svg.py;060;r_ved
+fr;generador_svg.py;061;r_max_mc
+fr;generador_svg.py;062;précision
+fr;graficas_einstein_ved_n4.py;001;#377eb8
+fr;graficas_einstein_ved_n4.py;002;#4daf4a
+fr;graficas_einstein_ved_n4.py;003;#e41a1c
+fr;graficas_einstein_ved_n4.py;004;#f0f0f0
+fr;graficas_einstein_ved_n4.py;005;✅ Sauvegardé: {filename}
+fr;graficas_einstein_ved_n4.py;006;round,pad=0.3
+fr;graficas_einstein_ved_n4.py;007;#ffebee
+fr;graficas_einstein_ved_n4.py;008;__main__
+fr;graficas_einstein_ved_n4.py;009;🚀 GÉNÉRATION DE TOUS LES GRAPHIQUES EINSTEIN-VED (n=4)...
+fr;graficas_einstein_ved_n4.py;010;Rayon du Proton: Comparaison Exacte Einstein-VED
+fr;graficas_einstein_ved_n4.py;011;🎯 TOUS LES GRAPHIQUES GÉNÉRÉS ✅
+fr;graficas_einstein_ved_n4.py;012;font.size
+fr;graficas_einstein_ved_n4.py;013;axes.titlesize
+fr;graficas_einstein_ved_n4.py;014;axes.labelsize
+fr;graficas_einstein_ved_n4.py;015;xtick.labelsize
+fr;graficas_einstein_ved_n4.py;016;ytick.labelsize
+fr;graficas_einstein_ved_n4.py;017;legend.fontsize
+fr;graficas_einstein_ved_n4.py;018;figure.titlesize
+fr;graficas_einstein_ved_n4.py;019;Modèle Conventionnel ±3σ
+fr;graficas_einstein_ved_n4.py;020;LHC Expérimental ±3σ
+fr;graficas_einstein_ved_n4.py;021;Einstein-VED Déterministe
+fr;graficas_einstein_ved_n4.py;022;Modèle Conventionnel
+fr;graficas_einstein_ved_n4.py;023;LHC Expérimental
+fr;graficas_einstein_ved_n4.py;024;Einstein-VED (n=4)
+fr;graficas_einstein_ved_n4.py;025;Rayon du Proton (fm)
+fr;graficas_einstein_ved_n4.py;026;bold
+fr;graficas_einstein_ved_n4.py;027;upper right
+fr;graficas_einstein_ved_n4.py;028;svg
+fr;graficas_einstein_ved_n4.py;029;tight
+fr;graficas_einstein_ved_n4.py;030;MQ Probabiliste\n(1920s-)
+fr;graficas_einstein_ved_n4.py;031;Données LHC\n(2010s-)
+fr;graficas_einstein_ved_n4.py;032;Einstein-VED\n(2024-)
+fr;graficas_einstein_ved_n4.py;033;k--
+fr;graficas_einstein_ved_n4.py;034;Rayon du Proton (fm)
+fr;graficas_einstein_ved_n4.py;035;Évolution Théorique: De la Probabilité à la Géométrie Déterministe
+fr;graficas_einstein_ved_n4.py;036;bold
+fr;graficas_einstein_ved_n4.py;037;Einstein-VED:\nGéométrie exacte\nsans probabilité
+fr;graficas_einstein_ved_n4.py;038;svg
+fr;graficas_einstein_ved_n4.py;039;tight
+fr;graficas_einstein_ved_n4.py;040;tight
+fr;graficas_einstein_ved_n4.py;041;off
+fr;graficas_einstein_ved_n4.py;042;Théorie
+fr;graficas_einstein_ved_n4.py;043;Rayon (fm)
+fr;graficas_einstein_ved_n4.py;044;Incertitude
+fr;graficas_einstein_ved_n4.py;045;Précision
+fr;graficas_einstein_ved_n4.py;046;Einstein-VED (n=4)
+fr;graficas_einstein_ved_n4.py;047;{VED_mean:.5f}
+fr;graficas_einstein_ved_n4.py;048;Déterministe
+fr;graficas_einstein_ved_n4.py;049;LHC Expérimental
+fr;graficas_einstein_ved_n4.py;050;{LHC_mean:.5f}
+fr;graficas_einstein_ved_n4.py;051;± 0.014 fm
+fr;graficas_einstein_ved_n4.py;052;Référence
+fr;graficas_einstein_ved_n4.py;053;Modèle Conventionnel
+fr;graficas_einstein_ved_n4.py;054;{MC_mean:.2f}
+fr;graficas_einstein_ved_n4.py;055;± 0.90 fm
+fr;graficas_einstein_ved_n4.py;056;Faible précision
+fr;graficas_einstein_ved_n4.py;057;#ffeaea
+fr;graficas_einstein_ved_n4.py;058;#f0f9e8
+fr;graficas_einstein_ved_n4.py;059;#e8f4fd
+fr;graficas_einstein_ved_n4.py;060;center
+fr;graficas_einstein_ved_n4.py;061;center
+fr;graficas_einstein_ved_n4.py;062;#dddddd
+fr;graficas_einstein_ved_n4.py;063;bold
+fr;graficas_einstein_ved_n4.py;064;Comparaison Rayons Protoniques - Données VED Exactes (n=4)
+fr;graficas_einstein_ved_n4.py;065;bold
+fr;graficas_einstein_ved_n4.py;066;svg
+fr;graficas_einstein_ved_n4.py;067;tight
+fr;graficas_einstein_ved_n4.py;068;Einstein-VED
+fr;graficas_einstein_ved_n4.py;069;MQ (maxima prob.)
+fr;graficas_einstein_ved_n4.py;070;État Quantique
+fr;graficas_einstein_ved_n4.py;071;Rayon (unités de a₀)
+fr;graficas_einstein_ved_n4.py;072;Rayons Atomiques: Valeurs Exactes vs Probabilistes
+fr;graficas_einstein_ved_n4.py;073;bold
+fr;graficas_einstein_ved_n4.py;074;{height:.0f}
+fr;graficas_einstein_ved_n4.py;075;center
+fr;graficas_einstein_ved_n4.py;076;bottom
+fr;graficas_einstein_ved_n4.py;077;1s (MQ)
+fr;graficas_einstein_ved_n4.py;078;blue
+fr;graficas_einstein_ved_n4.py;079;2p (MQ)
+fr;graficas_einstein_ved_n4.py;080;green
+fr;graficas_einstein_ved_n4.py;081;3d (MQ)
+fr;graficas_einstein_ved_n4.py;082;red
+fr;graficas_einstein_ved_n4.py;083;blue
+fr;graficas_einstein_ved_n4.py;084;Rayon VED 1s
+fr;graficas_einstein_ved_n4.py;085;green
+fr;graficas_einstein_ved_n4.py;086;Rayon VED 2p
+fr;graficas_einstein_ved_n4.py;087;red
+fr;graficas_einstein_ved_n4.py;088;Rayon VED 3d
+fr;graficas_einstein_ved_n4.py;089;Distance radiale (unités de a₀)
+fr;graficas_einstein_ved_n4.py;090;Densité (normalisée)
+fr;graficas_einstein_ved_n4.py;091;Interprétation: Probabilité MQ vs Géométrie VED
+fr;graficas_einstein_ved_n4.py;092;bold
+fr;graficas_einstein_ved_n4.py;093;svg
+fr;graficas_einstein_ved_n4.py;094;tight
+fr;proton_comparativa_destacado.py;001;#377eb8
+fr;proton_comparativa_destacado.py;002;#4daf4a
+fr;proton_comparativa_destacado.py;003;#e41a1c
+fr;proton_comparativa_destacado.py;004;#f0f0f0
+fr;proton_comparativa_destacado.py;005;Calcule intervalle ±3σ pour visualisation
+fr;proton_comparativa_destacado.py;006;"
+    Graphique double avec position corrigée de la légende
+    "
+fr;proton_comparativa_destacado.py;007;EINSTEIN-VED: Géométrie déterministe de l'espace-temps. 
+fr;proton_comparativa_destacado.py;008;Rayons exacts sans probabilité fondamentale. 
+fr;proton_comparativa_destacado.py;009;Matière = espace-temps confiné.
+fr;proton_comparativa_destacado.py;010;round,pad=0.3
+fr;proton_comparativa_destacado.py;011;#ffebee
+fr;proton_comparativa_destacado.py;012;{mc_min:.3f}
+fr;proton_comparativa_destacado.py;013;{mc_mean:.3f}
+fr;proton_comparativa_destacado.py;014;{mc_max:.3f}
+fr;proton_comparativa_destacado.py;015;LHC
+fr;proton_comparativa_destacado.py;016;{lhc_min:.3f}
+fr;proton_comparativa_destacado.py;017;{lhc_mean:.5f}
+fr;proton_comparativa_destacado.py;018;{lhc_max:.3f}
+fr;proton_comparativa_destacado.py;019;VED
+fr;proton_comparativa_destacado.py;020;{ved_min:.3f}
+fr;proton_comparativa_destacado.py;021;{ved_mean:.3f}
+fr;proton_comparativa_destacado.py;022;{ved_max:.3f}
+fr;proton_comparativa_destacado.py;023;Minimum
+fr;proton_comparativa_destacado.py;024;Moyen
+fr;proton_comparativa_destacado.py;025;Maximum
+fr;proton_comparativa_destacado.py;026;Intervalles (±3σ) en fm
+fr;proton_comparativa_destacado.py;027;round,pad=0.2
+fr;proton_comparativa_destacado.py;028;white
+fr;proton_comparativa_destacado.py;029;round,pad=0.3
+fr;proton_comparativa_destacado.py;030;#ffebee
+fr;proton_comparativa_destacado.py;031;round,pad=0.3
+fr;proton_comparativa_destacado.py;032;#e8f4fd
+fr;proton_comparativa_destacado.py;033;round,pad=0.3
+fr;proton_comparativa_destacado.py;034;#ffebee
+fr;proton_comparativa_destacado.py;035;COMPARAISON RAYONS PROTON: 
+fr;proton_comparativa_destacado.py;036;MQ={mc_mean:.3f}±{3*MC_sigma:.3f} fm (±{(3*MC_sigma/mc_mean*100):.0f}%) | 
+fr;proton_comparativa_destacado.py;037;LHC={lhc_mean:.5f}±{3*LHC_sigma:.3f} fm (±{(3*LHC_sigma/lhc_mean*100):.1f}%) | 
+fr;proton_comparativa_destacado.py;038;VED={ved_mean:.3f}±{3*VED_sigma:.3f} fm (±{(3*VED_sigma/ved_mean*100):.1f}%) | 
+fr;proton_comparativa_destacado.py;039;Einstein-VED: valeurs déterministes depuis la géométrie spatio-temporelle.
+fr;proton_comparativa_destacado.py;040;__main__
+fr;proton_comparativa_destacado.py;041;🔄 CRÉATION GRAPHIQUE DOUBLE ÉCHELLE CORRIGÉE...
+fr;proton_comparativa_destacado.py;042;✨ Graphique double échelle CORRIGÉ créé avec:
+fr;proton_comparativa_destacado.py;043;   • Légende déplacée vers le bas: bbox_to_anchor=(0.02, 0.75)
+fr;proton_comparativa_destacado.py;044;   • Aucun chevauchement avec cadre Einstein-VED
+fr;proton_comparativa_destacado.py;045;   • Maintient toutes les améliorations précédentes
+fr;proton_comparativa_destacado.py;046;   • Texte bien distribué et lisible
+fr;proton_comparativa_destacado.py;047;font.size
+fr;proton_comparativa_destacado.py;048;axes.titlesize
+fr;proton_comparativa_destacado.py;049;axes.labelsize
+fr;proton_comparativa_destacado.py;050;xtick.labelsize
+fr;proton_comparativa_destacado.py;051;ytick.labelsize
+fr;proton_comparativa_destacado.py;052;legend.fontsize
+fr;proton_comparativa_destacado.py;053;figure.titlesize
+fr;proton_comparativa_destacado.py;054;white
+fr;proton_comparativa_destacado.py;055;white
+fr;proton_comparativa_destacado.py;056;MQ: Modèle probabiliste
+fr;proton_comparativa_destacado.py;057;LHC: Données expérimentales
+fr;proton_comparativa_destacado.py;058;Einstein-VED: Modèle géométrique
+fr;proton_comparativa_destacado.py;059;black
+fr;proton_comparativa_destacado.py;060;Mécanique\nQuantique
+fr;proton_comparativa_destacado.py;061;LHC\nExpérimental
+fr;proton_comparativa_destacado.py;062;Einstein-VED
+fr;proton_comparativa_destacado.py;063;Rayon du Proton (fm)
+fr;proton_comparativa_destacado.py;064;bold
+fr;proton_comparativa_destacado.py;065;PRÉDICTION EINSTEIN-VED vs DONNÉES EXPÉRIMENTALES\n(Région d'intérêt: 0.72-0.84 fm)
+fr;proton_comparativa_destacado.py;066;bold
+fr;proton_comparativa_destacado.py;067;top
+fr;proton_comparativa_destacado.py;068;bold
+fr;proton_comparativa_destacado.py;069;upper left
+fr;proton_comparativa_destacado.py;070;MQ: Modèle probabiliste
+fr;proton_comparativa_destacado.py;071;LHC: Données expérimentales
+fr;proton_comparativa_destacado.py;072;Einstein-VED: Modèle géométrique
+fr;proton_comparativa_destacado.py;073;black
+fr;proton_comparativa_destacado.py;074;Mécanique\nQuantique
+fr;proton_comparativa_destacado.py;075;LHC\nExpérimental
+fr;proton_comparativa_destacado.py;076;Einstein-VED
+fr;proton_comparativa_destacado.py;077;Rayon du Proton (fm)
+fr;proton_comparativa_destacado.py;078;bold
+fr;proton_comparativa_destacado.py;079;COMPARAISON COMPLÈTE: Incertitude MQ vs Précision VED\n(Échelle complète: 0.1-1.9 fm)
+fr;proton_comparativa_destacado.py;080;bold
+fr;proton_comparativa_destacado.py;081;upper right
+fr;proton_comparativa_destacado.py;082;center
+fr;proton_comparativa_destacado.py;083;center
+fr;proton_comparativa_destacado.py;084;center
+fr;proton_comparativa_destacado.py;085;#dddddd
+fr;proton_comparativa_destacado.py;086;bold
+fr;proton_comparativa_destacado.py;087;#eeeeee
+fr;proton_comparativa_destacado.py;088;bold
+fr;proton_comparativa_destacado.py;089;bold
+fr;proton_comparativa_destacado.py;090;center
+fr;proton_comparativa_destacado.py;091;PRÉDICTION EXACTE\nGÉOMÉTRIE DÉTERMINISTE
+fr;proton_comparativa_destacado.py;092;center
+fr;proton_comparativa_destacado.py;093;bold
+fr;proton_comparativa_destacado.py;094;HAUTE INCERTITUDE MQ\n(±0.9 fm = ±90%)
+fr;proton_comparativa_destacado.py;095;center
+fr;proton_comparativa_destacado.py;096;bold
+fr;proton_comparativa_destacado.py;097;PRÉCISION VED\n(±0.045 fm = ±5.8%)
+fr;proton_comparativa_destacado.py;098;center
+fr;proton_comparativa_destacado.py;099;bold
+fr;proton_comparativa_destacado.py;100;center
+fr;proton_comparativa_destacado.py;101;italic
+fr;proton_comparativa_destacado.py;102;svg
+fr;proton_comparativa_destacado.py;103;tight
+fr;validacion_experimental.py;001;rayon_proton
+fr;validacion_experimental.py;002;rayon_neutron
+fr;validacion_experimental.py;003;prediction_quark_ved
+fr;validacion_experimental.py;004;Génère comparaison avec PRÉDICTIONS EXACTES Einstein-VED
+fr;validacion_experimental.py;005;rayon_proton
+fr;validacion_experimental.py;006;rayon_neutron
+fr;validacion_experimental.py;007;round
+fr;validacion_experimental.py;008;yellow
+fr;validacion_experimental.py;009;ponctuel
+fr;validacion_experimental.py;010;rayon_proton
+fr;validacion_experimental.py;011;prediction_quark_ved
+fr;validacion_experimental.py;012;round
+fr;validacion_experimental.py;013;lightgreen
+fr;validacion_experimental.py;014;PRÉDICTIONS EXACTES EINSTEIN-VED
+fr;validacion_experimental.py;015;\nPRÉCISION vs EXPÉRIMENTAL:
+fr;validacion_experimental.py;016;Proton:  {precisiones_ved[0]:.2f}%
+fr;validacion_experimental.py;017;Neutron: {precisiones_ved[1]:.2f}%
+fr;validacion_experimental.py;018;\nPRÉDICTION SUR LES QUARKS:
+fr;validacion_experimental.py;019;Taille minimale quark (VED): {datos_experimentales['prediccion_quark_ved']*1e15:.3f} fm
+fr;validacion_experimental.py;020;Limite expérimentale actuelle: < 0.001 fm
+fr;validacion_experimental.py;021;Conclusion: Les quarks NE peuvent PAS être ponctuels
+fr;validacion_experimental.py;022;\nRELATION MASSE-TAILLE:
+fr;validacion_experimental.py;023;Électron (0.511 MeV): {2.426e-12:.2e} m
+fr;validacion_experimental.py;024;Quark up (2.3 MeV):   {8.6e-16:.2e} m
+fr;validacion_experimental.py;025;Quark down (4.8 MeV): {4.1e-16:.2e} m
+fr;validacion_experimental.py;026;🔬 GÉNÉRATION PRÉDICTIONS EINSTEIN-VED...
+fr;validacion_experimental.py;027;✅ GRAPHIQUE DES PRÉDICTIONS GÉNÉRÉ
+fr;validacion_experimental.py;028;Proton
+fr;validacion_experimental.py;029;Neutron
+fr;validacion_experimental.py;030;Einstein-VED
+fr;validacion_experimental.py;031;red
+fr;validacion_experimental.py;032;LHC (Expérimental)
+fr;validacion_experimental.py;033;green
+fr;validacion_experimental.py;034;Nucléon
+fr;validacion_experimental.py;035;Rayon de Charge (fm)
+fr;validacion_experimental.py;036;a) Rayons Nucléaires: VED vs Expérimental\n(Précision >99%)
+fr;validacion_experimental.py;037;{precision:.1f}%
+fr;validacion_experimental.py;038;center
+fr;validacion_experimental.py;039;bottom
+fr;validacion_experimental.py;040;bold
+fr;validacion_experimental.py;041;Proton (LHC)
+fr;validacion_experimental.py;042;Quark (VED)
+fr;validacion_experimental.py;043;"Limite ""ponctuelle"""
+fr;validacion_experimental.py;044;red
+fr;validacion_experimental.py;045;blue
+fr;validacion_experimental.py;046;gray
+fr;validacion_experimental.py;047;Taille (fm)
+fr;validacion_experimental.py;048;b) Prédiction VED: Quarks NON Ponctuels
+fr;validacion_experimental.py;049;{long*1e15:.3f} fm
+fr;validacion_experimental.py;050;center
+fr;validacion_experimental.py;051;bold
+fr;validacion_experimental.py;052;ro-
+fr;validacion_experimental.py;053;Masse (eV/c²) - Échelle log
+fr;validacion_experimental.py;054;Longueur Compton (m) - Échelle log
+fr;validacion_experimental.py;055;c) Relation Masse-Taille Einstein-VED\nλ = h/mc
+fr;validacion_experimental.py;056;électron
+fr;validacion_experimental.py;057;quark up
+fr;validacion_experimental.py;058;quark down
+fr;validacion_experimental.py;059;muon
+fr;validacion_experimental.py;060;offset points
+fr;validacion_experimental.py;061;PRÉDICTIONS EINSTEIN-VED:
+fr;validacion_experimental.py;062;bold
+fr;validacion_experimental.py;063;red
+fr;validacion_experimental.py;064;• Rayons EXACTS depuis premiers principes
+fr;validacion_experimental.py;065;red
+fr;validacion_experimental.py;066;• Quarks: ~0.05 fm (NON ponctuels)
+fr;validacion_experimental.py;067;red
+fr;validacion_experimental.py;068;• Sans probabilités - Valeurs déterministes
+fr;validacion_experimental.py;069;red
+fr;validacion_experimental.py;070;FONDEMENT:
+fr;validacion_experimental.py;071;bold
+fr;validacion_experimental.py;072;• Masse connue → Longueur Compton exacte
+fr;validacion_experimental.py;073;• Confinement: L = nλ (n entier)
+fr;validacion_experimental.py;074;• Géométrie → Structure exacte
+fr;validacion_experimental.py;075;VÉRIFICATION FUTURE:\nLHC amélioré confirmera\nstructure quark prédite
+fr;validacion_experimental.py;076;center
+fr;validacion_experimental.py;077;bold
+fr;validacion_experimental.py;078;off
+fr;validacion_experimental.py;079;PRÉDICTIONS EINSTEIN-VED: Géométrie Exacte vs Données Expérimentales\n
+fr;validacion_experimental.py;080;Des atomes aux quarks - Toutes les tailles calculables exactement
+fr;validacion_experimental.py;081;bold
+fr;validacion_experimental.py;082;svg
+fr;validacion_experimental.py;083;tight
+fr;validacion_experimental.py;084;prediction_quark_ved

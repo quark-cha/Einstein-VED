@@ -1,0 +1,52 @@
+idioma;archivo;id;texto
+de;Constante_G.py;0042;Protonenradius (Mittellinie)
+de;Constante_G.py;0046;Abbildung 1: VED eingeschlossene Welle des Protons, n=2
+de;Constante_G.py;0059;Schwarzes Loch
+de;Constante_G.py;0061;2D Oberfläche
+de;Constante_G.py;0066;Abbildung 2: Schwarzes Loch und holographische 2D Oberfläche
+de;Constante_G.py;0078;Experimentelles G
+de;Constante_G.py;0083;n={n}
+de;Constante_G.py;0088;Berechnetes G [m^3/kg/s^2]
+de;Constante_G.py;0089;Abbildung 3: G Ziel ±3σ
+de;Constante_G.py;0116;Berechnetes G [m^3/kg/s^2]
+de;Constante_G.py;0117;Abbildung 4: G Ziel ±4σ (Pfeile)
+de;Constante_G.py;0130;Asymptotisches G(n) (kontinuierlich)
+de;Constante_G.py;0133;Experimentelles G
+de;Constante_G.py;0140;round,pad=0.5
+de;Constante_G.py;0143;Abbildung 5: Asymptotisches Verhalten von G(n) n→∞ (log-log)
+de;Constante_G.py;0164;Wert [m³/kg·s²]
+de;Constante_G.py;0165;{G_max:.8e}
+de;Constante_G.py;0166;$G_2^{EXP}$ Experimentell
+de;Constante_G.py;0167;{G_min:.8e}
+de;Constante_G.py;0168;$G_1^{VED}$ (n=2) EXAKT
+de;Constante_G.py;0169;Absolute Differenz
+de;Constante_G.py;0170;Relativer Fehler
+de;Constante_G.py;0248;GRAVITATIONSKONSTANTE G
+de;Constante_G.py;0267;Eingeschlossene Materiewelle
+de;Constante_G.py;0277;2D Hologramm
+de;Constante_G.py;0286;Emergenz von G
+de;Constante_G.py;0288;Abbildung 8: Materie als eingeschlossene Welle auf 2D Hologramm
+de;Constante_G.py;0317;Protonenradius
+de;Constante_G.py;0318;Protonen Radialwellen
+de;Constante_G.py;0319;Proton 2D Welligkeit (n=4)
+de;Constante_G.py;0322;Protonenradius
+de;Constante_G.py;0323;Protonenwellen
+de;Constante_G.py;0324;2D Welligkeit
+de;Constante_G.py;0326;Proton - Femtometerskala (10⁻¹⁵ m)
+de;Constante_G.py;0342;Elektronen Orbitalradius
+de;Constante_G.py;0343;Elektronen Radialwellen
+de;Constante_G.py;0344;Elektron 2D Welligkeit (n=137)
+de;Constante_G.py;0347;Elektronen Orbitalradius
+de;Constante_G.py;0348;Elektronenwellen
+de;Constante_G.py;0349;2D Welligkeit
+de;Constante_G.py;0351;Elektron - Atomskala (10⁻¹¹ m)
+de;Constante_G.py;0358;Abbildung 9. 2D und Radialwellen von Proton und Elektron\n(Holographie → Teilchen)
+de;Constante_G.py;0378;$M_\mathrm{VED} = n h /$
+de;Constante_G.py;0379;$M_\mathrm{Sch} = c^2 R_s /$
+de;Constante_G.py;0380;$L_\mathrm{geom}$ definiert
+de;Constante_G.py;0381;$R_s$ definiert durch
+de;Constante_G.py;0382;Quantisierung
+de;Constante_G.py;0383;n erscheint nicht,\nG ist bestimmt
+de;Constante_G.py;0384;2D Einschluss
+de;Constante_G.py;0385;3D → implizite
+de;Constante_G.py;0409;Abbildung 10: Konzeptueller Vergleich VED vs Schwarzschild

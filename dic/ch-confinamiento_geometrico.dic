@@ -1,0 +1,30 @@
+idioma;archivo;id;texto
+ch;confinamiento_geometrico.py;0026;波 ψ(x)
+ch;confinamiento_geometrico.py;0029;位置 x
+ch;confinamiento_geometrico.py;0030;振幅 ψ(x)
+ch;confinamiento_geometrico.py;0031;爱因斯坦-VED 约束: 波 → 粒子
+ch;confinamiento_geometrico.py;0046;位置 x
+ch;confinamiento_geometrico.py;0047;振幅 ψ(x)
+ch;confinamiento_geometrico.py;0048;1. 平面上的正弦波
+ch;confinamiento_geometrico.py;0067;2. 过渡: 卷曲 ({progress*100:.0f}%)
+ch;confinamiento_geometrico.py;0068;X 坐标
+ch;confinamiento_geometrico.py;0069;Y 坐标
+ch;confinamiento_geometrico.py;0079;已约束 (n={n_cycles})
+ch;confinamiento_geometrico.py;0080;爱因斯坦-VED 条件: L = {n_cycles}λ
+ch;confinamiento_geometrico.py;0083;3. 自约束波 - 稳定粒子
+ch;confinamiento_geometrico.py;0084;X 坐标
+ch;confinamiento_geometrico.py;0085;Y 坐标
+ch;confinamiento_geometrico.py;0121;a) 自由平面波
+ch;confinamiento_geometrico.py;0122;位置 x
+ch;confinamiento_geometrico.py;0123;振幅 ψ(x)
+ch;confinamiento_geometrico.py;0140;b) 过渡
+ch;confinamiento_geometrico.py;0141;X 坐标
+ch;confinamiento_geometrico.py;0142;Y 坐标
+ch;confinamiento_geometrico.py;0158;c) 已约束 n=3\nL = 3λ
+ch;confinamiento_geometrico.py;0159;X 坐标
+ch;confinamiento_geometrico.py;0160;Y 坐标
+ch;confinamiento_geometrico.py;0162;条件: L = nλ
+ch;confinamiento_geometrico.py;0171;正在生成约束的SVG动画...
+ch;confinamiento_geometrico.py;0174;✅ SVG动画完成
+ch;confinamiento_geometrico.py;0177;正在生成约束的SVG动画...
+ch;confinamiento_geometrico.py;0180;✅ SVG动画完成

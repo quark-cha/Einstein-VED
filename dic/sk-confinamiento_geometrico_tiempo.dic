@@ -1,0 +1,18 @@
+idioma;archivo;id;texto
+sk;confinamiento_geometrico_tiempo.py;0013;n=1: Hladká priestoročasová trubica + fundamentálna kruhová vlna
+sk;confinamiento_geometrico_tiempo.py;0046;ZÁKLADNÝ STAV n=1\nPriestoročas + Kruhová vlna
+sk;confinamiento_geometrico_tiempo.py;0059;n=3: Priestoročasová varieta + vlna s 3 uzlami
+sk;confinamiento_geometrico_tiempo.py;0096;EXCITOVANÝ STAV n=3\nPriestoročasová Varieta + 3 Uzly
+sk;confinamiento_geometrico_tiempo.py;0109;Porovnanie vedľa seba n=1 vs n=3
+sk;confinamiento_geometrico_tiempo.py;0136;n=1: Základný stav
+sk;confinamiento_geometrico_tiempo.py;0157;n=3: Excitovaný stav
+sk;confinamiento_geometrico_tiempo.py;0170;Ukazuje ako krivky dt generujú plochu n=1
+sk;confinamiento_geometrico_tiempo.py;0208;GENERÁCIA n=1: dt → Plocha\nKruhové krivky generujú valec
+sk;confinamiento_geometrico_tiempo.py;0222;Ukazuje ako krivky dt generujú plochu n=3
+sk;confinamiento_geometrico_tiempo.py;0265;GENERÁCIA n=3: dt → Varieta\nKrivky s uzlami generujú geometriu
+sk;confinamiento_geometrico_tiempo.py;0279;Úplná evolúcia dt cez δt
+sk;confinamiento_geometrico_tiempo.py;0312;δt={t}
+sk;confinamiento_geometrico_tiempo.py;0319;Časová\nevolúcia
+sk;confinamiento_geometrico_tiempo.py;0323;ÚPLNÁ EVOLÚCIA: dt → δt → Stavy n\nEinstein-VED Kvantové uväznenie
+sk;confinamiento_geometrico_tiempo.py;0336;🎨 GENEROVANIE 6 ÚPLNÝCH EINSTEIN-VED GRAFOV...
+sk;confinamiento_geometrico_tiempo.py;0348;\n✅ 6 ÚPLNÝCH GRAFOV:

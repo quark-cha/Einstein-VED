@@ -1,0 +1,30 @@
+idioma;archivo;id;texto
+en;confinamiento_geometrico.py;0026;Wave ψ(x)
+en;confinamiento_geometrico.py;0029;Position x
+en;confinamiento_geometrico.py;0030;Amplitude ψ(x)
+en;confinamiento_geometrico.py;0031;EINSTEIN-VED CONFINEMENT: Wave → Particle
+en;confinamiento_geometrico.py;0046;Position x
+en;confinamiento_geometrico.py;0047;Amplitude ψ(x)
+en;confinamiento_geometrico.py;0048;1. Sinusoidal Wave on Flat Surface
+en;confinamiento_geometrico.py;0067;2. Transition: Coiling ({progress*100:.0f}%)
+en;confinamiento_geometrico.py;0068;X Coordinate
+en;confinamiento_geometrico.py;0069;Y Coordinate
+en;confinamiento_geometrico.py;0079;Confined (n={n_cycles})
+en;confinamiento_geometrico.py;0080;EINSTEIN-VED CONDITION: L = {n_cycles}λ
+en;confinamiento_geometrico.py;0083;3. Self-Confined Wave - Stable Particle
+en;confinamiento_geometrico.py;0084;X Coordinate
+en;confinamiento_geometrico.py;0085;Y Coordinate
+en;confinamiento_geometrico.py;0121;a) Free Plane Wave
+en;confinamiento_geometrico.py;0122;Position x
+en;confinamiento_geometrico.py;0123;Amplitude ψ(x)
+en;confinamiento_geometrico.py;0140;b) Transition
+en;confinamiento_geometrico.py;0141;X Coordinate
+en;confinamiento_geometrico.py;0142;Y Coordinate
+en;confinamiento_geometrico.py;0158;c) Confined n=3\nL = 3λ
+en;confinamiento_geometrico.py;0159;X Coordinate
+en;confinamiento_geometrico.py;0160;Y Coordinate
+en;confinamiento_geometrico.py;0162;CONDITION: L = nλ
+en;confinamiento_geometrico.py;0171;Generating SVG animation of confinement...
+en;confinamiento_geometrico.py;0174;✅ SVG animation completed
+en;confinamiento_geometrico.py;0177;Generating SVG animation of confinement...
+en;confinamiento_geometrico.py;0180;✅ SVG animation completed

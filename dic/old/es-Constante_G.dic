@@ -1,0 +1,83 @@
+idioma;archivo;id;texto_traducido
+es;Constante_G.py;0045;Radio del protón (línea media)
+es;Constante_G.py;0049;Figura 1: Onda confinada VED del protón, n=2
+es;Constante_G.py;0062;Agujero negro
+es;Constante_G.py;0064;Superficie 2D
+es;Constante_G.py;0069;Figura 2: Agujero negro y superficie 2D holográfica
+es;Constante_G.py;0080;±3σ
+es;Constante_G.py;0081;G experimental
+es;Constante_G.py;0086;n={n}
+es;Constante_G.py;0090;n ∈ Z⁺
+es;Constante_G.py;0091;G calculado [m^3/kg/s^2]
+es;Constante_G.py;0092;Figura 3: Diana de G ±3σ
+es;Constante_G.py;0118;n ∈ Z⁺
+es;Constante_G.py;0119;G calculado [m^3/kg/s^2]
+es;Constante_G.py;0120;Figura 4: Diana de G ±4σ (flechas)
+es;Constante_G.py;0133;G(n) asintótico (continuo)
+es;Constante_G.py;0136;G experimental
+es;Constante_G.py;0141;n ∈ Z⁺ \nlim n→∞ G(n)=0
+es;Constante_G.py;0143;round,pad=0.5
+es;Constante_G.py;0145;G(n) [m^3/kg/s^2]
+es;Constante_G.py;0146;Figura 5: Comportamiento asintótico de G(n) n→∞ (log-log)
+es;Constante_G.py;0167;Valor [m³/kg·s²]
+es;Constante_G.py;0168;$G_{MAX}$ +3σ
+es;Constante_G.py;0168;{G_max:.8e}
+es;Constante_G.py;0168;Límite superior
+es;Constante_G.py;0169;$G_2^{EXP}$ Experimental
+es;Constante_G.py;0169;{G_exp:.8e}
+es;Constante_G.py;0169;Valor medio
+es;Constante_G.py;0170;$G_{MIN}$ -3σ
+es;Constante_G.py;0170;{G_min:.8e}
+es;Constante_G.py;0170;Límite inferior
+es;Constante_G.py;0171;$G_1^{VED}$ (n=2) EXACTO
+es;Constante_G.py;0171;{G_n2:.8e}
+es;Constante_G.py;0171;Obtenido empíricamente
+es;Constante_G.py;0172;Diferencia absoluta
+es;Constante_G.py;0172;{error_abs:.8e}
+es;Constante_G.py;0172;|G₁ - G₂|
+es;Constante_G.py;0173;Error relativo
+es;Constante_G.py;0173;{error_rel:.6f} %
+es;Constante_G.py;0173;Precisión VED
+es;Constante_G.py;0251;CONSTANTE GRAVITATORIA G
+es;Constante_G.py;0270;Onda confinada de la materia
+es;Constante_G.py;0280;Holograma 2D
+es;Constante_G.py;0289;Emergencia de G
+es;Constante_G.py;0291;Figura 8: Materia como onda confinada sobre holograma 2D
+es;Constante_G.py;0292;upper right
+es;Constante_G.py;0320;Radio del protón
+es;Constante_G.py;0321;Ondas radiales protón
+es;Constante_G.py;0322;Ondulación 2D protón (n=4)
+es;Constante_G.py;0325;Radio del protón
+es;Constante_G.py;0326;Ondas del protón
+es;Constante_G.py;0327;Ondulación 2D
+es;Constante_G.py;0329;Protón - Escala femtométrica (10⁻¹⁵ m)
+es;Constante_G.py;0332;upper right
+es;Constante_G.py;0345;Radio orbital electrón
+es;Constante_G.py;0346;Ondas radiales electrón
+es;Constante_G.py;0347;Ondulación 2D electrón (n=137)
+es;Constante_G.py;0350;Radio orbital electrón
+es;Constante_G.py;0351;Ondas del electrón
+es;Constante_G.py;0352;Ondulación 2D
+es;Constante_G.py;0354;Electrón - Escala atómica (10⁻¹¹ m)
+es;Constante_G.py;0357;upper right
+es;Constante_G.py;0361;Figura 9. Ondas 2D y radiales del protón y del electrón\n(holografía → partículas)
+es;Constante_G.py;0381;$M_\mathrm{VED} = n h /$
+es;Constante_G.py;0381;$(L_\mathrm{geom} c)$
+es;Constante_G.py;0382;$M_\mathrm{Sch} = c^2 R_s /$
+es;Constante_G.py;0382;$(2 G)$
+es;Constante_G.py;0382;Igualando masas,\ndesaparece M
+es;Constante_G.py;0383;$L_\mathrm{geom}$ definida
+es;Constante_G.py;0383;por VED
+es;Constante_G.py;0384;$R_s$ definida por
+es;Constante_G.py;0384;Cada lado define\nsu propia escala
+es;Constante_G.py;0385;Cuantización
+es;Constante_G.py;0385;n entero → valores
+es;Constante_G.py;0385;discretos de M y G
+es;Constante_G.py;0386;n no aparece,\nG queda determinado
+es;Constante_G.py;0386;n=2 coincide con\nvalor experimental de G
+es;Constante_G.py;0387;Confinamiento 2D
+es;Constante_G.py;0387;(superficie)
+es;Constante_G.py;0388;3D → holografía
+es;Constante_G.py;0388;implícita
+es;Constante_G.py;0388;Origen emergente\nde gravedad
+es;Constante_G.py;0412;Figura 10: Comparación conceptual VED vs Schwarzschild

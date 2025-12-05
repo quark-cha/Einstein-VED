@@ -1,0 +1,82 @@
+idioma;archivo;id;texto
+fr;confinamiento.py;0037;Rayon moyen (fm)
+fr;confinamiento.py;0038;{mc_mean:.3f}
+fr;confinamiento.py;0039;{lhc_mean:.5f}
+fr;confinamiento.py;0040;{ved_mean:.5f}
+fr;confinamiento.py;0072;Figure 1: Géométries de confinement 2D vs 3D
+fr;confinamiento.py;0079;Électron: Confinement 2D\nn = 137 (Surface)
+fr;confinamiento.py;0084;Proton: Confinement 3D\nn = 4 (Volume)
+fr;confinamiento.py;0089;Quarks: Dipôles Géométriques\nAncrage 3D
+fr;confinamiento.py;0094;Statistique Quantique Émergente: 2D vs 3D
+fr;confinamiento.py;0100;Surface 2D de l'électron - ÉCHELLES NETTES
+fr;confinamiento.py;0132;Volume 3D du proton - ÉCHELLES NETTES
+fr;confinamiento.py;0171;Dipôles de quarks ancrés aux dimensions
+fr;confinamiento.py;0187;Quark {dim}
+fr;confinamiento.py;0192;Confinement Hadronique
+fr;confinamiento.py;0200;Comparaison statistique Fermi vs Bose
+fr;confinamiento.py;0201;Confinement 2D\n(Électron)
+fr;confinamiento.py;0208;Fermi-Dirac (Exclusion)
+fr;confinamiento.py;0210;Bose-Einstein (Condensation)
+fr;confinamiento.py;0213;Comportement Statistique
+fr;confinamiento.py;0218;Maximum 1 particule\npar état
+fr;confinamiento.py;0219;Multiples particules\nmême état
+fr;confinamiento.py;0224;Figure 2: Validation expérimentale
+fr;confinamiento.py;0228;Proton VED
+fr;confinamiento.py;0234;Rayon (fm)
+fr;confinamiento.py;0235;Prédiction des Rayons Hadroniques
+fr;confinamiento.py;0240;{radius:.5f}
+fr;confinamiento.py;0243;Einstein-VED
+fr;confinamiento.py;0247;Précision (%)
+fr;confinamiento.py;0248;Comparaison des Précisions
+fr;confinamiento.py;0253;{prec}%
+fr;confinamiento.py;0259;Einstein-VED
+fr;confinamiento.py;0265;Constante de Structure Fine
+fr;confinamiento.py;0270;{value:.3f}
+fr;confinamiento.py;0275;EXPLICATION DIPOLAIRE DES JETS AU LHC:\n\n
+fr;confinamiento.py;0276;• Quarks = Dipôles géométriques ancrés aux dimensions\n
+fr;confinamiento.py;0277;• En appliquant l'énergie: rupture dipolaire\n
+fr;confinamiento.py;0278;• Création de nouvelles paires quark-antiquark\n
+fr;confinamiento.py;0279;• Formation de jets hadroniques en directions opposées\n
+fr;confinamiento.py;0280;• Pas de 'force de confinement' infinie\n
+fr;confinamiento.py;0281;• Seulement reconfiguration géométrique naturelle
+fr;confinamiento.py;0290;Figure 3: Solution aux paradoxes quantiques
+fr;confinamiento.py;0310;Solution à la double fente
+fr;confinamiento.py;0328;Direction de propagation
+fr;confinamiento.py;0329;Position
+fr;confinamiento.py;0330;SOLUTION DOUBLE FENTE:\nSurface complète interagit
+fr;confinamiento.py;0333;particule par deux chemins
+fr;confinamiento.py;0337;Solution géométrique à l'intrication
+fr;confinamiento.py;0349;Particule A
+fr;confinamiento.py;0350;Particule B
+fr;confinamiento.py;0351;GÉOMÉTRIE PARTAGÉE
+fr;confinamiento.py;0357;INTRICATION:\nGéométrie commune, pas d'action à distance
+fr;confinamiento.py;0362;Solution à l'effondrement de la fonction d'onde
+fr;confinamiento.py;0368;Géométrie réelle (toujours définie)
+fr;confinamiento.py;0369;Probabilité avant mesure
+fr;confinamiento.py;0375;Position
+fr;confinamiento.py;0377;"FIN DE ""L'EFFONDREMENT"":\nGéométrie définie, non probabiliste"
+fr;confinamiento.py;0383;Solution à la statistique quantique
+fr;confinamiento.py;0387;STATISTIQUE QUANTIQUE ÉMERGENTE\n\n
+fr;confinamiento.py;0388;Fermi-Dirac (Exclusion):\n
+fr;confinamiento.py;0389;• Confinement 2D (électron)\n
+fr;confinamiento.py;0390;• Restriction topologique naturelle\n
+fr;confinamiento.py;0391;• Seulement 1 particule par état\n\n
+fr;confinamiento.py;0392;Bose-Einstein (Condensation):\n
+fr;confinamiento.py;0393;• Confinement 3D (proton)\n
+fr;confinamiento.py;0394;• Géométrie sphérique complète\n
+fr;confinamiento.py;0395;• Multiples particules même état\n\n
+fr;confinamiento.py;0396;Ce ne sont PAS des propriétés fondamentales\n
+fr;confinamiento.py;0397;Ce SONT des conséquences géométriques
+fr;confinamiento.py;0405;Sauvegarder toutes les figures
+fr;confinamiento.py;0408;Génération des visualisations Einstein-VED...
+fr;confinamiento.py;0411;Génération Figure 1: Géométries de confinement...
+fr;confinamiento.py;0418;✓ Géométries de confinement sauvegardées
+fr;confinamiento.py;0420;Génération Figure 2: Validation expérimentale...
+fr;confinamiento.py;0427;✓ Validation expérimentale sauvegardée
+fr;confinamiento.py;0429;Génération Figure 3: Solution paradoxes quantiques...
+fr;confinamiento.py;0435;✓ Solution paradoxes quantiques sauvegardée
+fr;confinamiento.py;0437;\n✅ Toutes les figures sauvegardées en format {format} (DPI: {dpi})
+fr;confinamiento.py;0440;❌ Erreur pendant la génération: {e}
+fr;confinamiento.py;0448;Début de la génération des visualisations Einstein-VED...
+fr;confinamiento.py;0453;\n🎨 Visualisations terminées!
+fr;confinamiento.py;0454;Fichiers générés:

@@ -1,0 +1,13 @@
+ftp> open estradad.es
+Conectado a estradad.es.
+220 Acceso restringido a personal autorizado, su conexion ha sido registrada. Si Vd. no ha sido autorizado expresamente para la utilizacion de este equipo desconecte ahora.
+200 UTF8 set to on
+ftp> user estradad.es 4_wU7on34
+331 Password required for estradad.es
+230 User estradad.es logged in
+ftp> binary
+200 Type set to I
+ftp> prompt off
+Modo interactivo Desactivado .
+ftp> bye
+221 Goodbye.

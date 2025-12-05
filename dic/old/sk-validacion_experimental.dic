@@ -1,0 +1,85 @@
+idioma;archivo;id;texto
+sk;validacion_experimental.py;001;polomer_protonu
+sk;validacion_experimental.py;002;polomer_neutronu
+sk;validacion_experimental.py;003;predikcia_quark_ved
+sk;validacion_experimental.py;004;Generuje porovnanie s EXAKTNÝMI EINSTEIN-VED PREDIKCIAMI
+sk;validacion_experimental.py;005;polomer_protonu
+sk;validacion_experimental.py;006;polomer_neutronu
+sk;validacion_experimental.py;007;round
+sk;validacion_experimental.py;008;yellow
+sk;validacion_experimental.py;009;bodový
+sk;validacion_experimental.py;010;polomer_protonu
+sk;validacion_experimental.py;011;predikcia_quark_ved
+sk;validacion_experimental.py;012;round
+sk;validacion_experimental.py;013;lightgreen
+sk;validacion_experimental.py;014;EXAKTNÉ EINSTEIN-VED PREDIKCIE
+sk;validacion_experimental.py;015;\nPRESNOSŤ vs EXPERIMENTÁLNA:
+sk;validacion_experimental.py;016;Protón:  {precisiones_ved[0]:.2f}%
+sk;validacion_experimental.py;017;Neutrón: {precisiones_ved[1]:.2f}%
+sk;validacion_experimental.py;018;\nPREDIKCIA PRE QUARKY:
+sk;validacion_experimental.py;019;Minimálna veľkosť quarku (VED): {datos_experimentales['prediccion_quark_ved']*1e15:.3f} fm
+sk;validacion_experimental.py;020;Aktuálna experimentálna hranica: < 0.001 fm
+sk;validacion_experimental.py;021;Záver: Quarky NEMÔŽU byť bodové
+sk;validacion_experimental.py;022;\nVZŤAH HMOTNOSŤ-VEĽKOSŤ:
+sk;validacion_experimental.py;023;Elektrón (0.511 MeV): {2.426e-12:.2e} m
+sk;validacion_experimental.py;024;Quark up (2.3 MeV):   {8.6e-16:.2e} m
+sk;validacion_experimental.py;025;Quark down (4.8 MeV): {4.1e-16:.2e} m
+sk;validacion_experimental.py;026;🔬 GENEROVANIE EINSTEIN-VED PREDIKCIÍ...
+sk;validacion_experimental.py;027;✅ GRAF PREDIKCIÍ VYGENEROVANÝ
+sk;validacion_experimental.py;028;Protón
+sk;validacion_experimental.py;029;Neutrón
+sk;validacion_experimental.py;030;Einstein-VED
+sk;validacion_experimental.py;031;red
+sk;validacion_experimental.py;032;LHC (Experimentálny)
+sk;validacion_experimental.py;033;green
+sk;validacion_experimental.py;034;Nukleón
+sk;validacion_experimental.py;035;Nábojový polomer (fm)
+sk;validacion_experimental.py;036;a) Nukleárne polomery: VED vs Experimentálny\n(Presnosť >99%)
+sk;validacion_experimental.py;037;{precision:.1f}%
+sk;validacion_experimental.py;038;center
+sk;validacion_experimental.py;039;bottom
+sk;validacion_experimental.py;040;bold
+sk;validacion_experimental.py;041;Protón (LHC)
+sk;validacion_experimental.py;042;Quark (VED)
+sk;validacion_experimental.py;043;"""""Bodová"""" hranica"""
+sk;validacion_experimental.py;044;red
+sk;validacion_experimental.py;045;blue
+sk;validacion_experimental.py;046;gray
+sk;validacion_experimental.py;047;Veľkosť (fm)
+sk;validacion_experimental.py;048;b) VED predikcia: Quarky NIE sú bodové
+sk;validacion_experimental.py;049;{long*1e15:.3f} fm
+sk;validacion_experimental.py;050;center
+sk;validacion_experimental.py;051;bold
+sk;validacion_experimental.py;052;ro-
+sk;validacion_experimental.py;053;Hmotnosť (eV/c²) - Log škála
+sk;validacion_experimental.py;054;Comptonova dĺžka (m) - Log škála
+sk;validacion_experimental.py;055;c) Vzťah hmotnosť-veľkosť Einstein-VED\nλ = h/mc
+sk;validacion_experimental.py;056;elektrón
+sk;validacion_experimental.py;057;quark up
+sk;validacion_experimental.py;058;quark down
+sk;validacion_experimental.py;059;múón
+sk;validacion_experimental.py;060;offset points
+sk;validacion_experimental.py;061;EINSTEIN-VED PREDIKCIE:
+sk;validacion_experimental.py;062;bold
+sk;validacion_experimental.py;063;red
+sk;validacion_experimental.py;064;• EXAKTNÉ polomery z prvých princípov
+sk;validacion_experimental.py;065;red
+sk;validacion_experimental.py;066;• Quarky: ~0.05 fm (NIE sú bodové)
+sk;validacion_experimental.py;067;red
+sk;validacion_experimental.py;068;• Bez pravdepodobností - Deterministické hodnoty
+sk;validacion_experimental.py;069;red
+sk;validacion_experimental.py;070;ZÁKLAD:
+sk;validacion_experimental.py;071;bold
+sk;validacion_experimental.py;072;• Známa hmotnosť → Exaktná Comptonova dĺžka
+sk;validacion_experimental.py;073;• Uväznenie: L = nλ (n celé číslo)
+sk;validacion_experimental.py;074;• Geometria → Exaktná štruktúra
+sk;validacion_experimental.py;075;BUDÚCA VERIFIKÁCIA:\nVylepšený LHC potvrdí\npredpovedanú štruktúru quarkov
+sk;validacion_experimental.py;076;center
+sk;validacion_experimental.py;077;bold
+sk;validacion_experimental.py;078;off
+sk;validacion_experimental.py;079;EINSTEIN-VED PREDIKCIE: Exaktná geometria vs Experimentálne dáta\n
+sk;validacion_experimental.py;080;Od atómov po quarky - Všetky veľkosti exaktne vypočítateľné
+sk;validacion_experimental.py;081;bold
+sk;validacion_experimental.py;082;svg
+sk;validacion_experimental.py;083;tight
+sk;validacion_experimental.py;084;predikcia_quark_ved

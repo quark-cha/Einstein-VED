@@ -1,0 +1,112 @@
+idioma;archivo;id;texto
+fr;proton_comparativa_destacado.py;0021;Calcule plage ±3σ pour visualisation
+fr;proton_comparativa_destacado.py;0045;MC: Probabiliste
+fr;proton_comparativa_destacado.py;0047;LHC: Expérimental
+fr;proton_comparativa_destacado.py;0049;Einstein-VED: Déterministe
+fr;proton_comparativa_destacado.py;0062;Mécanique Quantique
+fr;proton_comparativa_destacado.py;0063;Rayon du Proton (fm)
+fr;proton_comparativa_destacado.py;0064;Estimations Rayon Proton\navec Plages ±3σ
+fr;proton_comparativa_destacado.py;0080;round,pad=0.3
+fr;proton_comparativa_destacado.py;001;#377eb8
+fr;proton_comparativa_destacado.py;002;#4daf4a
+fr;proton_comparativa_destacado.py;003;#e41a1c
+fr;proton_comparativa_destacado.py;004;#f0f0f0
+fr;proton_comparativa_destacado.py;005;Calcule intervalle ±3σ pour visualisation
+fr;proton_comparativa_destacado.py;006;""""
+fr;proton_comparativa_destacado.py;007;EINSTEIN-VED: Géométrie déterministe de l'espace-temps. 
+fr;proton_comparativa_destacado.py;008;Rayons exacts sans probabilité fondamentale. 
+fr;proton_comparativa_destacado.py;009;Matière = espace-temps confiné.
+fr;proton_comparativa_destacado.py;010;round,pad=0.3
+fr;proton_comparativa_destacado.py;011;#ffebee
+fr;proton_comparativa_destacado.py;012;{mc_min:.3f}
+fr;proton_comparativa_destacado.py;013;{mc_mean:.3f}
+fr;proton_comparativa_destacado.py;014;{mc_max:.3f}
+fr;proton_comparativa_destacado.py;015;LHC
+fr;proton_comparativa_destacado.py;016;{lhc_min:.3f}
+fr;proton_comparativa_destacado.py;017;{lhc_mean:.5f}
+fr;proton_comparativa_destacado.py;018;{lhc_max:.3f}
+fr;proton_comparativa_destacado.py;019;VED
+fr;proton_comparativa_destacado.py;020;{ved_min:.3f}
+fr;proton_comparativa_destacado.py;021;{ved_mean:.3f}
+fr;proton_comparativa_destacado.py;022;{ved_max:.3f}
+fr;proton_comparativa_destacado.py;023;Minimum
+fr;proton_comparativa_destacado.py;024;Moyen
+fr;proton_comparativa_destacado.py;025;Maximum
+fr;proton_comparativa_destacado.py;026;Intervalles (±3σ) en fm
+fr;proton_comparativa_destacado.py;027;round,pad=0.2
+fr;proton_comparativa_destacado.py;028;white
+fr;proton_comparativa_destacado.py;029;round,pad=0.3
+fr;proton_comparativa_destacado.py;030;#ffebee
+fr;proton_comparativa_destacado.py;031;round,pad=0.3
+fr;proton_comparativa_destacado.py;032;#e8f4fd
+fr;proton_comparativa_destacado.py;033;round,pad=0.3
+fr;proton_comparativa_destacado.py;034;#ffebee
+fr;proton_comparativa_destacado.py;035;COMPARAISON RAYONS PROTON: 
+fr;proton_comparativa_destacado.py;036;MQ={mc_mean:.3f}±{3*MC_sigma:.3f} fm (±{(3*MC_sigma/mc_mean*100):.0f}%) | 
+fr;proton_comparativa_destacado.py;037;LHC={lhc_mean:.5f}±{3*LHC_sigma:.3f} fm (±{(3*LHC_sigma/lhc_mean*100):.1f}%) | 
+fr;proton_comparativa_destacado.py;038;VED={ved_mean:.3f}±{3*VED_sigma:.3f} fm (±{(3*VED_sigma/ved_mean*100):.1f}%) | 
+fr;proton_comparativa_destacado.py;039;Einstein-VED: valeurs déterministes depuis la géométrie spatio-temporelle.
+fr;proton_comparativa_destacado.py;040;__main__
+fr;proton_comparativa_destacado.py;041;🔄 CRÉATION GRAPHIQUE DOUBLE ÉCHELLE CORRIGÉE...
+fr;proton_comparativa_destacado.py;042;✨ Graphique double échelle CORRIGÉ créé avec:
+fr;proton_comparativa_destacado.py;043;   • Légende déplacée vers le bas: bbox_to_anchor=(0.02, 0.75)
+fr;proton_comparativa_destacado.py;044;   • Aucun chevauchement avec cadre Einstein-VED
+fr;proton_comparativa_destacado.py;045;   • Maintient toutes les améliorations précédentes
+fr;proton_comparativa_destacado.py;046;   • Texte bien distribué et lisible
+fr;proton_comparativa_destacado.py;047;font.size
+fr;proton_comparativa_destacado.py;048;axes.titlesize
+fr;proton_comparativa_destacado.py;049;axes.labelsize
+fr;proton_comparativa_destacado.py;050;xtick.labelsize
+fr;proton_comparativa_destacado.py;051;ytick.labelsize
+fr;proton_comparativa_destacado.py;052;legend.fontsize
+fr;proton_comparativa_destacado.py;053;figure.titlesize
+fr;proton_comparativa_destacado.py;054;white
+fr;proton_comparativa_destacado.py;055;white
+fr;proton_comparativa_destacado.py;056;MQ: Modèle probabiliste
+fr;proton_comparativa_destacado.py;057;LHC: Données expérimentales
+fr;proton_comparativa_destacado.py;058;Einstein-VED: Modèle géométrique
+fr;proton_comparativa_destacado.py;059;black
+fr;proton_comparativa_destacado.py;060;Mécanique\nQuantique
+fr;proton_comparativa_destacado.py;061;LHC\nExpérimental
+fr;proton_comparativa_destacado.py;062;Einstein-VED
+fr;proton_comparativa_destacado.py;063;Rayon du Proton (fm)
+fr;proton_comparativa_destacado.py;064;bold
+fr;proton_comparativa_destacado.py;065;PRÉDICTION EINSTEIN-VED vs DONNÉES EXPÉRIMENTALES\n(Région d'intérêt: 0.72-0.84 fm)
+fr;proton_comparativa_destacado.py;066;bold
+fr;proton_comparativa_destacado.py;067;top
+fr;proton_comparativa_destacado.py;068;bold
+fr;proton_comparativa_destacado.py;069;upper left
+fr;proton_comparativa_destacado.py;070;MQ: Modèle probabiliste
+fr;proton_comparativa_destacado.py;071;LHC: Données expérimentales
+fr;proton_comparativa_destacado.py;072;Einstein-VED: Modèle géométrique
+fr;proton_comparativa_destacado.py;073;black
+fr;proton_comparativa_destacado.py;074;Mécanique\nQuantique
+fr;proton_comparativa_destacado.py;075;LHC\nExpérimental
+fr;proton_comparativa_destacado.py;076;Einstein-VED
+fr;proton_comparativa_destacado.py;077;Rayon du Proton (fm)
+fr;proton_comparativa_destacado.py;078;bold
+fr;proton_comparativa_destacado.py;079;COMPARAISON COMPLÈTE: Incertitude MQ vs Précision VED\n(Échelle complète: 0.1-1.9 fm)
+fr;proton_comparativa_destacado.py;080;bold
+fr;proton_comparativa_destacado.py;081;upper right
+fr;proton_comparativa_destacado.py;082;center
+fr;proton_comparativa_destacado.py;083;center
+fr;proton_comparativa_destacado.py;084;center
+fr;proton_comparativa_destacado.py;085;#dddddd
+fr;proton_comparativa_destacado.py;086;bold
+fr;proton_comparativa_destacado.py;087;#eeeeee
+fr;proton_comparativa_destacado.py;088;bold
+fr;proton_comparativa_destacado.py;089;bold
+fr;proton_comparativa_destacado.py;090;center
+fr;proton_comparativa_destacado.py;091;PRÉDICTION EXACTE\nGÉOMÉTRIE DÉTERMINISTE
+fr;proton_comparativa_destacado.py;092;center
+fr;proton_comparativa_destacado.py;093;bold
+fr;proton_comparativa_destacado.py;094;HAUTE INCERTITUDE MQ\n(±0.9 fm = ±90%)
+fr;proton_comparativa_destacado.py;095;center
+fr;proton_comparativa_destacado.py;096;bold
+fr;proton_comparativa_destacado.py;097;PRÉCISION VED\n(±0.045 fm = ±5.8%)
+fr;proton_comparativa_destacado.py;098;center
+fr;proton_comparativa_destacado.py;099;bold
+fr;proton_comparativa_destacado.py;100;center
+fr;proton_comparativa_destacado.py;101;italic
+fr;proton_comparativa_destacado.py;102;svg
+fr;proton_comparativa_destacado.py;103;tight

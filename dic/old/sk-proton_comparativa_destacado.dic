@@ -1,0 +1,104 @@
+idioma;archivo;id;texto
+sk;proton_comparativa_destacado.py;001;#377eb8
+sk;proton_comparativa_destacado.py;002;#4daf4a
+sk;proton_comparativa_destacado.py;003;#e41a1c
+sk;proton_comparativa_destacado.py;004;#f0f0f0
+sk;proton_comparativa_destacado.py;005;Počíta ±3σ rozsah pre vizualizáciu
+sk;proton_comparativa_destacado.py;006;""""
+sk;proton_comparativa_destacado.py;007;EINSTEIN-VED: Deterministická časopriestorová geometria. 
+sk;proton_comparativa_destacado.py;008;Exaktné polomery bez fundamentálnej pravdepodobnosti. 
+sk;proton_comparativa_destacado.py;009;Hmota = uväznený časopriestor.
+sk;proton_comparativa_destacado.py;010;round,pad=0.3
+sk;proton_comparativa_destacado.py;011;#ffebee
+sk;proton_comparativa_destacado.py;012;{mc_min:.3f}
+sk;proton_comparativa_destacado.py;013;{mc_mean:.3f}
+sk;proton_comparativa_destacado.py;014;{mc_max:.3f}
+sk;proton_comparativa_destacado.py;015;LHC
+sk;proton_comparativa_destacado.py;016;{lhc_min:.3f}
+sk;proton_comparativa_destacado.py;017;{lhc_mean:.5f}
+sk;proton_comparativa_destacado.py;018;{lhc_max:.3f}
+sk;proton_comparativa_destacado.py;019;VED
+sk;proton_comparativa_destacado.py;020;{ved_min:.3f}
+sk;proton_comparativa_destacado.py;021;{ved_mean:.3f}
+sk;proton_comparativa_destacado.py;022;{ved_max:.3f}
+sk;proton_comparativa_destacado.py;023;Minimum
+sk;proton_comparativa_destacado.py;024;Priemer
+sk;proton_comparativa_destacado.py;025;Maximum
+sk;proton_comparativa_destacado.py;026;Rozsahy (±3σ) v fm
+sk;proton_comparativa_destacado.py;027;round,pad=0.2
+sk;proton_comparativa_destacado.py;028;white
+sk;proton_comparativa_destacado.py;029;round,pad=0.3
+sk;proton_comparativa_destacado.py;030;#ffebee
+sk;proton_comparativa_destacado.py;031;round,pad=0.3
+sk;proton_comparativa_destacado.py;032;#e8f4fd
+sk;proton_comparativa_destacado.py;033;round,pad=0.3
+sk;proton_comparativa_destacado.py;034;#ffebee
+sk;proton_comparativa_destacado.py;035;POROVNANIE PROTÓNOVÝCH POLOMEROV: 
+sk;proton_comparativa_destacado.py;036;KM={mc_mean:.3f}±{3*MC_sigma:.3f} fm (±{(3*MC_sigma/mc_mean*100):.0f}%) | 
+sk;proton_comparativa_destacado.py;037;LHC={lhc_mean:.5f}±{3*LHC_sigma:.3f} fm (±{(3*LHC_sigma/lhc_mean*100):.1f}%) | 
+sk;proton_comparativa_destacado.py;038;VED={ved_mean:.3f}±{3*VED_sigma:.3f} fm (±{(3*VED_sigma/ved_mean*100):.1f}%) | 
+sk;proton_comparativa_destacado.py;039;Einstein-VED: deterministické hodnoty z časopriestorovej geometrie.
+sk;proton_comparativa_destacado.py;040;__main__
+sk;proton_comparativa_destacado.py;041;🔄 TVORBA OPRAVENÉHO DVOJITÉHO GRAFU...
+sk;proton_comparativa_destacado.py;042;✨ Opravený dvojitý graf vytvorený s:
+sk;proton_comparativa_destacado.py;043;   • Legendou posunutou nadol: bbox_to_anchor=(0.02, 0.75)
+sk;proton_comparativa_destacado.py;044;   • Žiadnym prekrytím s rámcom Einstein-VED
+sk;proton_comparativa_destacado.py;045;   • Zachovaním všetkých predchádzajúcich vylepšení
+sk;proton_comparativa_destacado.py;046;   • Dobre rozloženým a čitateľným textom
+sk;proton_comparativa_destacado.py;047;font.size
+sk;proton_comparativa_destacado.py;048;axes.titlesize
+sk;proton_comparativa_destacado.py;049;axes.labelsize
+sk;proton_comparativa_destacado.py;050;xtick.labelsize
+sk;proton_comparativa_destacado.py;051;ytick.labelsize
+sk;proton_comparativa_destacado.py;052;legend.fontsize
+sk;proton_comparativa_destacado.py;053;figure.titlesize
+sk;proton_comparativa_destacado.py;054;white
+sk;proton_comparativa_destacado.py;055;white
+sk;proton_comparativa_destacado.py;056;KM: Pravdepodobnostný model
+sk;proton_comparativa_destacado.py;057;LHC: Experimentálne dáta
+sk;proton_comparativa_destacado.py;058;Einstein-VED: Geometrický model
+sk;proton_comparativa_destacado.py;059;black
+sk;proton_comparativa_destacado.py;060;Kvantová\nmechanika
+sk;proton_comparativa_destacado.py;061;LHC\nExperimentálny
+sk;proton_comparativa_destacado.py;062;Einstein-VED
+sk;proton_comparativa_destacado.py;063;Polomer Protónu (fm)
+sk;proton_comparativa_destacado.py;064;bold
+sk;proton_comparativa_destacado.py;065;EINSTEIN-VED PREDIKCIA vs EXPERIMENTÁLNE DÁTA\n(Oblasť záujmu: 0.72-0.84 fm)
+sk;proton_comparativa_destacado.py;066;bold
+sk;proton_comparativa_destacado.py;067;top
+sk;proton_comparativa_destacado.py;068;bold
+sk;proton_comparativa_destacado.py;069;upper left
+sk;proton_comparativa_destacado.py;070;KM: Pravdepodobnostný model
+sk;proton_comparativa_destacado.py;071;LHC: Experimentálne dáta
+sk;proton_comparativa_destacado.py;072;Einstein-VED: Geometrický model
+sk;proton_comparativa_destacado.py;073;black
+sk;proton_comparativa_destacado.py;074;Kvantová\nmechanika
+sk;proton_comparativa_destacado.py;075;LHC\nExperimentálny
+sk;proton_comparativa_destacado.py;076;Einstein-VED
+sk;proton_comparativa_destacado.py;077;Polomer Protónu (fm)
+sk;proton_comparativa_destacado.py;078;bold
+sk;proton_comparativa_destacado.py;079;ÚPLNÉ POROVNANIE: KM Neistota vs VED Presnosť\n(Úplná škála: 0.1-1.9 fm)
+sk;proton_comparativa_destacado.py;080;bold
+sk;proton_comparativa_destacado.py;081;upper right
+sk;proton_comparativa_destacado.py;082;center
+sk;proton_comparativa_destacado.py;083;center
+sk;proton_comparativa_destacado.py;084;center
+sk;proton_comparativa_destacado.py;085;#dddddd
+sk;proton_comparativa_destacado.py;086;bold
+sk;proton_comparativa_destacado.py;087;#eeeeee
+sk;proton_comparativa_destacado.py;088;bold
+sk;proton_comparativa_destacado.py;089;bold
+sk;proton_comparativa_destacado.py;090;center
+sk;proton_comparativa_destacado.py;091;EXAKTNÁ PREDIKCIA\nDETERMINISTICKÁ GEOMETRIA
+sk;proton_comparativa_destacado.py;092;center
+sk;proton_comparativa_destacado.py;093;bold
+sk;proton_comparativa_destacado.py;094;VYSOKÁ KM NEISTOTA\n(±0.9 fm = ±90%)
+sk;proton_comparativa_destacado.py;095;center
+sk;proton_comparativa_destacado.py;096;bold
+sk;proton_comparativa_destacado.py;097;VED PRESNOSŤ\n(±0.045 fm = ±5.8%)
+sk;proton_comparativa_destacado.py;098;center
+sk;proton_comparativa_destacado.py;099;bold
+sk;proton_comparativa_destacado.py;100;center
+sk;proton_comparativa_destacado.py;101;italic
+sk;proton_comparativa_destacado.py;102;svg
+sk;proton_comparativa_destacado.py;103;tight

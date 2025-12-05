@@ -1,0 +1,27 @@
+archivo;id;texto_traducido
+en;generador_svg.py;0022;Radial function 1s state: R₁₀(r) = 2/a₀^(3/2) exp(-r/a₀)
+en;generador_svg.py;0026;Radial function 2p state: R₂₁(r) = (1/2√6)(r/a₀²) exp(-r/2a₀)
+en;generador_svg.py;0030;Radial function 3d state: R₃₂(r) = (4/81√30)(r²/a₀^(7/2)) exp(-r/3a₀)
+en;generador_svg.py;0035;Complete wave function ψₙℓₘ(r,θ,φ) = Rₙℓ(r)Yℓₘ(θ,φ)
+en;generador_svg.py;0043;State n={n}, ℓ={ell} not implemented
+en;generador_svg.py;0049;Calculates VED surface: r(θ,φ) = n²a₀(1 + α|Yℓₘ|)
+en;generador_svg.py;0066;Verifies match between maximum P(r) and VED radius
+en;generador_svg.py;0088;Generates complete comparison Einstein-VED vs Quantum Mechanics
+en;generador_svg.py;0093;🔬 CALCULATING COMPARISON EINSTEIN-VED vs QM...
+en;generador_svg.py;0122;Density |ψ|² - {estado["label"]}\n(plane Z=0.5Y)
+en;generador_svg.py;0123;x (m)
+en;generador_svg.py;0124;y (m)
+en;generador_svg.py;0132;VED: {r_ved:.2e}m
+en;generador_svg.py;0150;P(r) QM
+en;generador_svg.py;0152;VED: {r_ved:.2e} m
+en;generador_svg.py;0158;Accuracy: {precision:.2f}%
+en;generador_svg.py;0162;Radial Probability - {estado["label"]}
+en;generador_svg.py;0163;r (m)
+en;generador_svg.py;0164;P(r) normalized
+en;generador_svg.py;0175;COMPARISON EINSTEIN-VED vs QUANTUM MECHANICS - EXACT CALCULATIONS\n
+en;generador_svg.py;0176;Deterministic radii vs probability distributions
+en;generador_svg.py;0192;EXACT RESULTS EINSTEIN-VED
+en;generador_svg.py;0195;{res['estado']}: r_VED = {res['r_ved']:.3e} m,
+en;generador_svg.py;0196;r_MC = {res['r_max_mc']:.3e} m,
+en;generador_svg.py;0197;Accuracy = {res['precision']:.2f}%
+en;generador_svg.py;0199;✅ COMPARISON GENERATED - MATCH >99% CONFIRMED

@@ -1,0 +1,82 @@
+idioma;archivo;id;texto
+de;confinamiento_geometrico_tiempo.py;0011;n=1: Glatte Raumzeit-Röhre + fundamentale Kreiswelle
+de;confinamiento_geometrico_tiempo.py;0044;GRUNDZUSTAND n=1\nRaumzeit + Kreiswelle
+de;confinamiento_geometrico_tiempo.py;0056;n=3: Raumzeit-Mannigfaltigkeit + Welle mit 3 Knoten
+de;confinamiento_geometrico_tiempo.py;0093;ANGEREGTER ZUSTAND n=3\nRaumzeit-Mannigfaltigkeit + 3 Knoten
+de;confinamiento_geometrico_tiempo.py;0105;Seitenvergleich n=1 vs n=3
+de;confinamiento_geometrico_tiempo.py;0132;n=1: Grundzustand
+de;confinamiento_geometrico_tiempo.py;0153;n=3: Angeregter Zustand
+de;confinamiento_geometrico_tiempo.py;0164;Zeigt wie dt-Kurven n=1 Oberfläche generieren
+de;confinamiento_geometrico_tiempo.py;0202;GENERIERUNG n=1: dt → Oberfläche\nKreisförmige Kurven generieren Zylinder
+de;confinamiento_geometrico_tiempo.py;0214;Zeigt wie dt-Kurven n=3 Oberfläche generieren
+de;confinamiento_geometrico_tiempo.py;0257;GENERIERUNG n=3: dt → Mannigfaltigkeit\nKurven mit Knoten generieren Geometrie
+de;confinamiento_geometrico_tiempo.py;0269;Vollständige dt-Evolution durch δt
+de;confinamiento_geometrico_tiempo.py;0302;δt={t}
+de;confinamiento_geometrico_tiempo.py;0309;Zeitliche\nEvolution
+de;confinamiento_geometrico_tiempo.py;0313;VOLLSTÄNDIGE EVOLUTION: dt → δt → n Zustände\nEinstein-VED Quanteneinschluss
+de;confinamiento_geometrico_tiempo.py;0325;🎨 GENERIERE DIE 6 VOLLSTÄNDIGEN EINSTEIN-VED GRAPHIKEN...
+de;confinamiento_geometrico_tiempo.py;0337;\n✅ DIE 6 VOLLSTÄNDIGEN GRAPHIKEN:
+de;confinamiento_geometrico_tiempo.py;001;n=1: Glatte Raumzeit-Röhre + fundamentale Kreiswelle
+de;confinamiento_geometrico_tiempo.py;002;n=3: Raumzeit-Mannigfaltigkeit + Welle mit 3 Knoten
+de;confinamiento_geometrico_tiempo.py;003;Seitenvergleich n=1 vs n=3
+de;confinamiento_geometrico_tiempo.py;004;Zeigt wie dt-Kurven n=1-Oberfläche erzeugen
+de;confinamiento_geometrico_tiempo.py;005;Zeigt wie dt-Kurven n=3-Oberfläche erzeugen
+de;confinamiento_geometrico_tiempo.py;006;Vollständige dt-Evolution durch δt
+de;confinamiento_geometrico_tiempo.py;007;round
+de;confinamiento_geometrico_tiempo.py;008;white
+de;confinamiento_geometrico_tiempo.py;009;🎨 ERZEUGUNG DER 6 VOLLSTÄNDIGEN EINSTEIN-VED-DIAGRAMME...
+de;confinamiento_geometrico_tiempo.py;010;\n✅ 6 VOLLSTÄNDIGE DIAGRAMME:
+de;confinamiento_geometrico_tiempo.py;011;__main__
+de;confinamiento_geometrico_tiempo.py;012;lightblue
+de;confinamiento_geometrico_tiempo.py;013;red
+de;confinamiento_geometrico_tiempo.py;014;GRUNDZUSTAND n=1\nRaumzeit + Kreiswelle
+de;confinamiento_geometrico_tiempo.py;015;bold
+de;confinamiento_geometrico_tiempo.py;016;tight
+de;confinamiento_geometrico_tiempo.py;017;white
+de;confinamiento_geometrico_tiempo.py;018;red
+de;confinamiento_geometrico_tiempo.py;019;ANGEREGTER ZUSTAND n=3\nRaumzeit-Mannigfaltigkeit + 3 Knoten
+de;confinamiento_geometrico_tiempo.py;020;bold
+de;confinamiento_geometrico_tiempo.py;021;tight
+de;confinamiento_geometrico_tiempo.py;022;white
+de;confinamiento_geometrico_tiempo.py;023;lightblue
+de;confinamiento_geometrico_tiempo.py;024;red
+de;confinamiento_geometrico_tiempo.py;025;n=1: Grundzustand
+de;confinamiento_geometrico_tiempo.py;026;bold
+de;confinamiento_geometrico_tiempo.py;027;red
+de;confinamiento_geometrico_tiempo.py;028;n=3: Angeregter Zustand
+de;confinamiento_geometrico_tiempo.py;029;bold
+de;confinamiento_geometrico_tiempo.py;030;tight
+de;confinamiento_geometrico_tiempo.py;031;white
+de;confinamiento_geometrico_tiempo.py;032;lightblue
+de;confinamiento_geometrico_tiempo.py;033;red
+de;confinamiento_geometrico_tiempo.py;034;green
+de;confinamiento_geometrico_tiempo.py;035;green
+de;confinamiento_geometrico_tiempo.py;036;green
+de;confinamiento_geometrico_tiempo.py;037;bold
+de;confinamiento_geometrico_tiempo.py;038;GENERIERUNG n=1: dt → Oberfläche\nKreisförmige Kurven erzeugen Zylinder
+de;confinamiento_geometrico_tiempo.py;039;bold
+de;confinamiento_geometrico_tiempo.py;040;tight
+de;confinamiento_geometrico_tiempo.py;041;white
+de;confinamiento_geometrico_tiempo.py;042;red
+de;confinamiento_geometrico_tiempo.py;043;green
+de;confinamiento_geometrico_tiempo.py;044;green
+de;confinamiento_geometrico_tiempo.py;045;green
+de;confinamiento_geometrico_tiempo.py;046;bold
+de;confinamiento_geometrico_tiempo.py;047;GENERIERUNG n=3: dt → Mannigfaltigkeit\nKnoten-Kurven erzeugen Geometrie
+de;confinamiento_geometrico_tiempo.py;048;bold
+de;confinamiento_geometrico_tiempo.py;049;tight
+de;confinamiento_geometrico_tiempo.py;050;white
+de;confinamiento_geometrico_tiempo.py;051;red
+de;confinamiento_geometrico_tiempo.py;052;darkred
+de;confinamiento_geometrico_tiempo.py;053;δt={t}
+de;confinamiento_geometrico_tiempo.py;054;center
+de;confinamiento_geometrico_tiempo.py;055;bold
+de;confinamiento_geometrico_tiempo.py;056;blue
+de;confinamiento_geometrico_tiempo.py;057;blue
+de;confinamiento_geometrico_tiempo.py;058;Zeitliche\nEvolution
+de;confinamiento_geometrico_tiempo.py;059;blue
+de;confinamiento_geometrico_tiempo.py;060;bold
+de;confinamiento_geometrico_tiempo.py;061;VOLLSTÄNDIGE EVOLUTION: dt → δt → Zustände n\nEinstein-VED Quanten-Confinement
+de;confinamiento_geometrico_tiempo.py;062;bold
+de;confinamiento_geometrico_tiempo.py;063;tight
+de;confinamiento_geometrico_tiempo.py;064;white

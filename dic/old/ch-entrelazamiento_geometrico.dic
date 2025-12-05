@@ -1,0 +1,43 @@
+idioma;archivo;id;texto
+ch;entrelazamiento_geometrico.py;0009;爱因斯坦基础
+ch;entrelazamiento_geometrico.py;0032;量子纠缠: 几何解释 爱因斯坦-VED
+ch;entrelazamiento_geometrico.py;0049;内部框架: 共享固有时
+ch;entrelazamiento_geometrico.py;0068;外部框架: 传统视角
+ch;entrelazamiento_geometrico.py;0073;符号说明:\n\n
+ch;entrelazamiento_geometrico.py;0074;🔴 粒子A (45°)\n
+ch;entrelazamiento_geometrico.py;0075;🟢 粒子B (225°)\n
+ch;entrelazamiento_geometrico.py;0076;⚫ 观察者\n
+ch;entrelazamiento_geometrico.py;0077;▬▬ 几何连接\n
+ch;entrelazamiento_geometrico.py;0078;▬▬ 视线
+ch;entrelazamiento_geometrico.py;0084;round,pad=0.6
+ch;entrelazamiento_geometrico.py;0088;波前
+ch;entrelazamiento_geometrico.py;0090;爱因斯坦-VED关键:\n\n
+ch;entrelazamiento_geometrico.py;0091;两个粒子 (包括对跖点)\n共享相同固有时空t₀, s₀\n\n
+ch;entrelazamiento_geometrico.py;0092;因为: 在速度c时dt' → 0和ds' → 0\n\n
+ch;entrelazamiento_geometrico.py;0095;无超距作用
+ch;entrelazamiento_geometrico.py;0101;round,pad=0.8
+ch;entrelazamiento_geometrico.py;0109;爱因斯坦-VED基础:\n\n
+ch;entrelazamiento_geometrico.py;0110;纠缠粒子从其起源共享共同的固有时空。
+ch;entrelazamiento_geometrico.py;0111;当以光速旅行时，它们的固有时间和空间微分趋于零
+ch;entrelazamiento_geometrico.py;0112;(dt' → 0, ds' → 0)，将它们保持在相同时刻t₀和位置s₀。
+ch;entrelazamiento_geometrico.py;0113;这种几何同时性解释了量子关联而不违反相对论。
+ch;entrelazamiento_geometrico.py;0119;round,pad=0.8
+ch;entrelazamiento_geometrico.py;0125;基本方程:\n\n
+ch;entrelazamiento_geometrico.py;0126;对于光速粒子:\n
+ch;entrelazamiento_geometrico.py;0130;场方程:\n
+ch;entrelazamiento_geometrico.py;0131;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+ch;entrelazamiento_geometrico.py;0132;在固有框架中的绝对同时性
+ch;entrelazamiento_geometrico.py;0138;round,pad=0.8
+ch;entrelazamiento_geometrico.py;0144;爱因斯坦-VED解释: 量子纠缠当从时空几何理解时\n
+ch;entrelazamiento_geometrico.py;0145;不再是悖论。在同一事件生成的粒子共享波前\n
+ch;entrelazamiento_geometrico.py;0146;其中它们的固有时在t₀保持冻结。这种内在同时性解释\n
+ch;entrelazamiento_geometrico.py;0147;完美关联而无'幽灵作用'。量子概率反映有限\n
+ch;entrelazamiento_geometrico.py;0148;观察者视角，非基本属性。
+ch;entrelazamiento_geometrico.py;0154;round,pad=0.8
+ch;entrelazamiento_geometrico.py;0167;🎯 创建具有相同级别框的最终版本...
+ch;entrelazamiento_geometrico.py;0170;\n✨ 应用的修正:
+ch;entrelazamiento_geometrico.py;0171;• '爱因斯坦基础'和'方程'框在同一级别
+ch;entrelazamiento_geometrico.py;0172;• 更宽的图形 (16x10) 以容纳两者
+ch;entrelazamiento_geometrico.py;0173;• 平衡对称设计
+ch;entrelazamiento_geometrico.py;0174;• 装饰和颜色被尊重
+ch;entrelazamiento_geometrico.py;0175;• 零重叠idioma,archivo,id,texto_traducido

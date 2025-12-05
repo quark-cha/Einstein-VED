@@ -1,0 +1,30 @@
+idioma;archivo;id;texto
+it;confinamiento_geometrico.py;0026;Onda ψ(x)
+it;confinamiento_geometrico.py;0029;Posizione x
+it;confinamiento_geometrico.py;0030;Ampiezza ψ(x)
+it;confinamiento_geometrico.py;0031;CONFINAMENTO EINSTEIN-VED: Onda → Particella
+it;confinamiento_geometrico.py;0046;Posizione x
+it;confinamiento_geometrico.py;0047;Ampiezza ψ(x)
+it;confinamiento_geometrico.py;0048;1. Onda Sinusoidale su Superficie Piana
+it;confinamiento_geometrico.py;0067;2. Transizione: Avvolgimento ({progress*100:.0f}%)
+it;confinamiento_geometrico.py;0068;Coordinata X
+it;confinamiento_geometrico.py;0069;Coordinata Y
+it;confinamiento_geometrico.py;0079;Confinata (n={n_cycles})
+it;confinamiento_geometrico.py;0080;CONDIZIONE EINSTEIN-VED: L = {n_cycles}λ
+it;confinamiento_geometrico.py;0083;3. Onda Auto-Confinata - Particella Stabile
+it;confinamiento_geometrico.py;0084;Coordinata X
+it;confinamiento_geometrico.py;0085;Coordinata Y
+it;confinamiento_geometrico.py;0121;a) Onda Piana Libera
+it;confinamiento_geometrico.py;0122;Posizione x
+it;confinamiento_geometrico.py;0123;Ampiezza ψ(x)
+it;confinamiento_geometrico.py;0140;b) Transizione
+it;confinamiento_geometrico.py;0141;Coordinata X
+it;confinamiento_geometrico.py;0142;Coordinata Y
+it;confinamiento_geometrico.py;0158;c) Confinata n=3\nL = 3λ
+it;confinamiento_geometrico.py;0159;Coordinata X
+it;confinamiento_geometrico.py;0160;Coordinata Y
+it;confinamiento_geometrico.py;0162;CONDIZIONE: L = nλ
+it;confinamiento_geometrico.py;0171;Generazione animazione SVG del confinamento...
+it;confinamiento_geometrico.py;0174;✅ Animazione SVG completata
+it;confinamiento_geometrico.py;0177;Generazione animazione SVG del confinamento...
+it;confinamiento_geometrico.py;0180;✅ Animazione SVG completata

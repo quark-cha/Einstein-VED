@@ -1,0 +1,82 @@
+idioma;archivo;id;texto
+en;confinamiento_geometrico_tiempo.py;0011;n=1: Smooth space-time tube + fundamental circular wave
+en;confinamiento_geometrico_tiempo.py;0044;FUNDAMENTAL STATE n=1\nSpace-Time + Circular Wave
+en;confinamiento_geometrico_tiempo.py;0056;n=3: Space-time manifold + wave with 3 nodes
+en;confinamiento_geometrico_tiempo.py;0093;EXCITED STATE n=3\nSpace-Time Manifold + 3 Nodes
+en;confinamiento_geometrico_tiempo.py;0105;Side by side comparison n=1 vs n=3
+en;confinamiento_geometrico_tiempo.py;0132;n=1: Fundamental State
+en;confinamiento_geometrico_tiempo.py;0153;n=3: Excited State
+en;confinamiento_geometrico_tiempo.py;0164;Shows how dt curves generate n=1 surface
+en;confinamiento_geometrico_tiempo.py;0202;GENERATION n=1: dt → Surface\nCircular Curves Generate Cylinder
+en;confinamiento_geometrico_tiempo.py;0214;Shows how dt curves generate n=3 surface
+en;confinamiento_geometrico_tiempo.py;0257;GENERATION n=3: dt → Manifold\nCurves with Nodes Generate Geometry
+en;confinamiento_geometrico_tiempo.py;0269;Complete dt evolution through δt
+en;confinamiento_geometrico_tiempo.py;0302;δt={t}
+en;confinamiento_geometrico_tiempo.py;0309;Temporal\nevolution
+en;confinamiento_geometrico_tiempo.py;0313;COMPLETE EVOLUTION: dt → δt → n States\nEinstein-VED Quantum Confinement
+en;confinamiento_geometrico_tiempo.py;0325;🎨 GENERATING THE 6 COMPLETE EINSTEIN-VED GRAPHS...
+en;confinamiento_geometrico_tiempo.py;0337;\n✅ THE 6 COMPLETE GRAPHS:
+en;confinamiento_geometrico_tiempo.py;001;n=1: Smooth space-time tube + fundamental circular wave
+en;confinamiento_geometrico_tiempo.py;002;n=3: Space-time manifold + wave with 3 nodes
+en;confinamiento_geometrico_tiempo.py;003;Side-by-side comparison n=1 vs n=3
+en;confinamiento_geometrico_tiempo.py;004;Shows how dt curves generate n=1 surface
+en;confinamiento_geometrico_tiempo.py;005;Shows how dt curves generate n=3 surface
+en;confinamiento_geometrico_tiempo.py;006;Complete dt evolution through δt
+en;confinamiento_geometrico_tiempo.py;007;round
+en;confinamiento_geometrico_tiempo.py;008;white
+en;confinamiento_geometrico_tiempo.py;009;🎨 GENERATING 6 COMPLETE EINSTEIN-VED PLOTS...
+en;confinamiento_geometrico_tiempo.py;010;\n✅ 6 COMPLETE PLOTS:
+en;confinamiento_geometrico_tiempo.py;011;__main__
+en;confinamiento_geometrico_tiempo.py;012;lightblue
+en;confinamiento_geometrico_tiempo.py;013;red
+en;confinamiento_geometrico_tiempo.py;014;GROUND STATE n=1\nSpace-Time + Circular Wave
+en;confinamiento_geometrico_tiempo.py;015;bold
+en;confinamiento_geometrico_tiempo.py;016;tight
+en;confinamiento_geometrico_tiempo.py;017;white
+en;confinamiento_geometrico_tiempo.py;018;red
+en;confinamiento_geometrico_tiempo.py;019;EXCITED STATE n=3\nSpace-Time Manifold + 3 Nodes
+en;confinamiento_geometrico_tiempo.py;020;bold
+en;confinamiento_geometrico_tiempo.py;021;tight
+en;confinamiento_geometrico_tiempo.py;022;white
+en;confinamiento_geometrico_tiempo.py;023;lightblue
+en;confinamiento_geometrico_tiempo.py;024;red
+en;confinamiento_geometrico_tiempo.py;025;n=1: Ground State
+en;confinamiento_geometrico_tiempo.py;026;bold
+en;confinamiento_geometrico_tiempo.py;027;red
+en;confinamiento_geometrico_tiempo.py;028;n=3: Excited State
+en;confinamiento_geometrico_tiempo.py;029;bold
+en;confinamiento_geometrico_tiempo.py;030;tight
+en;confinamiento_geometrico_tiempo.py;031;white
+en;confinamiento_geometrico_tiempo.py;032;lightblue
+en;confinamiento_geometrico_tiempo.py;033;red
+en;confinamiento_geometrico_tiempo.py;034;green
+en;confinamiento_geometrico_tiempo.py;035;green
+en;confinamiento_geometrico_tiempo.py;036;green
+en;confinamiento_geometrico_tiempo.py;037;bold
+en;confinamiento_geometrico_tiempo.py;038;GENERATION n=1: dt → Surface\nCircular Curves Generate Cylinder
+en;confinamiento_geometrico_tiempo.py;039;bold
+en;confinamiento_geometrico_tiempo.py;040;tight
+en;confinamiento_geometrico_tiempo.py;041;white
+en;confinamiento_geometrico_tiempo.py;042;red
+en;confinamiento_geometrico_tiempo.py;043;green
+en;confinamiento_geometrico_tiempo.py;044;green
+en;confinamiento_geometrico_tiempo.py;045;green
+en;confinamiento_geometrico_tiempo.py;046;bold
+en;confinamiento_geometrico_tiempo.py;047;GENERATION n=3: dt → Manifold\nNodal Curves Generate Geometry
+en;confinamiento_geometrico_tiempo.py;048;bold
+en;confinamiento_geometrico_tiempo.py;049;tight
+en;confinamiento_geometrico_tiempo.py;050;white
+en;confinamiento_geometrico_tiempo.py;051;red
+en;confinamiento_geometrico_tiempo.py;052;darkred
+en;confinamiento_geometrico_tiempo.py;053;δt={t}
+en;confinamiento_geometrico_tiempo.py;054;center
+en;confinamiento_geometrico_tiempo.py;055;bold
+en;confinamiento_geometrico_tiempo.py;056;blue
+en;confinamiento_geometrico_tiempo.py;057;blue
+en;confinamiento_geometrico_tiempo.py;058;Temporal\nevolution
+en;confinamiento_geometrico_tiempo.py;059;blue
+en;confinamiento_geometrico_tiempo.py;060;bold
+en;confinamiento_geometrico_tiempo.py;061;COMPLETE EVOLUTION: dt → δt → States n\nEinstein-VED Quantum Confinement
+en;confinamiento_geometrico_tiempo.py;062;bold
+en;confinamiento_geometrico_tiempo.py;063;tight
+en;confinamiento_geometrico_tiempo.py;064;white

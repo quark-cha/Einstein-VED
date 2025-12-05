@@ -1,0 +1,89 @@
+idioma;archivo;id;texto
+fr;confinamiento_geometrico.py;0023;Onde ψ(x)
+fr;confinamiento_geometrico.py;0026;Position x
+fr;confinamiento_geometrico.py;0027;Amplitude ψ(x)
+fr;confinamiento_geometrico.py;0028;CONFINEMENT EINSTEIN-VED: Onde → Particule
+fr;confinamiento_geometrico.py;0043;Position x
+fr;confinamiento_geometrico.py;0044;Amplitude ψ(x)
+fr;confinamiento_geometrico.py;0045;1. Onde Sinusoïdale sur Surface Plane
+fr;confinamiento_geometrico.py;0064;2. Transition: Enroulement ({progress*100:.0f}%)
+fr;confinamiento_geometrico.py;0065;Coordonnée X
+fr;confinamiento_geometrico.py;0066;Coordonnée Y
+fr;confinamiento_geometrico.py;0076;Confinée (n={n_cycles})
+fr;confinamiento_geometrico.py;0077;CONDITION EINSTEIN-VED: L = {n_cycles}λ
+fr;confinamiento_geometrico.py;0080;3. Onde Auto-Confinée - Particule Stable
+fr;confinamiento_geometrico.py;0081;Coordonnée X
+fr;confinamiento_geometrico.py;0082;Coordonnée Y
+fr;confinamiento_geometrico.py;0118;a) Onde Plane Libre
+fr;confinamiento_geometrico.py;0119;Position x
+fr;confinamiento_geometrico.py;0120;Amplitude ψ(x)
+fr;confinamiento_geometrico.py;0137;b) Transition
+fr;confinamiento_geometrico.py;0138;Coordonnée X
+fr;confinamiento_geometrico.py;0139;Coordonnée Y
+fr;confinamiento_geometrico.py;0155;c) Confiné n=3\nL = 3λ
+fr;confinamiento_geometrico.py;0156;Coordonnée X
+fr;confinamiento_geometrico.py;0157;Coordonnée Y
+fr;confinamiento_geometrico.py;0159;CONDITION: L = nλ
+fr;confinamiento_geometrico.py;001;round
+fr;confinamiento_geometrico.py;002;yellow
+fr;confinamiento_geometrico.py;003;round
+fr;confinamiento_geometrico.py;004;yellow
+fr;confinamiento_geometrico.py;005;Génération de l'animation SVG du confinement...
+fr;confinamiento_geometrico.py;006;✅ Animation SVG terminée
+fr;confinamiento_geometrico.py;007;__main__
+fr;confinamiento_geometrico.py;008;Génération de l'animation SVG du confinement...
+fr;confinamiento_geometrico.py;009;✅ Animation SVG terminée
+fr;confinamiento_geometrico.py;010;equal
+fr;confinamiento_geometrico.py;011;Onde ψ(x)
+fr;confinamiento_geometrico.py;012;Position x
+fr;confinamiento_geometrico.py;013;Amplitude ψ(x)
+fr;confinamiento_geometrico.py;014;CONFINEMENT EINSTEIN-VED: Onde → Particule
+fr;confinamiento_geometrico.py;015;bold
+fr;confinamiento_geometrico.py;016;equal
+fr;confinamiento_geometrico.py;017;brown
+fr;confinamiento_geometrico.py;018;Position x
+fr;confinamiento_geometrico.py;019;Amplitude ψ(x)
+fr;confinamiento_geometrico.py;020;1. Onde Sinusoïdale sur Surface Plane
+fr;confinamiento_geometrico.py;021;bold
+fr;confinamiento_geometrico.py;022;gray
+fr;confinamiento_geometrico.py;023;center
+fr;confinamiento_geometrico.py;024;red
+fr;confinamiento_geometrico.py;025;2. Transition: Enroulement ({progress*100:.0f}%)
+fr;confinamiento_geometrico.py;026;bold
+fr;confinamiento_geometrico.py;027;Coordonnée X
+fr;confinamiento_geometrico.py;028;Coordonnée Y
+fr;confinamiento_geometrico.py;029;gray
+fr;confinamiento_geometrico.py;030;red
+fr;confinamiento_geometrico.py;031;Confinée (n={n_cycles})
+fr;confinamiento_geometrico.py;032;CONDITION EINSTEIN-VED: L = {n_cycles}λ
+fr;confinamiento_geometrico.py;033;bold
+fr;confinamiento_geometrico.py;034;3. Onde Auto-Confinée - Particule Stable
+fr;confinamiento_geometrico.py;035;bold
+fr;confinamiento_geometrico.py;036;Coordonnée X
+fr;confinamiento_geometrico.py;037;Coordonnée Y
+fr;confinamiento_geometrico.py;038;svg
+fr;confinamiento_geometrico.py;039;tight
+fr;confinamiento_geometrico.py;040;brown
+fr;confinamiento_geometrico.py;041;equal
+fr;confinamiento_geometrico.py;042;a) Onde Plane Libre
+fr;confinamiento_geometrico.py;043;bold
+fr;confinamiento_geometrico.py;044;Position x
+fr;confinamiento_geometrico.py;045;Amplitude ψ(x)
+fr;confinamiento_geometrico.py;046;orange
+fr;confinamiento_geometrico.py;047;equal
+fr;confinamiento_geometrico.py;048;b) Transition
+fr;confinamiento_geometrico.py;049;bold
+fr;confinamiento_geometrico.py;050;Coordonnée X
+fr;confinamiento_geometrico.py;051;Coordonnée Y
+fr;confinamiento_geometrico.py;052;gray
+fr;confinamiento_geometrico.py;053;red
+fr;confinamiento_geometrico.py;054;equal
+fr;confinamiento_geometrico.py;055;c) Confiné n=3\nL = 3λ
+fr;confinamiento_geometrico.py;056;bold
+fr;confinamiento_geometrico.py;057;Coordonnée X
+fr;confinamiento_geometrico.py;058;Coordonnée Y
+fr;confinamiento_geometrico.py;059;CONDITION: L = nλ
+fr;confinamiento_geometrico.py;060;center
+fr;confinamiento_geometrico.py;061;bold
+fr;confinamiento_geometrico.py;062;svg
+fr;confinamiento_geometrico.py;063;tight

@@ -1,0 +1,52 @@
+idioma;archivo;id;texto
+jp;Constante_G.py;0042;陽子半径 (中心線)
+jp;Constante_G.py;0046;図1: 陽子のVED閉じ込め波, n=2
+jp;Constante_G.py;0059;ブラックホール
+jp;Constante_G.py;0061;2D表面
+jp;Constante_G.py;0066;図2: ブラックホールと2Dホログラム表面
+jp;Constante_G.py;0078;実験的G
+jp;Constante_G.py;0083;n={n}
+jp;Constante_G.py;0088;計算G [m^3/kg/s^2]
+jp;Constante_G.py;0089;図3: Gターゲット ±3σ
+jp;Constante_G.py;0116;計算G [m^3/kg/s^2]
+jp;Constante_G.py;0117;図4: Gターゲット ±4σ (矢印)
+jp;Constante_G.py;0130;漸近的G(n) (連続)
+jp;Constante_G.py;0133;実験的G
+jp;Constante_G.py;0140;round,pad=0.5
+jp;Constante_G.py;0143;図5: G(n)の漸近的振る舞い n→∞ (対数-対数)
+jp;Constante_G.py;0164;値 [m³/kg·s²]
+jp;Constante_G.py;0165;{G_max:.8e}
+jp;Constante_G.py;0166;$G_2^{EXP}$ 実験的
+jp;Constante_G.py;0167;{G_min:.8e}
+jp;Constante_G.py;0168;$G_1^{VED}$ (n=2) 正確
+jp;Constante_G.py;0169;絶対差
+jp;Constante_G.py;0170;相対誤差
+jp;Constante_G.py;0248;重力定数 G
+jp;Constante_G.py;0267;閉じ込め物質波
+jp;Constante_G.py;0277;2Dホログラム
+jp;Constante_G.py;0286;Gの創発
+jp;Constante_G.py;0288;図8: 2Dホログラム上の閉じ込め波としての物質
+jp;Constante_G.py;0317;陽子半径
+jp;Constante_G.py;0318;陽子放射状波
+jp;Constante_G.py;0319;陽子2D波動 (n=4)
+jp;Constante_G.py;0322;陽子半径
+jp;Constante_G.py;0323;陽子波
+jp;Constante_G.py;0324;2D波動
+jp;Constante_G.py;0326;陽子 - フェムトメートルスケール (10⁻¹⁵ m)
+jp;Constante_G.py;0342;電子軌道半径
+jp;Constante_G.py;0343;電子放射状波
+jp;Constante_G.py;0344;電子2D波動 (n=137)
+jp;Constante_G.py;0347;電子軌道半径
+jp;Constante_G.py;0348;電子波
+jp;Constante_G.py;0349;2D波動
+jp;Constante_G.py;0351;電子 - 原子スケール (10⁻¹¹ m)
+jp;Constante_G.py;0358;図9. 陽子と電子の2Dおよび放射状波\n(ホログラフィー → 粒子)
+jp;Constante_G.py;0378;$M_\mathrm{VED} = n h /$
+jp;Constante_G.py;0379;$M_\mathrm{Sch} = c^2 R_s /$
+jp;Constante_G.py;0380;$L_\mathrm{geom}$ 定義
+jp;Constante_G.py;0381;$R_s$ 定義
+jp;Constante_G.py;0382;量子化
+jp;Constante_G.py;0383;nは現れず、\nGが決定される
+jp;Constante_G.py;0384;2D閉じ込め
+jp;Constante_G.py;0385;3D → 暗黙的\nホログラフィー
+jp;Constante_G.py;0409;図10: VED対シュワルツシルト概念比較

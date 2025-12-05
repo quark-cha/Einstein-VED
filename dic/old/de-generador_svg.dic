@@ -1,0 +1,63 @@
+idioma;archivo;id;texto
+de;generador_svg.py;001;Radialfunktion 1s-Zustand: R₁₀(r) = 2/a₀^(3/2) exp(-r/a₀)
+de;generador_svg.py;002;Radialfunktion 2p-Zustand: R₂₁(r) = (1/2√6)(r/a₀²) exp(-r/2a₀)
+de;generador_svg.py;003;Radialfunktion 3d-Zustand: R₃₂(r) = (4/81√30)(r²/a₀^(7/2)) exp(-r/3a₀)
+de;generador_svg.py;004;Vollständige Wellenfunktion ψₙℓₘ(r,θ,φ) = Rₙℓ(r)Yℓₘ(θ,φ)
+de;generador_svg.py;005;Zustand n={n}, ℓ={ell} nicht implementiert
+de;generador_svg.py;006;Berechnet VED-Oberfläche: r(θ,φ) = n²a₀(1 + α|Yℓₘ|)
+de;generador_svg.py;007;Überprüft Übereinstimmung zwischen P(r)-Maximum und VED-Radius
+de;generador_svg.py;008;ell
+de;generador_svg.py;009;alpha
+de;generador_svg.py;010;label
+de;generador_svg.py;011;ell
+de;generador_svg.py;012;alpha
+de;generador_svg.py;013;label
+de;generador_svg.py;014;ell
+de;generador_svg.py;015;alpha
+de;generador_svg.py;016;label
+de;generador_svg.py;017;Erzeugt vollständigen Vergleich Einstein-VED vs Quantenmechanik
+de;generador_svg.py;018;🔬 BERECHNE VERGLEICH EINSTEIN-VED vs QM...
+de;generador_svg.py;019;ell
+de;generador_svg.py;020;alpha
+de;generador_svg.py;021;label
+de;generador_svg.py;022;round
+de;generador_svg.py;023;lightgreen
+de;generador_svg.py;024;label
+de;generador_svg.py;025;label
+de;generador_svg.py;026;__main__
+de;generador_svg.py;027;EXAKTE EINSTEIN-VED ERGEBNISSE
+de;generador_svg.py;028;{res['estado']}: r_VED = {res['r_ved']:.3e} m, 
+de;generador_svg.py;029;r_QM = {res['r_max_mc']:.3e} m, 
+de;generador_svg.py;030;Genauigkeit = {res['precision']:.2f}%
+de;generador_svg.py;031;✅ VERGLEICH ERZEUGT - >99% ÜBEREINSTIMMUNG BESTÄTIGT
+de;generador_svg.py;032;lower
+de;generador_svg.py;033;viridis
+de;generador_svg.py;034;auto
+de;generador_svg.py;035;"""Dichte |ψ|² - {estado[""""label""""]}\n(Ebene Z=0.5Y)"""
+de;generador_svg.py;036;x (m)
+de;generador_svg.py;037;y (m)
+de;generador_svg.py;038;red
+de;generador_svg.py;039;VED: {r_ved:.2e}m
+de;generador_svg.py;040;blue
+de;generador_svg.py;041;P(r) QM
+de;generador_svg.py;042;red
+de;generador_svg.py;043;VED: {r_ved:.2e} m
+de;generador_svg.py;044;Genauigkeit: {precision:.2f}%
+de;generador_svg.py;045;"""Radiale Wahrscheinlichkeit - {estado[""""label""""]}"""
+de;generador_svg.py;046;r (m)
+de;generador_svg.py;047;P(r) normalisiert
+de;generador_svg.py;048;zustand
+de;generador_svg.py;049;r_ved
+de;generador_svg.py;050;r_max_mc
+de;generador_svg.py;051;genauigkeit
+de;generador_svg.py;052;VERGLEICH EINSTEIN-VED vs QUANTENMECHANIK - EXAKTE BERECHNUNGEN\n
+de;generador_svg.py;053;Deterministische Radien vs probabilistische Verteilungen
+de;generador_svg.py;054;bold
+de;generador_svg.py;055;svg
+de;generador_svg.py;056;tight
+de;generador_svg.py;057;png
+de;generador_svg.py;058;tight
+de;generador_svg.py;059;zustand
+de;generador_svg.py;060;r_ved
+de;generador_svg.py;061;r_max_mc
+de;generador_svg.py;062;genauigkeit

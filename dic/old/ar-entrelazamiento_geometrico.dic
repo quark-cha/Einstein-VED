@@ -1,0 +1,136 @@
+idioma;archivo;id;texto
+ar;entrelazamiento_geometrico.py;0009;أساس أينشتاين
+ar;entrelazamiento_geometrico.py;0032;التشابك الكمي: شرح هندسي أينشتاين-VED
+ar;entrelazamiento_geometrico.py;0049;الإطار الداخلي: زمن ذاتي مشترك
+ar;entrelazamiento_geometrico.py;0068;الإطار الخارجي: منظور تقليدي
+ar;entrelazamiento_geometrico.py;0073;الرموز:\n\n
+ar;entrelazamiento_geometrico.py;0074;🔴 الجسيم أ (45°)\n
+ar;entrelazamiento_geometrico.py;0075;🟢 الجسيم ب (225°)\n
+ar;entrelazamiento_geometrico.py;0076;⚫ المراقب\n
+ar;entrelazamiento_geometrico.py;0077;▬▬ اتصال هندسي\n
+ar;entrelazamiento_geometrico.py;0078;▬▬ خطوط الرؤية
+ar;entrelazamiento_geometrico.py;0084;round,pad=0.6
+ar;entrelazamiento_geometrico.py;0088;جبهة الموجة
+ar;entrelazamiento_geometrico.py;0090;مفتاح أينشتاين-VED:\n\n
+ar;entrelazamiento_geometrico.py;0091;كلا الجسيمين (بما في ذلك المتقابلان)\nيتشاركان نفس الزمكان الذاتي t₀, s₀\n\n
+ar;entrelazamiento_geometrico.py;0092;لأن: dt' → 0 و ds' → 0 عند السرعة c\n\n
+ar;entrelazamiento_geometrico.py;0095;لا فعل عن بعد
+ar;entrelazamiento_geometrico.py;0101;round,pad=0.8
+ar;entrelazamiento_geometrico.py;0109;أساس أينشتاين-VED:\n\n
+ar;entrelazamiento_geometrico.py;0110;الجسيمات المتشابكة تتشارك زمكاناً ذاتياً مشتركاً من أصلها.
+ar;entrelazamiento_geometrico.py;0111;عند السفر بسرعة c، تتفاضلات زمنها وفضائها الذاتيين نحو الصفر
+ar;entrelazamiento_geometrico.py;0112;(dt' → 0, ds' → 0)، تبقيهم متصلين في نفس اللحظة t₀ والموقع s₀.
+ar;entrelazamiento_geometrico.py;0113;هذه التزامن الهندسي يفسر الارتباطات الكمية دون انتهاك النسبية.
+ar;entrelazamiento_geometrico.py;0119;round,pad=0.8
+ar;entrelazamiento_geometrico.py;0125;معادلات أساسية:\n\n
+ar;entrelazamiento_geometrico.py;0126;لجسيمات بسرعة c:\n
+ar;entrelazamiento_geometrico.py;0130;معادلة حقل:\n
+ar;entrelazamiento_geometrico.py;0131;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+ar;entrelazamiento_geometrico.py;0132;تزامن مطلق في الإطار الذاتي
+ar;entrelazamiento_geometrico.py;0138;round,pad=0.8
+ar;entrelazamiento_geometrico.py;0144;تفسير أينشتاين-VED: التشابك الكمي يتوقف عن كونه مفارقة عندما يُفهم
+ar;entrelazamiento_geometrico.py;0145;من هندسة الزمكان. الجسيمات المتولدة في نفس الحدث تتشارك جبهة
+ar;entrelazamiento_geometrico.py;0146;موجة حيث زمنها الذاتي يبقى مجمداً عند t₀. هذا التزامن الجوهري يفسر
+ar;entrelazamiento_geometrico.py;0147;ارتباطات مثالية دون 'فعل شبحي'. الاحتمال الكمي يعكس منظور
+ar;entrelazamiento_geometrico.py;0148;مراقب محدود، ليس خاصية أساسية.
+ar;entrelazamiento_geometrico.py;0154;round,pad=0.8
+ar;entrelazamiento_geometrico.py;0167;🎯 إنشاء النسخة النهائية بمربعات في نفس المستوى...
+ar;entrelazamiento_geometrico.py;0170;\n✨ التصحيحات المطبقة:
+ar;entrelazamiento_geometrico.py;0171;• مربعات 'أساس أينشتاين' و'معادلات' في نفس المستوى
+ar;entrelazamiento_geometrico.py;0172;• شكل أوسع (16x10) لاستيعاب كليهما
+ar;entrelazamiento_geometrico.py;0173;• تصميم متوازن ومتناظر
+ar;entrelazamiento_geometrico.py;0174;• الزخرفة والألوان محترمة
+ar;entrelazamiento_geometrico.py;0175;• صفر تداخلاتidioma
+ar;entrelazamiento_geometrico.py;001;""""
+ar;entrelazamiento_geometrico.py;002; و 
+ar;entrelazamiento_geometrico.py;003;""" على نفس المستوى"
+ar;entrelazamiento_geometrico.py;004;الرموز:\n\n
+ar;entrelazamiento_geometrico.py;005;🔴 الجسيم A (45°)\n
+ar;entrelazamiento_geometrico.py;006;🟢 الجسيم B (225°)\n
+ar;entrelazamiento_geometrico.py;007;⚫ المراقب\n
+ar;entrelazamiento_geometrico.py;008;▬▬ اتصال هندسي\n
+ar;entrelazamiento_geometrico.py;009;▬▬ خطوط الرؤية
+ar;entrelazamiento_geometrico.py;010;round,pad=0.6
+ar;entrelazamiento_geometrico.py;011;white
+ar;entrelazamiento_geometrico.py;012;جبهة الموجة
+ar;entrelazamiento_geometrico.py;013;مفتاح أينشتاين-فيد:\n\n
+ar;entrelazamiento_geometrico.py;014;كلا الجسيمين (بما في ذلك المتقابلة)\nيتشاركان نفس الزمكان الخاص t₀, s₀\n\n
+ar;entrelazamiento_geometrico.py;015;لأن: dt' → 0 و ds' → 0 عند السرعة c\n\n
+ar;entrelazamiento_geometrico.py;016;t = t₀ + dt' → t₀\n
+ar;entrelazamiento_geometrico.py;017;s = s₀ + ds' → s₀\n\n
+ar;entrelazamiento_geometrico.py;018;لا يوجد فعل عن بعد
+ar;entrelazamiento_geometrico.py;019;round,pad=0.8
+ar;entrelazamiento_geometrico.py;020;#fffacd
+ar;entrelazamiento_geometrico.py;021;أساس أينشتاين-فيد:\n\n
+ar;entrelazamiento_geometrico.py;022;الجسيمات المتشابكة تتشارك زمكانًا خاصًا مشتركًا من منشأها. 
+ar;entrelazamiento_geometrico.py;023;عند السفر بسرعة c، فإن تفاضلات الزمان والمكان الخاصين tend إلى الصفر 
+ar;entrelazamiento_geometrico.py;024;(dt' → 0, ds' → 0)، مما يبقيها متصلة في نفس اللحظة t₀ والموضع s₀. 
+ar;entrelazamiento_geometrico.py;025;هذا التزامن الهندسي يفسر الارتباطات الكمومية دون انتهاك النسبية.
+ar;entrelazamiento_geometrico.py;026;round,pad=0.8
+ar;entrelazamiento_geometrico.py;027;#ffebee
+ar;entrelazamiento_geometrico.py;028;المعادلات الأساسية:\n\n
+ar;entrelazamiento_geometrico.py;029;للجسيمات عند السرعة c:\n
+ar;entrelazamiento_geometrico.py;030;• dt' → 0, ds' → 0\n
+ar;entrelazamiento_geometrico.py;031;• t = t₀ + dt' → t₀\n
+ar;entrelazamiento_geometrico.py;032;• s = s₀ + ds' → s₀\n\n
+ar;entrelazamiento_geometrico.py;033;معادلة المجال:\n
+ar;entrelazamiento_geometrico.py;034;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+ar;entrelazamiento_geometrico.py;035;تزامن مطلق في الإطار الخاص
+ar;entrelazamiento_geometrico.py;036;round,pad=0.8
+ar;entrelazamiento_geometrico.py;037;#f0f8ff
+ar;entrelazamiento_geometrico.py;038;تفسير أينشتاين-فيد: التشابك الكمومي يتوقف عن كونه مفارقة عندما يُفهم 
+ar;entrelazamiento_geometrico.py;039;من هندسة الزمكان. الجسيمات المتولدة في نفس الحدث تتشارك جبهة 
+ar;entrelazamiento_geometrico.py;040;موجة حيث يظل وقتها الخاص متجمدًا عند t₀. هذا التزامن الجوهري يفسر 
+ar;entrelazamiento_geometrico.py;041;ارتباطات مثالية دون 'فعل شبحي'. الاحتمال الكمومي يعكس منظور 
+ar;entrelazamiento_geometrico.py;042;المراقب المحدود، وليس خاصية أساسية.
+ar;entrelazamiento_geometrico.py;043;round,pad=0.8
+ar;entrelazamiento_geometrico.py;044;#f5f5f5
+ar;entrelazamiento_geometrico.py;045;__main__
+ar;entrelazamiento_geometrico.py;046;🎯 جاري إنشاء النسخة النهائية بمربعات على نفس المستوى...
+ar;entrelazamiento_geometrico.py;047;\n✨ التصحيحات المطبقة:
+ar;entrelazamiento_geometrico.py;048;   • مربعات 'أساس أينشتاين' و'معادلات' على نفس المستوى
+ar;entrelazamiento_geometrico.py;049;   • شكل أوسع (16x10) لاستيعاب كليهما
+ar;entrelazamiento_geometrico.py;050;   • تصميم متوازن ومتناظر
+ar;entrelazamiento_geometrico.py;051;   • الزخرفة والألوان محفوظة
+ar;entrelazamiento_geometrico.py;052;   • صفر تداخلات
+ar;entrelazamiento_geometrico.py;053;التشابك الكمومي: التفسير الهندسي لأينشتاين-فيد
+ar;entrelazamiento_geometrico.py;054;bold
+ar;entrelazamiento_geometrico.py;055;blue
+ar;entrelazamiento_geometrico.py;056;k--
+ar;entrelazamiento_geometrico.py;057;equal
+ar;entrelazamiento_geometrico.py;058;الإطار الداخلي: الوقت الخاص المشترك
+ar;entrelazamiento_geometrico.py;059;bold
+ar;entrelazamiento_geometrico.py;060;blue
+ar;entrelazamiento_geometrico.py;061;equal
+ar;entrelazamiento_geometrico.py;062;الإطار الخارجي: المنظور التقليدي
+ar;entrelazamiento_geometrico.py;063;bold
+ar;entrelazamiento_geometrico.py;064;left
+ar;entrelazamiento_geometrico.py;065;center
+ar;entrelazamiento_geometrico.py;066;bold
+ar;entrelazamiento_geometrico.py;067;gray
+ar;entrelazamiento_geometrico.py;068; → 0 و ds
+ar;entrelazamiento_geometrico.py;069;""" → t₀\n"""""
+ar;entrelazamiento_geometrico.py;070;center
+ar;entrelazamiento_geometrico.py;071;center
+ar;entrelazamiento_geometrico.py;072;bold
+ar;entrelazamiento_geometrico.py;073;orange
+ar;entrelazamiento_geometrico.py;074; → 0, ds
+ar;entrelazamiento_geometrico.py;075;center
+ar;entrelazamiento_geometrico.py;076;center
+ar;entrelazamiento_geometrico.py;077;italic
+ar;entrelazamiento_geometrico.py;078;red
+ar;entrelazamiento_geometrico.py;079; → 0, ds
+ar;entrelazamiento_geometrico.py;080;""" → t₀\n"""" "
+ar;entrelazamiento_geometrico.py;081;center
+ar;entrelazamiento_geometrico.py;082;center
+ar;entrelazamiento_geometrico.py;083;bold
+ar;entrelazamiento_geometrico.py;084;blue
+ar;entrelazamiento_geometrico.py;085;فعل شبحي
+ar;entrelazamiento_geometrico.py;086;center
+ar;entrelazamiento_geometrico.py;087;center
+ar;entrelazamiento_geometrico.py;088;black
+ar;entrelazamiento_geometrico.py;089;svg
+ar;entrelazamiento_geometrico.py;090;tight
+ar;entrelazamiento_geometrico.py;091;white
+ar;entrelazamiento_geometrico.py;092;أساس أينشتاين
+ar;entrelazamiento_geometrico.py;093;معادلات

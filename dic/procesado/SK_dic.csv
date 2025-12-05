@@ -1,0 +1,573 @@
+idioma;archivo;id;texto
+sk;confinamiento_geometrico.py;001;round
+sk;confinamiento_geometrico.py;002;yellow
+sk;confinamiento_geometrico.py;003;round
+sk;confinamiento_geometrico.py;004;yellow
+sk;confinamiento_geometrico.py;005;Generovanie SVG animácie uväznenia...
+sk;confinamiento_geometrico.py;006;✅ SVG animácia dokončená
+sk;confinamiento_geometrico.py;007;__main__
+sk;confinamiento_geometrico.py;008;Generovanie SVG animácie uväznenia...
+sk;confinamiento_geometrico.py;009;✅ SVG animácia dokončená
+sk;confinamiento_geometrico.py;010;equal
+sk;confinamiento_geometrico.py;011;Vlna ψ(x)
+sk;confinamiento_geometrico.py;012;Pozícia x
+sk;confinamiento_geometrico.py;013;Amplitúda ψ(x)
+sk;confinamiento_geometrico.py;014;EINSTEIN-VED UVÄZNENIE: Vlna → Častica
+sk;confinamiento_geometrico.py;015;bold
+sk;confinamiento_geometrico.py;016;equal
+sk;confinamiento_geometrico.py;017;brown
+sk;confinamiento_geometrico.py;018;Pozícia x
+sk;confinamiento_geometrico.py;019;Amplitúda ψ(x)
+sk;confinamiento_geometrico.py;020;1. Sínusová vlna na plochom povrchu
+sk;confinamiento_geometrico.py;021;bold
+sk;confinamiento_geometrico.py;022;gray
+sk;confinamiento_geometrico.py;023;center
+sk;confinamiento_geometrico.py;024;red
+sk;confinamiento_geometrico.py;025;2. Prechod: Zvinovanie ({progress*100:.0f}%)
+sk;confinamiento_geometrico.py;026;bold
+sk;confinamiento_geometrico.py;027;X súradnica
+sk;confinamiento_geometrico.py;028;Y súradnica
+sk;confinamiento_geometrico.py;029;gray
+sk;confinamiento_geometrico.py;030;red
+sk;confinamiento_geometrico.py;031;Uväznená (n={n_cycles})
+sk;confinamiento_geometrico.py;032;EINSTEIN-VED PODMIENKA: L = {n_cycles}λ
+sk;confinamiento_geometrico.py;033;bold
+sk;confinamiento_geometrico.py;034;3. Samo-uväznená vlna - Stabilná častica
+sk;confinamiento_geometrico.py;035;bold
+sk;confinamiento_geometrico.py;036;X súradnica
+sk;confinamiento_geometrico.py;037;Y súradnica
+sk;confinamiento_geometrico.py;038;svg
+sk;confinamiento_geometrico.py;039;tight
+sk;confinamiento_geometrico.py;040;brown
+sk;confinamiento_geometrico.py;041;equal
+sk;confinamiento_geometrico.py;042;a) Voľná plochá vlna
+sk;confinamiento_geometrico.py;043;bold
+sk;confinamiento_geometrico.py;044;Pozícia x
+sk;confinamiento_geometrico.py;045;Amplitúda ψ(x)
+sk;confinamiento_geometrico.py;046;orange
+sk;confinamiento_geometrico.py;047;equal
+sk;confinamiento_geometrico.py;048;b) Prechod
+sk;confinamiento_geometrico.py;049;bold
+sk;confinamiento_geometrico.py;050;X súradnica
+sk;confinamiento_geometrico.py;051;Y súradnica
+sk;confinamiento_geometrico.py;052;gray
+sk;confinamiento_geometrico.py;053;red
+sk;confinamiento_geometrico.py;054;equal
+sk;confinamiento_geometrico.py;055;c) Uväznené n=3\nL = 3λ
+sk;confinamiento_geometrico.py;056;bold
+sk;confinamiento_geometrico.py;057;X súradnica
+sk;confinamiento_geometrico.py;058;Y súradnica
+sk;confinamiento_geometrico.py;059;PODMIENKA: L = nλ
+sk;confinamiento_geometrico.py;060;center
+sk;confinamiento_geometrico.py;061;bold
+sk;confinamiento_geometrico.py;062;svg
+sk;confinamiento_geometrico.py;063;tight
+sk;confinamiento_geometrico_tiempo.py;001;n=1: Hladká časopriestorová trubica + fundamentálna kruhová vlna
+sk;confinamiento_geometrico_tiempo.py;002;n=3: Časopriestorová varieta + vlna s 3 uzlami
+sk;confinamiento_geometrico_tiempo.py;003;Bočné porovnanie n=1 vs n=3
+sk;confinamiento_geometrico_tiempo.py;004;Ukazuje ako dt krivky generujú povrch n=1
+sk;confinamiento_geometrico_tiempo.py;005;Ukazuje ako dt krivky generujú povrch n=3
+sk;confinamiento_geometrico_tiempo.py;006;Úplná dt evolúcia cez δt
+sk;confinamiento_geometrico_tiempo.py;007;round
+sk;confinamiento_geometrico_tiempo.py;008;white
+sk;confinamiento_geometrico_tiempo.py;009;🎨 GENEROVANIE 6 ÚPLNÝCH EINSTEIN-VED GRAFOV...
+sk;confinamiento_geometrico_tiempo.py;010;\n✅ 6 ÚPLNÝCH GRAFOV:
+sk;confinamiento_geometrico_tiempo.py;011;__main__
+sk;confinamiento_geometrico_tiempo.py;012;lightblue
+sk;confinamiento_geometrico_tiempo.py;013;red
+sk;confinamiento_geometrico_tiempo.py;014;ZÁKLADNÝ STAV n=1\nČasopriestor + Kruhová vlna
+sk;confinamiento_geometrico_tiempo.py;015;bold
+sk;confinamiento_geometrico_tiempo.py;016;tight
+sk;confinamiento_geometrico_tiempo.py;017;white
+sk;confinamiento_geometrico_tiempo.py;018;red
+sk;confinamiento_geometrico_tiempo.py;019;EXCITOVANÝ STAV n=3\nČasopriestorová varieta + 3 Uzly
+sk;confinamiento_geometrico_tiempo.py;020;bold
+sk;confinamiento_geometrico_tiempo.py;021;tight
+sk;confinamiento_geometrico_tiempo.py;022;white
+sk;confinamiento_geometrico_tiempo.py;023;lightblue
+sk;confinamiento_geometrico_tiempo.py;024;red
+sk;confinamiento_geometrico_tiempo.py;025;n=1: Základný stav
+sk;confinamiento_geometrico_tiempo.py;026;bold
+sk;confinamiento_geometrico_tiempo.py;027;red
+sk;confinamiento_geometrico_tiempo.py;028;n=3: Excitovaný stav
+sk;confinamiento_geometrico_tiempo.py;029;bold
+sk;confinamiento_geometrico_tiempo.py;030;tight
+sk;confinamiento_geometrico_tiempo.py;031;white
+sk;confinamiento_geometrico_tiempo.py;032;lightblue
+sk;confinamiento_geometrico_tiempo.py;033;red
+sk;confinamiento_geometrico_tiempo.py;034;green
+sk;confinamiento_geometrico_tiempo.py;035;green
+sk;confinamiento_geometrico_tiempo.py;036;green
+sk;confinamiento_geometrico_tiempo.py;037;bold
+sk;confinamiento_geometrico_tiempo.py;038;GENEROVANIE n=1: dt → Povrch\nKruhové krivky generujú valec
+sk;confinamiento_geometrico_tiempo.py;039;bold
+sk;confinamiento_geometrico_tiempo.py;040;tight
+sk;confinamiento_geometrico_tiempo.py;041;white
+sk;confinamiento_geometrico_tiempo.py;042;red
+sk;confinamiento_geometrico_tiempo.py;043;green
+sk;confinamiento_geometrico_tiempo.py;044;green
+sk;confinamiento_geometrico_tiempo.py;045;green
+sk;confinamiento_geometrico_tiempo.py;046;bold
+sk;confinamiento_geometrico_tiempo.py;047;GENEROVANIE n=3: dt → Varieta\nKrivky s uzlami generujú geometriu
+sk;confinamiento_geometrico_tiempo.py;048;bold
+sk;confinamiento_geometrico_tiempo.py;049;tight
+sk;confinamiento_geometrico_tiempo.py;050;white
+sk;confinamiento_geometrico_tiempo.py;051;red
+sk;confinamiento_geometrico_tiempo.py;052;darkred
+sk;confinamiento_geometrico_tiempo.py;053;δt={t}
+sk;confinamiento_geometrico_tiempo.py;054;center
+sk;confinamiento_geometrico_tiempo.py;055;bold
+sk;confinamiento_geometrico_tiempo.py;056;blue
+sk;confinamiento_geometrico_tiempo.py;057;blue
+sk;confinamiento_geometrico_tiempo.py;058;Časová\nevolúcia
+sk;confinamiento_geometrico_tiempo.py;059;blue
+sk;confinamiento_geometrico_tiempo.py;060;bold
+sk;confinamiento_geometrico_tiempo.py;061;ÚPLNÁ EVOLÚCIA: dt → δt → Stavy n\nEinstein-VED Kvantové uväznenie
+sk;confinamiento_geometrico_tiempo.py;062;bold
+sk;confinamiento_geometrico_tiempo.py;063;tight
+sk;confinamiento_geometrico_tiempo.py;064;white
+sk;entrelazamiento_geometrico.py;001;"
+    Finálna opravená verzia:
+    - Rámce "
+sk;entrelazamiento_geometrico.py;002; a 
+sk;entrelazamiento_geometrico.py;003;" na rovnakej úrovni
+    - Širší dizajn pre oba rámce
+    - Rešpektovanie aktuálnej dekorácie
+    "
+sk;entrelazamiento_geometrico.py;004;SYMBOLIKA:\n\n
+sk;entrelazamiento_geometrico.py;005;🔴 Častica A (45°)\n
+sk;entrelazamiento_geometrico.py;006;🟢 Častica B (225°)\n
+sk;entrelazamiento_geometrico.py;007;⚫ Pozorovateľ\n
+sk;entrelazamiento_geometrico.py;008;▬▬ Geometrické spojenie\n
+sk;entrelazamiento_geometrico.py;009;▬▬ Línie videnia
+sk;entrelazamiento_geometrico.py;010;round,pad=0.6
+sk;entrelazamiento_geometrico.py;011;white
+sk;entrelazamiento_geometrico.py;012;VLNOVÉ ČELO
+sk;entrelazamiento_geometrico.py;013;EINSTEIN-VED KĽÚČ:\n\n
+sk;entrelazamiento_geometrico.py;014;Obe častice (vrátane antipodálnych)\nzdieľajú rovnaký vlastný časopriestor t₀, s₀\n\n
+sk;entrelazamiento_geometrico.py;015;Pretože: dt' → 0 a ds' → 0 pri rýchlosti c\n\n
+sk;entrelazamiento_geometrico.py;016;t = t₀ + dt' → t₀\n
+sk;entrelazamiento_geometrico.py;017;s = s₀ + ds' → s₀\n\n
+sk;entrelazamiento_geometrico.py;018;Žiadna akcia na diaľku
+sk;entrelazamiento_geometrico.py;019;round,pad=0.8
+sk;entrelazamiento_geometrico.py;020;#fffacd
+sk;entrelazamiento_geometrico.py;021;EINSTEIN-VED ZÁKLAD:\n\n
+sk;entrelazamiento_geometrico.py;022;Prepliesťané častice zdieľajú spoločný vlastný časopriestor od svojho pôvodu. 
+sk;entrelazamiento_geometrico.py;023;Keď cestujú rýchlosťou c, ich diferenciály vlastného času a priestoru majú tendenciu k nule 
+sk;entrelazamiento_geometrico.py;024;(dt' → 0, ds' → 0), čím zostávajú spojené v rovnakom okamihu t₀ a polohe s₀. 
+sk;entrelazamiento_geometrico.py;025;Táto geometrická súbežnosť vysvetľuje kvantové korelácie bez porušenia relativity.
+sk;entrelazamiento_geometrico.py;026;round,pad=0.8
+sk;entrelazamiento_geometrico.py;027;#ffebee
+sk;entrelazamiento_geometrico.py;028;ZÁKLADNÉ ROVNICE:\n\n
+sk;entrelazamiento_geometrico.py;029;Pre častice pri rýchlosti c:\n
+sk;entrelazamiento_geometrico.py;030;• dt' → 0, ds' → 0\n
+sk;entrelazamiento_geometrico.py;031;• t = t₀ + dt' → t₀\n
+sk;entrelazamiento_geometrico.py;032;• s = s₀ + ds' → s₀\n\n
+sk;entrelazamiento_geometrico.py;033;Polná rovnica:\n
+sk;entrelazamiento_geometrico.py;034;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+sk;entrelazamiento_geometrico.py;035;Absolútna súbežnosť vo vlastnej sústave
+sk;entrelazamiento_geometrico.py;036;round,pad=0.8
+sk;entrelazamiento_geometrico.py;037;#f0f8ff
+sk;entrelazamiento_geometrico.py;038;EINSTEIN-VED INTERPRETÁCIA: Kvantové prepletanie prestáva byť paradoxné, keď je pochopené 
+sk;entrelazamiento_geometrico.py;039;z geometrie časopriestoru. Častice generované v rovnakom udalosti zdieľajú vlnové 
+sk;entrelazamiento_geometrico.py;040;čelo, kde ich vlastný čas zostáva zmrazený pri t₀. Táto vnútorná súbežnosť vysvetľuje 
+sk;entrelazamiento_geometrico.py;041;perfektné korelácie bez 'strašidelného pôsobenia'. Kvantová pravdepodobnosť odráža obmedzenú 
+sk;entrelazamiento_geometrico.py;042;perspektívu pozorovateľa, nie fundamentálnu vlastnosť.
+sk;entrelazamiento_geometrico.py;043;round,pad=0.8
+sk;entrelazamiento_geometrico.py;044;#f5f5f5
+sk;entrelazamiento_geometrico.py;045;__main__
+sk;entrelazamiento_geometrico.py;046;🎯 TVORBA FINÁLNEJ VERZIE S RÁMCAMI NA ROVNAKEJ ÚROVNI...
+sk;entrelazamiento_geometrico.py;047;\n✨ APLIKOVANÉ OPRAVY:
+sk;entrelazamiento_geometrico.py;048;   • Rámce 'Einstein základ' a 'Rovnice' na ROVNAKEJ ÚROVNI
+sk;entrelazamiento_geometrico.py;049;   • ŠIRŠÍ obrázok (16x10) pre oba
+sk;entrelazamiento_geometrico.py;050;   • Vyvážený a symetrický dizajn
+sk;entrelazamiento_geometrico.py;051;   • Dekorácia a farby REŠPEKTOVANÉ
+sk;entrelazamiento_geometrico.py;052;   • NULOVÉ prekrytia
+sk;entrelazamiento_geometrico.py;053;KVANTOVÉ PREPLETANIE: Geometrické vysvetlenie Einstein-VED
+sk;entrelazamiento_geometrico.py;054;bold
+sk;entrelazamiento_geometrico.py;055;blue
+sk;entrelazamiento_geometrico.py;056;k--
+sk;entrelazamiento_geometrico.py;057;equal
+sk;entrelazamiento_geometrico.py;058;Interný systém: Zdieľaný vlastný čas
+sk;entrelazamiento_geometrico.py;059;bold
+sk;entrelazamiento_geometrico.py;060;blue
+sk;entrelazamiento_geometrico.py;061;equal
+sk;entrelazamiento_geometrico.py;062;Externý systém: Konvenčná perspektíva
+sk;entrelazamiento_geometrico.py;063;bold
+sk;entrelazamiento_geometrico.py;064;left
+sk;entrelazamiento_geometrico.py;065;center
+sk;entrelazamiento_geometrico.py;066;bold
+sk;entrelazamiento_geometrico.py;067;gray
+sk;entrelazamiento_geometrico.py;068; → 0 a ds
+sk;entrelazamiento_geometrico.py;069;" → t₀\n""
+        ""s = s₀ + ds"
+sk;entrelazamiento_geometrico.py;070;center
+sk;entrelazamiento_geometrico.py;071;center
+sk;entrelazamiento_geometrico.py;072;bold
+sk;entrelazamiento_geometrico.py;073;orange
+sk;entrelazamiento_geometrico.py;074; → 0, ds
+sk;entrelazamiento_geometrico.py;075;center
+sk;entrelazamiento_geometrico.py;076;center
+sk;entrelazamiento_geometrico.py;077;italic
+sk;entrelazamiento_geometrico.py;078;red
+sk;entrelazamiento_geometrico.py;079; → 0, ds
+sk;entrelazamiento_geometrico.py;080;" → t₀\n"" 
+        ""• s = s₀ + ds"
+sk;entrelazamiento_geometrico.py;081;center
+sk;entrelazamiento_geometrico.py;082;center
+sk;entrelazamiento_geometrico.py;083;bold
+sk;entrelazamiento_geometrico.py;084;blue
+sk;entrelazamiento_geometrico.py;085;strašidelné pôsobenie
+sk;entrelazamiento_geometrico.py;086;center
+sk;entrelazamiento_geometrico.py;087;center
+sk;entrelazamiento_geometrico.py;088;black
+sk;entrelazamiento_geometrico.py;089;svg
+sk;entrelazamiento_geometrico.py;090;tight
+sk;entrelazamiento_geometrico.py;091;white
+sk;entrelazamiento_geometrico.py;092;Einstein základ
+sk;entrelazamiento_geometrico.py;093;Rovnice
+sk;generador_svg.py;001;Radiálna funkcia stav 1s: R₁₀(r) = 2/a₀^(3/2) exp(-r/a₀)
+sk;generador_svg.py;002;Radiálna funkcia stav 2p: R₂₁(r) = (1/2√6)(r/a₀²) exp(-r/2a₀)
+sk;generador_svg.py;003;Radiálna funkcia stav 3d: R₃₂(r) = (4/81√30)(r²/a₀^(7/2)) exp(-r/3a₀)
+sk;generador_svg.py;004;Úplná vlnová funkcia ψₙℓₘ(r,θ,φ) = Rₙℓ(r)Yℓₘ(θ,φ)
+sk;generador_svg.py;005;Stav n={n}, ℓ={ell} nie je implementovaný
+sk;generador_svg.py;006;Počíta VED povrch: r(θ,φ) = n²a₀(1 + α|Yℓₘ|)
+sk;generador_svg.py;007;Overuje zhodu medzi maximom P(r) a VED polomerom
+sk;generador_svg.py;008;ell
+sk;generador_svg.py;009;alpha
+sk;generador_svg.py;010;label
+sk;generador_svg.py;011;ell
+sk;generador_svg.py;012;alpha
+sk;generador_svg.py;013;label
+sk;generador_svg.py;014;ell
+sk;generador_svg.py;015;alpha
+sk;generador_svg.py;016;label
+sk;generador_svg.py;017;Generuje úplné porovnanie Einstein-VED vs Kvantová mechanika
+sk;generador_svg.py;018;🔬 VÝPOČET POROVNANIA EINSTEIN-VED vs KM...
+sk;generador_svg.py;019;ell
+sk;generador_svg.py;020;alpha
+sk;generador_svg.py;021;label
+sk;generador_svg.py;022;round
+sk;generador_svg.py;023;lightgreen
+sk;generador_svg.py;024;label
+sk;generador_svg.py;025;label
+sk;generador_svg.py;026;__main__
+sk;generador_svg.py;027;EXAKTNÉ EINSTEIN-VED VÝSLEDKY
+sk;generador_svg.py;028;{res['estado']}: r_VED = {res['r_ved']:.3e} m, 
+sk;generador_svg.py;029;r_KM = {res['r_max_mc']:.3e} m, 
+sk;generador_svg.py;030;Presnosť = {res['precision']:.2f}%
+sk;generador_svg.py;031;✅ POROVNANIE VYGENEROVANÉ - >99% ZHODA POTVRDENÁ
+sk;generador_svg.py;032;lower
+sk;generador_svg.py;033;viridis
+sk;generador_svg.py;034;auto
+sk;generador_svg.py;035;"Hustota |ψ|² - {estado[""label""]}\n(rovina Z=0.5Y)"
+sk;generador_svg.py;036;x (m)
+sk;generador_svg.py;037;y (m)
+sk;generador_svg.py;038;red
+sk;generador_svg.py;039;VED: {r_ved:.2e}m
+sk;generador_svg.py;040;blue
+sk;generador_svg.py;041;P(r) KM
+sk;generador_svg.py;042;red
+sk;generador_svg.py;043;VED: {r_ved:.2e} m
+sk;generador_svg.py;044;Presnosť: {precision:.2f}%
+sk;generador_svg.py;045;"Radiálna pravdepodobnosť - {estado[""label""]}"
+sk;generador_svg.py;046;r (m)
+sk;generador_svg.py;047;P(r) normalizovaná
+sk;generador_svg.py;048;stav
+sk;generador_svg.py;049;r_ved
+sk;generador_svg.py;050;r_max_mc
+sk;generador_svg.py;051;presnosť
+sk;generador_svg.py;052;POROVNANIE EINSTEIN-VED vs KVANTOVÁ MECHANIKA - EXAKTNE VÝPOČTY\n
+sk;generador_svg.py;053;Deterministické polomery vs pravdepodobnostné distribúcie
+sk;generador_svg.py;054;bold
+sk;generador_svg.py;055;svg
+sk;generador_svg.py;056;tight
+sk;generador_svg.py;057;png
+sk;generador_svg.py;058;tight
+sk;generador_svg.py;059;stav
+sk;generador_svg.py;060;r_ved
+sk;generador_svg.py;061;r_max_mc
+sk;generador_svg.py;062;presnosť
+sk;graficas_einstein_ved_n4.py;001;#377eb8
+sk;graficas_einstein_ved_n4.py;002;#4daf4a
+sk;graficas_einstein_ved_n4.py;003;#e41a1c
+sk;graficas_einstein_ved_n4.py;004;#f0f0f0
+sk;graficas_einstein_ved_n4.py;005;✅ Uložené: {filename}
+sk;graficas_einstein_ved_n4.py;006;round,pad=0.3
+sk;graficas_einstein_ved_n4.py;007;#ffebee
+sk;graficas_einstein_ved_n4.py;008;__main__
+sk;graficas_einstein_ved_n4.py;009;🚀 GENEROVANIE VŠETKÝCH EINSTEIN-VED GRAFOV (n=4)...
+sk;graficas_einstein_ved_n4.py;010;Polomer Protónu: Exaktné porovnanie Einstein-VED
+sk;graficas_einstein_ved_n4.py;011;🎯 VŠETKY GRAFY VYGENEROVANÉ ✅
+sk;graficas_einstein_ved_n4.py;012;font.size
+sk;graficas_einstein_ved_n4.py;013;axes.titlesize
+sk;graficas_einstein_ved_n4.py;014;axes.labelsize
+sk;graficas_einstein_ved_n4.py;015;xtick.labelsize
+sk;graficas_einstein_ved_n4.py;016;ytick.labelsize
+sk;graficas_einstein_ved_n4.py;017;legend.fontsize
+sk;graficas_einstein_ved_n4.py;018;figure.titlesize
+sk;graficas_einstein_ved_n4.py;019;Konvenčný model ±3σ
+sk;graficas_einstein_ved_n4.py;020;LHC Experimentálny ±3σ
+sk;graficas_einstein_ved_n4.py;021;Einstein-VED Deterministický
+sk;graficas_einstein_ved_n4.py;022;Konvenčný model
+sk;graficas_einstein_ved_n4.py;023;LHC Experimentálny
+sk;graficas_einstein_ved_n4.py;024;Einstein-VED (n=4)
+sk;graficas_einstein_ved_n4.py;025;Polomer Protónu (fm)
+sk;graficas_einstein_ved_n4.py;026;bold
+sk;graficas_einstein_ved_n4.py;027;upper right
+sk;graficas_einstein_ved_n4.py;028;svg
+sk;graficas_einstein_ved_n4.py;029;tight
+sk;graficas_einstein_ved_n4.py;030;KM Pravdepodobnostná\n(1920s-)
+sk;graficas_einstein_ved_n4.py;031;LHC Dáta\n(2010s-)
+sk;graficas_einstein_ved_n4.py;032;Einstein-VED\n(2024-)
+sk;graficas_einstein_ved_n4.py;033;k--
+sk;graficas_einstein_ved_n4.py;034;Polomer Protónu (fm)
+sk;graficas_einstein_ved_n4.py;035;Teoretická evolúcia: Od pravdepodobnosti k deterministickej geometrii
+sk;graficas_einstein_ved_n4.py;036;bold
+sk;graficas_einstein_ved_n4.py;037;Einstein-VED:\nExaktná geometria\nbez pravdepodobnosti
+sk;graficas_einstein_ved_n4.py;038;svg
+sk;graficas_einstein_ved_n4.py;039;tight
+sk;graficas_einstein_ved_n4.py;040;tight
+sk;graficas_einstein_ved_n4.py;041;off
+sk;graficas_einstein_ved_n4.py;042;Teória
+sk;graficas_einstein_ved_n4.py;043;Polomer (fm)
+sk;graficas_einstein_ved_n4.py;044;Neistota
+sk;graficas_einstein_ved_n4.py;045;Presnosť
+sk;graficas_einstein_ved_n4.py;046;Einstein-VED (n=4)
+sk;graficas_einstein_ved_n4.py;047;{VED_mean:.5f}
+sk;graficas_einstein_ved_n4.py;048;Deterministický
+sk;graficas_einstein_ved_n4.py;049;LHC Experimentálny
+sk;graficas_einstein_ved_n4.py;050;{LHC_mean:.5f}
+sk;graficas_einstein_ved_n4.py;051;± 0.014 fm
+sk;graficas_einstein_ved_n4.py;052;Referencia
+sk;graficas_einstein_ved_n4.py;053;Konvenčný model
+sk;graficas_einstein_ved_n4.py;054;{MC_mean:.2f}
+sk;graficas_einstein_ved_n4.py;055;± 0.90 fm
+sk;graficas_einstein_ved_n4.py;056;Nízka presnosť
+sk;graficas_einstein_ved_n4.py;057;#ffeaea
+sk;graficas_einstein_ved_n4.py;058;#f0f9e8
+sk;graficas_einstein_ved_n4.py;059;#e8f4fd
+sk;graficas_einstein_ved_n4.py;060;center
+sk;graficas_einstein_ved_n4.py;061;center
+sk;graficas_einstein_ved_n4.py;062;#dddddd
+sk;graficas_einstein_ved_n4.py;063;bold
+sk;graficas_einstein_ved_n4.py;064;Porovnanie Protónových Polomerov - Exaktné VED dáta (n=4)
+sk;graficas_einstein_ved_n4.py;065;bold
+sk;graficas_einstein_ved_n4.py;066;svg
+sk;graficas_einstein_ved_n4.py;067;tight
+sk;graficas_einstein_ved_n4.py;068;Einstein-VED
+sk;graficas_einstein_ved_n4.py;069;KM (pravdepodobnostné maximá)
+sk;graficas_einstein_ved_n4.py;070;Kvantový stav
+sk;graficas_einstein_ved_n4.py;071;Polomer (jednotky a₀)
+sk;graficas_einstein_ved_n4.py;072;Atómové polomery: Exaktné vs pravdepodobnostné hodnoty
+sk;graficas_einstein_ved_n4.py;073;bold
+sk;graficas_einstein_ved_n4.py;074;{height:.0f}
+sk;graficas_einstein_ved_n4.py;075;center
+sk;graficas_einstein_ved_n4.py;076;bottom
+sk;graficas_einstein_ved_n4.py;077;1s (KM)
+sk;graficas_einstein_ved_n4.py;078;blue
+sk;graficas_einstein_ved_n4.py;079;2p (KM)
+sk;graficas_einstein_ved_n4.py;080;green
+sk;graficas_einstein_ved_n4.py;081;3d (KM)
+sk;graficas_einstein_ved_n4.py;082;red
+sk;graficas_einstein_ved_n4.py;083;blue
+sk;graficas_einstein_ved_n4.py;084;VED Polomer 1s
+sk;graficas_einstein_ved_n4.py;085;green
+sk;graficas_einstein_ved_n4.py;086;VED Polomer 2p
+sk;graficas_einstein_ved_n4.py;087;red
+sk;graficas_einstein_ved_n4.py;088;VED Polomer 3d
+sk;graficas_einstein_ved_n4.py;089;Radiálna vzdialenosť (jednotky a₀)
+sk;graficas_einstein_ved_n4.py;090;Hustota (normalizovaná)
+sk;graficas_einstein_ved_n4.py;091;Interpretácia: KM Pravdepodobnosť vs VED Geometria
+sk;graficas_einstein_ved_n4.py;092;bold
+sk;graficas_einstein_ved_n4.py;093;svg
+sk;graficas_einstein_ved_n4.py;094;tight
+sk;proton_comparativa_destacado.py;001;#377eb8
+sk;proton_comparativa_destacado.py;002;#4daf4a
+sk;proton_comparativa_destacado.py;003;#e41a1c
+sk;proton_comparativa_destacado.py;004;#f0f0f0
+sk;proton_comparativa_destacado.py;005;Počíta ±3σ rozsah pre vizualizáciu
+sk;proton_comparativa_destacado.py;006;"
+    Dvojitý graf s opravenou pozíciou legendy
+    "
+sk;proton_comparativa_destacado.py;007;EINSTEIN-VED: Deterministická časopriestorová geometria. 
+sk;proton_comparativa_destacado.py;008;Exaktné polomery bez fundamentálnej pravdepodobnosti. 
+sk;proton_comparativa_destacado.py;009;Hmota = uväznený časopriestor.
+sk;proton_comparativa_destacado.py;010;round,pad=0.3
+sk;proton_comparativa_destacado.py;011;#ffebee
+sk;proton_comparativa_destacado.py;012;{mc_min:.3f}
+sk;proton_comparativa_destacado.py;013;{mc_mean:.3f}
+sk;proton_comparativa_destacado.py;014;{mc_max:.3f}
+sk;proton_comparativa_destacado.py;015;LHC
+sk;proton_comparativa_destacado.py;016;{lhc_min:.3f}
+sk;proton_comparativa_destacado.py;017;{lhc_mean:.5f}
+sk;proton_comparativa_destacado.py;018;{lhc_max:.3f}
+sk;proton_comparativa_destacado.py;019;VED
+sk;proton_comparativa_destacado.py;020;{ved_min:.3f}
+sk;proton_comparativa_destacado.py;021;{ved_mean:.3f}
+sk;proton_comparativa_destacado.py;022;{ved_max:.3f}
+sk;proton_comparativa_destacado.py;023;Minimum
+sk;proton_comparativa_destacado.py;024;Priemer
+sk;proton_comparativa_destacado.py;025;Maximum
+sk;proton_comparativa_destacado.py;026;Rozsahy (±3σ) v fm
+sk;proton_comparativa_destacado.py;027;round,pad=0.2
+sk;proton_comparativa_destacado.py;028;white
+sk;proton_comparativa_destacado.py;029;round,pad=0.3
+sk;proton_comparativa_destacado.py;030;#ffebee
+sk;proton_comparativa_destacado.py;031;round,pad=0.3
+sk;proton_comparativa_destacado.py;032;#e8f4fd
+sk;proton_comparativa_destacado.py;033;round,pad=0.3
+sk;proton_comparativa_destacado.py;034;#ffebee
+sk;proton_comparativa_destacado.py;035;POROVNANIE PROTÓNOVÝCH POLOMEROV: 
+sk;proton_comparativa_destacado.py;036;KM={mc_mean:.3f}±{3*MC_sigma:.3f} fm (±{(3*MC_sigma/mc_mean*100):.0f}%) | 
+sk;proton_comparativa_destacado.py;037;LHC={lhc_mean:.5f}±{3*LHC_sigma:.3f} fm (±{(3*LHC_sigma/lhc_mean*100):.1f}%) | 
+sk;proton_comparativa_destacado.py;038;VED={ved_mean:.3f}±{3*VED_sigma:.3f} fm (±{(3*VED_sigma/ved_mean*100):.1f}%) | 
+sk;proton_comparativa_destacado.py;039;Einstein-VED: deterministické hodnoty z časopriestorovej geometrie.
+sk;proton_comparativa_destacado.py;040;__main__
+sk;proton_comparativa_destacado.py;041;🔄 TVORBA OPRAVENÉHO DVOJITÉHO GRAFU...
+sk;proton_comparativa_destacado.py;042;✨ Opravený dvojitý graf vytvorený s:
+sk;proton_comparativa_destacado.py;043;   • Legendou posunutou nadol: bbox_to_anchor=(0.02, 0.75)
+sk;proton_comparativa_destacado.py;044;   • Žiadnym prekrytím s rámcom Einstein-VED
+sk;proton_comparativa_destacado.py;045;   • Zachovaním všetkých predchádzajúcich vylepšení
+sk;proton_comparativa_destacado.py;046;   • Dobre rozloženým a čitateľným textom
+sk;proton_comparativa_destacado.py;047;font.size
+sk;proton_comparativa_destacado.py;048;axes.titlesize
+sk;proton_comparativa_destacado.py;049;axes.labelsize
+sk;proton_comparativa_destacado.py;050;xtick.labelsize
+sk;proton_comparativa_destacado.py;051;ytick.labelsize
+sk;proton_comparativa_destacado.py;052;legend.fontsize
+sk;proton_comparativa_destacado.py;053;figure.titlesize
+sk;proton_comparativa_destacado.py;054;white
+sk;proton_comparativa_destacado.py;055;white
+sk;proton_comparativa_destacado.py;056;KM: Pravdepodobnostný model
+sk;proton_comparativa_destacado.py;057;LHC: Experimentálne dáta
+sk;proton_comparativa_destacado.py;058;Einstein-VED: Geometrický model
+sk;proton_comparativa_destacado.py;059;black
+sk;proton_comparativa_destacado.py;060;Kvantová\nmechanika
+sk;proton_comparativa_destacado.py;061;LHC\nExperimentálny
+sk;proton_comparativa_destacado.py;062;Einstein-VED
+sk;proton_comparativa_destacado.py;063;Polomer Protónu (fm)
+sk;proton_comparativa_destacado.py;064;bold
+sk;proton_comparativa_destacado.py;065;EINSTEIN-VED PREDIKCIA vs EXPERIMENTÁLNE DÁTA\n(Oblasť záujmu: 0.72-0.84 fm)
+sk;proton_comparativa_destacado.py;066;bold
+sk;proton_comparativa_destacado.py;067;top
+sk;proton_comparativa_destacado.py;068;bold
+sk;proton_comparativa_destacado.py;069;upper left
+sk;proton_comparativa_destacado.py;070;KM: Pravdepodobnostný model
+sk;proton_comparativa_destacado.py;071;LHC: Experimentálne dáta
+sk;proton_comparativa_destacado.py;072;Einstein-VED: Geometrický model
+sk;proton_comparativa_destacado.py;073;black
+sk;proton_comparativa_destacado.py;074;Kvantová\nmechanika
+sk;proton_comparativa_destacado.py;075;LHC\nExperimentálny
+sk;proton_comparativa_destacado.py;076;Einstein-VED
+sk;proton_comparativa_destacado.py;077;Polomer Protónu (fm)
+sk;proton_comparativa_destacado.py;078;bold
+sk;proton_comparativa_destacado.py;079;ÚPLNÉ POROVNANIE: KM Neistota vs VED Presnosť\n(Úplná škála: 0.1-1.9 fm)
+sk;proton_comparativa_destacado.py;080;bold
+sk;proton_comparativa_destacado.py;081;upper right
+sk;proton_comparativa_destacado.py;082;center
+sk;proton_comparativa_destacado.py;083;center
+sk;proton_comparativa_destacado.py;084;center
+sk;proton_comparativa_destacado.py;085;#dddddd
+sk;proton_comparativa_destacado.py;086;bold
+sk;proton_comparativa_destacado.py;087;#eeeeee
+sk;proton_comparativa_destacado.py;088;bold
+sk;proton_comparativa_destacado.py;089;bold
+sk;proton_comparativa_destacado.py;090;center
+sk;proton_comparativa_destacado.py;091;EXAKTNÁ PREDIKCIA\nDETERMINISTICKÁ GEOMETRIA
+sk;proton_comparativa_destacado.py;092;center
+sk;proton_comparativa_destacado.py;093;bold
+sk;proton_comparativa_destacado.py;094;VYSOKÁ KM NEISTOTA\n(±0.9 fm = ±90%)
+sk;proton_comparativa_destacado.py;095;center
+sk;proton_comparativa_destacado.py;096;bold
+sk;proton_comparativa_destacado.py;097;VED PRESNOSŤ\n(±0.045 fm = ±5.8%)
+sk;proton_comparativa_destacado.py;098;center
+sk;proton_comparativa_destacado.py;099;bold
+sk;proton_comparativa_destacado.py;100;center
+sk;proton_comparativa_destacado.py;101;italic
+sk;proton_comparativa_destacado.py;102;svg
+sk;proton_comparativa_destacado.py;103;tight
+sk;validacion_experimental.py;001;polomer_protonu
+sk;validacion_experimental.py;002;polomer_neutronu
+sk;validacion_experimental.py;003;predikcia_quark_ved
+sk;validacion_experimental.py;004;Generuje porovnanie s EXAKTNÝMI EINSTEIN-VED PREDIKCIAMI
+sk;validacion_experimental.py;005;polomer_protonu
+sk;validacion_experimental.py;006;polomer_neutronu
+sk;validacion_experimental.py;007;round
+sk;validacion_experimental.py;008;yellow
+sk;validacion_experimental.py;009;bodový
+sk;validacion_experimental.py;010;polomer_protonu
+sk;validacion_experimental.py;011;predikcia_quark_ved
+sk;validacion_experimental.py;012;round
+sk;validacion_experimental.py;013;lightgreen
+sk;validacion_experimental.py;014;EXAKTNÉ EINSTEIN-VED PREDIKCIE
+sk;validacion_experimental.py;015;\nPRESNOSŤ vs EXPERIMENTÁLNA:
+sk;validacion_experimental.py;016;Protón:  {precisiones_ved[0]:.2f}%
+sk;validacion_experimental.py;017;Neutrón: {precisiones_ved[1]:.2f}%
+sk;validacion_experimental.py;018;\nPREDIKCIA PRE QUARKY:
+sk;validacion_experimental.py;019;Minimálna veľkosť quarku (VED): {datos_experimentales['prediccion_quark_ved']*1e15:.3f} fm
+sk;validacion_experimental.py;020;Aktuálna experimentálna hranica: < 0.001 fm
+sk;validacion_experimental.py;021;Záver: Quarky NEMÔŽU byť bodové
+sk;validacion_experimental.py;022;\nVZŤAH HMOTNOSŤ-VEĽKOSŤ:
+sk;validacion_experimental.py;023;Elektrón (0.511 MeV): {2.426e-12:.2e} m
+sk;validacion_experimental.py;024;Quark up (2.3 MeV):   {8.6e-16:.2e} m
+sk;validacion_experimental.py;025;Quark down (4.8 MeV): {4.1e-16:.2e} m
+sk;validacion_experimental.py;026;🔬 GENEROVANIE EINSTEIN-VED PREDIKCIÍ...
+sk;validacion_experimental.py;027;✅ GRAF PREDIKCIÍ VYGENEROVANÝ
+sk;validacion_experimental.py;028;Protón
+sk;validacion_experimental.py;029;Neutrón
+sk;validacion_experimental.py;030;Einstein-VED
+sk;validacion_experimental.py;031;red
+sk;validacion_experimental.py;032;LHC (Experimentálny)
+sk;validacion_experimental.py;033;green
+sk;validacion_experimental.py;034;Nukleón
+sk;validacion_experimental.py;035;Nábojový polomer (fm)
+sk;validacion_experimental.py;036;a) Nukleárne polomery: VED vs Experimentálny\n(Presnosť >99%)
+sk;validacion_experimental.py;037;{precision:.1f}%
+sk;validacion_experimental.py;038;center
+sk;validacion_experimental.py;039;bottom
+sk;validacion_experimental.py;040;bold
+sk;validacion_experimental.py;041;Protón (LHC)
+sk;validacion_experimental.py;042;Quark (VED)
+sk;validacion_experimental.py;043;""Bodová"" hranica"
+sk;validacion_experimental.py;044;red
+sk;validacion_experimental.py;045;blue
+sk;validacion_experimental.py;046;gray
+sk;validacion_experimental.py;047;Veľkosť (fm)
+sk;validacion_experimental.py;048;b) VED predikcia: Quarky NIE sú bodové
+sk;validacion_experimental.py;049;{long*1e15:.3f} fm
+sk;validacion_experimental.py;050;center
+sk;validacion_experimental.py;051;bold
+sk;validacion_experimental.py;052;ro-
+sk;validacion_experimental.py;053;Hmotnosť (eV/c²) - Log škála
+sk;validacion_experimental.py;054;Comptonova dĺžka (m) - Log škála
+sk;validacion_experimental.py;055;c) Vzťah hmotnosť-veľkosť Einstein-VED\nλ = h/mc
+sk;validacion_experimental.py;056;elektrón
+sk;validacion_experimental.py;057;quark up
+sk;validacion_experimental.py;058;quark down
+sk;validacion_experimental.py;059;múón
+sk;validacion_experimental.py;060;offset points
+sk;validacion_experimental.py;061;EINSTEIN-VED PREDIKCIE:
+sk;validacion_experimental.py;062;bold
+sk;validacion_experimental.py;063;red
+sk;validacion_experimental.py;064;• EXAKTNÉ polomery z prvých princípov
+sk;validacion_experimental.py;065;red
+sk;validacion_experimental.py;066;• Quarky: ~0.05 fm (NIE sú bodové)
+sk;validacion_experimental.py;067;red
+sk;validacion_experimental.py;068;• Bez pravdepodobností - Deterministické hodnoty
+sk;validacion_experimental.py;069;red
+sk;validacion_experimental.py;070;ZÁKLAD:
+sk;validacion_experimental.py;071;bold
+sk;validacion_experimental.py;072;• Známa hmotnosť → Exaktná Comptonova dĺžka
+sk;validacion_experimental.py;073;• Uväznenie: L = nλ (n celé číslo)
+sk;validacion_experimental.py;074;• Geometria → Exaktná štruktúra
+sk;validacion_experimental.py;075;BUDÚCA VERIFIKÁCIA:\nVylepšený LHC potvrdí\npredpovedanú štruktúru quarkov
+sk;validacion_experimental.py;076;center
+sk;validacion_experimental.py;077;bold
+sk;validacion_experimental.py;078;off
+sk;validacion_experimental.py;079;EINSTEIN-VED PREDIKCIE: Exaktná geometria vs Experimentálne dáta\n
+sk;validacion_experimental.py;080;Od atómov po quarky - Všetky veľkosti exaktne vypočítateľné
+sk;validacion_experimental.py;081;bold
+sk;validacion_experimental.py;082;svg
+sk;validacion_experimental.py;083;tight
+sk;validacion_experimental.py;084;predikcia_quark_ved

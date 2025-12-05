@@ -1,0 +1,559 @@
+fr;proton_comparativa_destacado.py;001;#377eb8
+fr;proton_comparativa_destacado.py;002;#4daf4a
+fr;proton_comparativa_destacado.py;003;#e41a1c
+fr;proton_comparativa_destacado.py;004;#f0f0f0
+fr;proton_comparativa_destacado.py;005;Calcule plage ±3σ pour visualisation
+fr;proton_comparativa_destacado.py;006;Einstein-VED: Modèle géométrique déterministe du proton. 
+fr;proton_comparativa_destacado.py;007;Rayon dérivé de 4 longueurs d'onde de confinement.
+fr;proton_comparativa_destacado.py;008;rond,pad=0.3
+fr;proton_comparativa_destacado.py;009;#ffebee
+fr;proton_comparativa_destacado.py;010;__main__
+fr;proton_comparativa_destacado.py;011;blanc
+fr;proton_comparativa_destacado.py;012;MQ: Probabiliste
+fr;proton_comparativa_destacado.py;013;LHC: Expérimental
+fr;proton_comparativa_destacado.py;014;Einstein-VED: Déterministe
+fr;proton_comparativa_destacado.py;015;noir
+fr;proton_comparativa_destacado.py;016;Mécanique Quantique
+fr;proton_comparativa_destacado.py;017;Expérimental LHC
+fr;proton_comparativa_destacado.py;018;Einstein-VED
+fr;proton_comparativa_destacado.py;019;Rayon du Proton (fm)
+fr;proton_comparativa_destacado.py;020;gras
+fr;proton_comparativa_destacado.py;021;Estimations du Rayon du Proton\navec Plages ±3σ
+fr;proton_comparativa_destacado.py;022;gras
+fr;proton_comparativa_destacado.py;023;en haut à droite
+fr;proton_comparativa_destacado.py;024;haut
+fr;proton_comparativa_destacado.py;025;gras
+fr;proton_comparativa_destacado.py;026;svg
+
+sk;proton_comparativa_destacado.py;001;#377eb8
+sk;proton_comparativa_destacado.py;002;#4daf4a
+sk;proton_comparativa_destacado.py;003;#e41a1c
+sk;proton_comparativa_destacado.py;004;#f0f0f0
+sk;proton_comparativa_destacado.py;005;Počíta rozsah ±3σ pre vizualizáciu
+sk;proton_comparativa_destacado.py;006;Einstein-VED: Deterministický geometrický model protónu. 
+sk;proton_comparativa_destacado.py;007;Polomer odvodený od 4 vlnových dĺžok uväznenia.
+sk;proton_comparativa_destacado.py;008;okrúhly,pad=0.3
+sk;proton_comparativa_destacado.py;009;#ffebee
+sk;proton_comparativa_destacado.py;010;__main__
+sk;proton_comparativa_destacado.py;011;biely
+sk;proton_comparativa_destacado.py;012;KM: Pravdepodobnostná
+sk;proton_comparativa_destacado.py;013;LHC: Experimentálny
+sk;proton_comparativa_destacado.py;014;Einstein-VED: Deterministický
+sk;proton_comparativa_destacado.py;015;čierny
+sk;proton_comparativa_destacado.py;016;Kvantová Mechanika
+sk;proton_comparativa_destacado.py;017;Experimentálny LHC
+sk;proton_comparativa_destacado.py;018;Einstein-VED
+sk;proton_comparativa_destacado.py;019;Polomer Protónu (fm)
+sk;proton_comparativa_destacado.py;020;tučný
+sk;proton_comparativa_destacado.py;021;Odhady Polomeru Protónu\ns Rozsahmi ±3σ
+sk;proton_comparativa_destacado.py;022;tučný
+sk;proton_comparativa_destacado.py;023;vpravo hore
+sk;proton_comparativa_destacado.py;024;hore
+sk;proton_comparativa_destacado.py;025;tučný
+sk;proton_comparativa_destacado.py;026;svg
+
+ar;proton_comparativa_destacado.py;001;#377eb8
+ar;proton_comparativa_destacado.py;002;#4daf4a
+ar;proton_comparativa_destacado.py;003;#e41a1c
+ar;proton_comparativa_destacado.py;004;#f0f0f0
+ar;proton_comparativa_destacado.py;005;يحسب النطاق ±3σ للتصور
+ar;proton_comparativa_destacado.py;006;أينشتاين-فيد: نموذج هندسي حتمي للبروتون. 
+ar;proton_comparativa_destacado.py;007;نصف القطر مشتق من 4 أطوال موجية للحصر.
+ar;proton_comparativa_destacado.py;008;مدور,pad=0.3
+ar;proton_comparativa_destacado.py;009;#ffebee
+ar;proton_comparativa_destacado.py;010;__main__
+ar;proton_comparativa_destacado.py;011;أبيض
+ar;proton_comparativa_destacado.py;012;ميكانيكا الكم: احتمالية
+ar;proton_comparativa_destacado.py;013;LHC: تجريبي
+ar;proton_comparativa_destacado.py;014;أينشتاين-فيد: حتمي
+ar;proton_comparativa_destacado.py;015;أسود
+ar;proton_comparativa_destacado.py;016;ميكانيكا الكم
+ar;proton_comparativa_destacado.py;017;التجريبي LHC
+ar;proton_comparativa_destacado.py;018;أينشتاين-فيد
+ar;proton_comparativa_destacado.py;019;نصف قطر البروتون (فيمتو متر)
+ar;proton_comparativa_destacado.py;020;عريض
+ar;proton_comparativa_destacado.py;021;تقديرات نصف قطر البروتون\nمع نطاقات ±3σ
+ar;proton_comparativa_destacado.py;022;عريض
+ar;proton_comparativa_destacado.py;023;أعلى اليمين
+ar;proton_comparativa_destacado.py;024;أعلى
+ar;proton_comparativa_destacado.py;025;عريض
+ar;proton_comparativa_destacado.py;026;svg
+
+zh;proton_comparativa_destacado.py;001;#377eb8
+zh;proton_comparativa_destacado.py;002;#4daf4a
+zh;proton_comparativa_destacado.py;003;#e41a1c
+zh;proton_comparativa_destacado.py;004;#f0f0f0
+zh;proton_comparativa_destacado.py;005;计算±3σ范围用于可视化
+zh;proton_comparativa_destacado.py;006;爱因斯坦-VED: 质子的确定性几何模型。 
+zh;proton_comparativa_destacado.py;007;半径源自4个约束波长。
+zh;proton_comparativa_destacado.py;008;圆形,pad=0.3
+zh;proton_comparativa_destacado.py;009;#ffebee
+zh;proton_comparativa_destacado.py;010;__main__
+zh;proton_comparativa_destacado.py;011;白色
+zh;proton_comparativa_destacado.py;012;量子力学: 概率性
+zh;proton_comparativa_destacado.py;013;LHC: 实验
+zh;proton_comparativa_destacado.py;014;爱因斯坦-VED: 确定性
+zh;proton_comparativa_destacado.py;015;黑色
+zh;proton_comparativa_destacado.py;016;量子力学
+zh;proton_comparativa_destacado.py;017;LHC实验
+zh;proton_comparativa_destacado.py;018;爱因斯坦-VED
+zh;proton_comparativa_destacado.py;019;质子半径 (飞米)
+zh;proton_comparativa_destacado.py;020;粗体
+zh;proton_comparativa_destacado.py;021;质子半径估计\n带±3σ范围
+zh;proton_comparativa_destacado.py;022;粗体
+zh;proton_comparativa_destacado.py;023;右上
+zh;proton_comparativa_destacado.py;024;顶部
+zh;proton_comparativa_destacado.py;025;粗体
+zh;proton_comparativa_destacado.py;026;svg
+
+ja;proton_comparativa_destacado.py;001;#377eb8
+ja;proton_comparativa_destacado.py;002;#4daf4a
+ja;proton_comparativa_destacado.py;003;#e41a1c
+ja;proton_comparativa_destacado.py;004;#f0f0f0
+ja;proton_comparativa_destacado.py;005;可視化のための±3σ範囲を計算
+ja;proton_comparativa_destacado.py;006;アインシュタイン-VED: 陽子の決定論的幾何学モデル。 
+ja;proton_comparativa_destacado.py;007;半径は4つの閉じ込め波長から導出。
+ja;proton_comparativa_destacado.py;008;丸い,pad=0.3
+ja;proton_comparativa_destacado.py;009;#ffebee
+ja;proton_comparativa_destacado.py;010;__main__
+ja;proton_comparativa_destacado.py;011;白
+ja;proton_comparativa_destacado.py;012;量子力学: 確率的
+ja;proton_comparativa_destacado.py;013;LHC: 実験
+ja;proton_comparativa_destacado.py;014;アインシュタイン-VED: 決定論的
+ja;proton_comparativa_destacado.py;015;黒
+ja;proton_comparativa_destacado.py;016;量子力学
+ja;proton_comparativa_destacado.py;017;LHC実験
+ja;proton_comparativa_destacado.py;018;アインシュタイン-VED
+ja;proton_comparativa_destacado.py;019;陽子半径 (fm)
+ja;proton_comparativa_destacado.py;020;太字
+ja;proton_comparativa_destacado.py;021;陽子半径の推定\n±3σ範囲付き
+ja;proton_comparativa_destacado.py;022;太字
+ja;proton_comparativa_destacado.py;023;右上
+ja;proton_comparativa_destacado.py;024;上部
+ja;proton_comparativa_destacado.py;025;太字
+ja;proton_comparativa_destacado.py;026;svg
+
+fr;validacion_experimental.py;001;rayon_proton
+fr;validacion_experimental.py;002;rayon_neutron
+fr;validacion_experimental.py;003;prediction_quark_ved
+fr;validacion_experimental.py;004;Génère comparaison avec PRÉDICTIONS EXACTES Einstein-VED
+fr;validacion_experimental.py;005;rayon_proton
+fr;validacion_experimental.py;006;rayon_neutron
+fr;validacion_experimental.py;007;rond
+fr;validacion_experimental.py;008;jaune
+fr;validacion_experimental.py;009;ponctuel
+fr;validacion_experimental.py;010;rayon_proton
+fr;validacion_experimental.py;011;prediction_quark_ved
+fr;validacion_experimental.py;012;rond
+fr;validacion_experimental.py;013;vert clair
+fr;validacion_experimental.py;014;PRÉDICTIONS EXACTES EINSTEIN-VED
+fr;validacion_experimental.py;015;\nPRÉCISION vs EXPÉRIMENTAL:
+fr;validacion_experimental.py;016;Proton:  {precisiones_ved[0]:.2f}%
+fr;validacion_experimental.py;017;Neutron: {precisiones_ved[1]:.2f}%
+fr;validacion_experimental.py;018;\nPRÉDICTION SUR LES QUARKS:
+fr;validacion_experimental.py;019;Taille minimale quark (VED): {datos_experimentales['prediccion_quark_ved']*1e15:.3f} fm
+fr;validacion_experimental.py;020;Limite expérimentale actuelle: < 0.001 fm
+fr;validacion_experimental.py;021;Conclusion: Les quarks NE peuvent PAS être ponctuels
+fr;validacion_experimental.py;022;\nRELATION MASSE-TAILLE:
+fr;validacion_experimental.py;023;Électron (0.511 MeV): {2.426e-12:.2e} m
+fr;validacion_experimental.py;024;Quark up (2.3 MeV):   {8.6e-16:.2e} m
+fr;validacion_experimental.py;025;Quark down (4.8 MeV): {4.1e-16:.2e} m
+fr;validacion_experimental.py;026;🔬 GÉNÉRATION DES PRÉDICTIONS EINSTEIN-VED...
+fr;validacion_experimental.py;027;✅ GRAPHIQUE DE PRÉDICTIONS GÉNÉRÉ
+fr;validacion_experimental.py;028;Proton
+fr;validacion_experimental.py;029;Neutron
+fr;validacion_experimental.py;030;Einstein-VED
+fr;validacion_experimental.py;031;rouge
+fr;validacion_experimental.py;032;LHC (Expérimental)
+fr;validacion_experimental.py;033;vert
+fr;validacion_experimental.py;034;Nucléon
+fr;validacion_experimental.py;035;Rayon de Charge (fm)
+fr;validacion_experimental.py;036;a) Rayons Nucléaires: VED vs Expérimental\n(Précision >99%)
+fr;validacion_experimental.py;037;{precision:.1f}%
+fr;validacion_experimental.py;038;centre
+fr;validacion_experimental.py;039;bas
+fr;validacion_experimental.py;040;gras
+fr;validacion_experimental.py;041;Proton (LHC)
+fr;validacion_experimental.py;042;Quark (VED)
+fr;validacion_experimental.py;043;"Limite ""ponctuelle"""
+fr;validacion_experimental.py;044;rouge
+fr;validacion_experimental.py;045;bleu
+fr;validacion_experimental.py;046;gris
+fr;validacion_experimental.py;047;Taille (fm)
+fr;validacion_experimental.py;048;b) Prédiction VED: Quarks NON Ponctuels
+fr;validacion_experimental.py;049;{long*1e15:.3f} fm
+fr;validacion_experimental.py;050;centre
+fr;validacion_experimental.py;051;gras
+fr;validacion_experimental.py;052;ro-
+fr;validacion_experimental.py;053;Masse (eV/c²) - Échelle log
+fr;validacion_experimental.py;054;Longueur Compton (m) - Échelle log
+fr;validacion_experimental.py;055;c) Relation Masse-Taille Einstein-VED\nλ = h/mc
+fr;validacion_experimental.py;056;électron
+fr;validacion_experimental.py;057;quark up
+fr;validacion_experimental.py;058;quark down
+fr;validacion_experimental.py;059;muon
+fr;validacion_experimental.py;060;décalage points
+fr;validacion_experimental.py;061;PRÉDICTIONS EINSTEIN-VED:
+fr;validacion_experimental.py;062;gras
+fr;validacion_experimental.py;063;rouge
+fr;validacion_experimental.py;064;• Rayons EXACTS depuis premiers principes
+fr;validacion_experimental.py;065;rouge
+fr;validacion_experimental.py;066;• Quarks: ~0.05 fm (NON ponctuels)
+fr;validacion_experimental.py;067;rouge
+fr;validacion_experimental.py;068;• Sans probabilités - Valeurs déterministes
+fr;validacion_experimental.py;069;rouge
+fr;validacion_experimental.py;070;FONDEMENT:
+fr;validacion_experimental.py;071;gras
+fr;validacion_experimental.py;072;• Masse connue → Longueur Compton exacte
+fr;validacion_experimental.py;073;• Confinement: L = nλ (n entier)
+fr;validacion_experimental.py;074;• Géométrie → Structure exacte
+fr;validacion_experimental.py;075;VÉRIFICATION FUTURE:\nLHC amélioré confirmera\nstructure quark prédite
+fr;validacion_experimental.py;076;centre
+fr;validacion_experimental.py;077;gras
+fr;validacion_experimental.py;078;désactivé
+fr;validacion_experimental.py;079;PRÉDICTIONS EINSTEIN-VED: Géométrie Exacte vs Données Expérimentales\n
+fr;validacion_experimental.py;080;Des atomes aux quarks - Toutes les tailles calculables exactement
+fr;validacion_experimental.py;081;gras
+fr;validacion_experimental.py;082;svg
+fr;validacion_experimental.py;083;serré
+fr;validacion_experimental.py;084;prediction_quark_ved
+
+sk;validacion_experimental.py;001;polomer_protonu
+sk;validacion_experimental.py;002;polomer_neutronu
+sk;validacion_experimental.py;003;predikcia_quark_ved
+sk;validacion_experimental.py;004;Generuje porovnanie s PRESNÝMI PREDIKCIAMI Einstein-VED
+sk;validacion_experimental.py;005;polomer_protonu
+sk;validacion_experimental.py;006;polomer_neutronu
+sk;validacion_experimental.py;007;okrúhly
+sk;validacion_experimental.py;008;žltá
+sk;validacion_experimental.py;009;bodový
+sk;validacion_experimental.py;010;polomer_protonu
+sk;validacion_experimental.py;011;predikcia_quark_ved
+sk;validacion_experimental.py;012;okrúhly
+sk;validacion_experimental.py;013;svetlozelená
+sk;validacion_experimental.py;014;PRESNÉ PREDIKCIE EINSTEIN-VED
+sk;validacion_experimental.py;015;\nPRESNOSŤ vs EXPERIMENTÁLNE:
+sk;validacion_experimental.py;016;Protón:  {precisiones_ved[0]:.2f}%
+sk;validacion_experimental.py;017;Neutrón: {precisiones_ved[1]:.2f}%
+sk;validacion_experimental.py;018;\nPREDIKCIA O QUARKOCH:
+sk;validacion_experimental.py;019;Minimálna veľkosť quarku (VED): {datos_experimentales['prediccion_quark_ved']*1e15:.3f} fm
+sk;validacion_experimental.py;020;Súčasná experimentálna hranica: < 0.001 fm
+sk;validacion_experimental.py;021;Záver: Kvarky NEMÔŽU byť bodové
+sk;validacion_experimental.py;022;\nVZŤAH HMOTNOSŤ-VEĽKOSŤ:
+sk;validacion_experimental.py;023;Elektrón (0.511 MeV): {2.426e-12:.2e} m
+sk;validacion_experimental.py;024;Quark up (2.3 MeV):   {8.6e-16:.2e} m
+sk;validacion_experimental.py;025;Quark down (4.8 MeV): {4.1e-16:.2e} m
+sk;validacion_experimental.py;026;🔬 GENEROVANIE PREDIKCIÍ EINSTEIN-VED...
+sk;validacion_experimental.py;027;✅ GRAF PREDIKCIÍ VYGENEROVANÝ
+sk;validacion_experimental.py;028;Protón
+sk;validacion_experimental.py;029;Neutrón
+sk;validacion_experimental.py;030;Einstein-VED
+sk;validacion_experimental.py;031;červená
+sk;validacion_experimental.py;032;LHC (Experimentálny)
+sk;validacion_experimental.py;033;zelená
+sk;validacion_experimental.py;034;Nukleón
+sk;validacion_experimental.py;035;Nábojový Polomer (fm)
+sk;validacion_experimental.py;036;a) Jadrové Polomery: VED vs Experimentálny\n(Presnosť >99%)
+sk;validacion_experimental.py;037;{precision:.1f}%
+sk;validacion_experimental.py;038;stred
+sk;validacion_experimental.py;039;spodok
+sk;validacion_experimental.py;040;tučný
+sk;validacion_experimental.py;041;Protón (LHC)
+sk;validacion_experimental.py;042;Quark (VED)
+sk;validacion_experimental.py;043;"Hranica ""bodový"""
+sk;validacion_experimental.py;044;červená
+sk;validacion_experimental.py;045;modrá
+sk;validacion_experimental.py;046;šedá
+sk;validacion_experimental.py;047;Veľkosť (fm)
+sk;validacion_experimental.py;048;b) Predikcia VED: Kvarky NIE Sú Bodové
+sk;validacion_experimental.py;049;{long*1e15:.3f} fm
+sk;validacion_experimental.py;050;stred
+sk;validacion_experimental.py;051;tučný
+sk;validacion_experimental.py;052;ro-
+sk;validacion_experimental.py;053;Hmotnosť (eV/c²) - Logaritmická mierka
+sk;validacion_experimental.py;054;Comptonova Dĺžka (m) - Logaritmická mierka
+sk;validacion_experimental.py;055;c) Vzťah Hmotnosť-Veľkosť Einstein-VED\nλ = h/mc
+sk;validacion_experimental.py;056;elektrón
+sk;validacion_experimental.py;057;quark up
+sk;validacion_experimental.py;058;quark down
+sk;validacion_experimental.py;059;mión
+sk;validacion_experimental.py;060;posun bodov
+sk;validacion_experimental.py;061;PREDIKCIE EINSTEIN-VED:
+sk;validacion_experimental.py;062;tučný
+sk;validacion_experimental.py;063;červená
+sk;validacion_experimental.py;064;• PRESNÉ Polomery od prvých princípov
+sk;validacion_experimental.py;065;červená
+sk;validacion_experimental.py;066;• Kvarky: ~0.05 fm (NIE sú bodové)
+sk;validacion_experimental.py;067;červená
+sk;validacion_experimental.py;068;• Bez pravdepodobností - Deterministické hodnoty
+sk;validacion_experimental.py;069;červená
+sk;validacion_experimental.py;070;ZÁKLAD:
+sk;validacion_experimental.py;071;tučný
+sk;validacion_experimental.py;072;• Známa hmotnosť → Presná Comptonova dĺžka
+sk;validacion_experimental.py;073;• Uväznenie: L = nλ (n celé číslo)
+sk;validacion_experimental.py;074;• Geometria → Presná štruktúra
+sk;validacion_experimental.py;075;BUDÚCE OVERENIE:\nVylepšený LHC potvrdí\npredpovedanú štruktúru quarkov
+sk;validacion_experimental.py;076;stred
+sk;validacion_experimental.py;077;tučný
+sk;validacion_experimental.py;078;vypnuté
+sk;validacion_experimental.py;079;PREDIKCIE EINSTEIN-VED: Presná Geometria vs Experimentálne Údaje\n
+sk;validacion_experimental.py;080;Od atómov po kvarky - Všetky veľkosti vypočítateľné presne
+sk;validacion_experimental.py;081;tučný
+sk;validacion_experimental.py;082;svg
+sk;validacion_experimental.py;083;tesný
+sk;validacion_experimental.py;084;predikcia_quark_ved
+
+ar;validacion_experimental.py;001;نصف_قطر_البروتون
+ar;validacion_experimental.py;002;نصف_قطر_النيوترون
+ar;validacion_experimental.py;003;توقع_الكوارك_فيد
+ar;validacion_experimental.py;004;ينشئ مقارنة مع توقعات دقيقة أينشتاين-فيد
+ar;validacion_experimental.py;005;نصف_قطر_البروتون
+ar;validacion_experimental.py;006;نصف_قطر_النيوترون
+ar;validacion_experimental.py;007;مدور
+ar;validacion_experimental.py;008;أصفر
+ar;validacion_experimental.py;009;نقطي
+ar;validacion_experimental.py;010;نصف_قطر_البروتون
+ar;validacion_experimental.py;011;توقع_الكوارك_فيد
+ar;validacion_experimental.py;012;مدور
+ar;validacion_experimental.py;013;أخضر فاتح
+ar;validacion_experimental.py;014;توقعات دقيقة أينشتاين-فيد
+ar;validacion_experimental.py;015;\nالدقة vs التجريبي:
+ar;validacion_experimental.py;016;البروتون:  {precisiones_ved[0]:.2f}%
+ar;validacion_experimental.py;017;النيوترون: {precisiones_ved[1]:.2f}%
+ar;validacion_experimental.py;018;\nتوقع حول الكواركات:
+ar;validacion_experimental.py;019;الحجم الأدنى للكوارك (فيد): {datos_experimentales['prediccion_quark_ved']*1e15:.3f} فيمتو متر
+ar;validacion_experimental.py;020;الحد التجريبي الحالي: < 0.001 فيمتو متر
+ar;validacion_experimental.py;021;الخلاصة: الكواركات لا يمكن أن تكون نقطية
+ar;validacion_experimental.py;022;\nالعلاقة بين الكتلة والحجم:
+ar;validacion_experimental.py;023;الإلكترون (0.511 MeV): {2.426e-12:.2e} م
+ar;validacion_experimental.py;024;كوارك علوي (2.3 MeV):   {8.6e-16:.2e} م
+ar;validacion_experimental.py;025;كوارك سفلي (4.8 MeV): {4.1e-16:.2e} م
+ar;validacion_experimental.py;026;🔬 إنشاء توقعات أينشتاين-فيد...
+ar;validacion_experimental.py;027;✅ تم إنشاء رسم التوقعات
+ar;validacion_experimental.py;028;البروتون
+ar;validacion_experimental.py;029;النيوترون
+ar;validacion_experimental.py;030;أينشتاين-فيد
+ar;validacion_experimental.py;031;أحمر
+ar;validacion_experimental.py;032;LHC (تجريبي)
+ar;validacion_experimental.py;033;أخضر
+ar;validacion_experimental.py;034;النووية
+ar;validacion_experimental.py;035;نصف قطر الشحنة (فيمتو متر)
+ar;validacion_experimental.py;036;أ) أنصاف أقطار نووية: فيد vs تجريبي\n(دقة >99%)
+ar;validacion_experimental.py;037;{precision:.1f}%
+ar;validacion_experimental.py;038;مركز
+ar;validacion_experimental.py;039;أسفل
+ar;validacion_experimental.py;040;عريض
+ar;validacion_experimental.py;041;البروتون (LHC)
+ar;validacion_experimental.py;042;الكوارك (فيد)
+ar;validacion_experimental.py;043;"حد ""نقطي"""
+ar;validacion_experimental.py;044;أحمر
+ar;validacion_experimental.py;045;أزرق
+ar;validacion_experimental.py;046;رمادي
+ar;validacion_experimental.py;047;الحجم (فيمتو متر)
+ar;validacion_experimental.py;048;ب) توقع فيد: الكواركات ليست نقطية
+ar;validacion_experimental.py;049;{long*1e15:.3f} فيمتو متر
+ar;validacion_experimental.py;050;مركز
+ar;validacion_experimental.py;051;عريض
+ar;validacion_experimental.py;052;ro-
+ar;validacion_experimental.py;053;الكتلة (eV/c²) - مقياس لوغاريتمي
+ar;validacion_experimental.py;054;طول كومبتون (م) - مقياس لوغاريتمي
+ar;validacion_experimental.py;055;ج) علاقة الكتلة-الحجم أينشتاين-فيد\nλ = h/mc
+ar;validacion_experimental.py;056;الإلكترون
+ar;validacion_experimental.py;057;كوارك علوي
+ar;validacion_experimental.py;058;كوارك سفلي
+ar;validacion_experimental.py;059;الميون
+ar;validacion_experimental.py;060;إزاحة النقاط
+ar;validacion_experimental.py;061;توقعات أينشتاين-فيد:
+ar;validacion_experimental.py;062;عريض
+ar;validacion_experimental.py;063;أحمر
+ar;validacion_experimental.py;064;• أنصاف أقطار دقيقة من المبادئ الأولى
+ar;validacion_experimental.py;065;أحمر
+ar;validacion_experimental.py;066;• الكواركات: ~0.05 فيمتو متر (ليست نقطية)
+ar;validacion_experimental.py;067;أحمر
+ar;validacion_experimental.py;068;• بدون احتمالات - قيم حتمية
+ar;validacion_experimental.py;069;أحمر
+ar;validacion_experimental.py;070;الأساس:
+ar;validacion_experimental.py;071;عريض
+ar;validacion_experimental.py;072;• الكتلة المعروفة → طول كومبتون دقيق
+ar;validacion_experimental.py;073;• الحصر: L = nλ (n عدد صحيح)
+ar;validacion_experimental.py;074;• الهندسة → بنية دقيقة
+ar;validacion_experimental.py;075;التحقق المستقبلي:\nمصادم الهادرونات الكبير المحسن سيؤكد\nبنية الكوارك المتوقعة
+ar;validacion_experimental.py;076;مركز
+ar;validacion_experimental.py;077;عريض
+ar;validacion_experimental.py;078;معطل
+ar;validacion_experimental.py;079;توقعات أينشتاين-فيد: هندسة دقيقة vs بيانات تجريبية\n
+ar;validacion_experimental.py;080;من الذرات إلى الكواركات - جميع الأحجام قابلة للحساب بدقة
+ar;validacion_experimental.py;081;عريض
+ar;validacion_experimental.py;082;svg
+ar;validacion_experimental.py;083;مضغوط
+ar;validacion_experimental.py;084;توقع_الكوارك_فيد
+
+zh;validacion_experimental.py;001;质子半径
+zh;validacion_experimental.py;002;中子半径
+zh;validacion_experimental.py;003;夸克VED预测
+zh;validacion_experimental.py;004;生成与精确的爱因斯坦-VED预测的比较
+zh;validacion_experimental.py;005;质子半径
+zh;validacion_experimental.py;006;中子半径
+zh;validacion_experimental.py;007;圆形
+zh;validacion_experimental.py;008;黄色
+zh;validacion_experimental.py;009;点状
+zh;validacion_experimental.py;010;质子半径
+zh;validacion_experimental.py;011;夸克VED预测
+zh;validacion_experimental.py;012;圆形
+zh;validacion_experimental.py;013;浅绿色
+zh;validacion_experimental.py;014;精确的爱因斯坦-VED预测
+zh;validacion_experimental.py;015;\n精度 vs 实验:
+zh;validacion_experimental.py;016;质子:  {precisiones_ved[0]:.2f}%
+zh;validacion_experimental.py;017;中子: {precisiones_ved[1]:.2f}%
+zh;validacion_experimental.py;018;\n关于夸克的预测:
+zh;validacion_experimental.py;019;夸克最小尺寸(VED): {datos_experimentales['prediccion_quark_ved']*1e15:.3f} 飞米
+zh;validacion_experimental.py;020;当前实验极限: < 0.001 飞米
+zh;validacion_experimental.py;021;结论: 夸克不能是点状
+zh;validacion_experimental.py;022;\n质量-尺寸关系:
+zh;validacion_experimental.py;023;电子 (0.511 MeV): {2.426e-12:.2e} 米
+zh;validacion_experimental.py;024;上夸克 (2.3 MeV):   {8.6e-16:.2e} 米
+zh;validacion_experimental.py;025;下夸克 (4.8 MeV): {4.1e-16:.2e} 米
+zh;validacion_experimental.py;026;🔬 生成爱因斯坦-VED预测...
+zh;validacion_experimental.py;027;✅ 预测图表已生成
+zh;validacion_experimental.py;028;质子
+zh;validacion_experimental.py;029;中子
+zh;validacion_experimental.py;030;爱因斯坦-VED
+zh;validacion_experimental.py;031;红色
+zh;validacion_experimental.py;032;LHC (实验)
+zh;validacion_experimental.py;033;绿色
+zh;validacion_experimental.py;034;核子
+zh;validacion_experimental.py;035;电荷半径 (飞米)
+zh;validacion_experimental.py;036;a) 核半径: VED vs 实验\n(精度 >99%)
+zh;validacion_experimental.py;037;{precision:.1f}%
+zh;validacion_experimental.py;038;居中
+zh;validacion_experimental.py;039;底部
+zh;validacion_experimental.py;040;粗体
+zh;validacion_experimental.py;041;质子 (LHC)
+zh;validacion_experimental.py;042;夸克 (VED)
+zh;validacion_experimental.py;043;"点状""极限"
+zh;validacion_experimental.py;044;红色
+zh;validacion_experimental.py;045;蓝色
+zh;validacion_experimental.py;046;灰色
+zh;validacion_experimental.py;047;尺寸 (飞米)
+zh;validacion_experimental.py;048;b) VED预测: 夸克不是点状
+zh;validacion_experimental.py;049;{long*1e15:.3f} 飞米
+zh;validacion_experimental.py;050;居中
+zh;validacion_experimental.py;051;粗体
+zh;validacion_experimental.py;052;ro-
+zh;validacion_experimental.py;053;质量 (eV/c²) - 对数尺度
+zh;validacion_experimental.py;054;康普顿波长 (米) - 对数尺度
+zh;validacion_experimental.py;055;c) 爱因斯坦-VED质量-尺寸关系\nλ = h/mc
+zh;validacion_experimental.py;056;电子
+zh;validacion_experimental.py;057;上夸克
+zh;validacion_experimental.py;058;下夸克
+zh;validacion_experimental.py;059;μ子
+zh;validacion_experimental.py;060;点偏移
+zh;validacion_experimental.py;061;爱因斯坦-VED预测:
+zh;validacion_experimental.py;062;粗体
+zh;validacion_experimental.py;063;红色
+zh;validacion_experimental.py;064;• 从第一性原理的精确半径
+zh;validacion_experimental.py;065;红色
+zh;validacion_experimental.py;066;• 夸克: ~0.05 飞米 (不是点状)
+zh;validacion_experimental.py;067;红色
+zh;validacion_experimental.py;068;• 无概率 - 确定性值
+zh;validacion_experimental.py;069;红色
+zh;validacion_experimental.py;070;基础:
+zh;validacion_experimental.py;071;粗体
+zh;validacion_experimental.py;072;• 已知质量 → 精确康普顿波长
+zh;validacion_experimental.py;073;• 约束: L = nλ (n整数)
+zh;validacion_experimental.py;074;• 几何 → 精确结构
+zh;validacion_experimental.py;075;未来验证:\n改进的LHC将确认\n预测的夸克结构
+zh;validacion_experimental.py;076;居中
+zh;validacion_experimental.py;077;粗体
+zh;validacion_experimental.py;078;关闭
+zh;validacion_experimental.py;079;爱因斯坦-VED预测: 精确几何 vs 实验数据\n
+zh;validacion_experimental.py;080;从原子到夸克 - 所有尺寸可精确计算
+zh;validacion_experimental.py;081;粗体
+zh;validacion_experimental.py;082;svg
+zh;validacion_experimental.py;083;紧凑
+zh;validacion_experimental.py;084;夸克VED预测
+
+ja;validacion_experimental.py;001;陽子半径
+ja;validacion_experimental.py;002;中性子半径
+ja;validacion_experimental.py;003;クォークVED予測
+ja;validacion_experimental.py;004;正確なアインシュタイン-VED予測との比較を生成
+ja;validacion_experimental.py;005;陽子半径
+ja;validacion_experimental.py;006;中性子半径
+ja;validacion_experimental.py;007;丸い
+ja;validacion_experimental.py;008;黄色
+ja;validacion_experimental.py;009;点状
+ja;validacion_experimental.py;010;陽子半径
+ja;validacion_experimental.py;011;クォークVED予測
+ja;validacion_experimental.py;012;丸い
+ja;validacion_experimental.py;013;薄緑色
+ja;validacion_experimental.py;014;正確なアインシュタイン-VED予測
+ja;validacion_experimental.py;015;\n精度 vs 実験:
+ja;validacion_experimental.py;016;陽子:  {precisiones_ved[0]:.2f}%
+ja;validacion_experimental.py;017;中性子: {precisiones_ved[1]:.2f}%
+ja;validacion_experimental.py;018;\nクォークに関する予測:
+ja;validacion_experimental.py;019;クォーク最小サイズ(VED): {datos_experimentales['prediccion_quark_ved']*1e15:.3f} fm
+ja;validacion_experimental.py;020;現在の実験限界: < 0.001 fm
+ja;validacion_experimental.py;021;結論: クォークは点状ではありえない
+ja;validacion_experimental.py;022;\n質量-サイズ関係:
+ja;validacion_experimental.py;023;電子 (0.511 MeV): {2.426e-12:.2e} m
+ja;validacion_experimental.py;024;アップクォーク (2.3 MeV):   {8.6e-16:.2e} m
+ja;validacion_experimental.py;025;ダウンクォーク (4.8 MeV): {4.1e-16:.2e} m
+ja;validacion_experimental.py;026;🔬 アインシュタイン-VED予測生成中...
+ja;validacion_experimental.py;027;✅ 予測グラフ生成完了
+ja;validacion_experimental.py;028;陽子
+ja;validacion_experimental.py;029;中性子
+ja;validacion_experimental.py;030;アインシュタイン-VED
+ja;validacion_experimental.py;031;赤色
+ja;validacion_experimental.py;032;LHC (実験)
+ja;validacion_experimental.py;033;緑色
+ja;validacion_experimental.py;034;核子
+ja;validacion_experimental.py;035;電荷半径 (fm)
+ja;validacion_experimental.py;036;a) 核半径: VED vs 実験\n(精度 >99%)
+ja;validacion_experimental.py;037;{precision:.1f}%
+ja;validacion_experimental.py;038;中央
+ja;validacion_experimental.py;039;下部
+ja;validacion_experimental.py;040;太字
+ja;validacion_experimental.py;041;陽子 (LHC)
+ja;validacion_experimental.py;042;クォーク (VED)
+ja;validacion_experimental.py;043;"点状""限界"
+ja;validacion_experimental.py;044;赤色
+ja;validacion_experimental.py;045;青色
+ja;validacion_experimental.py;046;灰色
+ja;validacion_experimental.py;047;サイズ (fm)
+ja;validacion_experimental.py;048;b) VED予測: クォークは点状ではない
+ja;validacion_experimental.py;049;{long*1e15:.3f} fm
+ja;validacion_experimental.py;050;中央
+ja;validacion_experimental.py;051;太字
+ja;validacion_experimental.py;052;ro-
+ja;validacion_experimental.py;053;質量 (eV/c²) - 対数スケール
+ja;validacion_experimental.py;054;コンプトン波長 (m) - 対数スケール
+ja;validacion_experimental.py;055;c) アインシュタイン-VED質量-サイズ関係\nλ = h/mc
+ja;validacion_experimental.py;056;電子
+ja;validacion_experimental.py;057;アップクォーク
+ja;validacion_experimental.py;058;ダウンクォーク
+ja;validacion_experimental.py;059;ミューオン
+ja;validacion_experimental.py;060;点オフセット
+ja;validacion_experimental.py;061;アインシュタイン-VED予測:
+ja;validacion_experimental.py;062;太字
+ja;validacion_experimental.py;063;赤色
+ja;validacion_experimental.py;064;• 第一原理からの正確な半径
+ja;validacion_experimental.py;065;赤色
+ja;validacion_experimental.py;066;• クォーク: ~0.05 fm (点状ではない)
+ja;validacion_experimental.py;067;赤色
+ja;validacion_experimental.py;068;• 確率なし - 決定論的值
+ja;validacion_experimental.py;069;赤色
+ja;validacion_experimental.py;070;基礎:
+ja;validacion_experimental.py;071;太字
+ja;validacion_experimental.py;072;• 既知の質量 → 正確なコンプトン波長
+ja;validacion_experimental.py;073;• 閉じ込め: L = nλ (n整数)
+ja;validacion_experimental.py;074;• 幾何学 → 正確な構造
+ja;validacion_experimental.py;075;将来の検証:\n改良されたLHCが予測された\nクォーク構造を確認
+ja;validacion_experimental.py;076;中央
+ja;validacion_experimental.py;077;太字
+ja;validacion_experimental.py;078;オフ
+ja;validacion_experimental.py;079;アインシュタイン-VED予測: 正確な幾何学 vs 実験データ\n
+ja;validacion_experimental.py;080;原子からクォークまで - すべてのサイズを正確に計算可能
+ja;validacion_experimental.py;081;太字
+ja;validacion_experimental.py;082;svg
+ja;validacion_experimental.py;083;密
+ja;validacion_experimental.py;084;クォークVED予測

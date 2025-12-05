@@ -1,0 +1,79 @@
+idioma;archivo;id;texto_traducido
+en;Constante_G.py;0045;Proton radius (center line)
+en;Constante_G.py;0049;Figure 1: VED confined proton wave, n=2
+en;Constante_G.py;0062;Black hole
+en;Constante_G.py;0064;2D surface
+en;Constante_G.py;0069;Figure 2: Black hole and holographic 2D surface
+en;Constante_G.py;0080;±3σ
+en;Constante_G.py;0081;Experimental G
+en;Constante_G.py;0086;n={n}
+en;Constante_G.py;0090;n ∈ Z⁺
+en;Constante_G.py;0091;Calculated G [m^3/kg/s^2]
+en;Constante_G.py;0092;Figure 3: G target ±3σ
+en;Constante_G.py;0118;n ∈ Z⁺
+en;Constante_G.py;0119;Calculated G [m^3/kg/s^2]
+en;Constante_G.py;0120;Figure 4: G target ±4σ (arrows)
+en;Constante_G.py;0133;G(n) asymptotic (continuous)
+en;Constante_G.py;0136;Experimental G
+en;Constante_G.py;0141;n ∈ Z⁺ \nlim n→∞ G(n)=0
+en;Constante_G.py;0145;G(n) [m^3/kg/s^2]
+en;Constante_G.py;0146;Figure 5: Asymptotic behavior of G(n) n→∞ (log-log)
+en;Constante_G.py;0167;Value [m³/kg·s²]
+en;Constante_G.py;0168;$G_{MAX}$ +3σ
+en;Constante_G.py;0168;{G_max:.8e}
+en;Constante_G.py;0168;Upper limit
+en;Constante_G.py;0169;$G_2^{EXP}$ Experimental
+en;Constante_G.py;0169;{G_exp:.8e}
+en;Constante_G.py;0169;Mean value
+en;Constante_G.py;0170;$G_{MIN}$ -3σ
+en;Constante_G.py;0170;{G_min:.8e}
+en;Constante_G.py;0170;Lower limit
+en;Constante_G.py;0171;$G_1^{VED}$ (n=2) EXACT
+en;Constante_G.py;0171;{G_n2:.8e}
+en;Constante_G.py;0171;Empirically obtained
+en;Constante_G.py;0172;Absolute difference
+en;Constante_G.py;0172;{error_abs:.8e}
+en;Constante_G.py;0172;|G₁ - G₂|
+en;Constante_G.py;0173;Relative error
+en;Constante_G.py;0173;{error_rel:.6f} %
+en;Constante_G.py;0173;VED accuracy
+en;Constante_G.py;0251;GRAVITATIONAL CONSTANT G
+en;Constante_G.py;0270;Confined matter wave
+en;Constante_G.py;0280;2D hologram
+en;Constante_G.py;0289;Emergence of G
+en;Constante_G.py;0291;Figure 8: Matter as confined wave on 2D hologram
+en;Constante_G.py;0320;Proton radius
+en;Constante_G.py;0321;Radial proton waves
+en;Constante_G.py;0322;2D proton waviness (n=4)
+en;Constante_G.py;0325;Proton radius
+en;Constante_G.py;0326;Proton waves
+en;Constante_G.py;0327;2D waviness
+en;Constante_G.py;0329;Proton - Femtometer scale (10⁻¹⁵ m)
+en;Constante_G.py;0345;Electron orbital radius
+en;Constante_G.py;0346;Radial electron waves
+en;Constante_G.py;0347;2D electron waviness (n=137)
+en;Constante_G.py;0350;Electron orbital radius
+en;Constante_G.py;0351;Electron waves
+en;Constante_G.py;0352;2D waviness
+en;Constante_G.py;0354;Electron - Atomic scale (10⁻¹¹ m)
+en;Constante_G.py;0361;Figure 9. 2D and radial waves of proton and electron\n(holography → particles)
+en;Constante_G.py;0381;$M_\mathrm{VED} = n h /$
+en;Constante_G.py;0381;$(L_\mathrm{geom} c)$
+en;Constante_G.py;0382;$M_\mathrm{Sch} = c^2 R_s /$
+en;Constante_G.py;0382;$(2 G)$
+en;Constante_G.py;0382;Equating masses,\nM disappears
+en;Constante_G.py;0383;$L_\mathrm{geom}$ defined
+en;Constante_G.py;0383;by VED
+en;Constante_G.py;0384;$R_s$ defined by
+en;Constante_G.py;0384;Each side defines\nits own scale
+en;Constante_G.py;0385;Quantization
+en;Constante_G.py;0385;n integer → values
+en;Constante_G.py;0385;discrete of M and G
+en;Constante_G.py;0386;n does not appear,\nG is determined
+en;Constante_G.py;0386;n=2 coincides with\nexperimental G value
+en;Constante_G.py;0387;2D confinement
+en;Constante_G.py;0387;(surface)
+en;Constante_G.py;0388;3D → holography
+en;Constante_G.py;0388;implicit
+en;Constante_G.py;0388;Emergent origin\nof gravity
+en;Constante_G.py;0412;Figure 10: Conceptual comparison VED vs Schwarzschild

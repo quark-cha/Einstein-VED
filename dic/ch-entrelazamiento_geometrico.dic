@@ -1,0 +1,49 @@
+archivo;id;texto_traducido
+ch;entrelazamiento_geometrico.py;0012;爱因斯坦基础
+ch;entrelazamiento_geometrico.py;0012;基本方程
+ch;entrelazamiento_geometrico.py;0035;量子纠缠：爱因斯坦-VED几何解释
+ch;entrelazamiento_geometrico.py;0052;内部框架：共享固有时间
+ch;entrelazamiento_geometrico.py;0071;外部框架：传统视角
+ch;entrelazamiento_geometrico.py;0076;符号说明:\n\n
+ch;entrelazamiento_geometrico.py;0077;🔴 粒子 A (45°)\n
+ch;entrelazamiento_geometrico.py;0078;🟢 粒子 B (225°)\n
+ch;entrelazamiento_geometrico.py;0079;⚫ 观察者\n
+ch;entrelazamiento_geometrico.py;0080;▬▬ 几何连接\n
+ch;entrelazamiento_geometrico.py;0081;▬▬ 视线
+ch;entrelazamiento_geometrico.py;0091;波前
+ch;entrelazamiento_geometrico.py;0093;爱因斯坦-VED关键:\n\n
+ch;entrelazamiento_geometrico.py;0094;两个粒子（包括对跖点）\n共享相同的固有时空 t₀, s₀\n\n
+ch;entrelazamiento_geometrico.py;0095;因为：在光速c下 dt' → 0 且 ds' → 0\n\n
+ch;entrelazamiento_geometrico.py;0095;→ 0 且 ds
+ch;entrelazamiento_geometrico.py;0096;t = t₀ + dt' → t₀\n
+ch;entrelazamiento_geometrico.py;0097;s = s₀ + ds' → s₀\n\n
+ch;entrelazamiento_geometrico.py;0098;没有超距作用
+ch;entrelazamiento_geometrico.py;0112;爱因斯坦-VED基础:\n\n
+ch;entrelazamiento_geometrico.py;0113;纠缠粒子从起源起共享共同的固有时空。
+ch;entrelazamiento_geometrico.py;0114;当以光速c运动时，它们的固有时间和空间微分趋于零
+ch;entrelazamiento_geometrico.py;0115;(dt' → 0, ds' → 0)，使它们保持在相同的时刻 t₀ 和位置 s₀。
+ch;entrelazamiento_geometrico.py;0115;→ 0, ds
+ch;entrelazamiento_geometrico.py;0116;这种几何同时性解释了量子相关性而不违反相对论。
+ch;entrelazamiento_geometrico.py;0128;基本方程:\n\n
+ch;entrelazamiento_geometrico.py;0129;对于以光速c运动的粒子:\n
+ch;entrelazamiento_geometrico.py;0130;• dt' → 0, ds' → 0\n
+ch;entrelazamiento_geometrico.py;0130;→ 0, ds
+ch;entrelazamiento_geometrico.py;0131;• t = t₀ + dt' → t₀\n
+ch;entrelazamiento_geometrico.py;0132;• s = s₀ + ds' → s₀\n\n
+ch;entrelazamiento_geometrico.py;0133;场方程:\n
+ch;entrelazamiento_geometrico.py;0134;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+ch;entrelazamiento_geometrico.py;0135;在固有框架中的绝对同时性
+ch;entrelazamiento_geometrico.py;0147;爱因斯坦-VED解释：当从时空几何理解时，量子纠缠不再矛盾。
+ch;entrelazamiento_geometrico.py;0148;在同一事件中生成的粒子共享一个波前，
+ch;entrelazamiento_geometrico.py;0149;其中它们的固有时间冻结在 t₀。这种内在同时性解释了
+ch;entrelazamiento_geometrico.py;0150;"完美的相关性，没有""幽灵作用""。量子概率反映了"
+ch;entrelazamiento_geometrico.py;0150;幽灵作用
+ch;entrelazamiento_geometrico.py;0151;观察者的有限视角，而非基本属性。
+ch;entrelazamiento_geometrico.py;0170;🎯 创建具有相同水平框架的最终版本...
+ch;entrelazamiento_geometrico.py;0173;\n✨ 应用的修正：
+ch;entrelazamiento_geometrico.py;0174;• '爱因斯坦基础'和'方程'框架在同一水平
+ch;entrelazamiento_geometrico.py;0174;爱因斯坦基础
+ch;entrelazamiento_geometrico.py;0175;• 更宽的图形 (16x10) 以容纳两者
+ch;entrelazamiento_geometrico.py;0176;• 平衡对称的设计
+ch;entrelazamiento_geometrico.py;0177;• 装饰和颜色已保留
+ch;entrelazamiento_geometrico.py;0178;• 零重叠

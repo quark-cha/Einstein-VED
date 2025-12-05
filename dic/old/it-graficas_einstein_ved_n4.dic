@@ -1,0 +1,136 @@
+idioma;archivo;id;texto
+it;graficas_einstein_ved_n4.py;0012;font.size
+it;graficas_einstein_ved_n4.py;0013;axes.titlesize
+it;graficas_einstein_ved_n4.py;0014;axes.labelsize
+it;graficas_einstein_ved_n4.py;0015;xtick.labelsize
+it;graficas_einstein_ved_n4.py;0016;ytick.labelsize
+it;graficas_einstein_ved_n4.py;0017;legend.fontsize
+it;graficas_einstein_ved_n4.py;0018;figure.titlesize
+it;graficas_einstein_ved_n4.py;0051;Modello Convenzionale ±3σ
+it;graficas_einstein_ved_n4.py;0055;LHC Sperimentale ±3σ
+it;graficas_einstein_ved_n4.py;0059;Einstein-VED Deterministico
+it;graficas_einstein_ved_n4.py;0069;Modello Convenzionale
+it;graficas_einstein_ved_n4.py;0070;Raggio del Protone (fm)
+it;graficas_einstein_ved_n4.py;0078;✅ Salvato: {filename}
+it;graficas_einstein_ved_n4.py;0082;MQ Probabilistica\n(1920s-)
+it;graficas_einstein_ved_n4.py;0094;Raggio del Protone (fm)
+it;graficas_einstein_ved_n4.py;0095;Evoluzione Teorica: Da Probabilità a Geometria Deterministica
+it;graficas_einstein_ved_n4.py;0098;Einstein-VED:\nGeometria esatta\nsenza probabilità
+it;graficas_einstein_ved_n4.py;0101;round,pad=0.3
+it;graficas_einstein_ved_n4.py;0116;Teoria
+it;graficas_einstein_ved_n4.py;0118;Einstein-VED (n=4)
+it;graficas_einstein_ved_n4.py;0119;LHC Sperimentale
+it;graficas_einstein_ved_n4.py;0120;Modello Convenzionale
+it;graficas_einstein_ved_n4.py;0138;Confronto Raggi Protonici - Dati VED Esatti (n=4)
+it;graficas_einstein_ved_n4.py;0156;Einstein-VED
+it;graficas_einstein_ved_n4.py;0157;MQ (max. prob.)
+it;graficas_einstein_ved_n4.py;0158;Stato Quantistico
+it;graficas_einstein_ved_n4.py;0159;Raggio (unità di a₀)
+it;graficas_einstein_ved_n4.py;0160;Raggi Atomici: Valori Esatti vs Probabilistici
+it;graficas_einstein_ved_n4.py;0168;{height:.0f}
+it;graficas_einstein_ved_n4.py;0177;1s (MQ)
+it;graficas_einstein_ved_n4.py;0178;2p (MQ)
+it;graficas_einstein_ved_n4.py;0179;3d (MQ)
+it;graficas_einstein_ved_n4.py;0180;Raggio VED 1s
+it;graficas_einstein_ved_n4.py;0181;Raggio VED 2p
+it;graficas_einstein_ved_n4.py;0182;Raggio VED 3d
+it;graficas_einstein_ved_n4.py;0183;Distanza radiale (unità di a₀)
+it;graficas_einstein_ved_n4.py;0184;Densità (normalizzata)
+it;graficas_einstein_ved_n4.py;0185;Interpretazione: Probabilità MQ vs Geometria VED
+it;graficas_einstein_ved_n4.py;0200;🚀 GENERANDO TUTTI I GRAFICI EINSTEIN-VED (n=4)...
+it;graficas_einstein_ved_n4.py;0202;Raggio del Protone: Confronto Esatto Einstein-VED
+it;graficas_einstein_ved_n4.py;0207;🎯 TUTTI I GRAFICI GENERATI ✅
+it;graficas_einstein_ved_n4.py;001;#377eb8
+it;graficas_einstein_ved_n4.py;002;#4daf4a
+it;graficas_einstein_ved_n4.py;003;#e41a1c
+it;graficas_einstein_ved_n4.py;004;#f0f0f0
+it;graficas_einstein_ved_n4.py;005;✅ Salvato: {filename}
+it;graficas_einstein_ved_n4.py;006;round,pad=0.3
+it;graficas_einstein_ved_n4.py;007;#ffebee
+it;graficas_einstein_ved_n4.py;008;__main__
+it;graficas_einstein_ved_n4.py;009;🚀 GENERAZIONE DI TUTTI I GRAFICI EINSTEIN-VED (n=4)...
+it;graficas_einstein_ved_n4.py;010;Raggio del Protone: Confronto Esatto Einstein-VED
+it;graficas_einstein_ved_n4.py;011;🎯 TUTTI I GRAFICI GENERATI ✅
+it;graficas_einstein_ved_n4.py;012;font.size
+it;graficas_einstein_ved_n4.py;013;axes.titlesize
+it;graficas_einstein_ved_n4.py;014;axes.labelsize
+it;graficas_einstein_ved_n4.py;015;xtick.labelsize
+it;graficas_einstein_ved_n4.py;016;ytick.labelsize
+it;graficas_einstein_ved_n4.py;017;legend.fontsize
+it;graficas_einstein_ved_n4.py;018;figure.titlesize
+it;graficas_einstein_ved_n4.py;019;Modello Convenzionale ±3σ
+it;graficas_einstein_ved_n4.py;020;LHC Sperimentale ±3σ
+it;graficas_einstein_ved_n4.py;021;Einstein-VED Deterministico
+it;graficas_einstein_ved_n4.py;022;Modello Convenzionale
+it;graficas_einstein_ved_n4.py;023;LHC Sperimentale
+it;graficas_einstein_ved_n4.py;024;Einstein-VED (n=4)
+it;graficas_einstein_ved_n4.py;025;Raggio del Protone (fm)
+it;graficas_einstein_ved_n4.py;026;bold
+it;graficas_einstein_ved_n4.py;027;upper right
+it;graficas_einstein_ved_n4.py;028;svg
+it;graficas_einstein_ved_n4.py;029;tight
+it;graficas_einstein_ved_n4.py;030;MQ Probabilistica\n(1920s-)
+it;graficas_einstein_ved_n4.py;031;Dati LHC\n(2010s-)
+it;graficas_einstein_ved_n4.py;032;Einstein-VED\n(2024-)
+it;graficas_einstein_ved_n4.py;033;k--
+it;graficas_einstein_ved_n4.py;034;Raggio del Protone (fm)
+it;graficas_einstein_ved_n4.py;035;Evoluzione Teorica: Dalla Probabilità alla Geometria Deterministica
+it;graficas_einstein_ved_n4.py;036;bold
+it;graficas_einstein_ved_n4.py;037;Einstein-VED:\nGeometria esatta\nsenza probabilità
+it;graficas_einstein_ved_n4.py;038;svg
+it;graficas_einstein_ved_n4.py;039;tight
+it;graficas_einstein_ved_n4.py;040;tight
+it;graficas_einstein_ved_n4.py;041;off
+it;graficas_einstein_ved_n4.py;042;Teoria
+it;graficas_einstein_ved_n4.py;043;Raggio (fm)
+it;graficas_einstein_ved_n4.py;044;Incertezza
+it;graficas_einstein_ved_n4.py;045;Precisione
+it;graficas_einstein_ved_n4.py;046;Einstein-VED (n=4)
+it;graficas_einstein_ved_n4.py;047;{VED_mean:.5f}
+it;graficas_einstein_ved_n4.py;048;Deterministico
+it;graficas_einstein_ved_n4.py;049;LHC Sperimentale
+it;graficas_einstein_ved_n4.py;050;{LHC_mean:.5f}
+it;graficas_einstein_ved_n4.py;051;± 0.014 fm
+it;graficas_einstein_ved_n4.py;052;Riferimento
+it;graficas_einstein_ved_n4.py;053;Modello Convenzionale
+it;graficas_einstein_ved_n4.py;054;{MC_mean:.2f}
+it;graficas_einstein_ved_n4.py;055;± 0.90 fm
+it;graficas_einstein_ved_n4.py;056;Bassa precisione
+it;graficas_einstein_ved_n4.py;057;#ffeaea
+it;graficas_einstein_ved_n4.py;058;#f0f9e8
+it;graficas_einstein_ved_n4.py;059;#e8f4fd
+it;graficas_einstein_ved_n4.py;060;center
+it;graficas_einstein_ved_n4.py;061;center
+it;graficas_einstein_ved_n4.py;062;#dddddd
+it;graficas_einstein_ved_n4.py;063;bold
+it;graficas_einstein_ved_n4.py;064;Confronto Raggi Protonici - Dati VED Esatti (n=4)
+it;graficas_einstein_ved_n4.py;065;bold
+it;graficas_einstein_ved_n4.py;066;svg
+it;graficas_einstein_ved_n4.py;067;tight
+it;graficas_einstein_ved_n4.py;068;Einstein-VED
+it;graficas_einstein_ved_n4.py;069;MQ (massimi prob.)
+it;graficas_einstein_ved_n4.py;070;Stato Quantistico
+it;graficas_einstein_ved_n4.py;071;Raggio (unità di a₀)
+it;graficas_einstein_ved_n4.py;072;Raggi Atomici: Valori Esatti vs Probabilistici
+it;graficas_einstein_ved_n4.py;073;bold
+it;graficas_einstein_ved_n4.py;074;{height:.0f}
+it;graficas_einstein_ved_n4.py;075;center
+it;graficas_einstein_ved_n4.py;076;bottom
+it;graficas_einstein_ved_n4.py;077;1s (MQ)
+it;graficas_einstein_ved_n4.py;078;blue
+it;graficas_einstein_ved_n4.py;079;2p (MQ)
+it;graficas_einstein_ved_n4.py;080;green
+it;graficas_einstein_ved_n4.py;081;3d (MQ)
+it;graficas_einstein_ved_n4.py;082;red
+it;graficas_einstein_ved_n4.py;083;blue
+it;graficas_einstein_ved_n4.py;084;Raggio VED 1s
+it;graficas_einstein_ved_n4.py;085;green
+it;graficas_einstein_ved_n4.py;086;Raggio VED 2p
+it;graficas_einstein_ved_n4.py;087;red
+it;graficas_einstein_ved_n4.py;088;Raggio VED 3d
+it;graficas_einstein_ved_n4.py;089;Distanza radiale (unità di a₀)
+it;graficas_einstein_ved_n4.py;090;Densità (normalizzata)
+it;graficas_einstein_ved_n4.py;091;Interpretazione: Probabilità MQ vs Geometria VED
+it;graficas_einstein_ved_n4.py;092;bold
+it;graficas_einstein_ved_n4.py;093;svg
+it;graficas_einstein_ved_n4.py;094;tight

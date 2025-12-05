@@ -1,0 +1,20 @@
+2025:11:27-04:02:42;3;Error ejecutando c:\Users\vedq\Desktop\desarrollo\SRC-VED\Einstein-VED\tmp\sk_Constante_G.py: Command '['c:\\Python313\\python.exe', 'c:\\Users\\vedq\\Desktop\\desarrollo\\SRC-VED\\Einstein-VED\\tmp\\sk_Constante_G.py']' returned non-zero exit status 1.
+2025:11:27-04:02:42;3;Error ejecutando c:\Users\vedq\Desktop\desarrollo\SRC-VED\Einstein-VED\tmp\sk_validacion_experimental.py: Command '['c:\\Python313\\python.exe', 'c:\\Users\\vedq\\Desktop\\desarrollo\\SRC-VED\\Einstein-VED\\tmp\\sk_validacion_experimental.py']' returned non-zero exit status 1.
+2025:11:27-04:02:42;0;[sk_orbitales.py stdout] Movido: figura_1_proton.png -> c:\Users\vedq\Desktop\desarrollo\SRC-VED\Einstein-VED\img\SK_figura_1_proton.png
+Total imágenes movidas: 1
+2025:11:27-04:02:42;2;[sk_orbitales.py stderr] c:\Users\vedq\Desktop\desarrollo\SRC-VED\Einstein-VED\tmp\sk_orbitales.py:66: UserWarning: No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+  ax.legend()
+2025:11:27-04:02:43;0;[sk_generador_svg.py stdout] Total imágenes movidas: 0
+2025:11:27-04:02:43;0;[sk_confinamiento.py stdout] Total imágenes movidas: 0
+2025:11:27-04:02:44;3;Error ejecutando c:\Users\vedq\Desktop\desarrollo\SRC-VED\Einstein-VED\tmp\sk_confinamiento_geometrico.py: Command '['c:\\Python313\\python.exe', 'c:\\Users\\vedq\\Desktop\\desarrollo\\SRC-VED\\Einstein-VED\\tmp\\sk_confinamiento_geometrico.py']' returned non-zero exit status 1.
+2025:11:27-04:02:45;0;[sk_confinamiento_geometrico_tiempo.py stdout] Total imágenes movidas: 0
+2025:11:27-04:02:46;3;Error ejecutando c:\Users\vedq\Desktop\desarrollo\SRC-VED\Einstein-VED\tmp\sk_Constante_G.py: Command '['c:\\Python313\\python.exe', 'c:\\Users\\vedq\\Desktop\\desarrollo\\SRC-VED\\Einstein-VED\\tmp\\sk_Constante_G.py']' returned non-zero exit status 1.
+2025:11:27-04:02:47;0;[sk_entrelazamiento_geometrico.py stdout] Movido: figura_1_proton.png -> c:\Users\vedq\Desktop\desarrollo\SRC-VED\Einstein-VED\img\SK_figura_1_proton.png
+Total imágenes movidas: 1
+2025:11:27-04:02:48;0;[sk_generador_svg.py stdout] Total imágenes movidas: 0
+2025:11:27-04:02:49;0;[sk_graficas_einstein_ved_n4.py stdout] Total imágenes movidas: 0
+2025:11:27-04:02:49;0;[sk_orbitales.py stdout] Total imágenes movidas: 0
+2025:11:27-04:02:49;2;[sk_orbitales.py stderr] c:\Users\vedq\Desktop\desarrollo\SRC-VED\Einstein-VED\tmp\sk_orbitales.py:66: UserWarning: No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+  ax.legend()
+2025:11:27-04:02:49;3;Error ejecutando c:\Users\vedq\Desktop\desarrollo\SRC-VED\Einstein-VED\tmp\sk_proton_comparativa_destacado.py: Command '['c:\\Python313\\python.exe', 'c:\\Users\\vedq\\Desktop\\desarrollo\\SRC-VED\\Einstein-VED\\tmp\\sk_proton_comparativa_destacado.py']' returned non-zero exit status 1.
+2025:11:27-04:02:50;3;Error ejecutando c:\Users\vedq\Desktop\desarrollo\SRC-VED\Einstein-VED\tmp\sk_validacion_experimental.py: Command '['c:\\Python313\\python.exe', 'c:\\Users\\vedq\\Desktop\\desarrollo\\SRC-VED\\Einstein-VED\\tmp\\sk_validacion_experimental.py']' returned non-zero exit status 1.

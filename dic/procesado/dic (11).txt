@@ -1,0 +1,31 @@
+idioma;archivo;id;texto
+es;confinamiento_geometrico.py;001;round
+es;confinamiento_geometrico.py;002;yellow
+es;confinamiento_geometrico.py;003;SVG guardado: confinamiento_frame_{frame}.svg
+es;confinamiento_geometrico.py;004;round
+es;confinamiento_geometrico.py;005;yellow
+es;confinamiento_geometrico.py;006;SVG resumen guardado: 'resumen_confinamiento.svg'
+es;confinamiento_geometrico.py;007;Generando animación SVG del confinamiento...
+es;confinamiento_geometrico.py;008;✅ Animación SVG completada
+es;confinamiento_geometrico.py;009;__main__
+es;confinamiento_geometrico.py;010;Generando animación SVG del confinamiento...
+es;confinamiento_geometrico.py;011;✅ Animación SVG completada
+es;confinamiento_geometrico.py;012;equal
+es;confinamiento_geometrico.py;013;Onda ψ(x)
+es;confinamiento_geometrico.py;014;Posición x
+es;confinamiento_geometrico.py;015;Amplitud ψ(x)
+es;confinamiento_geometrico.py;016;CONFINAMIENTO EINSTEIN-VED: Onda → Partícula
+es;confinamiento_geometrico.py;017;bold
+es;confinamiento_geometrico.py;018;equal
+es;confinamiento_geometrico.py;019;brown
+es;confinamiento_geometrico.py;020;Posición x
+es;confinamiento_geometrico.py;021;Amplitud ψ(x)
+es;confinamiento_geometrico.py;022;1. Onda Sinusoidal en Superficie Plana
+es;confinamiento_geometrico.py;023;bold
+es;confinamiento_geometrico.py;024;gray
+es;confinamiento_geometrico.py;025;center
+es;confinamiento_geometrico.py;026;red
+es;confinamiento_geometrico.py;027;2. Transición: Enrollamiento ({progress*100:.0f}%)
+es;confinamiento_geometrico.py;028;bold
+es;confinamiento_geometrico.py;029;Coordenada X
+es;confinamiento_geometric

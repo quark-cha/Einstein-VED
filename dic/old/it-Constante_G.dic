@@ -1,0 +1,52 @@
+idioma;archivo;id;texto
+it;Constante_G.py;0042;Raggio del protone (linea media)
+it;Constante_G.py;0046;Figura 1: Onda confinata VED del protone, n=2
+it;Constante_G.py;0059;Buco nero
+it;Constante_G.py;0061;Superficie 2D
+it;Constante_G.py;0066;Figura 2: Buco nero e superficie olografica 2D
+it;Constante_G.py;0078;G sperimentale
+it;Constante_G.py;0083;n={n}
+it;Constante_G.py;0088;G calcolato [m^3/kg/s^2]
+it;Constante_G.py;0089;Figura 3: Bersaglio G ±3σ
+it;Constante_G.py;0116;G calcolato [m^3/kg/s^2]
+it;Constante_G.py;0117;Figura 4: Bersaglio G ±4σ (frecce)
+it;Constante_G.py;0130;G(n) asintotico (continuo)
+it;Constante_G.py;0133;G sperimentale
+it;Constante_G.py;0140;round,pad=0.5
+it;Constante_G.py;0143;Figura 5: Comportamento asintotico di G(n) n→∞ (log-log)
+it;Constante_G.py;0164;Valore [m³/kg·s²]
+it;Constante_G.py;0165;{G_max:.8e}
+it;Constante_G.py;0166;$G_2^{EXP}$ Sperimentale
+it;Constante_G.py;0167;{G_min:.8e}
+it;Constante_G.py;0168;$G_1^{VED}$ (n=2) ESATTO
+it;Constante_G.py;0169;Differenza assoluta
+it;Constante_G.py;0170;Errore relativo
+it;Constante_G.py;0248;COSTANTE GRAVITAZIONALE G
+it;Constante_G.py;0267;Onda di materia confinata
+it;Constante_G.py;0277;Ologramma 2D
+it;Constante_G.py;0286;Emergenza di G
+it;Constante_G.py;0288;Figura 8: Materia come onda confinata su ologramma 2D
+it;Constante_G.py;0317;Raggio del protone
+it;Constante_G.py;0318;Onde radiali protone
+it;Constante_G.py;0319;Ondulazione 2D protone (n=4)
+it;Constante_G.py;0322;Raggio del protone
+it;Constante_G.py;0323;Onde del protone
+it;Constante_G.py;0324;Ondulazione 2D
+it;Constante_G.py;0326;Protone - Scala femtométrica (10⁻¹⁵ m)
+it;Constante_G.py;0342;Raggio orbitale elettrone
+it;Constante_G.py;0343;Onde radiali elettrone
+it;Constante_G.py;0344;Ondulazione 2D elettrone (n=137)
+it;Constante_G.py;0347;Raggio orbitale elettrone
+it;Constante_G.py;0348;Onde dell'elettrone
+it;Constante_G.py;0349;Ondulazione 2D
+it;Constante_G.py;0351;Elettrone - Scala atomica (10⁻¹¹ m)
+it;Constante_G.py;0358;Figura 9. Onde 2D e radiali del protone e dell'elettrone\n(olografia → particelle)
+it;Constante_G.py;0378;$M_\mathrm{VED} = n h /$
+it;Constante_G.py;0379;$M_\mathrm{Sch} = c^2 R_s /$
+it;Constante_G.py;0380;$L_\mathrm{geom}$ definita
+it;Constante_G.py;0381;$R_s$ definita da
+it;Constante_G.py;0382;Quantizzazione
+it;Constante_G.py;0383;n non appare,\nG è determinato
+it;Constante_G.py;0384;Confinamento 2D
+it;Constante_G.py;0385;3D → olografia
+it;Constante_G.py;0409;Figura 10: Confronto concettuale VED vs Schwarzschild

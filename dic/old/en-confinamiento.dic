@@ -1,0 +1,82 @@
+idioma;archivo;id;texto
+en;confinamiento.py;0037;Mean Radius (fm)
+en;confinamiento.py;0038;{mc_mean:.3f}
+en;confinamiento.py;0039;{lhc_mean:.5f}
+en;confinamiento.py;0040;{ved_mean:.5f}
+en;confinamiento.py;0072;Figure 1: 2D vs 3D Confinement Geometries
+en;confinamiento.py;0079;Electron: 2D Confinement\nn = 137 (Surface)
+en;confinamiento.py;0084;Proton: 3D Confinement\nn = 4 (Volume)
+en;confinamiento.py;0089;Quarks: Geometric Dipoles\n3D Anchoring
+en;confinamiento.py;0094;Emergent Quantum Statistics: 2D vs 3D
+en;confinamiento.py;0100;Electron 2D Surface - CLEAN SCALES
+en;confinamiento.py;0132;Proton 3D Volume - CLEAN SCALES
+en;confinamiento.py;0171;Quark dipoles anchored to dimensions
+en;confinamiento.py;0187;Quark {dim}
+en;confinamiento.py;0192;Hadronic Confinement
+en;confinamiento.py;0200;Fermi vs Bose statistical comparison
+en;confinamiento.py;0201;2D Confinement\n(Electron)
+en;confinamiento.py;0208;Fermi-Dirac (Exclusion)
+en;confinamiento.py;0210;Bose-Einstein (Condensation)
+en;confinamiento.py;0213;Statistical Behavior
+en;confinamiento.py;0218;Maximum 1 particle\nper state
+en;confinamiento.py;0219;Multiple particles\nsame state
+en;confinamiento.py;0224;Figure 2: Experimental validation
+en;confinamiento.py;0228;Proton VED
+en;confinamiento.py;0234;Radius (fm)
+en;confinamiento.py;0235;Hadronic Radii Prediction
+en;confinamiento.py;0240;{radius:.5f}
+en;confinamiento.py;0243;Einstein-VED
+en;confinamiento.py;0247;Accuracy (%)
+en;confinamiento.py;0248;Accuracy Comparison
+en;confinamiento.py;0253;{prec}%
+en;confinamiento.py;0259;Einstein-VED
+en;confinamiento.py;0265;Fine Structure Constant
+en;confinamiento.py;0270;{value:.3f}
+en;confinamiento.py;0275;DIPOLAR EXPLANATION OF LHC JETS:\n\n
+en;confinamiento.py;0276;• Quarks = Geometric dipoles anchored to dimensions\n
+en;confinamiento.py;0277;• When applying energy: dipolar rupture\n
+en;confinamiento.py;0278;• Creation of new quark-antiquark pairs\n
+en;confinamiento.py;0279;• Formation of hadronic jets in opposite directions\n
+en;confinamiento.py;0280;• No infinite 'confinement force'\n
+en;confinamiento.py;0281;• Only natural geometric reconfiguration
+en;confinamiento.py;0290;Figure 3: Solution to quantum paradoxes
+en;confinamiento.py;0310;Double slit solution
+en;confinamiento.py;0328;Propagation direction
+en;confinamiento.py;0329;Position
+en;confinamiento.py;0330;DOUBLE SLIT SOLUTION:\nComplete surface interacts
+en;confinamiento.py;0333;particle through two paths
+en;confinamiento.py;0337;Geometric solution to entanglement
+en;confinamiento.py;0349;Particle A
+en;confinamiento.py;0350;Particle B
+en;confinamiento.py;0351;SHARED GEOMETRY
+en;confinamiento.py;0357;ENTANGLEMENT:\nCommon geometry, no action at distance
+en;confinamiento.py;0362;Wave function collapse solution
+en;confinamiento.py;0368;Real geometry (always defined)
+en;confinamiento.py;0369;Probability before measurement
+en;confinamiento.py;0375;Position
+en;confinamiento.py;0377;"END OF ""COLLAPSE"":\nDefined geometry, not probabilistic"
+en;confinamiento.py;0383;Solution to quantum statistics
+en;confinamiento.py;0387;EMERGENT QUANTUM STATISTICS\n\n
+en;confinamiento.py;0388;Fermi-Dirac (Exclusion):\n
+en;confinamiento.py;0389;• 2D Confinement (electron)\n
+en;confinamiento.py;0390;• Natural topological restriction\n
+en;confinamiento.py;0391;• Only 1 particle per state\n\n
+en;confinamiento.py;0392;Bose-Einstein (Condensation):\n
+en;confinamiento.py;0393;• 3D Confinement (proton)\n
+en;confinamiento.py;0394;• Complete spherical geometry\n
+en;confinamiento.py;0395;• Multiple particles same state\n\n
+en;confinamiento.py;0396;They are NOT fundamental properties\n
+en;confinamiento.py;0397;They ARE geometric consequences
+en;confinamiento.py;0405;Save all figures
+en;confinamiento.py;0408;Generating Einstein-VED visualizations...
+en;confinamiento.py;0411;Generating Figure 1: Confinement geometries...
+en;confinamiento.py;0418;✓ Confinement geometries saved
+en;confinamiento.py;0420;Generating Figure 2: Experimental validation...
+en;confinamiento.py;0427;✓ Experimental validation saved
+en;confinamiento.py;0429;Generating Figure 3: Quantum paradoxes solution...
+en;confinamiento.py;0435;✓ Quantum paradoxes solution saved
+en;confinamiento.py;0437;\n✅ All figures saved in {format} format (DPI: {dpi})
+en;confinamiento.py;0440;❌ Error during generation: {e}
+en;confinamiento.py;0448;Starting Einstein-VED visualizations generation...
+en;confinamiento.py;0453;\n🎨 Visualizations completed!
+en;confinamiento.py;0454;Generated files:

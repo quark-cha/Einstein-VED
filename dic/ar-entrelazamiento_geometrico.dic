@@ -1,0 +1,49 @@
+archivo;id;texto_traducido
+ar;entrelazamiento_geometrico.py;0012;أساس أينشتاين
+ar;entrelazamiento_geometrico.py;0012;معادلات أساسية
+ar;entrelazamiento_geometrico.py;0035;التشابك الكمي: شرح هندسي أينشتاين-VED
+ar;entrelazamiento_geometrico.py;0052;الإطار الداخلي: الزمن الذاتي المشترك
+ar;entrelazamiento_geometrico.py;0071;الإطار الخارجي: المنظور التقليدي
+ar;entrelazamiento_geometrico.py;0076;الرموز:\n\n
+ar;entrelazamiento_geometrico.py;0077;🔴 الجسيم أ (45°)\n
+ar;entrelazamiento_geometrico.py;0078;🟢 الجسيم ب (225°)\n
+ar;entrelazamiento_geometrico.py;0079;⚫ المراقب\n
+ar;entrelazamiento_geometrico.py;0080;▬▬ اتصال هندسي\n
+ar;entrelazamiento_geometrico.py;0081;▬▬ خطوط الرؤية
+ar;entrelazamiento_geometrico.py;0091;جبهة الموجة
+ar;entrelazamiento_geometrico.py;0093;مفتاح أينشتاين-VED:\n\n
+ar;entrelazamiento_geometrico.py;0094;كلا الجسيمين (بما في ذلك المتقابلان)\nيشتركان في نفس الزمكان الذاتي t₀, s₀\n\n
+ar;entrelazamiento_geometrico.py;0095;لأن: dt' → 0 و ds' → 0 عند السرعة c\n\n
+ar;entrelazamiento_geometrico.py;0095;→ 0 و ds
+ar;entrelazamiento_geometrico.py;0096;t = t₀ + dt' → t₀\n
+ar;entrelazamiento_geometrico.py;0097;s = s₀ + ds' → s₀\n\n
+ar;entrelazamiento_geometrico.py;0098;لا يوجد عمل عن بعد
+ar;entrelazamiento_geometrico.py;0112;أساس أينشتاين-VED:\n\n
+ar;entrelazamiento_geometrico.py;0113;الجسيمات المتشابكة تشترك في زمكان ذاتي مشترك من أصلها.
+ar;entrelazamiento_geometrico.py;0114;عند السفر بسرعة c، تميل تفاضلات الزمن والفضاء الذاتيين إلى الصفر
+ar;entrelazamiento_geometrico.py;0115;(dt' → 0, ds' → 0)، مما يبقيها متصلة في نفس اللحظة t₀ والموقع s₀.
+ar;entrelazamiento_geometrico.py;0115;→ 0, ds
+ar;entrelazamiento_geometrico.py;0116;هذه التزامن الهندسي يفسر الارتباطات الكمية دون انتهاك النسبية.
+ar;entrelazamiento_geometrico.py;0128;معادلات أساسية:\n\n
+ar;entrelazamiento_geometrico.py;0129;للجسيمات عند السرعة c:\n
+ar;entrelazamiento_geometrico.py;0130;• dt' → 0, ds' → 0\n
+ar;entrelazamiento_geometrico.py;0130;→ 0, ds
+ar;entrelazamiento_geometrico.py;0131;• t = t₀ + dt' → t₀\n
+ar;entrelazamiento_geometrico.py;0132;• s = s₀ + ds' → s₀\n\n
+ar;entrelazamiento_geometrico.py;0133;معادلة المجال:\n
+ar;entrelazamiento_geometrico.py;0134;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+ar;entrelazamiento_geometrico.py;0135;تزامن مطلق في الإطار الذاتي
+ar;entrelazamiento_geometrico.py;0147;تفسير أينشتاين-VED: التشابك الكمي يصبح غير متناقض عندما يُفهم
+ar;entrelazamiento_geometrico.py;0148;من خلال هندسة الزمكان. الجسيمات المتولدة في نفس الحدث تشترك في جبهة
+ar;entrelazamiento_geometrico.py;0149;موجة حيث يبقى وقتها الذاتي مجمدًا عند t₀. هذا التزامن الجوهري يفسر
+ar;entrelazamiento_geometrico.py;0150;"ارتباطات مثالية دون ""عمل شبحي"". الاحتمال الكمي يعكس منظور"
+ar;entrelazamiento_geometrico.py;0150;عمل شبحي
+ar;entrelazamiento_geometrico.py;0151;محدود للمراقب، وليس خاصية أساسية.
+ar;entrelazamiento_geometrico.py;0170;🎯 جاري إنشاء النسخة النهائية مع إطارات في نفس المستوى...
+ar;entrelazamiento_geometrico.py;0173;\n✨ التصحيحات المطبقة:
+ar;entrelazamiento_geometrico.py;0174;• إطارات 'أساس أينشتاين' و'معادلات' في نفس المستوى
+ar;entrelazamiento_geometrico.py;0174;أساس أينشتاين
+ar;entrelazamiento_geometrico.py;0175;• شكل أوسع (16x10) لاستيعاب كلاهما
+ar;entrelazamiento_geometrico.py;0176;• تصميم متوازن ومتناظر
+ar;entrelazamiento_geometrico.py;0177;• الزخرفة والألوان محفوظة
+ar;entrelazamiento_geometrico.py;0178;• صفر تداخل

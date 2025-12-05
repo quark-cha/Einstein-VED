@@ -1,0 +1,30 @@
+idioma;archivo;id;texto
+sk;confinamiento_geometrico.py;0026;Vlna ψ(x)
+sk;confinamiento_geometrico.py;0029;Poloha x
+sk;confinamiento_geometrico.py;0030;Amplitúda ψ(x)
+sk;confinamiento_geometrico.py;0031;EINSTEIN-VED UVÄZNENIE: Vlna → Častica
+sk;confinamiento_geometrico.py;0046;Poloha x
+sk;confinamiento_geometrico.py;0047;Amplitúda ψ(x)
+sk;confinamiento_geometrico.py;0048;1. Sínusoidálna vlna na plochej ploche
+sk;confinamiento_geometrico.py;0067;2. Prechod: Zvinovanie ({progress*100:.0f}%)
+sk;confinamiento_geometrico.py;0068;X súradnica
+sk;confinamiento_geometrico.py;0069;Y súradnica
+sk;confinamiento_geometrico.py;0079;Uväznená (n={n_cycles})
+sk;confinamiento_geometrico.py;0080;EINSTEIN-VED PODMIENKA: L = {n_cycles}λ
+sk;confinamiento_geometrico.py;0083;3. Samo-uväznená vlna - stabilná častica
+sk;confinamiento_geometrico.py;0084;X súradnica
+sk;confinamiento_geometrico.py;0085;Y súradnica
+sk;confinamiento_geometrico.py;0121;a) Voľná rovinná vlna
+sk;confinamiento_geometrico.py;0122;Poloha x
+sk;confinamiento_geometrico.py;0123;Amplitúda ψ(x)
+sk;confinamiento_geometrico.py;0140;b) Prechod
+sk;confinamiento_geometrico.py;0141;X súradnica
+sk;confinamiento_geometrico.py;0142;Y súradnica
+sk;confinamiento_geometrico.py;0158;c) Uväznená n=3\nL = 3λ
+sk;confinamiento_geometrico.py;0159;X súradnica
+sk;confinamiento_geometrico.py;0160;Y súradnica
+sk;confinamiento_geometrico.py;0162;PODMIENKA: L = nλ
+sk;confinamiento_geometrico.py;0171;Generovanie SVG animácie uväznenia...
+sk;confinamiento_geometrico.py;0174;✅ SVG animácia dokončená
+sk;confinamiento_geometrico.py;0177;Generovanie SVG animácie uväznenia...
+sk;confinamiento_geometrico.py;0180;✅ SVG animácia dokončená

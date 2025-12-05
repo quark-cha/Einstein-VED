@@ -1,0 +1,82 @@
+idioma;archivo;id;texto
+ar;confinamiento_geometrico_tiempo.py;0011;ن=1: أنبوب زمكان أملس + موجة دائرية أساسية
+ar;confinamiento_geometrico_tiempo.py;0044;الحالة الأساسية ن=1\nالزمكان + موجة دائرية
+ar;confinamiento_geometrico_tiempo.py;0056;ن=3: متشعب زمكان + موجة مع 3 عقد
+ar;confinamiento_geometrico_tiempo.py;0093;الحالة المثارة ن=3\nمتشعب الزمكان + 3 عقد
+ar;confinamiento_geometrico_tiempo.py;0105;مقارنة جنباً إلى جنب ن=1 ضد ن=3
+ar;confinamiento_geometrico_tiempo.py;0132;ن=1: الحالة الأساسية
+ar;confinamiento_geometrico_tiempo.py;0153;ن=3: الحالة المثارة
+ar;confinamiento_geometrico_tiempo.py;0164;يظهر كيف تنشئ منحنيات dt السطح ن=1
+ar;confinamiento_geometrico_tiempo.py;0202;توليد ن=1: dt → سطح\nمنحنيات دائرية تنشئ أسطوانة
+ar;confinamiento_geometrico_tiempo.py;0214;يظهر كيف تنشئ منحنيات dt السطح ن=3
+ar;confinamiento_geometrico_tiempo.py;0257;توليد ن=3: dt → متشعب\nمنحنيات مع عقد تنشئ هندسة
+ar;confinamiento_geometrico_tiempo.py;0269;تطور dt كامل عبر δt
+ar;confinamiento_geometrico_tiempo.py;0302;δt={t}
+ar;confinamiento_geometrico_tiempo.py;0309;تطور\nزمني
+ar;confinamiento_geometrico_tiempo.py;0313;التطور الكامل: dt → δt → حالات ن\nالحصر الكمي أينشتاين-VED
+ar;confinamiento_geometrico_tiempo.py;0325;🎨 توليد الـ6 رسومات كاملة أينشتاين-VED...
+ar;confinamiento_geometrico_tiempo.py;0337;\n✅ الـ6 رسومات الكاملة:
+ar;confinamiento_geometrico_tiempo.py;001;n=1: أنبوب زمكاني أملس + موجة دائرية أساسية
+ar;confinamiento_geometrico_tiempo.py;002;n=3: متشعب زمكاني + موجة ذات 3 عقد
+ar;confinamiento_geometrico_tiempo.py;003;مقارنة جنبًا إلى جنب n=1 مقابل n=3
+ar;confinamiento_geometrico_tiempo.py;004;يوضح كيف تنشئ منحنيات dt السطح n=1
+ar;confinamiento_geometrico_tiempo.py;005;يوضح كيف تنشئ منحنيات dt السطح n=3
+ar;confinamiento_geometrico_tiempo.py;006;تطور كامل dt عبر δt
+ar;confinamiento_geometrico_tiempo.py;007;round
+ar;confinamiento_geometrico_tiempo.py;008;white
+ar;confinamiento_geometrico_tiempo.py;009;🎨 جاري إنشاء 6 رسوم كاملة لأينشتاين-فيد...
+ar;confinamiento_geometrico_tiempo.py;010;\n✅ 6 رسوم كاملة:
+ar;confinamiento_geometrico_tiempo.py;011;__main__
+ar;confinamiento_geometrico_tiempo.py;012;lightblue
+ar;confinamiento_geometrico_tiempo.py;013;red
+ar;confinamiento_geometrico_tiempo.py;014;الحالة الأساسية n=1\nالزمكان + موجة دائرية
+ar;confinamiento_geometrico_tiempo.py;015;bold
+ar;confinamiento_geometrico_tiempo.py;016;tight
+ar;confinamiento_geometrico_tiempo.py;017;white
+ar;confinamiento_geometrico_tiempo.py;018;red
+ar;confinamiento_geometrico_tiempo.py;019;الحالة المثارة n=3\nمتشعب الزمكان + 3 عقد
+ar;confinamiento_geometrico_tiempo.py;020;bold
+ar;confinamiento_geometrico_tiempo.py;021;tight
+ar;confinamiento_geometrico_tiempo.py;022;white
+ar;confinamiento_geometrico_tiempo.py;023;lightblue
+ar;confinamiento_geometrico_tiempo.py;024;red
+ar;confinamiento_geometrico_tiempo.py;025;n=1: الحالة الأساسية
+ar;confinamiento_geometrico_tiempo.py;026;bold
+ar;confinamiento_geometrico_tiempo.py;027;red
+ar;confinamiento_geometrico_tiempo.py;028;n=3: الحالة المثارة
+ar;confinamiento_geometrico_tiempo.py;029;bold
+ar;confinamiento_geometrico_tiempo.py;030;tight
+ar;confinamiento_geometrico_tiempo.py;031;white
+ar;confinamiento_geometrico_tiempo.py;032;lightblue
+ar;confinamiento_geometrico_tiempo.py;033;red
+ar;confinamiento_geometrico_tiempo.py;034;green
+ar;confinamiento_geometrico_tiempo.py;035;green
+ar;confinamiento_geometrico_tiempo.py;036;green
+ar;confinamiento_geometrico_tiempo.py;037;bold
+ar;confinamiento_geometrico_tiempo.py;038;توليد n=1: dt → سطح\nمنحنيات دائرية تولد أسطوانة
+ar;confinamiento_geometrico_tiempo.py;039;bold
+ar;confinamiento_geometrico_tiempo.py;040;tight
+ar;confinamiento_geometrico_tiempo.py;041;white
+ar;confinamiento_geometrico_tiempo.py;042;red
+ar;confinamiento_geometrico_tiempo.py;043;green
+ar;confinamiento_geometrico_tiempo.py;044;green
+ar;confinamiento_geometrico_tiempo.py;045;green
+ar;confinamiento_geometrico_tiempo.py;046;bold
+ar;confinamiento_geometrico_tiempo.py;047;توليد n=3: dt → متشعب\nمنحنيات عقدية تولد هندسة
+ar;confinamiento_geometrico_tiempo.py;048;bold
+ar;confinamiento_geometrico_tiempo.py;049;tight
+ar;confinamiento_geometrico_tiempo.py;050;white
+ar;confinamiento_geometrico_tiempo.py;051;red
+ar;confinamiento_geometrico_tiempo.py;052;darkred
+ar;confinamiento_geometrico_tiempo.py;053;δt={t}
+ar;confinamiento_geometrico_tiempo.py;054;center
+ar;confinamiento_geometrico_tiempo.py;055;bold
+ar;confinamiento_geometrico_tiempo.py;056;blue
+ar;confinamiento_geometrico_tiempo.py;057;blue
+ar;confinamiento_geometrico_tiempo.py;058;تطور\nزمني
+ar;confinamiento_geometrico_tiempo.py;059;blue
+ar;confinamiento_geometrico_tiempo.py;060;bold
+ar;confinamiento_geometrico_tiempo.py;061;تطور كامل: dt → δt → حالات n\nالحصر الكمومي لأينشتاين-فيد
+ar;confinamiento_geometrico_tiempo.py;062;bold
+ar;confinamiento_geometrico_tiempo.py;063;tight
+ar;confinamiento_geometrico_tiempo.py;064;white

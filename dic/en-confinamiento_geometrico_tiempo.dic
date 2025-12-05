@@ -1,0 +1,18 @@
+idioma;archivo;id;texto
+en;confinamiento_geometrico_tiempo.py;0013;n=1: Smooth spacetime tube + fundamental circular wave
+en;confinamiento_geometrico_tiempo.py;0046;GROUND STATE n=1\nSpacetime + Circular Wave
+en;confinamiento_geometrico_tiempo.py;0059;n=3: Spacetime manifold + wave with 3 nodes
+en;confinamiento_geometrico_tiempo.py;0096;EXCITED STATE n=3\nSpacetime Manifold + 3 Nodes
+en;confinamiento_geometrico_tiempo.py;0109;Side-by-side comparison n=1 vs n=3
+en;confinamiento_geometrico_tiempo.py;0136;n=1: Ground State
+en;confinamiento_geometrico_tiempo.py;0157;n=3: Excited State
+en;confinamiento_geometrico_tiempo.py;0170;Shows how dt curves generate the n=1 surface
+en;confinamiento_geometrico_tiempo.py;0208;GENERATION n=1: dt → Surface\nCircular Curves Generate Cylinder
+en;confinamiento_geometrico_tiempo.py;0222;Shows how dt curves generate the n=3 surface
+en;confinamiento_geometrico_tiempo.py;0265;GENERATION n=3: dt → Manifold\nCurves with Nodes Generate Geometry
+en;confinamiento_geometrico_tiempo.py;0279;Complete dt evolution through δt
+en;confinamiento_geometrico_tiempo.py;0312;δt={t}
+en;confinamiento_geometrico_tiempo.py;0319;Temporal\nevolution
+en;confinamiento_geometrico_tiempo.py;0323;COMPLETE EVOLUTION: dt → δt → n States\nEinstein-VED Quantum Confinement
+en;confinamiento_geometrico_tiempo.py;0336;🎨 GENERATING THE 6 COMPLETE EINSTEIN-VED GRAPHS...
+en;confinamiento_geometrico_tiempo.py;0348;\n✅ THE 6 COMPLETE GRAPHS:

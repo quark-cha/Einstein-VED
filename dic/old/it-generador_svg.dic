@@ -1,0 +1,89 @@
+idioma;archivo;id;texto
+it;generador_svg.py;0019;Funzione radiale stato 1s: R₁₀(r) = 2/a₀^(3/2) exp(-r/a₀)
+it;generador_svg.py;0023;Funzione radiale stato 2p: R₂₁(r) = (1/2√6)(r/a₀²) exp(-r/2a₀)
+it;generador_svg.py;0027;Funzione radiale stato 3d: R₃₂(r) = (4/81√30)(r²/a₀^(7/2)) exp(-r/3a₀)
+it;generador_svg.py;0032;Funzione d'onda completa ψₙℓₘ(r,θ,φ) = Rₙℓ(r)Yℓₘ(θ,φ)
+it;generador_svg.py;0040;Stato n={n}, ℓ={ell} non implementato
+it;generador_svg.py;0046;Calcola superficie VED: r(θ,φ) = n²a₀(1 + α|Yℓₘ|)
+it;generador_svg.py;0063;Verifica coincidenza tra massimo P(r) e raggio VED
+it;generador_svg.py;0085;Genera confronto completo Einstein-VED vs Meccanica Quantistica
+it;generador_svg.py;0090;🔬 CALCOLANDO CONFRONTO EINSTEIN-VED vs MQ...
+it;generador_svg.py;0119;"Densità |ψ|² - {estado[""label""]}\n(piano Z=0.5Y)"
+it;generador_svg.py;0120;x (m)
+it;generador_svg.py;0121;y (m)
+it;generador_svg.py;0129;VED: {r_ved:.2e}m
+it;generador_svg.py;0147;P(r) MQ
+it;generador_svg.py;0149;VED: {r_ved:.2e} m
+it;generador_svg.py;0155;Precisione: {precision:.2f}%
+it;generador_svg.py;0159;"Probabilità Radiale - {estado[""label""]}"
+it;generador_svg.py;0160;r (m)
+it;generador_svg.py;0161;P(r) normalizzata
+it;generador_svg.py;0172;CONFRONTO EINSTEIN-VED vs MECCANICA QUANTISTICA - CALCOLI ESATTI\n
+it;generador_svg.py;0173;Raggi deterministici vs distribuzioni probabilistiche
+it;generador_svg.py;0189;RISULTATI ESATTI EINSTEIN-VED
+it;generador_svg.py;0192;{res['estado']}: r_VED = {res['r_ved']:.3e} m,
+it;generador_svg.py;0193;r_MQ = {res['r_max_mc']:.3e} m,
+it;generador_svg.py;0194;Precisione = {res['precision']:.2f}%
+it;generador_svg.py;0196;✅ CONFRONTO GENERATO - COINCIDENZA >99% CONFERMATA
+it;generador_svg.py;001;Funzione radiale stato 1s: R₁₀(r) = 2/a₀^(3/2) exp(-r/a₀)
+it;generador_svg.py;002;Funzione radiale stato 2p: R₂₁(r) = (1/2√6)(r/a₀²) exp(-r/2a₀)
+it;generador_svg.py;003;Funzione radiale stato 3d: R₃₂(r) = (4/81√30)(r²/a₀^(7/2)) exp(-r/3a₀)
+it;generador_svg.py;004;Funzione d'onda completa ψₙℓₘ(r,θ,φ) = Rₙℓ(r)Yℓₘ(θ,φ)
+it;generador_svg.py;005;Stato n={n}, ℓ={ell} non implementato
+it;generador_svg.py;006;Calcola superficie VED: r(θ,φ) = n²a₀(1 + α|Yℓₘ|)
+it;generador_svg.py;007;Verifica corrispondenza tra massimo P(r) e raggio VED
+it;generador_svg.py;008;ell
+it;generador_svg.py;009;alpha
+it;generador_svg.py;010;label
+it;generador_svg.py;011;ell
+it;generador_svg.py;012;alpha
+it;generador_svg.py;013;label
+it;generador_svg.py;014;ell
+it;generador_svg.py;015;alpha
+it;generador_svg.py;016;label
+it;generador_svg.py;017;Genera confronto completo Einstein-VED vs Meccanica Quantistica
+it;generador_svg.py;018;🔬 CALCOLO CONFRONTO EINSTEIN-VED vs MQ...
+it;generador_svg.py;019;ell
+it;generador_svg.py;020;alpha
+it;generador_svg.py;021;label
+it;generador_svg.py;022;round
+it;generador_svg.py;023;lightgreen
+it;generador_svg.py;024;label
+it;generador_svg.py;025;label
+it;generador_svg.py;026;__main__
+it;generador_svg.py;027;RISULTATI ESATTI EINSTEIN-VED
+it;generador_svg.py;028;{res['estado']}: r_VED = {res['r_ved']:.3e} m, 
+it;generador_svg.py;029;r_MQ = {res['r_max_mc']:.3e} m, 
+it;generador_svg.py;030;Precisione = {res['precision']:.2f}%
+it;generador_svg.py;031;✅ CONFRONTO GENERATO - CORRISPONDENZA >99% CONFERMATA
+it;generador_svg.py;032;lower
+it;generador_svg.py;033;viridis
+it;generador_svg.py;034;auto
+it;generador_svg.py;035;"""Densità |ψ|² - {estado[""""label""""]}\n(piano Z=0.5Y)"""
+it;generador_svg.py;036;x (m)
+it;generador_svg.py;037;y (m)
+it;generador_svg.py;038;red
+it;generador_svg.py;039;VED: {r_ved:.2e}m
+it;generador_svg.py;040;blue
+it;generador_svg.py;041;P(r) MQ
+it;generador_svg.py;042;red
+it;generador_svg.py;043;VED: {r_ved:.2e} m
+it;generador_svg.py;044;Precisione: {precision:.2f}%
+it;generador_svg.py;045;"""Probabilità Radiale - {estado[""""label""""]}"""
+it;generador_svg.py;046;r (m)
+it;generador_svg.py;047;P(r) normalizzata
+it;generador_svg.py;048;stato
+it;generador_svg.py;049;r_ved
+it;generador_svg.py;050;r_max_mc
+it;generador_svg.py;051;precisione
+it;generador_svg.py;052;CONFRONTO EINSTEIN-VED vs MECCANICA QUANTISTICA - CALCOLI ESATTI\n
+it;generador_svg.py;053;Raggi deterministici vs distribuzioni probabilistiche
+it;generador_svg.py;054;bold
+it;generador_svg.py;055;svg
+it;generador_svg.py;056;tight
+it;generador_svg.py;057;png
+it;generador_svg.py;058;tight
+it;generador_svg.py;059;stato
+it;generador_svg.py;060;r_ved
+it;generador_svg.py;061;r_max_mc
+it;generador_svg.py;062;precisione

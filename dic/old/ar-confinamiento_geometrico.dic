@@ -1,0 +1,89 @@
+idioma;archivo;id;texto
+ar;confinamiento_geometrico.py;0023;موجة ψ(x)
+ar;confinamiento_geometrico.py;0026;الموضع x
+ar;confinamiento_geometrico.py;0027;السعة ψ(x)
+ar;confinamiento_geometrico.py;0028;الحصر أينشتاين-VED: موجة → جسيم
+ar;confinamiento_geometrico.py;0043;الموضع x
+ar;confinamiento_geometrico.py;0044;السعة ψ(x)
+ar;confinamiento_geometrico.py;0045;1. موجة جيبية على سطح مستو
+ar;confinamiento_geometrico.py;0064;2. انتقال: لف ({progress*100:.0f}%)
+ar;confinamiento_geometrico.py;0065;الإحداثي X
+ar;confinamiento_geometrico.py;0066;الإحداثي Y
+ar;confinamiento_geometrico.py;0076;محصور (ن={n_cycles})
+ar;confinamiento_geometrico.py;0077;شرط أينشتاين-VED: ل = {n_cycles}λ
+ar;confinamiento_geometrico.py;0080;3. موجة ذاتية الحصر - جسيم مستقر
+ar;confinamiento_geometrico.py;0081;الإحداثي X
+ar;confinamiento_geometrico.py;0082;الإحداثي Y
+ar;confinamiento_geometrico.py;0118;أ) موجة مستوية حرة
+ar;confinamiento_geometrico.py;0119;الموضع x
+ar;confinamiento_geometrico.py;0120;السعة ψ(x)
+ar;confinamiento_geometrico.py;0137;ب) انتقال
+ar;confinamiento_geometrico.py;0138;الإحداثي X
+ar;confinamiento_geometrico.py;0139;الإحداثي Y
+ar;confinamiento_geometrico.py;0155;ج) محصور ن=3\nل = 3λ
+ar;confinamiento_geometrico.py;0156;الإحداثي X
+ar;confinamiento_geometrico.py;0157;الإحداثي Y
+ar;confinamiento_geometrico.py;0159;الشرط: ل = نλ
+ar;confinamiento_geometrico.py;001;round
+ar;confinamiento_geometrico.py;002;yellow
+ar;confinamiento_geometrico.py;003;round
+ar;confinamiento_geometrico.py;004;yellow
+ar;confinamiento_geometrico.py;005;جاري إنشاء رسوم متحركة SVG للحصر...
+ar;confinamiento_geometrico.py;006;✅ اكتملت رسوم SVG المتحركة
+ar;confinamiento_geometrico.py;007;__main__
+ar;confinamiento_geometrico.py;008;جاري إنشاء رسوم متحركة SVG للحصر...
+ar;confinamiento_geometrico.py;009;✅ اكتملت رسوم SVG المتحركة
+ar;confinamiento_geometrico.py;010;equal
+ar;confinamiento_geometrico.py;011;موجة ψ(x)
+ar;confinamiento_geometrico.py;012;الموضع x
+ar;confinamiento_geometrico.py;013;السعة ψ(x)
+ar;confinamiento_geometrico.py;014;الحصر الهندسي لأينشتاين-فيد: موجة → جسيم
+ar;confinamiento_geometrico.py;015;bold
+ar;confinamiento_geometrico.py;016;equal
+ar;confinamiento_geometrico.py;017;brown
+ar;confinamiento_geometrico.py;018;الموضع x
+ar;confinamiento_geometrico.py;019;السعة ψ(x)
+ar;confinamiento_geometrico.py;020;1. موجة جيبية على سطح مستو
+ar;confinamiento_geometrico.py;021;bold
+ar;confinamiento_geometrico.py;022;gray
+ar;confinamiento_geometrico.py;023;center
+ar;confinamiento_geometrico.py;024;red
+ar;confinamiento_geometrico.py;025;2. انتقال: لف ({progress*100:.0f}%)
+ar;confinamiento_geometrico.py;026;bold
+ar;confinamiento_geometrico.py;027;الإحداثي X
+ar;confinamiento_geometrico.py;028;الإحداثي Y
+ar;confinamiento_geometrico.py;029;gray
+ar;confinamiento_geometrico.py;030;red
+ar;confinamiento_geometrico.py;031;محصورة (n={n_cycles})
+ar;confinamiento_geometrico.py;032;شرط أينشتاين-فيد: L = {n_cycles}λ
+ar;confinamiento_geometrico.py;033;bold
+ar;confinamiento_geometrico.py;034;3. موجة ذاتية الحصر - جسيم مستقر
+ar;confinamiento_geometrico.py;035;bold
+ar;confinamiento_geometrico.py;036;الإحداثي X
+ar;confinamiento_geometrico.py;037;الإحداثي Y
+ar;confinamiento_geometrico.py;038;svg
+ar;confinamiento_geometrico.py;039;tight
+ar;confinamiento_geometrico.py;040;brown
+ar;confinamiento_geometrico.py;041;equal
+ar;confinamiento_geometrico.py;042;أ) موجة حرة مستوية
+ar;confinamiento_geometrico.py;043;bold
+ar;confinamiento_geometrico.py;044;الموضع x
+ar;confinamiento_geometrico.py;045;السعة ψ(x)
+ar;confinamiento_geometrico.py;046;orange
+ar;confinamiento_geometrico.py;047;equal
+ar;confinamiento_geometrico.py;048;ب) انتقال
+ar;confinamiento_geometrico.py;049;bold
+ar;confinamiento_geometrico.py;050;الإحداثي X
+ar;confinamiento_geometrico.py;051;الإحداثي Y
+ar;confinamiento_geometrico.py;052;gray
+ar;confinamiento_geometrico.py;053;red
+ar;confinamiento_geometrico.py;054;equal
+ar;confinamiento_geometrico.py;055;ج) محصورة n=3\nL = 3λ
+ar;confinamiento_geometrico.py;056;bold
+ar;confinamiento_geometrico.py;057;الإحداثي X
+ar;confinamiento_geometrico.py;058;الإحداثي Y
+ar;confinamiento_geometrico.py;059;الشرط: L = nλ
+ar;confinamiento_geometrico.py;060;center
+ar;confinamiento_geometrico.py;061;bold
+ar;confinamiento_geometrico.py;062;svg
+ar;confinamiento_geometrico.py;063;tight

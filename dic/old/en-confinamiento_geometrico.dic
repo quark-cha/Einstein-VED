@@ -1,0 +1,89 @@
+idioma;archivo;id;texto
+en;confinamiento_geometrico.py;0023;Wave ψ(x)
+en;confinamiento_geometrico.py;0026;Position x
+en;confinamiento_geometrico.py;0027;Amplitude ψ(x)
+en;confinamiento_geometrico.py;0028;EINSTEIN-VED CONFINEMENT: Wave → Particle
+en;confinamiento_geometrico.py;0043;Position x
+en;confinamiento_geometrico.py;0044;Amplitude ψ(x)
+en;confinamiento_geometrico.py;0045;1. Sinusoidal Wave on Flat Surface
+en;confinamiento_geometrico.py;0064;2. Transition: Coiling ({progress*100:.0f}%)
+en;confinamiento_geometrico.py;0065;X Coordinate
+en;confinamiento_geometrico.py;0066;Y Coordinate
+en;confinamiento_geometrico.py;0076;Confined (n={n_cycles})
+en;confinamiento_geometrico.py;0077;EINSTEIN-VED CONDITION: L = {n_cycles}λ
+en;confinamiento_geometrico.py;0080;3. Self-Confined Wave - Stable Particle
+en;confinamiento_geometrico.py;0081;X Coordinate
+en;confinamiento_geometrico.py;0082;Y Coordinate
+en;confinamiento_geometrico.py;0118;a) Free Plane Wave
+en;confinamiento_geometrico.py;0119;Position x
+en;confinamiento_geometrico.py;0120;Amplitude ψ(x)
+en;confinamiento_geometrico.py;0137;b) Transition
+en;confinamiento_geometrico.py;0138;X Coordinate
+en;confinamiento_geometrico.py;0139;Y Coordinate
+en;confinamiento_geometrico.py;0155;c) Confined n=3\nL = 3λ
+en;confinamiento_geometrico.py;0156;X Coordinate
+en;confinamiento_geometrico.py;0157;Y Coordinate
+en;confinamiento_geometrico.py;0159;CONDITION: L = nλ
+en;confinamiento_geometrico.py;001;round
+en;confinamiento_geometrico.py;002;yellow
+en;confinamiento_geometrico.py;003;round
+en;confinamiento_geometrico.py;004;yellow
+en;confinamiento_geometrico.py;005;Generating SVG animation of confinement...
+en;confinamiento_geometrico.py;006;✅ SVG animation completed
+en;confinamiento_geometrico.py;007;__main__
+en;confinamiento_geometrico.py;008;Generating SVG animation of confinement...
+en;confinamiento_geometrico.py;009;✅ SVG animation completed
+en;confinamiento_geometrico.py;010;equal
+en;confinamiento_geometrico.py;011;Wave ψ(x)
+en;confinamiento_geometrico.py;012;Position x
+en;confinamiento_geometrico.py;013;Amplitude ψ(x)
+en;confinamiento_geometrico.py;014;EINSTEIN-VED CONFINEMENT: Wave → Particle
+en;confinamiento_geometrico.py;015;bold
+en;confinamiento_geometrico.py;016;equal
+en;confinamiento_geometrico.py;017;brown
+en;confinamiento_geometrico.py;018;Position x
+en;confinamiento_geometrico.py;019;Amplitude ψ(x)
+en;confinamiento_geometrico.py;020;1. Sinusoidal Wave on Flat Surface
+en;confinamiento_geometrico.py;021;bold
+en;confinamiento_geometrico.py;022;gray
+en;confinamiento_geometrico.py;023;center
+en;confinamiento_geometrico.py;024;red
+en;confinamiento_geometrico.py;025;2. Transition: Coiling ({progress*100:.0f}%)
+en;confinamiento_geometrico.py;026;bold
+en;confinamiento_geometrico.py;027;X Coordinate
+en;confinamiento_geometrico.py;028;Y Coordinate
+en;confinamiento_geometrico.py;029;gray
+en;confinamiento_geometrico.py;030;red
+en;confinamiento_geometrico.py;031;Confined (n={n_cycles})
+en;confinamiento_geometrico.py;032;EINSTEIN-VED CONDITION: L = {n_cycles}λ
+en;confinamiento_geometrico.py;033;bold
+en;confinamiento_geometrico.py;034;3. Self-Confined Wave - Stable Particle
+en;confinamiento_geometrico.py;035;bold
+en;confinamiento_geometrico.py;036;X Coordinate
+en;confinamiento_geometrico.py;037;Y Coordinate
+en;confinamiento_geometrico.py;038;svg
+en;confinamiento_geometrico.py;039;tight
+en;confinamiento_geometrico.py;040;brown
+en;confinamiento_geometrico.py;041;equal
+en;confinamiento_geometrico.py;042;a) Free Flat Wave
+en;confinamiento_geometrico.py;043;bold
+en;confinamiento_geometrico.py;044;Position x
+en;confinamiento_geometrico.py;045;Amplitude ψ(x)
+en;confinamiento_geometrico.py;046;orange
+en;confinamiento_geometrico.py;047;equal
+en;confinamiento_geometrico.py;048;b) Transition
+en;confinamiento_geometrico.py;049;bold
+en;confinamiento_geometrico.py;050;X Coordinate
+en;confinamiento_geometrico.py;051;Y Coordinate
+en;confinamiento_geometrico.py;052;gray
+en;confinamiento_geometrico.py;053;red
+en;confinamiento_geometrico.py;054;equal
+en;confinamiento_geometrico.py;055;c) Confined n=3\nL = 3λ
+en;confinamiento_geometrico.py;056;bold
+en;confinamiento_geometrico.py;057;X Coordinate
+en;confinamiento_geometrico.py;058;Y Coordinate
+en;confinamiento_geometrico.py;059;CONDITION: L = nλ
+en;confinamiento_geometrico.py;060;center
+en;confinamiento_geometrico.py;061;bold
+en;confinamiento_geometrico.py;062;svg
+en;confinamiento_geometrico.py;063;tight

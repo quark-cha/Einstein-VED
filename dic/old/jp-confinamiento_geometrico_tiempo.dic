@@ -1,0 +1,18 @@
+idioma;archivo;id;texto
+jp;confinamiento_geometrico_tiempo.py;0011;n=1: 滑らかな時空チューブ + 基本円波
+jp;confinamiento_geometrico_tiempo.py;0044;基本状態 n=1\n時空 + 円波
+jp;confinamiento_geometrico_tiempo.py;0056;n=3: 時空多様体 + 3節点波
+jp;confinamiento_geometrico_tiempo.py;0093;励起状態 n=3\n時空多様体 + 3節点
+jp;confinamiento_geometrico_tiempo.py;0105;並列比較 n=1対n=3
+jp;confinamiento_geometrico_tiempo.py;0132;n=1: 基本状態
+jp;confinamiento_geometrico_tiempo.py;0153;n=3: 励起状態
+jp;confinamiento_geometrico_tiempo.py;0164;dt曲線がn=1表面を生成する方法を示す
+jp;confinamiento_geometrico_tiempo.py;0202;生成 n=1: dt → 表面\n円曲線が円筒を生成
+jp;confinamiento_geometrico_tiempo.py;0214;dt曲線がn=3表面を生成する方法を示す
+jp;confinamiento_geometrico_tiempo.py;0257;生成 n=3: dt → 多様体\n節点曲線が幾何学を生成
+jp;confinamiento_geometrico_tiempo.py;0269;δtを通じた完全dt進化
+jp;confinamiento_geometrico_tiempo.py;0302;δt={t}
+jp;confinamiento_geometrico_tiempo.py;0309;時間的\n進化
+jp;confinamiento_geometrico_tiempo.py;0313;完全進化: dt → δt → n状態\nアインシュタイン-VED量子閉じ込め
+jp;confinamiento_geometrico_tiempo.py;0325;🎨 6完全アインシュタイン-VEDグラフ生成中...
+jp;confinamiento_geometrico_tiempo.py;0337;\n✅ 6完全グラフ:

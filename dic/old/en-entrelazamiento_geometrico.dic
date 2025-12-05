@@ -1,0 +1,136 @@
+idioma;archivo;id;texto
+en;entrelazamiento_geometrico.py;0009;Einstein Foundation
+en;entrelazamiento_geometrico.py;0032;QUANTUM ENTANGLEMENT: Geometric Explanation Einstein-VED
+en;entrelazamiento_geometrico.py;0049;Internal Frame: Shared Proper Time
+en;entrelazamiento_geometrico.py;0068;External Frame: Conventional Perspective
+en;entrelazamiento_geometrico.py;0073;SYMBOLOGY:\n\n
+en;entrelazamiento_geometrico.py;0074;🔴 Particle A (45°)\n
+en;entrelazamiento_geometrico.py;0075;🟢 Particle B (225°)\n
+en;entrelazamiento_geometrico.py;0076;⚫ Observer\n
+en;entrelazamiento_geometrico.py;0077;▬▬ Geometric connection\n
+en;entrelazamiento_geometrico.py;0078;▬▬ Line of sight
+en;entrelazamiento_geometrico.py;0084;round,pad=0.6
+en;entrelazamiento_geometrico.py;0088;WAVE FRONT
+en;entrelazamiento_geometrico.py;0090;EINSTEIN-VED KEY:\n\n
+en;entrelazamiento_geometrico.py;0091;Both particles (including antipodal)\nshare same proper space-time t₀, s₀\n\n
+en;entrelazamiento_geometrico.py;0092;Because: dt' → 0 and ds' → 0 at speed c\n\n
+en;entrelazamiento_geometrico.py;0095;No action at distance
+en;entrelazamiento_geometrico.py;0101;round,pad=0.8
+en;entrelazamiento_geometrico.py;0109;EINSTEIN-VED FOUNDATION:\n\n
+en;entrelazamiento_geometrico.py;0110;Entangled particles share a common proper space-time from their origin.
+en;entrelazamiento_geometrico.py;0111;When traveling at speed c, their proper time and space differentials tend to zero
+en;entrelazamiento_geometrico.py;0112;(dt' → 0, ds' → 0), keeping them connected at same instant t₀ and position s₀.
+en;entrelazamiento_geometrico.py;0113;This geometric simultaneity explains quantum correlations without violating relativity.
+en;entrelazamiento_geometrico.py;0119;round,pad=0.8
+en;entrelazamiento_geometrico.py;0125;FUNDAMENTAL EQUATIONS:\n\n
+en;entrelazamiento_geometrico.py;0126;For particles at speed c:\n
+en;entrelazamiento_geometrico.py;0130;Field equation:\n
+en;entrelazamiento_geometrico.py;0131;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+en;entrelazamiento_geometrico.py;0132;Absolute simultaneity in proper frame
+en;entrelazamiento_geometrico.py;0138;round,pad=0.8
+en;entrelazamiento_geometrico.py;0144;EINSTEIN-VED INTERPRETATION: Quantum entanglement ceases to be paradoxical when understood
+en;entrelazamiento_geometrico.py;0145;from space-time geometry. Particles generated in same event share a wave
+en;entrelazamiento_geometrico.py;0146;front where their proper time remains frozen at t₀. This intrinsic simultaneity explains
+en;entrelazamiento_geometrico.py;0147;perfect correlations without 'spooky action'. Quantum probability reflects limited
+en;entrelazamiento_geometrico.py;0148;observer perspective, not fundamental property.
+en;entrelazamiento_geometrico.py;0154;round,pad=0.8
+en;entrelazamiento_geometrico.py;0167;🎯 CREATING FINAL VERSION WITH BOXES AT SAME LEVEL...
+en;entrelazamiento_geometrico.py;0170;\n✨ CORRECTIONS APPLIED:
+en;entrelazamiento_geometrico.py;0171;• 'Einstein Foundation' and 'Equations' boxes at SAME LEVEL
+en;entrelazamiento_geometrico.py;0172;• WIDER Figure (16x10) to accommodate both
+en;entrelazamiento_geometrico.py;0173;• Balanced and symmetric design
+en;entrelazamiento_geometrico.py;0174;• Decoration and colors RESPECTED
+en;entrelazamiento_geometrico.py;0175;• ZERO overlaps
+en;entrelazamiento_geometrico.py;001;""""
+en;entrelazamiento_geometrico.py;002; and 
+en;entrelazamiento_geometrico.py;003;""" at same level"
+en;entrelazamiento_geometrico.py;004;SYMBOLOGY:\n\n
+en;entrelazamiento_geometrico.py;005;🔴 Particle A (45°)\n
+en;entrelazamiento_geometrico.py;006;🟢 Particle B (225°)\n
+en;entrelazamiento_geometrico.py;007;⚫ Observer\n
+en;entrelazamiento_geometrico.py;008;▬▬ Geometric connection\n
+en;entrelazamiento_geometrico.py;009;▬▬ Line of sight
+en;entrelazamiento_geometrico.py;010;round,pad=0.6
+en;entrelazamiento_geometrico.py;011;white
+en;entrelazamiento_geometrico.py;012;WAVE FRONT
+en;entrelazamiento_geometrico.py;013;EINSTEIN-VED KEY:\n\n
+en;entrelazamiento_geometrico.py;014;Both particles (including antipodal ones)\nshare the same proper space-time t₀, s₀\n\n
+en;entrelazamiento_geometrico.py;015;Because: dt' → 0 and ds' → 0 at speed c\n\n
+en;entrelazamiento_geometrico.py;016;t = t₀ + dt' → t₀\n
+en;entrelazamiento_geometrico.py;017;s = s₀ + ds' → s₀\n\n
+en;entrelazamiento_geometrico.py;018;No action at distance
+en;entrelazamiento_geometrico.py;019;round,pad=0.8
+en;entrelazamiento_geometrico.py;020;#fffacd
+en;entrelazamiento_geometrico.py;021;EINSTEIN-VED FOUNDATION:\n\n
+en;entrelazamiento_geometrico.py;022;Entangled particles share a common proper space-time from their origin. 
+en;entrelazamiento_geometrico.py;023;When traveling at speed c, their proper time and space differentials tend to zero 
+en;entrelazamiento_geometrico.py;024;(dt' → 0, ds' → 0), keeping them connected at the same instant t₀ and position s₀. 
+en;entrelazamiento_geometrico.py;025;This geometric simultaneity explains quantum correlations without violating relativity.
+en;entrelazamiento_geometrico.py;026;round,pad=0.8
+en;entrelazamiento_geometrico.py;027;#ffebee
+en;entrelazamiento_geometrico.py;028;FUNDAMENTAL EQUATIONS:\n\n
+en;entrelazamiento_geometrico.py;029;For particles at speed c:\n
+en;entrelazamiento_geometrico.py;030;• dt' → 0, ds' → 0\n
+en;entrelazamiento_geometrico.py;031;• t = t₀ + dt' → t₀\n
+en;entrelazamiento_geometrico.py;032;• s = s₀ + ds' → s₀\n\n
+en;entrelazamiento_geometrico.py;033;Field equation:\n
+en;entrelazamiento_geometrico.py;034;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+en;entrelazamiento_geometrico.py;035;Absolute simultaneity in proper frame
+en;entrelazamiento_geometrico.py;036;round,pad=0.8
+en;entrelazamiento_geometrico.py;037;#f0f8ff
+en;entrelazamiento_geometrico.py;038;EINSTEIN-VED INTERPRETATION: Quantum entanglement ceases to be paradoxical when understood 
+en;entrelazamiento_geometrico.py;039;from space-time geometry. Particles generated in the same event share a wave 
+en;entrelazamiento_geometrico.py;040;front where their proper time remains frozen at t₀. This intrinsic simultaneity explains 
+en;entrelazamiento_geometrico.py;041;perfect correlations without 'spooky action'. Quantum probability reflects the observer's 
+en;entrelazamiento_geometrico.py;042;limited perspective, not fundamental property.
+en;entrelazamiento_geometrico.py;043;round,pad=0.8
+en;entrelazamiento_geometrico.py;044;#f5f5f5
+en;entrelazamiento_geometrico.py;045;__main__
+en;entrelazamiento_geometrico.py;046;🎯 CREATING FINAL VERSION WITH BOXES AT SAME LEVEL...
+en;entrelazamiento_geometrico.py;047;\n✨ CORRECTIONS APPLIED:
+en;entrelazamiento_geometrico.py;048;   • 'Einstein Foundation' and 'Equations' boxes at SAME LEVEL
+en;entrelazamiento_geometrico.py;049;   • WIDER figure (16x10) to accommodate both
+en;entrelazamiento_geometrico.py;050;   • Balanced and symmetric design
+en;entrelazamiento_geometrico.py;051;   • Decoration and colors RESPECTED
+en;entrelazamiento_geometrico.py;052;   • ZERO overlaps
+en;entrelazamiento_geometrico.py;053;QUANTUM ENTANGLEMENT: Einstein-VED Geometric Explanation
+en;entrelazamiento_geometrico.py;054;bold
+en;entrelazamiento_geometrico.py;055;blue
+en;entrelazamiento_geometrico.py;056;k--
+en;entrelazamiento_geometrico.py;057;equal
+en;entrelazamiento_geometrico.py;058;Internal Frame: Shared Proper Time
+en;entrelazamiento_geometrico.py;059;bold
+en;entrelazamiento_geometrico.py;060;blue
+en;entrelazamiento_geometrico.py;061;equal
+en;entrelazamiento_geometrico.py;062;External Frame: Conventional Perspective
+en;entrelazamiento_geometrico.py;063;bold
+en;entrelazamiento_geometrico.py;064;left
+en;entrelazamiento_geometrico.py;065;center
+en;entrelazamiento_geometrico.py;066;bold
+en;entrelazamiento_geometrico.py;067;gray
+en;entrelazamiento_geometrico.py;068; → 0 and ds
+en;entrelazamiento_geometrico.py;069;""" → t₀\n"""""
+en;entrelazamiento_geometrico.py;070;center
+en;entrelazamiento_geometrico.py;071;center
+en;entrelazamiento_geometrico.py;072;bold
+en;entrelazamiento_geometrico.py;073;orange
+en;entrelazamiento_geometrico.py;074; → 0, ds
+en;entrelazamiento_geometrico.py;075;center
+en;entrelazamiento_geometrico.py;076;center
+en;entrelazamiento_geometrico.py;077;italic
+en;entrelazamiento_geometrico.py;078;red
+en;entrelazamiento_geometrico.py;079; → 0, ds
+en;entrelazamiento_geometrico.py;080;""" → t₀\n"""" "
+en;entrelazamiento_geometrico.py;081;center
+en;entrelazamiento_geometrico.py;082;center
+en;entrelazamiento_geometrico.py;083;bold
+en;entrelazamiento_geometrico.py;084;blue
+en;entrelazamiento_geometrico.py;085;spooky action
+en;entrelazamiento_geometrico.py;086;center
+en;entrelazamiento_geometrico.py;087;center
+en;entrelazamiento_geometrico.py;088;black
+en;entrelazamiento_geometrico.py;089;svg
+en;entrelazamiento_geometrico.py;090;tight
+en;entrelazamiento_geometrico.py;091;white
+en;entrelazamiento_geometrico.py;092;Einstein Foundation
+en;entrelazamiento_geometrico.py;093;Equations

@@ -1,0 +1,202 @@
+idioma,archivo,id,texto
+es,0-busca-regenera.py,1,dic
+es,0-busca-regenera.py,2,global.csv
+es,0-busca-regenera.py,3,es-*.dic
+es,0-busca-regenera.py,4,es-
+es,0-busca-regenera.py,5,.dic
+es,0-busca-regenera.py,6,utf-8
+es,0-busca-regenera.py,7,*-*.dic
+es,0-busca-regenera.py,8,es-
+es,0-busca-regenera.py,9,utf-8
+es,0-busca-regenera.py,10,.py
+es,0-busca-regenera.py,11,{idioma}-{archivo_sinpy}.dic
+es,0-busca-regenera.py,12,utf-8
+es,0-busca-regenera.py,13,idioma
+es,0-busca-regenera.py,14,archivo
+es,0-busca-regenera.py,15,texto
+es,0-busca-regenera.py,16,❌ No se encuentra {GLOBAL_CSV}
+es,0-busca-regenera.py,17,utf-8
+es,0-busca-regenera.py,18,\rProcesando línea: {cuenta_lineas}
+es,0-busca-regenera.py,19,\n\n===== Guardando diccionarios actualizados =====
+es,0-busca-regenera.py,20,\n===== Estadísticas finales =====
+es,0-busca-regenera.py,21,Idioma: {idioma}
+es,0-busca-regenera.py,22,Correcto
+es,0-busca-regenera.py,23,"Incompleto, faltan {total_es - total_idioma} líneas"
+es,0-busca-regenera.py,24,Diccionario {idioma}-{archivo}: {total_idioma}/{total_es} líneas → {estado}
+es,0-busca-regenera.py,25,Procesado completado para idiomas:
+es,0-busca-regenera.py,26,__main__
+es,1-init-dic.py,1,todas
+es,1-init-dic.py,2,todo
+es,1-init-dic.py,3,todas
+es,1-init-dic.py,4,todo
+es,1-init-dic.py,5,tmp
+es,1-init-dic.py,6,..\\log
+es,1-init-dic.py,7,"Procesa un CSV de traducciones, validando con el diccionario español.
+    Retorna las líneas válidas para reincorporar al diccionario de cada idioma."
+es,1-init-dic.py,8,Renombra un CSV procesado para evitar reprocesarlo.
+es,1-init-dic.py,9,_procesado
+es,1-init-dic.py,10,Ejecuta la actualización de diccionarios desde CSV.
+es,1-init-dic.py,11,todas
+es,1-init-dic.py,12,todo
+es,1-init-dic.py,13,*.csv
+es,1-init-dic.py,14,__main__
+es,1-init-dic.py,15,todas
+es,1-init-dic.py,16,todo
+es,1-init-dic.py,17,todas
+es,1-init-dic.py,18,todo
+es,1-init-dic.py,19,tmp
+es,1-init-dic.py,20,..\\log
+es,1-init-dic.py,21,"Procesa un CSV de traducciones, validando con el diccionario español.
+    Retorna las líneas válidas para reincorporar al diccionario de cada idioma."
+es,1-init-dic.py,22,Renombra un CSV procesado para evitar reprocesarlo.
+es,1-init-dic.py,23,_procesado
+es,1-init-dic.py,24,Ejecuta la actualización de diccionarios desde CSV.
+es,1-init-dic.py,25,todas
+es,1-init-dic.py,26,todo
+es,1-init-dic.py,27,*.csv
+es,1-init-dic.py,28,__main__
+es,1-init-dic.py,29,utf-8
+es,1-init-dic.py,30,utf-8
+es,md_to_pdf.py,1,MD2HTML_MATHPLC_{}
+es,md_to_pdf.py,2,"Extrae $...$, $$...$$ y \[...\] como placeholders."
+es,md_to_pdf.py,3,display
+es,md_to_pdf.py,4,\$\$\s*([\s\S]+?)\s*\$\$
+es,md_to_pdf.py,5,display
+es,md_to_pdf.py,6,\\\[\s*([\s\S]+?)\s*\\\]
+es,md_to_pdf.py,7,inline
+es,md_to_pdf.py,8,(?<!\$)\$(?!\$)([^$\n]+?)(?<!\$)\$(?!\$)
+es,md_to_pdf.py,9,Reemplaza los placeholders por delimitadores MathJax.
+es,md_to_pdf.py,10,</script>
+es,md_to_pdf.py,11,<\\/script>
+es,md_to_pdf.py,12,\\({code_safe}\\)
+es,md_to_pdf.py,13,inline
+es,md_to_pdf.py,14,\\[{code_safe}\\]
+es,md_to_pdf.py,15,MD2HTML_MATHPLC_(\d+)
+es,md_to_pdf.py,16,Determina el MIME type correcto para la imagen.
+es,md_to_pdf.py,17,Convierte imágenes locales en data URIs con manejo especial para SVG.
+es,md_to_pdf.py,18,http
+es,md_to_pdf.py,19,data:
+es,md_to_pdf.py,20,Imagen no encontrada: {src}
+es,md_to_pdf.py,21,background:#ffebee; padding:10px; border:1px solid red;
+es,md_to_pdf.py,22,auto
+es,md_to_pdf.py,23,"data:image/svg+xml;base64,{svg_encoded}"
+es,md_to_pdf.py,24,max-width:100%; height:auto;
+es,md_to_pdf.py,25,"data:{mime_type};base64,{data}"
+es,md_to_pdf.py,26,max-width:100%; height:auto;
+es,md_to_pdf.py,27,Error procesando imagen {src}: {e}
+es,md_to_pdf.py,28,background:#ffebee; padding:10px; border:1px solid red;
+es,md_to_pdf.py,29,"[^>]*>', repl, html, flags=re.IGNORECASE)
+
+HTML_TEMPLATE ="
+es,md_to_pdf.py,30,utf-8
+es,md_to_pdf.py,31,data:image
+es,md_to_pdf.py,32,svg
+es,md_to_pdf.py,33,svg
+es,md_to_pdf.py,34,https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js
+es,md_to_pdf.py,35,container
+es,md_to_pdf.py,36,"def md_to_pdf(md_path: Path):
+    out_pdf = md_path.with_suffix("
+es,md_to_pdf.py,37,")
+    md_text = md_path.read_text(encoding="
+es,md_to_pdf.py,38,")
+
+    no_math = extract_math(md_text)
+
+    md = markdown.Markdown(extensions=["
+es,md_to_pdf.py,39,"])
+    html_body = md.convert(no_math)
+
+    html_body = restore_math(html_body)
+    html_body = embed_images(html_body, md_path.parent)
+
+    full_html = HTML_TEMPLATE.format(body=html_body)
+
+    with tempfile.NamedTemporaryFile("
+es,md_to_pdf.py,40,", encoding="
+es,md_to_pdf.py,41,", suffix="
+es,md_to_pdf.py,42,", delete=False) as f:
+        tmp_html_path = Path(f.name)
+        f.write(full_html)
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch()
+        page = browser.new_page()
+        
+        # Viewport para A4
+        page.set_viewport_size({"
+es,md_to_pdf.py,43,": 1123})
+        
+        # SOLUCIÓN AL TIMEOUT: usar wait_for_timeout en lugar de wait_for_load_state
+        page.goto(tmp_html_path.as_uri())
+        page.wait_for_timeout(5000)  # 5 segundos para cargar todo
+        
+        try:
+            page.evaluate("
+es,md_to_pdf.py,44,")
+            page.wait_for_timeout(2000)
+        except Exception:
+            pass
+        
+        # Generar PDF
+        page.pdf(
+            path=str(out_pdf), 
+            format="
+es,md_to_pdf.py,45,", 
+            print_background=True,
+            margin={"
+es,md_to_pdf.py,46,"},
+            prefer_css_page_size=True
+        )
+        browser.close()
+
+    try:
+        tmp_html_path.unlink()
+    except Exception:
+        pass
+
+    print(f"
+es,md_to_pdf.py,47,")
+
+def main():
+    if len(sys.argv) < 2:
+        print("
+es,md_to_pdf.py,48,")
+        sys.exit(1)
+    md_file = Path(sys.argv[1])
+    if not md_file.exists():
+        print(f"
+es,md_to_pdf.py,49,")
+        sys.exit(1)
+    md_to_pdf(md_file)
+
+if __name__ =="
+es,md_to_pdf.py,50,.png
+es,md_to_pdf.py,51,image/png
+es,md_to_pdf.py,52,.jpg
+es,md_to_pdf.py,53,image/jpeg
+es,md_to_pdf.py,54,.jpeg
+es,md_to_pdf.py,55,image/jpeg
+es,md_to_pdf.py,56,.gif
+es,md_to_pdf.py,57,image/gif
+es,md_to_pdf.py,58,.webp
+es,md_to_pdf.py,59,image/webp
+es,md_to_pdf.py,60,.svg
+es,md_to_pdf.py,61,image/svg+xml
+es,md_to_pdf.py,62,.mng
+es,md_to_pdf.py,63,video/mng
+es,md_to_pdf.py,64,application/octet-stream
+es,md_to_pdf.py,65,"<div style=""background:#ffebee; padding:10px; border:1px solid red;""> Imagen no encontrada: {src}</div>"
+es,md_to_pdf.py,66,.svg
+es,md_to_pdf.py,67,utf-8
+es,md_to_pdf.py,68,width=
+es,md_to_pdf.py,69,viewBox=
+es,md_to_pdf.py,70,<svg
+es,md_to_pdf.py,71,"<svg width=""100%"" height=""auto"""
+es,md_to_pdf.py,72,utf-8
+es,md_to_pdf.py,73,ascii
+es,md_to_pdf.py,74,"<img src=""data:image/svg+xml;base64,{svg_encoded}"" style=""max-width:100%; height:auto;"">"
+es,md_to_pdf.py,75,ascii
+es,md_to_pdf.py,76,"<img src=""data:{mime_type};base64,{data}"" style=""max-width:100%; height:auto;"">"
+es,md_to_pdf.py,77,"<div style=""background:#ffebee; padding:10px; border:1px solid red;""> Error cargando imagen: {src}</div>"
+es,md_to_pdf.py,78,"<img[^>]*src=""([^""]+)""[^>]*>"
+es,md_to_pdf.py,79,global

@@ -1,0 +1,26 @@
+idioma;archivo;id;texto
+jp;confinamiento_geometrico.py;0023;波動 ψ(x)
+jp;confinamiento_geometrico.py;0026;位置 x
+jp;confinamiento_geometrico.py;0027;振幅 ψ(x)
+jp;confinamiento_geometrico.py;0028;アインシュタイン-VED閉じ込め: 波動 → 粒子
+jp;confinamiento_geometrico.py;0043;位置 x
+jp;confinamiento_geometrico.py;0044;振幅 ψ(x)
+jp;confinamiento_geometrico.py;0045;1. 平面表面の正弦波
+jp;confinamiento_geometrico.py;0064;2. 遷移: 巻き付け ({progress*100:.0f}%)
+jp;confinamiento_geometrico.py;0065;X座標
+jp;confinamiento_geometrico.py;0066;Y座標
+jp;confinamiento_geometrico.py;0076;閉じ込め (n={n_cycles})
+jp;confinamiento_geometrico.py;0077;アインシュタイン-VED条件: L = {n_cycles}λ
+jp;confinamiento_geometrico.py;0080;3. 自己閉じ込め波動 - 安定粒子
+jp;confinamiento_geometrico.py;0081;X座標
+jp;confinamiento_geometrico.py;0082;Y座標
+jp;confinamiento_geometrico.py;0118;a) 自由平面波
+jp;confinamiento_geometrico.py;0119;位置 x
+jp;confinamiento_geometrico.py;0120;振幅 ψ(x)
+jp;confinamiento_geometrico.py;0137;b) 遷移
+jp;confinamiento_geometrico.py;0138;X座標
+jp;confinamiento_geometrico.py;0139;Y座標
+jp;confinamiento_geometrico.py;0155;c) 閉じ込め n=3\nL = 3λ
+jp;confinamiento_geometrico.py;0156;X座標
+jp;confinamiento_geometrico.py;0157;Y座標
+jp;confinamiento_geometrico.py;0159;条件: L = nλ

@@ -1,0 +1,112 @@
+idioma;archivo;id;texto
+en;proton_comparativa_destacado.py;0021;Calculate ±3σ range for visualization
+en;proton_comparativa_destacado.py;0045;MC: Probabilistic
+en;proton_comparativa_destacado.py;0047;LHC: Experimental
+en;proton_comparativa_destacado.py;0049;Einstein-VED: Deterministic
+en;proton_comparativa_destacado.py;0062;Quantum Mechanics
+en;proton_comparativa_destacado.py;0063;Proton Radius (fm)
+en;proton_comparativa_destacado.py;0064;Proton Radius Estimates\nwith ±3σ Ranges
+en;proton_comparativa_destacado.py;0080;round,pad=0.3
+en;proton_comparativa_destacado.py;001;#377eb8
+en;proton_comparativa_destacado.py;002;#4daf4a
+en;proton_comparativa_destacado.py;003;#e41a1c
+en;proton_comparativa_destacado.py;004;#f0f0f0
+en;proton_comparativa_destacado.py;005;Calculates ±3σ range for visualization
+en;proton_comparativa_destacado.py;006;""""
+en;proton_comparativa_destacado.py;007;EINSTEIN-VED: Deterministic space-time geometry. 
+en;proton_comparativa_destacado.py;008;Exact radii without fundamental probability. 
+en;proton_comparativa_destacado.py;009;Matter = confined space-time.
+en;proton_comparativa_destacado.py;010;round,pad=0.3
+en;proton_comparativa_destacado.py;011;#ffebee
+en;proton_comparativa_destacado.py;012;{mc_min:.3f}
+en;proton_comparativa_destacado.py;013;{mc_mean:.3f}
+en;proton_comparativa_destacado.py;014;{mc_max:.3f}
+en;proton_comparativa_destacado.py;015;LHC
+en;proton_comparativa_destacado.py;016;{lhc_min:.3f}
+en;proton_comparativa_destacado.py;017;{lhc_mean:.5f}
+en;proton_comparativa_destacado.py;018;{lhc_max:.3f}
+en;proton_comparativa_destacado.py;019;VED
+en;proton_comparativa_destacado.py;020;{ved_min:.3f}
+en;proton_comparativa_destacado.py;021;{ved_mean:.3f}
+en;proton_comparativa_destacado.py;022;{ved_max:.3f}
+en;proton_comparativa_destacado.py;023;Minimum
+en;proton_comparativa_destacado.py;024;Mean
+en;proton_comparativa_destacado.py;025;Maximum
+en;proton_comparativa_destacado.py;026;Ranges (±3σ) in fm
+en;proton_comparativa_destacado.py;027;round,pad=0.2
+en;proton_comparativa_destacado.py;028;white
+en;proton_comparativa_destacado.py;029;round,pad=0.3
+en;proton_comparativa_destacado.py;030;#ffebee
+en;proton_comparativa_destacado.py;031;round,pad=0.3
+en;proton_comparativa_destacado.py;032;#e8f4fd
+en;proton_comparativa_destacado.py;033;round,pad=0.3
+en;proton_comparativa_destacado.py;034;#ffebee
+en;proton_comparativa_destacado.py;035;PROTON RADII COMPARISON: 
+en;proton_comparativa_destacado.py;036;QM={mc_mean:.3f}±{3*MC_sigma:.3f} fm (±{(3*MC_sigma/mc_mean*100):.0f}%) | 
+en;proton_comparativa_destacado.py;037;LHC={lhc_mean:.5f}±{3*LHC_sigma:.3f} fm (±{(3*LHC_sigma/lhc_mean*100):.1f}%) | 
+en;proton_comparativa_destacado.py;038;VED={ved_mean:.3f}±{3*VED_sigma:.3f} fm (±{(3*VED_sigma/ved_mean*100):.1f}%) | 
+en;proton_comparativa_destacado.py;039;Einstein-VED: deterministic values from space-time geometry.
+en;proton_comparativa_destacado.py;040;__main__
+en;proton_comparativa_destacado.py;041;🔄 CREATING CORRECTED DOUBLE SCALE PLOT...
+en;proton_comparativa_destacado.py;042;✨ Corrected double scale plot created with:
+en;proton_comparativa_destacado.py;043;   • Legend moved down: bbox_to_anchor=(0.02, 0.75)
+en;proton_comparativa_destacado.py;044;   • No overlap with Einstein-VED box
+en;proton_comparativa_destacado.py;045;   • Maintains all previous improvements
+en;proton_comparativa_destacado.py;046;   • Well distributed and readable text
+en;proton_comparativa_destacado.py;047;font.size
+en;proton_comparativa_destacado.py;048;axes.titlesize
+en;proton_comparativa_destacado.py;049;axes.labelsize
+en;proton_comparativa_destacado.py;050;xtick.labelsize
+en;proton_comparativa_destacado.py;051;ytick.labelsize
+en;proton_comparativa_destacado.py;052;legend.fontsize
+en;proton_comparativa_destacado.py;053;figure.titlesize
+en;proton_comparativa_destacado.py;054;white
+en;proton_comparativa_destacado.py;055;white
+en;proton_comparativa_destacado.py;056;QM: Probabilistic model
+en;proton_comparativa_destacado.py;057;LHC: Experimental data
+en;proton_comparativa_destacado.py;058;Einstein-VED: Geometric model
+en;proton_comparativa_destacado.py;059;black
+en;proton_comparativa_destacado.py;060;Quantum\nMechanics
+en;proton_comparativa_destacado.py;061;LHC\nExperimental
+en;proton_comparativa_destacado.py;062;Einstein-VED
+en;proton_comparativa_destacado.py;063;Proton Radius (fm)
+en;proton_comparativa_destacado.py;064;bold
+en;proton_comparativa_destacado.py;065;EINSTEIN-VED PREDICTION vs EXPERIMENTAL DATA\n(Region of interest: 0.72-0.84 fm)
+en;proton_comparativa_destacado.py;066;bold
+en;proton_comparativa_destacado.py;067;top
+en;proton_comparativa_destacado.py;068;bold
+en;proton_comparativa_destacado.py;069;upper left
+en;proton_comparativa_destacado.py;070;QM: Probabilistic model
+en;proton_comparativa_destacado.py;071;LHC: Experimental data
+en;proton_comparativa_destacado.py;072;Einstein-VED: Geometric model
+en;proton_comparativa_destacado.py;073;black
+en;proton_comparativa_destacado.py;074;Quantum\nMechanics
+en;proton_comparativa_destacado.py;075;LHC\nExperimental
+en;proton_comparativa_destacado.py;076;Einstein-VED
+en;proton_comparativa_destacado.py;077;Proton Radius (fm)
+en;proton_comparativa_destacado.py;078;bold
+en;proton_comparativa_destacado.py;079;COMPLETE COMPARISON: QM Uncertainty vs VED Precision\n(Full scale: 0.1-1.9 fm)
+en;proton_comparativa_destacado.py;080;bold
+en;proton_comparativa_destacado.py;081;upper right
+en;proton_comparativa_destacado.py;082;center
+en;proton_comparativa_destacado.py;083;center
+en;proton_comparativa_destacado.py;084;center
+en;proton_comparativa_destacado.py;085;#dddddd
+en;proton_comparativa_destacado.py;086;bold
+en;proton_comparativa_destacado.py;087;#eeeeee
+en;proton_comparativa_destacado.py;088;bold
+en;proton_comparativa_destacado.py;089;bold
+en;proton_comparativa_destacado.py;090;center
+en;proton_comparativa_destacado.py;091;EXACT PREDICTION\nDETERMINISTIC GEOMETRY
+en;proton_comparativa_destacado.py;092;center
+en;proton_comparativa_destacado.py;093;bold
+en;proton_comparativa_destacado.py;094;HIGH QM UNCERTAINTY\n(±0.9 fm = ±90%)
+en;proton_comparativa_destacado.py;095;center
+en;proton_comparativa_destacado.py;096;bold
+en;proton_comparativa_destacado.py;097;VED PRECISION\n(±0.045 fm = ±5.8%)
+en;proton_comparativa_destacado.py;098;center
+en;proton_comparativa_destacado.py;099;bold
+en;proton_comparativa_destacado.py;100;center
+en;proton_comparativa_destacado.py;101;italic
+en;proton_comparativa_destacado.py;102;svg
+en;proton_comparativa_destacado.py;103;tight

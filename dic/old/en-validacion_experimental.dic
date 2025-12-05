@@ -1,0 +1,126 @@
+idioma;archivo;id;texto
+en;validacion_experimental.py;0020;Generates comparison with EXACT EINSTEIN-VED PREDICTIONS
+en;validacion_experimental.py;0027;Proton
+en;validacion_experimental.py;0036;Einstein-VED
+en;validacion_experimental.py;0038;LHC (Experimental)
+en;validacion_experimental.py;0040;Nucleon
+en;validacion_experimental.py;0041;Charge Radius (fm)
+en;validacion_experimental.py;0042;a) Nuclear Radii: VED vs Experimental\n(Accuracy >99%)
+en;validacion_experimental.py;0053;{precision:.1f}%
+en;validacion_experimental.py;0060;Proton (LHC)
+en;validacion_experimental.py;0073;Size (fm)
+en;validacion_experimental.py;0074;b) VED Prediction: Quarks NOT Point-like
+en;validacion_experimental.py;0079;{long*1e15:.3f} fm
+en;validacion_experimental.py;0089;ro-
+en;validacion_experimental.py;0090;Mass (eV/c²) - Log scale
+en;validacion_experimental.py;0091;Compton Length (m) - Log scale
+en;validacion_experimental.py;0092;c) Mass-Size Relation Einstein-VED\nλ = h/mc
+en;validacion_experimental.py;0096;electron
+en;validacion_experimental.py;0098;offset points
+en;validacion_experimental.py;0103;EINSTEIN-VED PREDICTIONS:
+en;validacion_experimental.py;0104;• EXACT Radii from first principles
+en;validacion_experimental.py;0105;• Quarks: ~0.05 fm (NOT point-like)
+en;validacion_experimental.py;0106;• No probabilities - Deterministic values
+en;validacion_experimental.py;0108;FOUNDATION:
+en;validacion_experimental.py;0109;• Known mass → Exact Compton length
+en;validacion_experimental.py;0110;• Confinement: L = nλ (n integer)
+en;validacion_experimental.py;0111;• Geometry → Exact structure
+en;validacion_experimental.py;0113;FUTURE VERIFICATION:\nImproved LHC will confirm\npredicted quark structure
+en;validacion_experimental.py;0121;EINSTEIN-VED PREDICTIONS: Exact Geometry vs Experimental Data\n
+en;validacion_experimental.py;0122;From atoms to quarks - All sizes exactly calculable
+en;validacion_experimental.py;0130;EXACT EINSTEIN-VED PREDICTIONS
+en;validacion_experimental.py;0133;\nACCURACY vs EXPERIMENTAL:
+en;validacion_experimental.py;0134;Proton:  {precisiones_ved[0]:.2f}%
+en;validacion_experimental.py;0135;Neutron: {precisiones_ved[1]:.2f}%
+en;validacion_experimental.py;0137;\nQUARK PREDICTION:
+en;validacion_experimental.py;0138;Minimum quark size (VED): {datos_experimentales['prediccion_quark_ved']*1e15:.3f} fm
+en;validacion_experimental.py;0139;Current experimental limit: < 0.001 fm
+en;validacion_experimental.py;0140;Conclusion: Quarks CANNOT be point-like
+en;validacion_experimental.py;0142;\nMASS-SIZE RELATION:
+en;validacion_experimental.py;0145;Quark down (4.8 MeV): {4.1e-16:.2e} m
+en;validacion_experimental.py;0148;🔬 GENERATING EINSTEIN-VED PREDICTIONS...
+en;validacion_experimental.py;0150;✅ PREDICTION GRAPH GENERATEDidioma
+en;validacion_experimental.py;001;proton_radius
+en;validacion_experimental.py;002;neutron_radius
+en;validacion_experimental.py;003;quark_ved_prediction
+en;validacion_experimental.py;004;Generates comparison with EXACT Einstein-VED PREDICTIONS
+en;validacion_experimental.py;005;proton_radius
+en;validacion_experimental.py;006;neutron_radius
+en;validacion_experimental.py;007;round
+en;validacion_experimental.py;008;yellow
+en;validacion_experimental.py;009;point-like
+en;validacion_experimental.py;010;proton_radius
+en;validacion_experimental.py;011;quark_ved_prediction
+en;validacion_experimental.py;012;round
+en;validacion_experimental.py;013;lightgreen
+en;validacion_experimental.py;014;EXACT EINSTEIN-VED PREDICTIONS
+en;validacion_experimental.py;015;\nACCURACY vs EXPERIMENTAL:
+en;validacion_experimental.py;016;Proton:  {precisiones_ved[0]:.2f}%
+en;validacion_experimental.py;017;Neutron: {precisiones_ved[1]:.2f}%
+en;validacion_experimental.py;018;\nQUARK PREDICTION:
+en;validacion_experimental.py;019;Minimum quark size (VED): {datos_experimentales['prediccion_quark_ved']*1e15:.3f} fm
+en;validacion_experimental.py;020;Current experimental limit: < 0.001 fm
+en;validacion_experimental.py;021;Conclusion: Quarks CANNOT be point-like
+en;validacion_experimental.py;022;\nMASS-SIZE RELATION:
+en;validacion_experimental.py;023;Electron (0.511 MeV): {2.426e-12:.2e} m
+en;validacion_experimental.py;024;Quark up (2.3 MeV):   {8.6e-16:.2e} m
+en;validacion_experimental.py;025;Quark down (4.8 MeV): {4.1e-16:.2e} m
+en;validacion_experimental.py;026;🔬 GENERATING EINSTEIN-VED PREDICTIONS...
+en;validacion_experimental.py;027;✅ PREDICTION PLOT GENERATED
+en;validacion_experimental.py;028;Proton
+en;validacion_experimental.py;029;Neutron
+en;validacion_experimental.py;030;Einstein-VED
+en;validacion_experimental.py;031;red
+en;validacion_experimental.py;032;LHC (Experimental)
+en;validacion_experimental.py;033;green
+en;validacion_experimental.py;034;Nucleon
+en;validacion_experimental.py;035;Charge Radius (fm)
+en;validacion_experimental.py;036;a) Nuclear Radii: VED vs Experimental\n(Accuracy >99%)
+en;validacion_experimental.py;037;{precision:.1f}%
+en;validacion_experimental.py;038;center
+en;validacion_experimental.py;039;bottom
+en;validacion_experimental.py;040;bold
+en;validacion_experimental.py;041;Proton (LHC)
+en;validacion_experimental.py;042;Quark (VED)
+en;validacion_experimental.py;043;"""Point-like"""" limit"""
+en;validacion_experimental.py;044;red
+en;validacion_experimental.py;045;blue
+en;validacion_experimental.py;046;gray
+en;validacion_experimental.py;047;Size (fm)
+en;validacion_experimental.py;048;b) VED Prediction: Quarks NOT Point-like
+en;validacion_experimental.py;049;{long*1e15:.3f} fm
+en;validacion_experimental.py;050;center
+en;validacion_experimental.py;051;bold
+en;validacion_experimental.py;052;ro-
+en;validacion_experimental.py;053;Mass (eV/c²) - Log scale
+en;validacion_experimental.py;054;Compton Length (m) - Log scale
+en;validacion_experimental.py;055;c) Mass-Size Relation Einstein-VED\nλ = h/mc
+en;validacion_experimental.py;056;electron
+en;validacion_experimental.py;057;quark up
+en;validacion_experimental.py;058;quark down
+en;validacion_experimental.py;059;muon
+en;validacion_experimental.py;060;offset points
+en;validacion_experimental.py;061;EINSTEIN-VED PREDICTIONS:
+en;validacion_experimental.py;062;bold
+en;validacion_experimental.py;063;red
+en;validacion_experimental.py;064;• EXACT radii from first principles
+en;validacion_experimental.py;065;red
+en;validacion_experimental.py;066;• Quarks: ~0.05 fm (NOT point-like)
+en;validacion_experimental.py;067;red
+en;validacion_experimental.py;068;• No probabilities - Deterministic values
+en;validacion_experimental.py;069;red
+en;validacion_experimental.py;070;FOUNDATION:
+en;validacion_experimental.py;071;bold
+en;validacion_experimental.py;072;• Known mass → Exact Compton length
+en;validacion_experimental.py;073;• Confinement: L = nλ (n integer)
+en;validacion_experimental.py;074;• Geometry → Exact structure
+en;validacion_experimental.py;075;FUTURE VERIFICATION:\nImproved LHC will confirm\npredicted quark structure
+en;validacion_experimental.py;076;center
+en;validacion_experimental.py;077;bold
+en;validacion_experimental.py;078;off
+en;validacion_experimental.py;079;EINSTEIN-VED PREDICTIONS: Exact Geometry vs Experimental Data\n
+en;validacion_experimental.py;080;From atoms to quarks - All sizes calculable exactly
+en;validacion_experimental.py;081;bold
+en;validacion_experimental.py;082;svg
+en;validacion_experimental.py;083;tight
+en;validacion_experimental.py;084;quark_ved_predictionidioma

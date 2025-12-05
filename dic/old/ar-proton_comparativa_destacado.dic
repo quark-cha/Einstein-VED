@@ -1,0 +1,104 @@
+idioma;archivo;id;texto
+ar;proton_comparativa_destacado.py;001;#377eb8
+ar;proton_comparativa_destacado.py;002;#4daf4a
+ar;proton_comparativa_destacado.py;003;#e41a1c
+ar;proton_comparativa_destacado.py;004;#f0f0f0
+ar;proton_comparativa_destacado.py;005;يحسب نطاق ±3σ للعرض
+ar;proton_comparativa_destacado.py;006;""""
+ar;proton_comparativa_destacado.py;007;أينشتاين-فيد: هندسة زمكانية حتمية. 
+ar;proton_comparativa_destacado.py;008;أنصاف أقطار دقيقة بدون احتمالية أساسية. 
+ar;proton_comparativa_destacado.py;009;المادة = زمكان محصور.
+ar;proton_comparativa_destacado.py;010;round,pad=0.3
+ar;proton_comparativa_destacado.py;011;#ffebee
+ar;proton_comparativa_destacado.py;012;{mc_min:.3f}
+ar;proton_comparativa_destacado.py;013;{mc_mean:.3f}
+ar;proton_comparativa_destacado.py;014;{mc_max:.3f}
+ar;proton_comparativa_destacado.py;015;LHC
+ar;proton_comparativa_destacado.py;016;{lhc_min:.3f}
+ar;proton_comparativa_destacado.py;017;{lhc_mean:.5f}
+ar;proton_comparativa_destacado.py;018;{lhc_max:.3f}
+ar;proton_comparativa_destacado.py;019;فيد
+ar;proton_comparativa_destacado.py;020;{ved_min:.3f}
+ar;proton_comparativa_destacado.py;021;{ved_mean:.3f}
+ar;proton_comparativa_destacado.py;022;{ved_max:.3f}
+ar;proton_comparativa_destacado.py;023;الحد الأدنى
+ar;proton_comparativa_destacado.py;024;المتوسط
+ar;proton_comparativa_destacado.py;025;الحد الأقصى
+ar;proton_comparativa_destacado.py;026;النطاقات (±3σ) بالـ fm
+ar;proton_comparativa_destacado.py;027;round,pad=0.2
+ar;proton_comparativa_destacado.py;028;white
+ar;proton_comparativa_destacado.py;029;round,pad=0.3
+ar;proton_comparativa_destacado.py;030;#ffebee
+ar;proton_comparativa_destacado.py;031;round,pad=0.3
+ar;proton_comparativa_destacado.py;032;#e8f4fd
+ar;proton_comparativa_destacado.py;033;round,pad=0.3
+ar;proton_comparativa_destacado.py;034;#ffebee
+ar;proton_comparativa_destacado.py;035;مقارنة أنصاف أقطار البروتون: 
+ar;proton_comparativa_destacado.py;036;ميكانيكا الكم={mc_mean:.3f}±{3*MC_sigma:.3f} fm (±{(3*MC_sigma/mc_mean*100):.0f}%) | 
+ar;proton_comparativa_destacado.py;037;LHC={lhc_mean:.5f}±{3*LHC_sigma:.3f} fm (±{(3*LHC_sigma/lhc_mean*100):.1f}%) | 
+ar;proton_comparativa_destacado.py;038;فيد={ved_mean:.3f}±{3*VED_sigma:.3f} fm (±{(3*VED_sigma/ved_mean*100):.1f}%) | 
+ar;proton_comparativa_destacado.py;039;أينشتاين-فيد: قيم حتمية من هندسة الزمكان.
+ar;proton_comparativa_destacado.py;040;__main__
+ar;proton_comparativa_destacado.py;041;🔄 جاري إنشاء رسم مزدوج بمقياس مصحح...
+ar;proton_comparativa_destacado.py;042;✨ تم إنشاء رسم مقياس مزدوج مصحح مع:
+ar;proton_comparativa_destacado.py;043;   • وسيلة منقولة للأسفل: bbox_to_anchor=(0.02, 0.75)
+ar;proton_comparativa_destacado.py;044;   • لا تداخل مع مربع أينشتاين-فيد
+ar;proton_comparativa_destacado.py;045;   • يحتفظ بجميع التحسينات السابقة
+ar;proton_comparativa_destacado.py;046;   • نص موزع جيدًا وقابل للقراءة
+ar;proton_comparativa_destacado.py;047;font.size
+ar;proton_comparativa_destacado.py;048;axes.titlesize
+ar;proton_comparativa_destacado.py;049;axes.labelsize
+ar;proton_comparativa_destacado.py;050;xtick.labelsize
+ar;proton_comparativa_destacado.py;051;ytick.labelsize
+ar;proton_comparativa_destacado.py;052;legend.fontsize
+ar;proton_comparativa_destacado.py;053;figure.titlesize
+ar;proton_comparativa_destacado.py;054;white
+ar;proton_comparativa_destacado.py;055;white
+ar;proton_comparativa_destacado.py;056;ميكانيكا الكم: نموذج احتمالي
+ar;proton_comparativa_destacado.py;057;LHC: بيانات تجريبية
+ar;proton_comparativa_destacado.py;058;أينشتاين-فيد: نموذج هندسي
+ar;proton_comparativa_destacado.py;059;black
+ar;proton_comparativa_destacado.py;060;ميكانيكا\nالكم
+ar;proton_comparativa_destacado.py;061;LHC\nالتجريبي
+ar;proton_comparativa_destacado.py;062;أينشتاين-فيد
+ar;proton_comparativa_destacado.py;063;نصف قطر البروتون (fm)
+ar;proton_comparativa_destacado.py;064;bold
+ar;proton_comparativa_destacado.py;065;توقع أينشتاين-فيد مقابل البيانات التجريبية\n(منطقة الاهتمام: 0.72-0.84 fm)
+ar;proton_comparativa_destacado.py;066;bold
+ar;proton_comparativa_destacado.py;067;top
+ar;proton_comparativa_destacado.py;068;bold
+ar;proton_comparativa_destacado.py;069;upper left
+ar;proton_comparativa_destacado.py;070;ميكانيكا الكم: نموذج احتمالي
+ar;proton_comparativa_destacado.py;071;LHC: بيانات تجريبية
+ar;proton_comparativa_destacado.py;072;أينشتاين-فيد: نموذج هندسي
+ar;proton_comparativa_destacado.py;073;black
+ar;proton_comparativa_destacado.py;074;ميكانيكا\nالكم
+ar;proton_comparativa_destacado.py;075;LHC\nالتجريبي
+ar;proton_comparativa_destacado.py;076;أينشتاين-فيد
+ar;proton_comparativa_destacado.py;077;نصف قطر البروتون (fm)
+ar;proton_comparativa_destacado.py;078;bold
+ar;proton_comparativa_destacado.py;079;مقارنة كاملة: عدم اليقين في ميكانيكا الكم مقابل دقة فيد\n(مقياس كامل: 0.1-1.9 fm)
+ar;proton_comparativa_destacado.py;080;bold
+ar;proton_comparativa_destacado.py;081;upper right
+ar;proton_comparativa_destacado.py;082;center
+ar;proton_comparativa_destacado.py;083;center
+ar;proton_comparativa_destacado.py;084;center
+ar;proton_comparativa_destacado.py;085;#dddddd
+ar;proton_comparativa_destacado.py;086;bold
+ar;proton_comparativa_destacado.py;087;#eeeeee
+ar;proton_comparativa_destacado.py;088;bold
+ar;proton_comparativa_destacado.py;089;bold
+ar;proton_comparativa_destacado.py;090;center
+ar;proton_comparativa_destacado.py;091;توقع دقيق\nهندسة حتمية
+ar;proton_comparativa_destacado.py;092;center
+ar;proton_comparativa_destacado.py;093;bold
+ar;proton_comparativa_destacado.py;094;عدم يقين عالي في ميكانيكا الكم\n(±0.9 fm = ±90%)
+ar;proton_comparativa_destacado.py;095;center
+ar;proton_comparativa_destacado.py;096;bold
+ar;proton_comparativa_destacado.py;097;دقة فيد\n(±0.045 fm = ±5.8%)
+ar;proton_comparativa_destacado.py;098;center
+ar;proton_comparativa_destacado.py;099;bold
+ar;proton_comparativa_destacado.py;100;center
+ar;proton_comparativa_destacado.py;101;italic
+ar;proton_comparativa_destacado.py;102;svg
+ar;proton_comparativa_destacado.py;103;tight

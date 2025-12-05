@@ -1,0 +1,27 @@
+idioma;archivo;id;texto_traducido
+es;generador_svg.py;0022;Función radial estado 1s: R₁₀(r) = 2/a₀^(3/2) exp(-r/a₀)
+es;generador_svg.py;0026;Función radial estado 2p: R₂₁(r) = (1/2√6)(r/a₀²) exp(-r/2a₀)
+es;generador_svg.py;0030;Función radial estado 3d: R₃₂(r) = (4/81√30)(r²/a₀^(7/2)) exp(-r/3a₀)
+es;generador_svg.py;0035;Función de onda completa ψₙℓₘ(r,θ,φ) = Rₙℓ(r)Yℓₘ(θ,φ)
+es;generador_svg.py;0043;Estado n={n}, ℓ={ell} no implementado
+es;generador_svg.py;0049;Calcula superficie VED: r(θ,φ) = n²a₀(1 + α|Yℓₘ|)
+es;generador_svg.py;0066;Verifica coincidencia entre máximo P(r) y radio VED
+es;generador_svg.py;0088;Genera comparación completa Einstein-VED vs Mecánica Cuántica
+es;generador_svg.py;0093;🔬 CALCULANDO COMPARACIÓN EINSTEIN-VED vs MC...
+es;generador_svg.py;0122;Densidad |ψ|² - {estado["label"]}\n(plano Z=0.5Y)
+es;generador_svg.py;0123;x (m)
+es;generador_svg.py;0124;y (m)
+es;generador_svg.py;0132;VED: {r_ved:.2e}m
+es;generador_svg.py;0150;P(r) MC
+es;generador_svg.py;0152;VED: {r_ved:.2e} m
+es;generador_svg.py;0158;Precisión: {precision:.2f}%
+es;generador_svg.py;0162;Probabilidad Radial - {estado["label"]}
+es;generador_svg.py;0163;r (m)
+es;generador_svg.py;0164;P(r) normalizada
+es;generador_svg.py;0175;COMPARACIÓN EINSTEIN-VED vs MECÁNICA CUÁNTICA - CÁLCULOS EXACTOS\n
+es;generador_svg.py;0176;Radios deterministas vs distribuciones probabilísticas
+es;generador_svg.py;0192;RESULTADOS EXACTOS EINSTEIN-VED
+es;generador_svg.py;0195;{res['estado']}: r_VED = {res['r_ved']:.3e} m,
+es;generador_svg.py;0196;r_MC = {res['r_max_mc']:.3e} m,
+es;generador_svg.py;0197;Precisión = {res['precision']:.2f}%
+es;generador_svg.py;0199;✅ COMPARACIÓN GENERADA - COINCIDENCIA >99% CONFIRMADA

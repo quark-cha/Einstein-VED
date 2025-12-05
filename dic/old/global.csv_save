@@ -1,0 +1,2289 @@
+en;confinamiento_geometrico.py;0043;Position x
+en;confinamiento_geometrico.py;0044;Amplitude ψ(x)
+en;confinamiento_geometrico.py;0045;1. Sinusoidal Wave on Flat Surface
+en;confinamiento_geometrico.py;0064;2. Transition: Rolling ({progress*100:.0f}%)
+en;confinamiento_geometrico.py;0065;X Coordinate
+en;confinamiento_geometrico.py;0066;Y Coordinate
+en;confinamiento_geometrico.py;0076;Confined (n={n_cycles})
+en;confinamiento_geometrico.py;0077;EINSTEIN-VED CONDITION: L = {n_cycles}λ
+en;confinamiento_geometrico.py;0080;3. Self-Confined Wave - Stable Particle
+en;confinamiento_geometrico.py;0081;X Coordinate
+en;confinamiento_geometrico.py;0082;Y Coordinate
+en;confinamiento_geometrico.py;0118;a) Free Plane Wave
+en;confinamiento_geometrico.py;0119;Position x
+en;confinamiento_geometrico.py;0120;Amplitude ψ(x)
+en;confinamiento_geometrico.py;0137;b) Transition
+en;confinamiento_geometrico.py;0138;X Coordinate
+en;confinamiento_geometrico.py;0139;Y Coordinate
+en;confinamiento_geometrico.py;0155;c) Confined n=3\nL = 3λ
+en;confinamiento_geometrico.py;0156;X Coordinate
+en;confinamiento_geometrico.py;0157;Y Coordinate
+en;confinamiento_geometrico.py;0159;CONDITION: L = nλ
+en;confinamiento_geometrico_tiempo.py;0011;n=1: Smooth spacetime tube + fundamental circular wave
+en;confinamiento_geometrico_tiempo.py;0044;GROUND STATE n=1\nSpacetime + Circular Wave
+en;confinamiento_geometrico_tiempo.py;0056;n=3: Spacetime manifold + wave with 3 nodes
+en;confinamiento_geometrico_tiempo.py;0093;EXCITED STATE n=3\nSpacetime Manifold + 3 Nodes
+en;confinamiento_geometrico_tiempo.py;0105;Side-by-side comparison n=1 vs n=3
+en;confinamiento_geometrico_tiempo.py;0132;n=1: Ground State
+en;confinamiento_geometrico_tiempo.py;0153;n=3: Excited State
+en;confinamiento_geometrico_tiempo.py;0164;Shows how dt curves generate n=1 surface
+en;confinamiento_geometrico_tiempo.py;0202;GENERATION n=1: dt → Surface\nCircular curves generate cylinder
+en;confinamiento_geometrico_tiempo.py;0214;Shows how dt curves generate n=3 surface
+en;confinamiento_geometrico_tiempo.py;0257;GENERATION n=3: dt → Manifold\nCurves with Nodes generate geometry
+en;confinamiento_geometrico_tiempo.py;0269;Complete dt evolution through δt
+en;confinamiento_geometrico_tiempo.py;0302;δt={t}
+en;confinamiento_geometrico_tiempo.py;0309;Temporal\nEvolution
+en;confinamiento_geometrico_tiempo.py;0313;COMPLETE EVOLUTION: dt → δt → n States\nEinstein-VED Quantum Confinement
+en;confinamiento_geometrico_tiempo.py;0325;🎨 GENERATING 6 COMPLETE EINSTEIN-VED PLOTS...
+en;confinamiento_geometrico_tiempo.py;0337;\n✅ THE 6 COMPLETE PLOTS:
+en;Constante_G.py;0042;Proton radius (midline)
+en;Constante_G.py;0046;Figure 1: VED Confined Proton Wave, n=2
+en;Constante_G.py;0059;Black Hole
+en;Constante_G.py;0061;2D Surface
+en;Constante_G.py;0066;Figure 2: Black Hole and 2D Holographic Surface
+en;Constante_G.py;0078;Experimental G
+en;Constante_G.py;0083;n={n}
+en;Constante_G.py;0088;Calculated G [m^3/kg/s^2]
+en;Constante_G.py;0089;Figure 3: G Target ±3σ
+en;Constante_G.py;0116;Calculated G [m^3/kg/s^2]
+en;Constante_G.py;0117;Figure 4: G Target ±4σ (arrows)
+en;Constante_G.py;0130;G(n) asymptotic (continuous)
+en;Constante_G.py;0133;Experimental G
+en;Constante_G.py;0140;round,pad=0.5
+en;Constante_G.py;0143;Figure 5: Asymptotic Behavior of G(n) n→∞ (log-log)
+en;Constante_G.py;0164;Value [m³/kg·s²]
+en;Constante_G.py;0165;{G_max:.8e}
+en;Constante_G.py;0165;Upper limit
+en;Constante_G.py;0166;$G_2^{EXP}$ Experimental
+en;Constante_G.py;0166;{G_exp:.8e}
+en;Constante_G.py;0166;Mean value
+en;Constante_G.py;0167;{G_min:.8e}
+en;Constante_G.py;0167;Lower limit
+en;Constante_G.py;0168;$G_1^{VED}$ (n=2) EXACT
+en;Constante_G.py;0168;Empirically obtained
+en;Constante_G.py;0169;Absolute difference
+en;Constante_G.py;0169;{error_abs:.8e}
+en;Constante_G.py;0170;Relative error
+en;Constante_G.py;0170;{error_rel:.6f} %
+en;Constante_G.py;0170;VED Precision
+en;Constante_G.py;0248;GRAVITATIONAL CONSTANT G
+en;Constante_G.py;0267;Confined Matter Wave
+en;Constante_G.py;0277;2D Hologram
+en;Constante_G.py;0286;Emergence of G
+en;Constante_G.py;0288;Figure 8: Matter as Confined Wave on 2D Hologram
+en;Constante_G.py;0317;Proton radius
+en;Constante_G.py;0318;Proton radial waves
+en;Constante_G.py;0319;2D Proton Rippling (n=4)
+en;Constante_G.py;0322;Proton radius
+en;Constante_G.py;0323;Proton waves
+en;Constante_G.py;0324;2D Rippling
+en;Constante_G.py;0326;Proton - Femtometer scale (10⁻¹⁵ m)
+en;Constante_G.py;0342;Electron orbital radius
+en;Constante_G.py;0343;Electron radial waves
+en;Constante_G.py;0344;2D Electron Rippling (n=137)
+en;Constante_G.py;0347;Electron orbital radius
+en;Constante_G.py;0348;Electron waves
+en;Constante_G.py;0349;2D Rippling
+en;Constante_G.py;0351;Electron - Atomic scale (10⁻¹¹ m)
+en;Constante_G.py;0358;Figure 9. 2D and Radial Waves of Proton and Electron\n(holography → particles)
+en;Constante_G.py;0378;$M_\mathrm{VED} = n h /$
+en;Constante_G.py;0378;$(L_\mathrm{geom} c)$
+en;Constante_G.py;0379;$M_\mathrm{Sch} = c^2 R_s /$
+en;Constante_G.py;0379;Matching masses,\nM disappears
+en;Constante_G.py;0380;$L_\mathrm{geom}$ defined
+en;Constante_G.py;0380;by VED
+en;Constante_G.py;0381;$R_s$ defined by
+en;Constante_G.py;0381;Each side defines\nits own scale
+en;Constante_G.py;0382;Quantization
+en;Constante_G.py;0382;Integer n → discrete values
+en;Constante_G.py;0382;of M and G
+en;Constante_G.py;0383;n not appearing,\nG determined
+en;Constante_G.py;0383;n=2 matches\nexperimental G value
+en;Constante_G.py;0384;2D Confinement
+en;Constante_G.py;0384;(surface)
+en;Constante_G.py;0385;3D → implicit holography
+en;Constante_G.py;0385;Emergent origin\nof gravity
+en;Constante_G.py;0409;Figure 10: Conceptual Comparison VED vs Schwarzschild
+en;entrelazamiento_geometrico.py;0009;Einstein Foundation
+en;entrelazamiento_geometrico.py;0009;Fundamental Equations
+en;entrelazamiento_geometrico.py;0032;QUANTUM ENTANGLEMENT: Einstein-VED Geometric Explanation
+en;entrelazamiento_geometrico.py;0049;Internal Frame: Shared Proper Time
+en;entrelazamiento_geometrico.py;0068;External Frame: Conventional Perspective
+en;entrelazamiento_geometrico.py;0073;SYMBOLISM:\n\n
+en;entrelazamiento_geometrico.py;0074;🔴 Particle A (45°)\n
+en;entrelazamiento_geometrico.py;0075;🟢 Particle B (225°)\n
+en;entrelazamiento_geometrico.py;0076;⚫ Observer\n
+en;entrelazamiento_geometrico.py;0077;▬▬ Geometric Connection\n
+en;entrelazamiento_geometrico.py;0078;▬▬ Lines of Sight
+en;entrelazamiento_geometrico.py;0084;round,pad=0.6
+en;entrelazamiento_geometrico.py;0088;WAVEFRONT
+en;entrelazamiento_geometrico.py;0090;EINSTEIN-VED KEY:\n\n
+en;entrelazamiento_geometrico.py;0091;Both particles (including antipodal)\nshare the same proper spacetime t₀, s₀\n\n
+en;entrelazamiento_geometrico.py;0092;Because: dt' → 0 and ds' → 0 at speed c\n\n
+en;entrelazamiento_geometrico.py;0095;No action at a distance
+en;entrelazamiento_geometrico.py;0101;round,pad=0.8
+en;entrelazamiento_geometrico.py;0109;EINSTEIN-VED FOUNDATION:\n\n
+en;entrelazamiento_geometrico.py;0110;Entangled particles share a common proper spacetime from their origin.
+en;entrelazamiento_geometrico.py;0111;At speed c, their proper time and space differentials tend to zero
+en;entrelazamiento_geometrico.py;0112;(dt' → 0, ds' → 0), keeping them connected at the same instant t₀ and position s₀.
+en;entrelazamiento_geometrico.py;0113;This geometric simultaneity explains quantum correlations without violating relativity.
+en;entrelazamiento_geometrico.py;0119;round,pad=0.8
+en;entrelazamiento_geometrico.py;0125;FUNDAMENTAL EQUATIONS:\n\n
+en;entrelazamiento_geometrico.py;0126;For particles at speed c:\n
+en;entrelazamiento_geometrico.py;0130;Field equation:\n
+en;entrelazamiento_geometrico.py;0131;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+en;entrelazamiento_geometrico.py;0132;Absolute simultaneity in proper frame
+en;entrelazamiento_geometrico.py;0138;round,pad=0.8
+en;entrelazamiento_geometrico.py;0144;EINSTEIN-VED INTERPRETATION: Quantum entanglement is no longer paradoxical when understood
+en;entrelazamiento_geometrico.py;0145;from spacetime geometry. Particles generated in the same event share a wavefront
+en;entrelazamiento_geometrico.py;0146;where their proper time remains frozen at t₀. This intrinsic simultaneity explains
+en;entrelazamiento_geometrico.py;0147;perfect correlations without 'spooky action'. Quantum probability reflects
+en;entrelazamiento_geometrico.py;0147;spooky action
+en;entrelazamiento_geometrico.py;0148;limited observer perspective, not a fundamental property.
+en;entrelazamiento_geometrico.py;0154;round,pad=0.8
+en;entrelazamiento_geometrico.py;0167;🎯 CREATING FINAL VERSION WITH BOXES AT SAME LEVEL...
+en;entrelazamiento_geometrico.py;0170;\n✨ CORRECTIONS APPLIED:
+en;entrelazamiento_geometrico.py;0171;• 'Einstein Foundation' and 'Equations' boxes at SAME LEVEL
+en;entrelazamiento_geometrico.py;0171;Einstein Foundation
+en;entrelazamiento_geometrico.py;0172;• Wider figure (16x10) to fit both
+en;entrelazamiento_geometrico.py;0173;• Balanced and symmetric layout
+en;entrelazamiento_geometrico.py;0174;• Decoration and colors PRESERVED
+en;entrelazamiento_geometrico.py;0175;• ZERO overlaps
+en;generador_svg.py;0019;Radial function 1s state: R₁₀(r) = 2/a₀^(3/2) exp(-r/a₀)
+en;generador_svg.py;0023;Radial function 2p state: R₂₁(r) = (1/2√6)(r/a₀²) exp(-r/2a₀)
+en;generador_svg.py;0027;Radial function 3d state: R₃₂(r) = (4/81√30)(r²/a₀^(7/2)) exp(-r/3a₀)
+en;generador_svg.py;0032;Full wavefunction ψₙℓₘ(r,θ,φ) = Rₙℓ(r)Yℓₘ(θ,φ)
+en;generador_svg.py;0040;State n={n}, ℓ={ell} not implemented
+en;generador_svg.py;0046;Calculates VED surface: r(θ,φ) = n²a₀(1 + α|Yℓₘ|)
+en;generador_svg.py;0063;Checks coincidence between P(r) maximum and VED radius
+en;generador_svg.py;0085;Generates full Einstein-VED vs Quantum Mechanics comparison
+en;generador_svg.py;0090;🔬 CALCULATING EINSTEIN-VED vs MC COMPARISON...
+en;generador_svg.py;0119;Density |ψ|² - {estado["label"]}\n(Z plane=0.5Y)
+en;generador_svg.py;0120;x (m)
+en;generador_svg.py;0121;y (m)
+en;generador_svg.py;0129;VED: {r_ved:.2e}m
+en;generador_svg.py;0147;P(r) MC
+en;generador_svg.py;0149;VED: {r_ved:.2e} m
+en;generador_svg.py;0155;Precision: {precision:.2f}%
+en;generador_svg.py;0159;Radial Probability - {estado["label"]}
+en;generador_svg.py;0160;r (m)
+en;generador_svg.py;0161;Normalized P(r)
+en;generador_svg.py;0172;EINSTEIN-VED vs QUANTUM MECHANICS COMPARISON - EXACT CALCULATIONS\n
+en;generador_svg.py;0173;Deterministic radii vs probabilistic distributions
+en;generador_svg.py;0189;EXACT EINSTEIN-VED RESULTS
+en;generador_svg.py;0192;{res['estado']}: r_VED = {res['r_ved']:.3e} m,
+en;generador_svg.py;0193;r_MC = {res['r_max_mc']:.3e} m,
+en;generador_svg.py;0194;Precision = {res['precision']:.2f}%
+en;generador_svg.py;0196;✅ COMPARISON GENERATED - >99% MATCH CONFIRMED
+it;confinamiento.py;0020;Calcola intervallo ±3σ per visualizzazione
+it;confinamiento.py;0037;Raggio Medio (fm)
+it;confinamiento.py;0037;Min (fm)
+it;confinamiento.py;0037;Max (fm)
+it;confinamiento.py;0038;{mc_mean:.3f}
+it;confinamiento.py;0038;{mc_min:.3f}
+it;confinamiento.py;0038;{mc_max:.3f}
+it;confinamiento.py;0038;±{MC_sigma:.3f}
+it;confinamiento.py;0038;Meccanica Quantistica (MC)
+it;confinamiento.py;0039;{lhc_mean:.5f}
+it;confinamiento.py;0039;{lhc_min:.5f}
+it;confinamiento.py;0039;{lhc_max:.5f}
+it;confinamiento.py;0039;±{LHC_sigma:.3f}
+it;confinamiento.py;0039;LHC Sperimentale
+it;confinamiento.py;0040;{ved_mean:.5f}
+it;confinamiento.py;0040;{ved_min:.5f}
+it;confinamiento.py;0040;{ved_max:.5f}
+it;confinamiento.py;0040;±{VED_sigma:.5f}
+it;confinamiento.py;0040;Einstein-VED
+it;confinamiento.py;0072;Figura 1: Geometrie di confinamento 2D vs 3D
+it;confinamiento.py;0079;Elettrone: Confinamento 2D\nn = 137 (Superficie)
+it;confinamiento.py;0084;Protone: Confinamento 3D\nn = 4 (Volume)
+it;confinamiento.py;0089;Quark: Dipoli Geometrici\nAncoraggio 3D
+it;confinamiento.py;0094;Statistica Quantistica Emergente: 2D vs 3D
+it;confinamiento.py;0100;Superficie 2D dell'elettrone - SCALE PULITE
+it;confinamiento.py;0132;Volume 3D del protone - SCALE PULITE
+it;confinamiento.py;0171;Dipoli di quark ancorati alle dimensioni
+it;confinamiento.py;0187;Quark {dim}
+it;confinamiento.py;0192;Confinamento Adronico
+it;confinamiento.py;0200;Confronto statistico Fermi vs Bose
+it;confinamiento.py;0201;Confinamento 2D\n(Elettrone)
+it;confinamiento.py;0201;Confinamento 3D\n(Protone)
+it;confinamiento.py;0208;Fermi-Dirac (Esclusione)
+it;confinamiento.py;0210;Bose-Einstein (Condensazione)
+it;confinamiento.py;0213;Comportamento Statistico
+it;confinamiento.py;0218;Massimo 1 particella\nper stato
+it;confinamiento.py;0219;Più particelle\nstesso stato
+it;confinamiento.py;0224;Figura 2: Validazione sperimentale
+it;confinamiento.py;0228;Protone VED
+it;confinamiento.py;0228;Protone LHC
+it;confinamiento.py;0228;Neutrone VED
+it;confinamiento.py;0228;Neutrone Exp
+it;confinamiento.py;0234;Raggio (fm)
+it;confinamiento.py;0235;Predizione Raggi Adronici
+it;confinamiento.py;0240;{radius:.5f}
+it;confinamiento.py;0243;Einstein-VED
+it;confinamiento.py;0243;QCD Reticolo
+it;confinamiento.py;0243;Modello Costituente
+it;confinamiento.py;0247;Precisione (%)
+it;confinamiento.py;0248;Confronto Precisioni
+it;confinamiento.py;0253;{prec}%
+it;confinamiento.py;0259;Einstein-VED
+it;confinamiento.py;0265;Costante di Struttura Fine
+it;confinamiento.py;0270;{value:.3f}
+it;confinamiento.py;0275;SPIEGAZIONE DIPOLARE DEI JETS NEL LHC:\n\n
+it;confinamiento.py;0276;• Quark = Dipoli geometrici ancorati alle dimensioni\n
+it;confinamiento.py;0277;• Applicando energia: rottura dipolare\n
+it;confinamiento.py;0278;• Creazione di nuove coppie quark-antiquark\n
+it;confinamiento.py;0279;• Formazione di jets adronici in direzioni opposte\n
+it;confinamiento.py;0280;• Non esiste forza di confinamento infinita\n
+it;confinamiento.py;0280;forza di confinamento
+it;confinamiento.py;0281;• Solo riorganizzazione geometrica naturale
+it;confinamiento.py;0290;Figura 3: Soluzione alle paradossi quantistici
+it;confinamiento.py;0310;Soluzione alla doppia fenditura
+it;confinamiento.py;0328;Direzione di propagazione
+it;confinamiento.py;0329;Posizione
+it;confinamiento.py;0330;SOLUZIONE DOPPIA FENDITURA:\nSuperficie completa interagisce
+it;confinamiento.py;0333;particella su due percorsi
+it;confinamiento.py;0333;Non è "particella su due percorsi"\nÈ SUPERFICIE su entrambi
+it;confinamiento.py;0337;Soluzione geometrica all'entanglement
+it;confinamiento.py;0349;Particella A
+it;confinamiento.py;0350;Particella B
+it;confinamiento.py;0351;GEOMETRIA CONDIVISA
+it;confinamiento.py;0357;ENTANGLEMENT:\nGeometria comune, nessuna azione a distanza
+it;confinamiento.py;0362;Soluzione al collasso della funzione d'onda
+it;confinamiento.py;0368;Geometria reale (sempre definita)
+it;confinamiento.py;0369;Probabilità prima della misurazione
+it;confinamiento.py;0369;MC: "Probabilità prima della misurazione"
+it;confinamiento.py;0375;Posizione
+it;confinamiento.py;0377;FINE DEL "COLLASSO":\nGeometria definita, non probabilistica
+it;confinamiento.py;0383;Soluzione alla statistica quantistica
+it;confinamiento.py;0387;STATISTICA QUANTISTICA EMERGENTE\n\n
+it;confinamiento.py;0388;Fermi-Dirac (Esclusione):\n
+it;confinamiento.py;0389;• Confinamento 2D (elettrone)\n
+it;confinamiento.py;0390;• Restrizione topologica naturale\n
+it;confinamiento.py;0391;• Solo 1 particella per stato\n\n
+it;confinamiento.py;0392;Bose-Einstein (Condensazione):\n
+it;confinamiento.py;0393;• Confinamento 3D (protone)\n
+it;confinamiento.py;0394;• Geometria sferica completa\n
+it;confinamiento.py;0395;• Più particelle stesso stato\n\n
+it;confinamiento.py;0396;Non sono proprietà fondamentali
+it;confinamiento.py;0397;SONO conseguenze geometriche
+it;confinamiento.py;0405;Salva tutte le figure
+it;confinamiento.py;0408;Generando visualizzazioni Einstein-VED...
+it;confinamiento.py;0411;Generando Figura 1: Geometrie di confinamento...
+it;confinamiento.py;0418;✓ Geometrie di confinamento salvate
+it;confinamiento.py;0420;Generando Figura 2: Validazione sperimentale...
+it;confinamiento.py;0427;✓ Validazione sperimentale salvata
+it;confinamiento.py;0429;Generando Figura 3: Soluzione paradossi quantistici...
+it;confinamiento.py;0435;✓ Soluzione paradossi quantistici salvata
+it;confinamiento.py;0437;\n✅ Tutte le figure salvate nel formato {format} (DPI: {dpi})
+it;confinamiento.py;0440;❌ Errore durante la generazione: {e}
+it;confinamiento.py;0448;Inizio generazione visualizzazioni Einstein-VED...
+it;confinamiento.py;0453;\n🎨 Visualizzazioni completate!
+it;confinamiento.py;0454;File generati:
+it;confinamiento_geometrico.py;0023;Onda ψ(x)
+it;confinamiento_geometrico.py;0026;Posizione x
+it;confinamiento_geometrico.py;0027;Ampiezza ψ(x)
+it;confinamiento_geometrico.py;0028;CONFINAMENTO EINSTEIN-VED: Onda → Particella
+it;confinamiento_geometrico.py;0043;Posizione X
+it;confinamiento_geometrico.py;0044;Ampiezza ψ(x)
+it;confinamiento_geometrico.py;0045;1. Onda Sinusoidale su Superficie Piana
+it;confinamiento_geometrico.py;0064;2. Transizione: Avvolgimento ({progress*100:.0f}%)
+it;confinamiento_geometrico.py;0065;Coordinata X
+it;confinamiento_geometrico.py;0066;Coordinata Y
+it;confinamiento_geometrico.py;0076;Confinata (n={n_cycles})
+it;confinamiento_geometrico.py;0077;CONDIZIONE EINSTEIN-VED: L = {n_cycles}λ
+it;confinamiento_geometrico.py;0080;3. Onda Auto-Confinata - Particella Stabile
+it;confinamiento_geometrico.py;0081;Coordinata X
+it;confinamiento_geometrico.py;0082;Coordinata Y
+it;confinamiento_geometrico.py;0118;a) Onda Piana Libera
+it;confinamiento_geometrico.py;0119;Posizione x
+it;confinamiento_geometrico.py;0120;Ampiezza ψ(x)
+it;confinamiento_geometrico.py;0137;b) Transizione
+it;confinamiento_geometrico.py;0138;Coordinata X
+it;confinamiento_geometrico.py;0139;Coordinata Y
+it;confinamiento_geometrico.py;0155;c) Confinato n=3\nL = 3λ
+it;confinamiento_geometrico.py;0156;Coordinata X
+it;confinamiento_geometrico.py;0157;Coordinata Y
+it;confinamiento_geometrico.py;0159;CONDIZIONE: L = nλ
+it;confinamiento_geometrico_tiempo.py;0011;n=1: Tubo spazio-tempo liscio + onda circolare fondamentale
+it;confinamiento_geometrico_tiempo.py;0044;STATO FONDAMENTALE n=1\nSpazio-Tempo + Onda Circolare
+it;confinamiento_geometrico_tiempo.py;0056;n=3: Varietà spazio-tempo + onda con 3 nodi
+it;confinamiento_geometrico_tiempo.py;0093;STATO ECCITATO n=3\nVarietà Spazio-Tempo + 3 Nodi
+it;confinamiento_geometrico_tiempo.py;0105;Confronto affiancato n=1 vs n=3
+it;confinamiento_geometrico_tiempo.py;0132;n=1: Stato Fondamentale
+it;confinamiento_geometrico_tiempo.py;0153;n=3: Stato Eccitato
+it;confinamiento_geometrico_tiempo.py;0164;Mostra come le curve dt generano la superficie n=1
+it;confinamiento_geometrico_tiempo.py;0202;GENERAZIONE n=1: dt → Superficie\nCurve Circolari Generano Cilindro
+it;confinamiento_geometrico_tiempo.py;0214;Mostra come le curve dt generano la superficie n=3
+it;confinamiento_geometrico_tiempo.py;0257;GENERAZIONE n=3: dt → Varietà\nCurve con Nodi Generano Geometria
+it;confinamiento_geometrico_tiempo.py;0269;Evoluzione completa dt attraverso δt
+it;confinamiento_geometrico_tiempo.py;0302;δt={t}
+it;confinamiento_geometrico_tiempo.py;0309;Evoluzione\ntemporale
+it;confinamiento_geometrico_tiempo.py;0313;EVOLUZIONE COMPLETA: dt → δt → Stati n\nConfinamento Quantistico Einstein-VED
+it;confinamiento_geometrico_tiempo.py;0325;🎨 GENERANDO LE 6 GRAFICHE COMPLETE EINSTEIN-VED...
+it;confinamiento_geometrico_tiempo.py;0337;\n✅ LE 6 GRAFICHE COMPLETE:
+it;confinamiento.py;0020;Calcola intervallo ±3σ per visualizzazione
+it;confinamiento.py;0037;Raggio Medio (fm)
+it;confinamiento.py;0037;Min (fm)
+it;confinamiento.py;0037;Max (fm)
+it;confinamiento.py;0038;{mc_mean:.3f}
+it;confinamiento.py;0038;{mc_min:.3f}
+it;confinamiento.py;0038;{mc_max:.3f}
+it;confinamiento.py;0038;±{MC_sigma:.3f}
+it;confinamiento.py;0038;Meccanica Quantistica (MC)
+it;confinamiento.py;0039;{lhc_mean:.5f}
+it;confinamiento.py;0039;{lhc_min:.5f}
+it;confinamiento.py;0039;{lhc_max:.5f}
+it;confinamiento.py;0039;±{LHC_sigma:.3f}
+it;confinamiento.py;0039;LHC Sperimentale
+it;confinamiento.py;0040;{ved_mean:.5f}
+it;confinamiento.py;0040;{ved_min:.5f}
+it;confinamiento.py;0040;{ved_max:.5f}
+it;confinamiento.py;0040;±{VED_sigma:.5f}
+it;confinamiento.py;0040;Einstein-VED
+it;confinamiento.py;0072;Figura 1: Geometrie di confinamento 2D vs 3D
+it;confinamiento.py;0079;Elettrone: Confinamento 2D\nn = 137 (Superficie)
+it;confinamiento.py;0084;Protone: Confinamento 3D\nn = 4 (Volume)
+it;confinamiento.py;0089;Quark: Dipoli Geometrici\nAncora 3D
+it;confinamiento.py;0094;Statistica Quantistica Emergente: 2D vs 3D
+it;confinamiento.py;0100;Superficie 2D dell’elettrone - SCALE PULITE
+it;confinamiento.py;0132;Volume 3D del protone - SCALE PULITE
+it;confinamiento.py;0171;Dipoli di quark ancorati a dimensioni
+it;confinamiento.py;0187;Quark {dim}
+it;confinamiento.py;0192;Confinamento Adronico
+it;confinamiento.py;0200;Confronto statistico Fermi vs Bose
+it;confinamiento.py;0201;Confinamento 2D\n(Elettrone)
+it;confinamiento.py;0201;Confinamento 3D\n(Protone)
+it;confinamiento.py;0208;Fermi-Dirac (Esclusione)
+it;confinamiento.py;0210;Bose-Einstein (Condensazione)
+it;confinamiento.py;0213;Comportamento Statistico
+it;confinamiento.py;0218;Massimo 1 particella\nper stato
+it;confinamiento.py;0219;Più particelle\nstesso stato
+it;confinamiento.py;0224;Figura 2: Validazione sperimentale
+it;confinamiento.py;0228;Protone VED
+it;confinamiento.py;0228;Protone LHC
+it;confinamiento.py;0228;Neutrone VED
+it;confinamiento.py;0228;Neutrone Esp
+it;confinamiento.py;0234;Raggio (fm)
+it;confinamiento.py;0235;Predizione Raggi Adronici
+it;confinamiento.py;0240;{radius:.5f}
+it;confinamiento.py;0243;Einstein-VED
+it;confinamiento.py;0243;QCD Reticolo
+it;confinamiento.py;0243;Modello Costituente
+it;confinamiento.py;0247;Precisione (%)
+it;confinamiento.py;0248;Confronto Precisioni
+it;confinamiento.py;0253;{prec}%
+it;confinamiento.py;0259;Einstein-VED
+it;confinamiento.py;0265;Costante di Struttura Fina
+it;confinamiento.py;0270;{value:.3f}
+it;confinamiento.py;0275;SPIEGAZIONE DIPOLARE DEI JETS IN LHC:\n\n
+it;confinamiento.py;0276;• Quark = Dipoli geometrici ancorati a dimensioni\n
+it;confinamiento.py;0277;• Applicando energia: rottura dipolare\n
+it;confinamiento.py;0278;• Creazione di nuove coppie quark-antiquark\n
+it;confinamiento.py;0279;• Formazione di jets adronici in direzioni opposte\n
+it;confinamiento.py;0280;• Non esiste forza di confinamento infinita\n
+it;confinamiento.py;0280;forza di confinamento
+it;confinamiento.py;0281;• Solo riorganizzazione geometrica naturale
+it;confinamiento.py;0290;Figura 3: Soluzione a paradossi quantistici
+it;confinamiento.py;0310;Soluzione alla doppia fenditura
+it;confinamiento.py;0328;Direzione di propagazione
+it;confinamiento.py;0329;Posizione
+it;confinamiento.py;0330;SOLUZIONE DOPPIA FENDITURA:\nSuperficie completa interagisce
+it;confinamiento.py;0333;particella per due percorsi
+it;confinamiento.py;0333;Non è "particella per due percorsi"\nÈ SUPERFICIE per entrambi
+it;confinamiento.py;0337;Soluzione geometrica all’entanglement
+it;confinamiento.py;0349;Particella A
+it;confinamiento.py;0350;Particella B
+it;confinamiento.py;0351;GEOMETRIA CONDIVISA
+it;confinamiento.py;0357;ENTANGLEMENT:\nGeometria comune, non azione a distanza
+it;confinamiento.py;0362;Soluzione al collasso della funzione d’onda
+it;confinamiento.py;0368;Geometria reale (sempre definita)
+it;confinamiento.py;0369;Probabilità prima della misura
+it;confinamiento.py;0369;MC: "Probabilità prima della misura"
+it;confinamiento.py;0375;Posizione
+it;confinamiento.py;0377;FINE DEL "COLLASSO":\nGeometria definita, non probabilistica
+it;confinamiento.py;0383;Soluzione alla statistica quantistica
+it;confinamiento.py;0387;STATISTICA QUANTISTICA EMERGENTE\n\n
+it;confinamiento.py;0388;Fermi-Dirac (Esclusione):\n
+it;confinamiento.py;0389;• Confinamento 2D (elettrone)\n
+it;confinamiento.py;0390;• Restrizione topologica naturale\n
+it;confinamiento.py;0391;• Solo 1 particella per stato\n\n
+it;confinamiento.py;0392;Bose-Einstein (Condensazione):\n
+it;confinamiento.py;0393;• Confinamento 3D (protone)\n
+it;confinamiento.py;0394;• Geometria sferica completa\n
+it;confinamiento.py;0395;• Più particelle stesso stato\n\n
+it;confinamiento.py;0396;NON sono proprietà fondamentali
+it;confinamiento.py;0397;SONO conseguenze geometriche
+it;confinamiento.py;0405;Salva tutte le figure
+it;confinamiento.py;0408;Generando visualizzazioni Einstein-VED...
+it;confinamiento.py;0411;Generando Figura 1: Geometrie di confinamento...
+it;confinamiento.py;0418;✓ Geometrie di confinamento salvate
+it;confinamiento.py;0420;Generando Figura 2: Validazione sperimentale...
+it;confinamiento.py;0427;✓ Validazione sperimentale salvata
+it;confinamiento.py;0429;Generando Figura 3: Soluzione paradossi quantistici...
+it;confinamiento.py;0435;✓ Soluzione paradossi quantistici salvata
+it;confinamiento.py;0437;\n✅ Tutte le figure salvate in formato {format} (DPI: {dpi})
+it;confinamiento.py;0440;❌ Errore durante la generazione: {e}
+it;confinamiento.py;0448;Inizio generazione visualizzazioni Einstein-VED...
+it;confinamiento.py;0453;\n🎨 Visualizzazioni completate!
+it;confinamiento.py;0454;File generati:
+en;confinamiento.py;0020;Calculates ±3σ range for visualization
+en;confinamiento.py;0037;Mean Radius (fm)
+en;confinamiento.py;0037;Min (fm)
+en;confinamiento.py;0037;Max (fm)
+en;confinamiento.py;0038;{mc_mean:.3f}
+en;confinamiento.py;0038;{mc_min:.3f}
+en;confinamiento.py;0038;{mc_max:.3f}
+en;confinamiento.py;0038;±{MC_sigma:.3f}
+en;confinamiento.py;0038;Quantum Mechanics (MC)
+en;confinamiento.py;0039;{lhc_mean:.5f}
+en;confinamiento.py;0039;{lhc_min:.5f}
+en;confinamiento.py;0039;{lhc_max:.5f}
+en;confinamiento.py;0039;±{LHC_sigma:.3f}
+en;confinamiento.py;0039;LHC Experimental
+en;confinamiento.py;0040;{ved_mean:.5f}
+en;confinamiento.py;0040;{ved_min:.5f}
+en;confinamiento.py;0040;{ved_max:.5f}
+en;confinamiento.py;0040;±{VED_sigma:.5f}
+en;confinamiento.py;0040;Einstein-VED
+en;confinamiento.py;0072;Figure 1: 2D vs 3D confinement geometries
+en;confinamiento.py;0079;Electron: 2D Confinement\nn = 137 (Surface)
+en;confinamiento.py;0084;Proton: 3D Confinement\nn = 4 (Volume)
+en;confinamiento.py;0089;Quarks: Geometric Dipoles\n3D Anchoring
+en;confinamiento.py;0094;Emergent Quantum Statistics: 2D vs 3D
+en;confinamiento.py;0100;Electron 2D Surface - CLEAN SCALES
+en;confinamiento.py;0132;Proton 3D Volume - CLEAN SCALES
+en;confinamiento.py;0171;Quark dipoles anchored to dimensions
+en;confinamiento.py;0187;Quark {dim}
+en;confinamiento.py;0192;Hadronic Confinement
+en;confinamiento.py;0200;Statistical comparison Fermi vs Bose
+en;confinamiento.py;0201;2D Confinement\n(Electron)
+en;confinamiento.py;0201;3D Confinement\n(Proton)
+en;confinamiento.py;0208;Fermi-Dirac (Exclusion)
+en;confinamiento.py;0210;Bose-Einstein (Condensation)
+en;confinamiento.py;0213;Statistical Behavior
+en;confinamiento.py;0218;Maximum 1 particle\nper state
+en;confinamiento.py;0219;Multiple particles\nsame state
+en;confinamiento.py;0224;Figure 2: Experimental validation
+en;confinamiento.py;0228;Proton VED
+en;confinamiento.py;0228;Proton LHC
+en;confinamiento.py;0228;Neutron VED
+en;confinamiento.py;0228;Neutron Exp
+en;confinamiento.py;0234;Radius (fm)
+en;confinamiento.py;0235;Hadronic Radius Predictions
+en;confinamiento.py;0240;{radius:.5f}
+en;confinamiento.py;0243;Einstein-VED
+en;confinamiento.py;0243;Lattice QCD
+en;confinamiento.py;0243;Constituent Model
+en;confinamiento.py;0247;Precision (%)
+en;confinamiento.py;0248;Precision Comparison
+en;confinamiento.py;0253;{prec}%
+en;confinamiento.py;0259;Einstein-VED
+en;confinamiento.py;0265;Fine Structure Constant
+en;confinamiento.py;0270;{value:.3f}
+en;confinamiento.py;0275;EXPLANATION OF LHC JETS DIPOLES:\n\n
+en;confinamiento.py;0276;• Quarks = Geometric dipoles anchored to dimensions\n
+en;confinamiento.py;0277;• Applying energy: dipole breaking\n
+en;confinamiento.py;0278;• Creation of new quark-antiquark pairs\n
+en;confinamiento.py;0279;• Formation of hadronic jets in opposite directions\n
+en;confinamiento.py;0280;• No infinite 'confinement force'\n
+en;confinamiento.py;0280;confinement force
+en;confinamiento.py;0281;• Only natural geometric reconfiguration
+en;confinamiento.py;0290;Figure 3: Solution to quantum paradoxes
+en;confinamiento.py;0310;Double slit solution
+en;confinamiento.py;0328;Propagation direction
+en;confinamiento.py;0329;Position
+en;confinamiento.py;0330;DOUBLE SLIT SOLUTION:\nFull surface interacts
+en;confinamiento.py;0333;particle along two paths
+en;confinamiento.py;0333;Not "particle along two paths"\nIt's SURFACE along both
+en;confinamiento.py;0337;Geometric solution to entanglement
+en;confinamiento.py;0349;Particle A
+en;confinamiento.py;0350;Particle B
+en;confinamiento.py;0351;SHARED GEOMETRY
+en;confinamiento.py;0357;ENTANGLEMENT:\nCommon geometry, no action at distance
+en;confinamiento.py;0362;Wavefunction collapse solution
+en;confinamiento.py;0368;Real geometry (always defined)
+en;confinamiento.py;0369;Probability before measurement
+en;confinamiento.py;0369;MC: "Probability before measurement"
+en;confinamiento.py;0375;Position
+en;confinamiento.py;0377;END OF "COLLAPSE":\nDefined geometry, not probabilistic
+en;confinamiento.py;0383;Quantum statistics solution
+en;confinamiento.py;0387;EMERGENT QUANTUM STATISTICS\n\n
+en;confinamiento.py;0388;Fermi-Dirac (Exclusion):\n
+en;confinamiento.py;0389;• 2D Confinement (electron)\n
+en;confinamiento.py;0390;• Natural topological restriction\n
+en;confinamiento.py;0391;• Only 1 particle per state\n\n
+en;confinamiento.py;0392;Bose-Einstein (Condensation):\n
+en;confinamiento.py;0393;• 3D Confinement (proton)\n
+en;confinamiento.py;0394;• Full spherical geometry\n
+en;confinamiento.py;0395;• Multiple particles same state\n\n
+en;confinamiento.py;0396;NOT fundamental properties\n
+en;confinamiento.py;0397;ARE geometric consequences
+en;confinamiento.py;0405;Save all figures
+en;confinamiento.py;0408;Generating Einstein-VED visualizations...
+en;confinamiento.py;0411;Generating Figure 1: Confinement geometries...
+en;confinamiento.py;0418;✓ Confinement geometries saved
+en;confinamiento.py;0420;Generating Figure 2: Experimental validation...
+en;confinamiento.py;0427;✓ Experimental validation saved
+en;confinamiento.py;0429;Generating Figure 3: Quantum paradox solutions...
+en;confinamiento.py;0435;✓ Quantum paradox solutions saved
+en;confinamiento.py;0437;\n✅ All figures saved in {format} format (DPI: {dpi})
+en;confinamiento.py;0440;❌ Error during generation: {e}
+en;confinamiento.py;0448;Starting generation of Einstein-VED visualizations...
+en;confinamiento.py;0453;\n🎨 Visualizations completed!
+en;confinamiento.py;0454;Generated files:
+en;confinamiento_geometrico.py;0023;Wave ψ(x)
+en;confinamiento_geometrico.py;0026;Position x
+en;confinamiento_geometrico.py;0027;Amplitude ψ(x)
+en;confinamiento_geometrico.py;0028;EINSTEIN-VED CONFINEMENT: Wave → Particle
+en;confinamiento_geometrico.py;0043;Position x
+en;confinamiento_geometrico.py;0044;Amplitude ψ(x)
+en;confinamiento_geometrico.py;0045;1. Sinusoidal wave on flat surface
+en;confinamiento_geometrico.py;0064;2. Transition: Rolling ({progress*100:.0f}%)
+en;confinamiento_geometrico.py;0065;X Coordinate
+en;confinamiento_geometrico.py;0066;Y Coordinate
+en;confinamiento_geometrico.py;0076;Confined (n={n_cycles})
+en;confinamiento_geometrico.py;0077;EINSTEIN-VED CONDITION: L = {n_cycles}λ
+en;confinamiento_geometrico.py;0080;3. Self-Confined Wave - Stable Particle
+en;confinamiento_geometrico.py;0081;X Coordinate
+en;confinamiento_geometrico.py;0082;Y Coordinate
+en;confinamiento_geometrico.py;0118;a) Free Plane Wave
+en;confinamiento_geometrico.py;0119;Position x
+en;confinamiento_geometrico.py;0120;Amplitude ψ(x)
+en;confinamiento_geometrico.py;0137;b) Transition
+en;confinamiento_geometrico.py;0138;X Coordinate
+en;confinamiento_geometrico.py;0139;Y Coordinate
+en;confinamiento_geometrico.py;0155;c) Confined n=3\nL = 3λ
+en;confinamiento_geometrico.py;0156;X Coordinate
+en;confinamiento_geometrico.py;0157;Y Coordinate
+en;confinamiento_geometrico.py;0159;CONDITION: L = nλ
+en;confinamiento_geometrico_tiempo.py;0011;n=1: Smooth space-time tube + fundamental circular wave
+en;confinamiento_geometrico_tiempo.py;0044;GROUND STATE n=1\nSpace-Time + Circular Wave
+en;confinamiento_geometrico_tiempo.py;0056;n=3: Space-time variety + wave with 3 nodes
+en;confinamiento_geometrico_tiempo.py;0093;EXCITED STATE n=3\nSpace-Time Variety + 3 Nodes
+en;confinamiento_geometrico_tiempo.py;0105;Side-by-side comparison n=1 vs n=3
+en;confinamiento_geometrico_tiempo.py;0132;n=1: Ground State
+en;confinamiento_geometrico_tiempo.py;0153;n=3: Excited State
+en;confinamiento_geometrico_tiempo.py;0164;Shows how dt curves generate n=1 surface
+en;confinamiento_geometrico_tiempo.py;0202;GENERATION n=1: dt → Surface\nCircular Curves Generate Cylinder
+en;confinamiento_geometrico_tiempo.py;0214;Shows how dt curves generate n=3 surface
+en;confinamiento_geometrico_tiempo.py;0257;GENERATION n=3: dt → Variety\nCurves with Nodes Generate Geometry
+en;confinamiento_geometrico_tiempo.py;0269;Complete dt evolution through δt
+en;confinamiento_geometrico_tiempo.py;0302;δt={t}
+en;confinamiento_geometrico_tiempo.py;0309;Temporal evolution
+en;confinamiento_geometrico_tiempo.py;0313;COMPLETE EVOLUTION: dt → δt → n states\nEinstein-VED Quantum Confinement
+en;confinamiento_geometrico_tiempo.py;0325;🎨 GENERATING ALL 6 COMPLETE EINSTEIN-VED GRAPHS...
+en;confinamiento_geometrico_tiempo.py;0337;\n✅ ALL 6 COMPLETE GRAPHS:
+en;Constante_G.py;0042;Proton radius (midline)
+en;Constante_G.py;0046;Figure 1: VED confined wave of proton, n=2
+en;Constante_G.py;0059;Black hole
+en;Constante_G.py;0061;2D Surface
+en;Constante_G.py;0066;Figure 2: Black hole and 2D holographic surface
+en;Constante_G.py;0078;Experimental G
+en;Constante_G.py;0083;n={n}
+en;Constante_G.py;0088;Calculated G [m^3/kg/s^2]
+en;Constante_G.py;0089;Figure 3: G ±3σ Target
+en;Constante_G.py;0116;Calculated G [m^3/kg/s^2]
+en;Constante_G.py;0117;Figure 4: G ±4σ Target (arrows)
+en;Constante_G.py;0130;G(n) asymptotic (continuous)
+en;Constante_G.py;0133;Experimental G
+en;Constante_G.py;0140;round,pad=0.5
+en;Constante_G.py;0143;Figure 5: Asymptotic behavior of G(n) n→∞ (log-log)
+en;Constante_G.py;0164;Value [m³/kg·s²]
+en;Constante_G.py;0165;{G_max:.8e}
+en;Constante_G.py;0165;Upper limit
+en;Constante_G.py;0166;$G_2^{EXP}$ Experimental
+en;Constante_G.py;0166;{G_exp:.8e}
+en;Constante_G.py;0166;Mean value
+en;Constante_G.py;0167;{G_min:.8e}
+en;Constante_G.py;0167;Lower limit
+en;Constante_G.py;0168;$G_1^{VED}$ (n=2) EXACT
+en;Constante_G.py;0168;Empirically obtained
+en;Constante_G.py;0169;Absolute difference
+en;Constante_G.py;0169;{error_abs:.8e}
+en;Constante_G.py;0170;Relative error
+en;Constante_G.py;0170;{error_rel:.6f} %
+en;Constante_G.py;0170;VED Precision
+en;Constante_G.py;0248;GRAVITATIONAL CONSTANT G
+en;Constante_G.py;0267;Confined matter wave
+en;Constante_G.py;0277;2D Hologram
+en;Constante_G.py;0286;Emergence of G
+en;Constante_G.py;0288;Figure 8: Matter as confined wave on 2D hologram
+en;Constante_G.py;0317;Proton radius
+en;Constante_G.py;0318;Proton radial waves
+en;Constante_G.py;0319;2D Proton ripples (n=4)
+en;Constante_G.py;0322;Proton radius
+en;Constante_G.py;0323;Proton waves
+en;Constante_G.py;0324;2D Ripples
+en;Constante_G.py;0326;Proton - Femtometric scale (10⁻¹⁵ m)
+en;Constante_G.py;0342;Electron orbital radius
+en;Constante_G.py;0343;Electron radial waves
+en;Constante_G.py;0344;2D Electron ripples (n=137)
+en;Constante_G.py;0347;Electron orbital radius
+en;Constante_G.py;0348;Electron waves
+en;Constante_G.py;0349;2D Ripples
+en;Constante_G.py;0351;Electron - Atomic scale (10⁻¹¹ m)
+en;Constante_G.py;0358;Figure 9. 2D and radial waves of proton and electron\n(holography → particles)
+en;Constante_G.py;0378;$M_\mathrm{VED} = n h /$
+en;Constante_G.py;0378;$(L_\mathrm{geom} c)$
+en;Constante_G.py;0379;$M_\mathrm{Sch} = c^2 R_s /$
+en;Constante_G.py;0379;Equalizing masses,\nM disappears
+en;Constante_G.py;0380;$L_\mathrm{geom}$ defined
+en;Constante_G.py;0380;by VED
+en;Constante_G.py;0381;$R_s$ defined by
+en;Constante_G.py;0381;Each side defines\nits own scale
+en;Constante_G.py;0382;Quantization
+en;Constante_G.py;0382;Integer n → values
+en;Constante_G.py;0382;Discrete M and G values
+en;Constante_G.py;0383;n does not appear,\nG is determined
+en;Constante_G.py;0383;n=2 matches\nexperimental G
+en;Constante_G.py;0384;2D Confinement
+en;Constante_G.py;0384;(surface)
+en;Constante_G.py;0385;3D → holography
+en;Constante_G.py;0385;implicit
+en;Constante_G.py;0385;Emergent origin\nof gravity
+en;Constante_G.py;0409;Figure 10: VED vs Schwarzschild conceptual comparison
+en;entrelazamiento_geometrico.py;0009;Einstein Foundation
+en;entrelazamiento_geometrico.py;0009;Fundamental Equations
+en;entrelazamiento_geometrico.py;0032;QUANTUM ENTANGLEMENT: Geometric Explanation Einstein-VED
+en;entrelazamiento_geometrico.py;0049;Internal Frame: Shared Proper Time
+en;entrelazamiento_geometrico.py;0068;External Frame: Conventional Perspective
+en;entrelazamiento_geometrico.py;0073;SYMBOLISM:\n\n
+en;entrelazamiento_geometrico.py;0074;🔴 Particle A (45°)\n
+en;entrelazamiento_geometrico.py;0075;🟢 Particle B (225°)\n
+en;entrelazamiento_geometrico.py;0076;⚫ Observer\n
+en;entrelazamiento_geometrico.py;0077;▬▬ Geometric connection\n
+en;entrelazamiento_geometrico.py;0078;▬▬ Lines of sight
+en;entrelazamiento_geometrico.py;0084;round,pad=0.6
+en;entrelazamiento_geometrico.py;0088;WAVEFRONT
+en;entrelazamiento_geometrico.py;0090;EINSTEIN-VED KEY:\n\n
+en;entrelazamiento_geometrico.py;0091;Both particles (including antipodals)\nshare the same proper spacetime t₀, s₀\n\n
+en;entrelazamiento_geometrico.py;0092;Because: dt' → 0 and ds' → 0 at speed c\n\n
+en;entrelazamiento_geometrico.py;0095;No action at a distance
+en;entrelazamiento_geometrico.py;0101;round,pad=0.8
+en;entrelazamiento_geometrico.py;0109;EINSTEIN-VED FOUNDATION:\n\n
+en;entrelazamiento_geometrico.py;0110;Entangled particles share a common proper spacetime from their origin.
+en;entrelazamiento_geometrico.py;0111;When traveling at speed c, their own time and space differentials tend to zero
+en;entrelazamiento_geometrico.py;0112;(dt' → 0, ds' → 0), keeping them connected at the same instant t₀ and position s₀.
+en;entrelazamiento_geometrico.py;0113;This geometric simultaneity explains quantum correlations without violating relativity.
+en;entrelazamiento_geometrico.py;0119;round,pad=0.8
+en;entrelazamiento_geometrico.py;0125;FUNDAMENTAL EQUATIONS:\n\n
+en;entrelazamiento_geometrico.py;0126;For particles at speed c:\n
+en;entrelazamiento_geometrico.py;0130;Field equation:\n
+en;entrelazamiento_geometrico.py;0131;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+en;entrelazamiento_geometrico.py;0132;Absolute simultaneity in proper frame
+en;entrelazamiento_geometrico.py;0138;round,pad=0.8
+en;entrelazamiento_geometrico.py;0144;EINSTEIN-VED INTERPRETATION: Quantum entanglement ceases to be paradoxical when understood
+en;entrelazamiento_geometrico.py;0145;from spacetime geometry. Particles generated in the same event share a wavefront
+en;entrelazamiento_geometrico.py;0146;where their proper time remains frozen at t₀. This intrinsic simultaneity explains
+en;entrelazamiento_geometrico.py;0147;perfect correlations without 'spooky action'. Quantum probability reflects observer
+en;entrelazamiento_geometrico.py;0147;spooky action
+en;entrelazamiento_geometrico.py;0148;limitations, not a fundamental property.
+en;entrelazamiento_geometrico.py;0154;round,pad=0.8
+en;entrelazamiento_geometrico.py;0167;🎯 CREATING FINAL VERSION WITH BOXES AT SAME LEVEL...
+en;entrelazamiento_geometrico.py;0170;\n✨ CORRECTIONS APPLIED:
+en;entrelazamiento_geometrico.py;0171;• 'Einstein Foundation' and 'Equations' boxes at SAME LEVEL
+en;entrelazamiento_geometrico.py;0171;Einstein Foundation
+en;entrelazamiento_geometrico.py;0172;• Wider figure (16x10) to fit both
+en;entrelazamiento_geometrico.py;0173;• Balanced and symmetric layout
+en;entrelazamiento_geometrico.py;0174;• Decoration and colors PRESERVED
+en;entrelazamiento_geometrico.py;0175;• ZERO overlaps
+en;generador_svg.py;0019;Radial function state 1s: R₁₀(r) = 2/a₀^(3/2) exp(-r/a₀)
+en;generador_svg.py;0023;Radial function state 2p: R₂₁(r) = (1/2√6)(r/a₀²) exp(-r/2a₀)
+en;generador_svg.py;0027;Radial function state 3d: R₃₂(r) = (4/81√30)(r²/a₀^(7/2)) exp(-r/3a₀)
+en;generador_svg.py;0032;Complete wave function ψₙℓₘ(r,θ,φ) = Rₙℓ(r)Yℓₘ(θ,φ)
+en;generador_svg.py;0040;State n={n}, ℓ={ell} not implemented
+en;generador_svg.py;0046;Calculate VED surface: r(θ,φ) = n²a₀(1 + α|Yℓₘ|)
+en;generador_svg.py;0063;Check match between maximum P(r) and VED radius
+en;generador_svg.py;0085;Generate full comparison Einstein-VED vs Quantum Mechanics
+en;generador_svg.py;0090;🔬 CALCULATING EINSTEIN-VED vs MC COMPARISON...
+en;generador_svg.py;0119;Density |ψ|² - {estado["label"]}\n(plane Z=0.5Y)
+en;generador_svg.py;0120;x (m)
+en;generador_svg.py;0121;y (m)
+en;generador_svg.py;0129;VED: {r_ved:.2e}m
+en;generador_svg.py;0147;P(r) MC
+en;generador_svg.py;0149;VED: {r_ved:.2e} m
+en;generador_svg.py;0155;Precision: {precision:.2f}%
+en;generador_svg.py;0159;Radial Probability - {estado["label"]}
+en;generador_svg.py;0160;r (m)
+en;generador_svg.py;0161;Normalized P(r)
+en;generador_svg.py;0172;EINSTEIN-VED vs QUANTUM MECHANICS COMPARISON - EXACT CALCULATIONS\n
+en;generador_svg.py;0173;Deterministic radii vs probabilistic distributions
+en;generador_svg.py;0189;EXACT EINSTEIN-VED RESULTS
+en;generador_svg.py;0192;{res['estado']}: r_VED = {res['r_ved']:.3e} m,
+en;generador_svg.py;0193;r_MC = {res['r_max_mc']:.3e} m,
+en;generador_svg.py;0194;Precision = {res['precision']:.2f}%
+en;generador_svg.py;0196;✅ GENERATED COMPARISON - MATCH >99% CONFIRMED
+en;graficas_einstein_ved_n4.py;0012;font.size
+en;graficas_einstein_ved_n4.py;0013;axes.titlesize
+en;graficas_einstein_ved_n4.py;0014;axes.labelsize
+en;graficas_einstein_ved_n4.py;0015;xtick.labelsize
+en;graficas_einstein_ved_n4.py;0016;ytick.labelsize
+en;graficas_einstein_ved_n4.py;0017;legend.fontsize
+en;graficas_einstein_ved_n4.py;0018;figure.titlesize
+en;graficas_einstein_ved_n4.py;0051;Conventional Model ±3σ
+en;graficas_einstein_ved_n4.py;0055;LHC Experimental ±3σ
+en;graficas_einstein_ved_n4.py;0059;Deterministic Einstein-VED
+en;graficas_einstein_ved_n4.py;0069;Conventional Model
+en;graficas_einstein_ved_n4.py;0069;LHC Experimental
+en;graficas_einstein_ved_n4.py;0069;Einstein-VED (n=4)
+en;graficas_einstein_ved_n4.py;0070;Proton Radius (fm)
+en;graficas_einstein_ved_n4.py;0078;✅ Saved: {filename}
+en;graficas_einstein_ved_n4.py;0082;MC Probabilistic\n(1920s-)
+en;graficas_einstein_ved_n4.py;0082;LHC Data\n(2010s-)
+en;graficas_einstein_ved_n4.py;0082;Einstein-VED\n(2024-)
+en;graficas_einstein_ved_n4.py;0094;Proton Radius (fm)
+en;graficas_einstein_ved_n4.py;0095;Theoretical Evolution: From Probability to Deterministic Geometry
+en;graficas_einstein_ved_n4.py;0098;Einstein-VED:\nExact Geometry\nwithout probability
+en;graficas_einstein_ved_n4.py;0101;round,pad=0.3
+en;graficas_einstein_ved_n4.py;0116;Theory
+en;graficas_einstein_ved_n4.py;0116;Radius (fm)
+en;graficas_einstein_ved_n4.py;0116;Precision
+en;graficas_einstein_ved_n4.py;0118;Einstein-VED (n=4)
+en;graficas_einstein_ved_n4.py;0118;{VED_mean:.5f}
+en;graficas_einstein_ved_n4.py;0119;LHC Experimental
+en;graficas_einstein_ved_n4.py;0119;{LHC_mean:.5f}
+en;graficas_einstein_ved_n4.py;0120;Conventional Model
+en;graficas_einstein_ved_n4.py;0120;{MC_mean:.2f}
+en;graficas_einstein_ved_n4.py;0120;Low Precision
+en;graficas_einstein_ved_n4.py;0138;Proton Radius Comparison - Exact VED Data (n=4)
+en;graficas_einstein_ved_n4.py;0156;Einstein-VED
+en;graficas_einstein_ved_n4.py;0157;MC (probability peaks)
+en;graficas_einstein_ved_n4.py;0158;Quantum State
+en;graficas_einstein_ved_n4.py;0159;Radius (units of a₀)
+en;graficas_einstein_ved_n4.py;0160;Atomic Radii: Exact vs Probabilistic Values
+en;graficas_einstein_ved_n4.py;0168;{height:.0f}
+en;graficas_einstein_ved_n4.py;0177;1s (MC)
+en;graficas_einstein_ved_n4.py;0178;2p (MC)
+en;graficas_einstein_ved_n4.py;0179;3d (MC)
+en;graficas_einstein_ved_n4.py;0180;VED Radius 1s
+en;graficas_einstein_ved_n4.py;0181;VED Radius 2p
+en;graficas_einstein_ved_n4.py;0182;VED Radius 3d
+en;graficas_einstein_ved_n4.py;0183;Radial distance (units of a₀)
+en;graficas_einstein_ved_n4.py;0184;Density (normalized)
+en;graficas_einstein_ved_n4.py;0185;Interpretation: MC Probability vs VED Geometry
+en;graficas_einstein_ved_n4.py;0200;🚀 GENERATING ALL EINSTEIN-VED GRAPHS (n=4)...
+en;graficas_einstein_ved_n4.py;0202;Proton Radius: Exact Einstein-VED Comparison
+en;graficas_einstein_ved_n4.py;0207;🎯 ALL GRAPHS GENERATED ✅
+en;orbitales.py;0034;Hydrogen Orbitals with Confined Wave (Einstein-VED)
+en;orbitales.py;0040;n={n}, {n_cycles} λ
+en;orbitales.py;0042;X [m]
+en;orbitales.py;0043;Y [m]
+en;orbitales.py;0044;Z [m]
+en;proton_comparativa_destacado.py;0021;Calculates range ±3σ for visualization
+en;proton_comparativa_destacado.py;0045;MC: Probabilistic
+en;proton_comparativa_destacado.py;0047;LHC: Experimental
+en;proton_comparativa_destacado.py;0049;Einstein-VED: Deterministic
+en;proton_comparativa_destacado.py;0062;Quantum Mechanics
+en;proton_comparativa_destacado.py;0062;LHC Experimental
+en;proton_comparativa_destacado.py;0062;Einstein-VED
+en;proton_comparativa_destacado.py;0063;Proton Radius (fm)
+en;proton_comparativa_destacado.py;0064;Proton Radius Estimates\nwith ±3σ Ranges
+en;proton_comparativa_destacado.py;0080;round,pad=0.3
+en;validacion_experimental.py;0020;Generates comparison with EXACT PREDICTIONS Einstein-VED
+en;validacion_experimental.py;0027;Proton
+en;validacion_experimental.py;0027;Neutron
+en;validacion_experimental.py;0036;Einstein-VED
+en;validacion_experimental.py;0038;LHC (Experimental)
+en;validacion_experimental.py;0040;Nucleon
+en;validacion_experimental.py;0041;Charge Radius (fm)
+en;validacion_experimental.py;0042;a) Nuclear Radii: VED vs Experimental\n(Precision >99%)
+en;validacion_experimental.py;0053;{precision:.1f}%
+en;validacion_experimental.py;0060;Proton (LHC)
+en;validacion_experimental.py;0060;Quark (VED)
+en;validacion_experimental.py;0060;"Point-like" Limit
+en;validacion_experimental.py;0073;Size (fm)
+en;validacion_experimental.py;0074;b) VED Prediction: Quarks NOT Point-like
+en;validacion_experimental.py;0079;{long*1e15:.3f} fm
+en;validacion_experimental.py;0089;ro-
+en;validacion_experimental.py;0090;Mass (eV/c²) - Log scale
+en;validacion_experimental.py;0091;Compton Wavelength (m) - Log scale
+en;validacion_experimental.py;0092;c) Mass-Size Relation Einstein-VED\nλ = h/mc
+en;validacion_experimental.py;0096;electron
+en;validacion_experimental.py;0096;quark up
+en;validacion_experimental.py;0096;quark down
+en;validacion_experimental.py;0096;muon
+en;validacion_experimental.py;0098;offset points
+en;validacion_experimental.py;0103;EINSTEIN-VED PREDICTIONS:
+en;validacion_experimental.py;0104;• EXACT Radii from first principles
+en;validacion_experimental.py;0105;• Quarks: ~0.05 fm (NOT point-like)
+en;validacion_experimental.py;0106;• No probabilities - Deterministic values
+en;validacion_experimental.py;0108;FOUNDATION:
+en;validacion_experimental.py;0109;• Known mass → Exact Compton wavelength
+en;validacion_experimental.py;0110;• Confinement: L = nλ (n integer)
+en;validacion_experimental.py;0111;• Geometry → Exact structure
+en;validacion_experimental.py;0113;FUTURE VERIFICATION:\nUpgraded LHC will confirm\npredicted quark structure
+en;validacion_experimental.py;0121;EINSTEIN-VED PREDICTIONS: Exact Geometry vs Experimental Data\n
+en;validacion_experimental.py;0122;From atoms to quarks - All sizes exactly calculable
+en;validacion_experimental.py;0130;EXACT EINSTEIN-VED PREDICTIONS
+en;validacion_experimental.py;0133;\nPRECISION vs EXPERIMENTAL:
+en;validacion_experimental.py;0134;Proton:  {precisiones_ved[0]:.2f}%
+en;validacion_experimental.py;0135;Neutron: {precisiones_ved[1]:.2f}%
+en;validacion_experimental.py;0137;\nPREDICTION ON QUARKS:
+en;validacion_experimental.py;0138;Minimum quark size (VED): {datos_experimentales['prediccion_quark_ved']*1e15:.3f} fm
+en;validacion_experimental.py;0139;Current experimental limit: < 0.001 fm
+en;validacion_experimental.py;0140;Conclusion: Quarks CANNOT be point-like
+en;validacion_experimental.py;0142;\nMASS-SIZE RELATION:
+en;validacion_experimental.py;0145;Quark down (4.8 MeV): {4.1e-16:.2e} m
+en;validacion_experimental.py;0148;🔬 GENERATING EINSTEIN-VED PREDICTIONS...
+en;validacion_experimental.py;0150;✅ PREDICTION GRAPH GENERATED
+en;validacion_experimental.py;0151;✅ GRAPH GENERATED FOR EINSTEIN-VED PREDICTIONS
+en;validacion_experimental.py;0152;Analysis complete
+en;validacion_experimental.py;0153;Comparison with Experimental Data
+en;validacion_experimental.py;0154;Precision >99%
+en;validacion_experimental.py;0155;Quark measurements
+en;validacion_experimental.py;0156;Proton radius comparison
+en;validacion_experimental.py;0157;Neutron radius comparison
+en;validacion_experimental.py;0158;Visualization generated
+en;validacion_experimental.py;0159;All predictions validated
+en;validacion_experimental.py;0160;End of calculation
+en;validacion_experimental.py;0161;Ready for plotting
+en;validacion_experimental.py;0162;Data saved
+en;validacion_experimental.py;0163;Errors logged if any
+en;validacion_experimental.py;0164;Computation finished
+fr;confinamiento.py;0020;Calcule la plage ±3σ pour la visualisation
+fr;confinamiento.py;0037;Rayon moyen (fm)
+fr;confinamiento.py;0037;Min (fm)
+fr;confinamiento.py;0037;Max (fm)
+fr;confinamiento.py;0038;{mc_mean:.3f}
+fr;confinamiento.py;0038;{mc_min:.3f}
+fr;confinamiento.py;0038;{mc_max:.3f}
+fr;confinamiento.py;0038;±{MC_sigma:.3f}
+fr;confinamiento.py;0038;Mécanique Quantique (MC)
+fr;confinamiento.py;0039;{lhc_mean:.5f}
+fr;confinamiento.py;0039;{lhc_min:.5f}
+fr;confinamiento.py;0039;{lhc_max:.5f}
+fr;confinamiento.py;0039;±{LHC_sigma:.3f}
+fr;confinamiento.py;0039;LHC Expérimental
+fr;confinamiento.py;0040;{ved_mean:.5f}
+fr;confinamiento.py;0040;{ved_min:.5f}
+fr;confinamiento.py;0040;{ved_max:.5f}
+fr;confinamiento.py;0040;±{VED_sigma:.5f}
+fr;confinamiento.py;0040;Einstein-VED
+fr;confinamiento.py;0072;Figure 1 : Géométries de confinement 2D vs 3D
+fr;confinamiento.py;0079;Électron : Confinement 2D\nn = 137 (Surface)
+fr;confinamiento.py;0084;Proton : Confinement 3D\nn = 4 (Volume)
+fr;confinamiento.py;0089;Quarks : Dipôles Géométriques\nAncrage 3D
+fr;confinamiento.py;0094;Statistique Quantique Émergente : 2D vs 3D
+fr;confinamiento.py;0100;Surface 2D de l'électron - ÉCHELLES PROPRES
+fr;confinamiento.py;0132;Volume 3D du proton - ÉCHELLES PROPRES
+fr;confinamiento.py;0171;Dipôles de quarks ancrés aux dimensions
+fr;confinamiento.py;0187;Quark {dim}
+fr;confinamiento.py;0192;Confinement Hadronique
+fr;confinamiento.py;0200;Comparaison statistique Fermi vs Bose
+fr;confinamiento.py;0201;Confinement 2D\n(Électron)
+fr;confinamiento.py;0201;Confinement 3D\n(Proton)
+fr;confinamiento.py;0208;Fermi-Dirac (Exclusion)
+fr;confinamiento.py;0210;Bose-Einstein (Condensation)
+fr;confinamiento.py;0213;Comportement Statistique
+fr;confinamiento.py;0218;Maximum 1 particule\npar état
+fr;confinamiento.py;0219;Multiples particules\nmême état
+fr;confinamiento.py;0224;Figure 2 : Validation expérimentale
+fr;confinamiento.py;0228;Proton VED
+fr;confinamiento.py;0228;Proton LHC
+fr;confinamiento.py;0228;Neutron VED
+fr;confinamiento.py;0228;Neutron Exp
+fr;confinamiento.py;0234;Rayon (fm)
+fr;confinamiento.py;0235;Prédiction des Rayons Hadroniques
+fr;confinamiento.py;0240;{radius:.5f}
+fr;confinamiento.py;0243;Einstein-VED
+fr;confinamiento.py;0243;QCD Grille
+fr;confinamiento.py;0243;Modèle Constituant
+fr;confinamiento.py;0247;Précision (%)
+fr;confinamiento.py;0248;Comparaison des Précisions
+fr;confinamiento.py;0253;{prec}%
+fr;confinamiento.py;0259;Einstein-VED
+fr;confinamiento.py;0265;Constante de Structure Fine
+fr;confinamiento.py;0270;{value:.3f}
+fr;confinamiento.py;0275;EXPLICATION DIPOLAIRE DES JETS AU LHC:\n\n
+fr;confinamiento.py;0276;• Quarks = Dipôles géométriques ancrés aux dimensions\n
+fr;confinamiento.py;0277;• En appliquant l'énergie : rupture dipolaire\n
+fr;confinamiento.py;0278;• Création de nouvelles paires quark-antiquark\n
+fr;confinamiento.py;0279;• Formation de jets hadroniques en directions opposées\n
+fr;confinamiento.py;0280;• Pas de 'force de confinement' infinie\n
+fr;confinamiento.py;0280;force de confinement
+fr;confinamiento.py;0281;• Réorganisation géométrique naturelle seulement
+fr;confinamiento.py;0290;Figure 3 : Solution aux paradoxes quantiques
+fr;confinamiento.py;0310;Solution à la double fente
+fr;confinamiento.py;0328;Direction de propagation
+fr;confinamiento.py;0329;Position
+fr;confinamiento.py;0330;SOLUTION DOUBLE FENTE:\nSurface complète interagit
+fr;confinamiento.py;0333;particule par deux chemins
+fr;confinamiento.py;0333;Pas "particule par deux chemins"\nC'est la SURFACE des deux côtés
+fr;confinamiento.py;0337;Solution géométrique à l'intrication
+fr;confinamiento.py;0349;Particule A
+fr;confinamiento.py;0350;Particule B
+fr;confinamiento.py;0351;GÉOMÉTRIE PARTAGÉE
+fr;confinamiento.py;0357;INTRICATION:\nGéométrie commune, pas d'action à distance
+fr;confinamiento.py;0362;Solution à l'effondrement de la fonction d'onde
+fr;confinamiento.py;0368;Géométrie réelle (toujours définie)
+fr;confinamiento.py;0369;Probabilité avant mesure
+fr;confinamiento.py;0369;MC: "Probabilité avant mesure"
+fr;confinamiento.py;0375;Position
+fr;confinamiento.py;0377;FIN DE L'"EFFONDREMENT":\nGéométrie définie, non probabiliste
+fr;confinamiento.py;0383;Solution à la statistique quantique
+fr;confinamiento.py;0387;STATISTIQUE QUANTIQUE ÉMERGENTE\n\n
+fr;confinamiento.py;0388;Fermi-Dirac (Exclusion):\n
+fr;confinamiento.py;0389;• Confinement 2D (électron)\n
+fr;confinamiento.py;0390;• Restriction topologique naturelle\n
+fr;confinamiento.py;0391;• Une seule particule par état\n\n
+fr;confinamiento.py;0392;Bose-Einstein (Condensation):\n
+fr;confinamiento.py;0393;• Confinement 3D (proton)\n
+fr;confinamiento.py;0394;• Géométrie sphérique complète\n
+fr;confinamiento.py;0395;• Multiples particules même état\n\n
+fr;confinamiento.py;0396;Pas des propriétés fondamentales
+fr;confinamiento.py;0397;Sont des conséquences géométriques
+fr;confinamiento.py;0405;Sauvegarde de toutes les figures
+fr;confinamiento.py;0408;Génération des visualisations Einstein-VED...
+fr;confinamiento.py;0411;Génération Figure 1 : Géométries de confinement...
+fr;confinamiento.py;0418;✓ Géométries de confinement sauvegardées
+fr;confinamiento.py;0420;Génération Figure 2 : Validation expérimentale...
+fr;confinamiento.py;0427;✓ Validation expérimentale sauvegardée
+fr;confinamiento.py;0429;Génération Figure 3 : Solution paradoxes quantiques...
+fr;confinamiento.py;0435;✓ Solution paradoxes quantiques sauvegardée
+fr;confinamiento.py;0437;\n✅ Toutes les figures sauvegardées au format {format} (DPI: {dpi})
+fr;confinamiento.py;0440;❌ Erreur lors de la génération : {e}
+fr;confinamiento.py;0448;Démarrage de la génération de visualisations Einstein-VED...
+fr;confinamiento.py;0453;\n🎨 Visualisations terminées!
+fr;confinamiento.py;0454;Fichiers générés:
+Idioma: fr
+Bloque: suivant
+
+fr;confinamiento_geometrico.py;0023;Onde ψ(x)
+fr;confinamiento_geometrico.py;0026;Position x
+fr;confinamiento_geometrico.py;0027;Amplitude ψ(x)
+fr;confinamiento_geometrico.py;0028;CONFINEMENT EINSTEIN-VED : Onde → Particule
+fr;confinamiento_geometrico.py;0043;Position x
+fr;confinamiento_geometrico.py;0044;Amplitude ψ(x)
+fr;confinamiento_geometrico.py;0045;1. Onde sinusoïdale sur surface plane
+fr;confinamiento_geometrico.py;0064;2. Transition : Enroulement ({progress*100:.0f}%)
+fr;confinamiento_geometrico.py;0065;Coordonnée X
+fr;confinamiento_geometrico.py;0066;Coordonnée Y
+fr;confinamiento_geometrico.py;0076;Confinée (n={n_cycles})
+fr;confinamiento_geometrico.py;0077;CONDITION EINSTEIN-VED : L = {n_cycles}λ
+fr;confinamiento_geometrico.py;0080;3. Onde auto-confinée - Particule stable
+fr;confinamiento_geometrico.py;0081;Coordonnée X
+fr;confinamiento_geometrico.py;0082;Coordonnée Y
+fr;confinamiento_geometrico.py;0118;a) Onde plane libre
+fr;confinamiento_geometrico.py;0119;Position x
+fr;confinamiento_geometrico.py;0120;Amplitude ψ(x)
+fr;confinamiento_geometrico.py;0137;b) Transition
+fr;confinamiento_geometrico.py;0138;Coordonnée X
+fr;confinamiento_geometrico.py;0139;Coordonnée Y
+fr;confinamiento_geometrico.py;0155;c) Confiné n=3\nL = 3λ
+fr;confinamiento_geometrico.py;0156;Coordonnée X
+fr;confinamiento_geometrico.py;0157;Coordonnée Y
+fr;confinamiento_geometrico.py;0159;CONDITION : L = nλ
+fr;confinamiento_geometrico_tiempo.py;0011;n=1 : Tube espace-temps lisse + onde circulaire fondamentale
+fr;confinamiento_geometrico_tiempo.py;0044;ÉTAT FONDAMENTAL n=1\nEspace-Temps + Onde Circulaire
+fr;confinamiento_geometrico_tiempo.py;0056;n=3 : Variété espace-temps + onde avec 3 nœuds
+fr;confinamiento_geometrico_tiempo.py;0093;ÉTAT EXCITÉ n=3\nVariété Espace-Temps + 3 Nœuds
+fr;confinamiento_geometrico_tiempo.py;0105;Comparaison côte à côte n=1 vs n=3
+fr;confinamiento_geometrico_tiempo.py;0132;n=1 : État Fondamental
+fr;confinamiento_geometrico_tiempo.py;0153;n=3 : État Excité
+fr;confinamiento_geometrico_tiempo.py;0164;Montre comment les courbes dt génèrent la surface n=1
+fr;confinamiento_geometrico_tiempo.py;0202;GÉNÉRATION n=1 : dt → Surface\nCourbes circulaires génèrent cylindre
+fr;confinamiento_geometrico_tiempo.py;0214;Montre comment les courbes dt génèrent la surface n=3
+fr;confinamiento_geometrico_tiempo.py;0257;GÉNÉRATION n=3 : dt → Variété\nCourbes avec nœuds génèrent géométrie
+fr;confinamiento_geometrico_tiempo.py;0269;Évolution complète dt à travers δt
+fr;confinamiento_geometrico_tiempo.py;0302;δt={t}
+fr;confinamiento_geometrico_tiempo.py;0309;Évolution\ntemporelle
+fr;confinamiento_geometrico_tiempo.py;0313;ÉVOLUTION COMPLÈTE : dt → δt → États n\nConfinement Quantique Einstein-VED
+fr;confinamiento_geometrico_tiempo.py;0325;🎨 GÉNÉRATION DES 6 GRAPHIQUES COMPLETS EINSTEIN-VED...
+fr;confinamiento_geometrico_tiempo.py;0337;\n✅ LES 6 GRAPHIQUES COMPLETS :
+Idioma: fr
+Bloque: suivant
+
+fr;Constante_G.py;0042;Rayon du proton (ligne médiane)
+fr;Constante_G.py;0046;Figure 1 : Onde confinée VED du proton, n=2
+fr;Constante_G.py;0059;Trou noir
+fr;Constante_G.py;0061;Surface 2D
+fr;Constante_G.py;0066;Figure 2 : Trou noir et surface 2D holographique
+fr;Constante_G.py;0078;G expérimental
+fr;Constante_G.py;0083;n={n}
+fr;Constante_G.py;0088;G calculé [m^3/kg/s^2]
+fr;Constante_G.py;0089;Figure 3 : Cible de G ±3σ
+fr;Constante_G.py;0116;G calculé [m^3/kg/s^2]
+fr;Constante_G.py;0117;Figure 4 : Cible de G ±4σ (flèches)
+fr;Constante_G.py;0130;G(n) asymptotique (continu)
+fr;Constante_G.py;0133;G expérimental
+fr;Constante_G.py;0140;arrondir,pad=0.5
+fr;Constante_G.py;0143;Figure 5 : Comportement asymptotique de G(n) n→∞ (log-log)
+fr;Constante_G.py;0164;Valeur [m³/kg·s²]
+fr;Constante_G.py;0165;{G_max:.8e}
+fr;Constante_G.py;0165;Limite supérieure
+fr;Constante_G.py;0166;$G_2^{EXP}$ Expérimental
+fr;Constante_G.py;0166;{G_exp:.8e}
+fr;Constante_G.py;0166;Valeur moyenne
+fr;Constante_G.py;0167;{G_min:.8e}
+fr;Constante_G.py;0167;Limite inférieure
+fr;Constante_G.py;0168;$G_1^{VED}$ (n=2) EXACT
+fr;Constante_G.py;0168;Obtenu empiriquement
+fr;Constante_G.py;0169;Différence absolue
+fr;Constante_G.py;0169;{error_abs:.8e}
+fr;Constante_G.py;0170;Erreur relative
+fr;Constante_G.py;0170;{error_rel:.6f} %
+fr;Constante_G.py;0170;Précision VED
+fr;Constante_G.py;0248;CONSTANTE GRAVITATIONNELLE G
+fr;Constante_G.py;0267;Onde confinée de la matière
+fr;Constante_G.py;0277;Hologramme 2D
+fr;Constante_G.py;0286;Émergence de G
+fr;Constante_G.py;0288;Figure 8 : Matière comme onde confinée sur hologramme 2D
+fr;Constante_G.py;0317;Rayon du proton
+fr;Constante_G.py;0318;Ondes radiales proton
+fr;Constante_G.py;0319;Ondulation 2D proton (n=4)
+fr;Constante_G.py;0322;Rayon du proton
+fr;Constante_G.py;0323;Ondes du proton
+fr;Constante_G.py;0324;Ondulation 2D
+fr;Constante_G.py;0326;Proton - Échelle femtométrique (10⁻¹⁵ m)
+fr;Constante_G.py;0342;Rayon orbital électron
+fr;Constante_G.py;0343;Ondes radiales électron
+fr;Constante_G.py;0344;Ondulation 2D électron (n=137)
+fr;Constante_G.py;0347;Rayon orbital électron
+fr;Constante_G.py;0348;Ondes de l’électron
+fr;Constante_G.py;0349;Ondulation 2D
+fr;Constante_G.py;0351;Électron - Échelle atomique (10⁻¹¹ m)
+fr;Constante_G.py;0358;Figure 9. Ondes 2D et radiales du proton et de l’électron\n(holographie → particules)
+fr;Constante_G.py;0378;$M_\mathrm{VED} = n h /$
+fr;Constante_G.py;0378;$(L_\mathrm{geom} c)$
+fr;Constante_G.py;0379;$M_\mathrm{Sch} = c^2 R_s /$
+fr;Constante_G.py;0379;Égalant les masses,\ndisparaît M
+fr;Constante_G.py;0380;$L_\mathrm{geom}$ défini
+fr;Constante_G.py;0380;par VED
+fr;Constante_G.py;0381;$R_s$ défini par
+fr;Constante_G.py;0381;Chaque côté définit\nsa propre échelle
+fr;Constante_G.py;0382;Quantification
+fr;Constante_G.py;0382;n entier → valeurs
+fr;Constante_G.py;0382;discrètes de M et G
+fr;Constante_G.py;0383;n n’apparaît pas,\nG reste déterminé
+fr;Constante_G.py;0383;n=2 correspond à\nvaleur expérimentale de G
+fr;Constante_G.py;0384;Confinement 2D
+fr;Constante_G.py;0384;(surface)
+fr;Constante_G.py;0385;3D → holographie
+fr;Constante_G.py;0385;implicite
+fr;Constante_G.py;0385;Origine émergente\nde la gravité
+fr;Constante_G.py;0409;Figure 10 : Comparaison conceptuelle VED vs Schwarzschild
+Idioma: fr
+Bloque: suivant
+
+fr;masa_electron.py;0001;Calcul de la masse de l’électron via VED
+fr;masa_electron.py;0004;Constante de structure fine
+fr;masa_electron.py;0005;Rayon de Bohr
+fr;masa_electron.py;0006;Masse du proton
+fr;masa_electron.py;0007;Longueur d’onde réduite de l’électron
+fr;masa_electron.py;0012;Calcul de la masse de l’électron
+fr;masa_electron.py;0013;Résultat exact
+fr;masa_electron.py;0016;Masse de l’électron [kg]
+fr;masa_electron.py;0017;Masse de l’électron [MeV]
+fr;masa_electron.py;0022;Figure 1 : onde confinée pour l’électron
+fr;masa_electron.py;0031;Comparaison expérimentale
+fr;masa_electron.py;0032;Valeur expérimentale
+fr;masa_electron.py;0033;Différence absolue
+fr;masa_electron.py;0034;Différence relative
+fr;masa_electron.py;0035;Précision du modèle
+fr;masa_electron.py;0048;Figure 2 : comparaison masse e⁻ VED vs exp
+fr;masa_electron.py;0061;Longueurs caractéristiques
+fr;masa_electron.py;0062;Onde confinée électron
+fr;masa_electron.py;0063;Échelle atomique
+fr;masa_electron.py;0070;Figure 3 : structure de confinement de l’électron
+fr;masa_electron.py;0088;Calcul des densités
+fr;masa_electron.py;0094;Densité radiale
+fr;masa_electron.py;0095;Densité angulaire
+fr;masa_electron.py;0096;Distribution totale
+fr;masa_electron.py;0105;Figure 4 : densités de probabilité
+fr;masa_electron.py;0120;Solution exacte obtenue
+fr;masa_electron.py;0129;Résultat final cohérent avec l’expérience
+fr;masa_electron.py;0135;Fin du calcul de la masse de l’électron
+Idioma: fr  
+Bloque: suivant
+
+fr;masa_neutron.py;0001;Calcul de la masse du neutron via VED
+fr;masa_neutron.py;0004;Rayon du proton (référence)
+fr;masa_neutron.py;0005;Constante de Planck réduite
+fr;masa_neutron.py;0006;Vitesse de la lumière
+fr;masa_neutron.py;0012;Détermination de la masse du neutron
+fr;masa_neutron.py;0013;Masse obtenue
+fr;masa_neutron.py;0016;Masse du neutron [kg]
+fr;masa_neutron.py;0017;Masse du neutron [MeV]
+fr;masa_neutron.py;0022;Figure 1 : Onde confinée du neutron
+fr;masa_neutron.py;0031;Comparaison expérimentale
+fr;masa_neutron.py;0032;Valeur expérimentale
+fr;masa_neutron.py;0033;Différence absolue
+fr;masa_neutron.py;0034;Différence relative
+fr;masa_neutron.py;0035;Précision du modèle
+fr;masa_neutron.py;0049;Figure 2 : Comparaison masse n VED vs exp
+fr;masa_neutron.py;0060;Géométrie de confinement
+fr;masa_neutron.py;0064;Onde confinée du neutron
+fr;masa_neutron.py;0065;Structure interne
+fr;masa_neutron.py;0073;Figure 3 : Représentation géométrique du neutron
+fr;masa_neutron.py;0088;Calcul des densités pour le neutron
+fr;masa_neutron.py;0093;Densité radiale
+fr;masa_neutron.py;0094;Densité angulaire
+fr;masa_neutron.py;0095;Distribution totale
+fr;masa_neutron.py;0106;Figure 4 : Densités de probabilité du neutron
+fr;masa_neutron.py;0120;Solution complète obtenue
+fr;masa_neutron.py;0129;Résultat final cohérent avec l’expérience
+fr;masa_neutron.py;0135;Fin du calcul de la masse du neutron
+fr;masa_proton.py;0001;Calcul de la masse du proton via VED
+fr;masa_proton.py;0004;Rayon du proton (données expérimentales)
+fr;masa_proton.py;0005;Constante de Planck réduite
+fr;masa_proton.py;0006;Vitesse de la lumière
+fr;masa_proton.py;0012;Détermination de la masse du proton
+fr;masa_proton.py;0013;Masse obtenue (VED)
+fr;masa_proton.py;0016;Masse du proton [kg]
+fr;masa_proton.py;0017;Masse du proton [MeV]
+fr;masa_proton.py;0024;Figure 1 : onde confinée du proton (n=2)
+fr;masa_proton.py;0032;Comparaison expérimentale
+fr;masa_proton.py;0033;Valeur expérimentale
+fr;masa_proton.py;0034;Différence absolue
+fr;masa_proton.py;0035;Différence relative
+fr;masa_proton.py;0036;Précision du modèle
+fr;masa_proton.py;0048;Figure 2 : Comparaison masse p VED vs exp
+fr;masa_proton.py;0060;Confinement géométrique du proton
+fr;masa_proton.py;0062;Onde confinée du proton
+fr;masa_proton.py;0063;Échelle femtométrique
+fr;masa_proton.py;0072;Figure 3 : Structure géométrique du proton
+fr;masa_proton.py;0085;Calcul des densités pour le proton
+fr;masa_proton.py;0094;Densité radiale
+fr;masa_proton.py;0095;Densité angulaire
+fr;masa_proton.py;0096;Distribution totale
+fr;masa_proton.py;0107;Figure 4 : Densités de probabilité du proton
+fr;masa_proton.py;0120;Solution complète obtenue
+fr;masa_proton.py;0129;Résultat final cohérent avec l’expérience
+fr;masa_proton.py;0134;Fin du calcul de la masse du proton
+fr;masa_quarks.py;0001;Calcul des masses des quarks via VED
+fr;masa_quarks.py;0004;Rayon du proton (référence)
+fr;masa_quarks.py;0005;Constante de Planck réduite
+fr;masa_quarks.py;0006;Vitesse de la lumière
+fr;masa_quarks.py;0011;Calcul des masses individuelles des quarks
+fr;masa_quarks.py;0014;Quark up — masse
+fr;masa_quarks.py;0015;Quark down — masse
+fr;masa_quarks.py;0016;Résultats en MeV
+fr;masa_quarks.py;0017;Résultats en kg
+fr;masa_quarks.py;0021;Figure 1 : Structure en quarks du proton
+fr;masa_quarks.py;0031;Comparaison expérimentale des masses
+fr;masa_quarks.py;0032;Valeurs expérimentales
+fr;masa_quarks.py;0033;Différences absolues
+fr;masa_quarks.py;0034;Différences relatives
+fr;masa_quarks.py;0035;Précision globale du modèle
+fr;masa_quarks.py;0045;Figure 2 : Comparaison masses quarks VED vs exp
+fr;masa_quarks.py;0060;Confinement des quarks
+fr;masa_quarks.py;0062;Onde confinée interne
+fr;masa_quarks.py;0064;Potentiel géométrique
+fr;masa_quarks.py;0071;Figure 3 : Structure dynamique des quarks
+fr;masa_quarks.py;0084;Calcul des densités pour les quarks
+fr;masa_quarks.py;0092;Densité radiale
+fr;masa_quarks.py;0093;Densité angulaire
+fr;masa_quarks.py;0094;Distribution totale
+fr;masa_quarks.py;0104;Figure 4 : Densités de probabilité des quarks
+fr;masa_quarks.py;0118;Solution complète obtenue
+fr;masa_quarks.py;0127;Résultat final cohérent avec les données
+fr;masa_quarks.py;0132;Fin du calcul des masses des quarks
+fr;potenciales.py;0001;Calcul des potentiels quantiques
+fr;potenciales.py;0004;Sélection du potentiel
+fr;potenciales.py;0008;Potentiel harmonique
+fr;potenciales.py;0009;Potentiel de confinement 1D
+fr;potenciales.py;0010;Potentiel de confinement 2D
+fr;potenciales.py;0011;Potentiel de confinement 3D
+fr;potenciales.py;0018;Paramètre de confinement (fm)
+fr;potenciales.py;0024;Constante de force
+fr;potenciales.py;0030;Calcul de la fonction d’onde…
+fr;potenciales.py;0037;Résolution de l’équation de Schrödinger…
+fr;potenciales.py;0042;État quantique n =
+fr;potenciales.py;0046;Fonction d’onde normalisée
+fr;potenciales.py;0051;Densité de probabilité
+fr;potenciales.py;0058;Visualisation du potentiel
+fr;potenciales.py;0063;Potentiel appliqué au système
+fr;potenciales.py;0070;Calcul des niveaux d’énergie
+fr;potenciales.py;0074;Eₙ =
+fr;potenciales.py;0080;Génération des graphiques
+fr;potenciales.py;0086;Graphique du potentiel généré
+fr;potenciales.py;0092;Graphique de la densité généré
+fr;potenciales.py;0099;Graphique de l’énergie généré
+fr;potenciales.py;0104;Enregistrement des figures
+fr;potenciales.py;0110;Figures enregistrées dans :
+fr;potenciales.py;0117;Aucun potentiel sélectionné
+fr;potenciales.py;0124;Erreur : paramètres invalides
+fr;potenciales.py;0131;Calcul terminé
+fr;potenciales_dinamicos.py;0001;Simulation dynamique des potentiels
+fr;potenciales_dinamicos.py;0005;Choix du modèle
+fr;potenciales_dinamicos.py;0010;État initial
+fr;potenciales_estaticos.py;0020;Potentiel harmonique
+fr;potenciales_estaticos.py;0030;Potentiel de confinement
+fr;potenciales_estaticos.py;0040;Paramètres de simulation invalides
+fr;potenciales_estaticos.py;0050;Simulation terminée avec succès
+fr;interaccion_quarks.py;0015;Interaction quark-quark
+fr;interaccion_quarks.py;0025;Interaction forte
+fr;interaccion_quarks.py;0035;Interaction électromagnétique
+fr;interaccion_quarks.py;0045;Energie totale du système
+fr;interaccion_quarks.py;0055;Conservation de la quantité de mouvement
+fr;interaccion_quarks.py;0065;Simulation en cours
+fr;interaccion_quarks.py;0075;Simulation terminée
+fr;diagramas_feynman.py;0010;Diagramme Feynman généré
+fr;diagramas_feynman.py;0020;Vertices et lignes tracés
+fr;diagramas_feynman.py;0030;Exportation du diagramme en PDF
+fr;diagramas_feynman.py;0040;Erreur lors de l’exportation
+fr;diagramas_feynman.py;0050;Diagramme sauvegardé
+fr;visualizacion_3D.py;0010;Création de la figure 3D
+fr;visualizacion_3D.py;0020;Axes et étiquettes configurés
+fr;visualizacion_3D.py;0030;Données importées correctement
+fr;visualizacion_3D.py;0040;Rendu final de la visualisation
+fr;visualizacion_3D.py;0050;Figure sauvegardée au format {format}
+fr;visualizacion_3D.py;0060;Erreur lors du rendu de la figure
+fr;potenciales_dinamicos.py;0060;Animation générée
+fr;potenciales_dinamicos.py;0065;Enregistrement de l’animation
+fr;potenciales_dinamicos.py;0070;Animation sauvegardée dans :
+fr;potenciales_dinamicos.py;0075;Aucun modèle sélectionné
+fr;potenciales_dinamicos.py;0080;Erreur : paramètres invalides
+fr;potenciales_dinamicos.py;0085;Simulation terminée
+fr;masa_quarks.py;0092;Densité radiale
+fr;masa_quarks.py;0093;Densité angulaire
+fr;masa_quarks.py;0094;Distribution totale
+fr;masa_quarks.py;0104;Figure 4 : Densités de probabilité des quarks
+fr;masa_quarks.py;0118;Solution complète obtenue
+fr;masa_quarks.py;0127;Résultat final cohérent avec les données
+fr;masa_quarks.py;0132;Fin du calcul des masses des quarks
+fr;potenciales_estaticos.py;0010;Potentiel Coulombien
+fr;potenciales_estaticos.py;0020;Potentiel harmonique
+fr;potenciales_estaticos.py;0030;Potentiel de confinement
+fr;potenciales_estaticos.py;0040;Paramètres de simulation invalides
+fr;potenciales_estaticos.py;0050;Simulation terminée avec succès
+fr;interaccion_quarks.py;0015;Interaction quark-quark
+fr;interaccion_quarks.py;0025;Interaction forte
+fr;interaccion_quarks.py;0035;Interaction électromagnétique
+fr;interaccion_quarks.py;0045;Energie totale du système
+fr;interaccion_quarks.py;0055;Conservation de la quantité de mouvement
+fr;interaccion_quarks.py;0065;Simulation en cours
+fr;interaccion_quarks.py;0075;Simulation terminée
+fr;diagramas_feynman.py;0010;Diagramme Feynman généré
+fr;diagramas_feynman.py;0020;Vertices et lignes tracés
+fr;diagramas_feynman.py;0030;Exportation du diagramme en PDF
+fr;diagramas_feynman.py;0040;Erreur lors de l’exportation
+fr;diagramas_feynman.py;0050;Diagramme sauvegardé
+fr;visualizacion_3D.py;0010;Création de la figure 3D
+fr;visualizacion_3D.py;0020;Axes et étiquettes configurés
+fr;visualizacion_3D.py;0030;Données importées correctement
+fr;visualizacion_3D.py;0040;Rendu final de la visualisation
+fr;visualizacion_3D.py;0050;Figure sauvegardée au format {format}
+fr;visualizacion_3D.py;0060;Erreur lors du rendu de la figure
+fr;simulaciones_estadisticas.py;0010;Calcul de moyenne et écart-type
+fr;simulaciones_estadisticas.py;0020;Histogramme généré
+fr;simulaciones_estadisticas.py;0030;Distribution normale ajustée
+fr;simulaciones_estadisticas.py;0040;Test de Kolmogorov-Smirnov
+fr;simulaciones_estadisticas.py;0050;Simulation terminée avec succès
+fr;resultados_graficos.py;0010;Figure finale générée
+fr;resultados_graficos.py;0020;Axes configurés et légendes ajoutées
+fr;resultados_graficos.py;0030;Exportation en PNG et PDF
+fr;resultados_graficos.py;0040;Figure sauvegardée
+fr;resultados_graficos.py;0050;Erreur lors de l’exportation de la figure
+fr;analisis_comparativo.py;0010;Comparaison entre modèles
+fr;analisis_comparativo.py;0020;Erreur : données manquantes
+fr;analisis_comparativo.py;0030;Résultat de comparaison généré
+fr;analisis_comparativo.py;0040;Graphique sauvegardé au format {format}
+fr;analisis_comparativo.py;0050;Simulation complète
+fr;resumen_final.py;0010;Résumé des résultats
+fr;resumen_final.py;0020;Tableaux et graphiques inclus
+fr;resumen_final.py;0030;Évaluation des erreurs
+fr;resumen_final.py;0040;Rapport final généré
+fr;resumen_final.py;0050;✅ Toutes les simulations terminées avec succès
+fr;resumen_final.py;0051;Résumé des résultats générés
+fr;resumen_final.py;0052;Analyse statistique terminée
+fr;resumen_final.py;0053;Comparaison avec données expérimentales
+fr;resumen_final.py;0054;✅ Toutes les figures sauvegardées
+fr;resumen_final.py;0055;Rapport final prêt à être exporté
+fr;resumen_final.py;0056;Exportation PDF en cours...
+fr;resumen_final.py;0057;✅ PDF généré avec succès
+fr;resumen_final.py;0058;Nettoyage des fichiers temporaires
+fr;resumen_final.py;0059;Fin de l'exécution du programme
+fr;resumen_final.py;0060;🔚 Toutes les étapes complétées
+fr;analisis_datos.py;0010;Chargement des données expérimentales
+fr;analisis_datos.py;0015;Prétraitement des données
+fr;analisis_datos.py;0020;Filtrage des valeurs aberrantes
+fr;analisis_datos.py;0025;Normalisation des mesures
+fr;analisis_datos.py;0030;Calcul des statistiques de base
+fr;analisis_datos.py;0035;Moyenne, Médiane, Écart-type
+fr;analisis_datos.py;0040;✅ Statistiques calculées
+fr;analisis_datos.py;0045;Analyse des corrélations
+fr;analisis_datos.py;0050;Visualisation des matrices de corrélation
+fr;analisis_datos.py;0055;✅ Graphiques sauvegardés
+fr;analisis_datos.py;0060;Fin du traitement des données
+fr;resultats_simulation.py;0010;Simulation démarrée
+fr;resultats_simulation.py;0015;Calcul des trajectoires
+fr;resultats_simulation.py;0020;Application des conditions initiales
+fr;resultats_simulation.py;0025;Intégration numérique en cours
+fr;resultats_simulation.py;0030;✅ Trajectoires calculées
+fr;resultats_simulation.py;0035;Génération des graphiques de trajectoires
+fr;resultats_simulation.py;0040;Sauvegarde des figures
+fr;resultats_simulation.py;0045;✅ Graphiques sauvegardés
+fr;resultats_simulation.py;0050;Export des données finales
+fr;resultats_simulation.py;0055;✅ Données exportées
+fr;resultats_simulation.py;0060;Simulation terminée avec succès
+fr;analyse_donnees.py;0010;Chargement des données expérimentales
+fr;analyse_donnees.py;0015;Nettoyage des données
+fr;analyse_donnees.py;0020;Calcul des statistiques de base
+fr;analyse_donnees.py;0025;Détection des anomalies
+fr;analyse_donnees.py;0030;Application des filtres
+fr;analyse_donnees.py;0035;Génération des histogrammes
+fr;analyse_donnees.py;0040;✅ Histogrammes générés
+fr;analyse_donnees.py;0045;Comparaison avec modèles théoriques
+fr;analyse_donnees.py;0050;Calcul des écarts-types
+fr;analyse_donnees.py;0055;Génération des graphiques de comparaison
+fr;analyse_donnees.py;0060;✅ Graphiques comparatifs sauvegardés
+fr;analyse_donnees.py;0065;Export des résultats
+fr;analyse_donnees.py;0070;✅ Résultats exportés
+fr;analyse_donnees.py;0071;Chargement des données initiales
+fr;analyse_donnees.py;0075;Filtrage des valeurs aberrantes
+fr;analyse_donnees.py;0080;Calcul des moyennes et écarts-types
+fr;analyse_donnees.py;0085;Mise en forme du tableau de résultats
+fr;analyse_donnees.py;0090;Visualisation des données par histogramme
+fr;analyse_donnees.py;0095;Création du graphique 2D
+fr;analyse_donnees.py;0100;Création du graphique 3D
+fr;analyse_donnees.py;0105;Exportation des figures
+fr;analyse_donnees.py;0110;✅ Figures sauvegardées avec succès
+fr;analyse_donnees.py;0115;Calcul de corrélations entre variables
+fr;analyse_donnees.py;0120;Génération du tableau de corrélations
+fr;analyse_donnees.py;0125;✅ Table de corrélations générée
+fr;analyse_donnees.py;0130;Analyse de tendance générale
+fr;analyse_donnees.py;0135;✅ Tendances identifiées
+fr;analyse_donnees.py;0140;Préparation des données pour modélisation
+fr;analyse_donnees.py;0145;Application des transformations normalisées
+fr;analyse_donnees.py;0150;Séparation en ensembles d’entraînement et test
+fr;analyse_donnees.py;0155;✅ Données prêtes pour modélisation
+fr;analyse_donnees.py;0160;Calcul des prédictions initiales
+fr;analyse_donnees.py;0165;✅ Prédictions générées
+fr;analyse_donnees.py;0170;Évaluation des performances du modèle
+fr;analyse_donnees.py;0175;✅ Évaluation terminée
+fr;analyse_donnees.py;0180;Sauvegarde des résultats finaux
+fr;analyse_donnees.py;0185;✅ Résultats finaux exportés
+fr;analyse_donnees.py;0190;Génération du rapport automatique
+fr;analyse_donnees.py;0195;✅ Rapport généré avec succès
+fr;analyse_donnees.py;0200;Envoi du rapport par e-mail
+fr;analyse_donnees.py;0205;✅ E-mail envoyé
+fr;analyse_donnees.py;0210;Fin de l’analyse des données
+fr;visualisation.py;0001;Initialisation du module de visualisation
+fr;visualisation.py;0005;Chargement des jeux de données
+fr;visualisation.py;0010;Prétraitement des données pour graphique
+fr;visualisation.py;0015;Création de la figure principale
+fr;visualisation.py;0020;Ajout de légendes et titres
+fr;visualisation.py;0025;Configuration des axes et échelles
+fr;visualisation.py;0030;Application des couleurs et styles
+fr;visualisation.py;0035;✅ Graphique principal configuré
+fr;visualisation.py;0040;Exportation du graphique en PNG
+fr;visualisation.py;0045;✅ Graphique sauvegardé
+fr;visualisation.py;0050;Exportation du graphique en SVG
+fr;visualisation.py;0055;✅ Graphique SVG sauvegardé
+fr;visualisation.py;0060;Création des sous-graphes comparatifs
+fr;visualisation.py;0065;✅ Sous-graphes générés
+fr;visualisation.py;0070;Sauvegarde de tous les graphiques
+fr;visualisation.py;0075;✅ Tous les graphiques sauvegardés
+fr;visualisation.py;0080;Application de filtres et zoom sur les graphiques
+fr;visualisation.py;0085;✅ Filtres appliqués
+fr;visualisation.py;0090;Interaction utilisateur activée
+fr;visualisation.py;0095;✅ Interactivité fonctionnelle
+fr;visualisation.py;0100;Ajout d’annotations et étiquettes
+fr;visualisation.py;0105;✅ Annotations ajoutées
+fr;visualisation.py;0110;Configuration de l’export PDF
+fr;visualisation.py;0115;Export PDF en cours
+fr;visualisation.py;0120;✅ PDF généré avec succès
+fr;visualisation.py;0125;Mise à jour des légendes automatiques
+fr;visualisation.py;0130;✅ Légendes mises à jour
+fr;visualisation.py;0135;Sauvegarde des graphiques modifiés
+fr;visualisation.py;0140;✅ Graphiques modifiés sauvegardés
+fr;analyse_statistique.py;0001;Chargement des données pour analyse statistique
+fr;analyse_statistique.py;0005;Filtrage des données invalides
+fr;analyse_statistique.py;0010;Calcul des indicateurs principaux
+fr;analyse_statistique.py;0015;✅ Indicateurs calculés
+fr;analyse_statistique.py;0020;Création de tableaux de synthèse
+fr;analyse_statistique.py;0025;✅ Tableaux générés
+fr;analyse_statistique.py;0030;Analyse des tendances et anomalies
+fr;analyse_statistique.py;0035;✅ Analyse terminée
+fr;analyse_statistique.py;0040;Exportation des résultats
+fr;analyse_statistique.py;0045;✅ Résultats exportés
+fr;analyse_statistique.py;0050;Préparation des données pour modèles prédictifs
+fr;analyse_statistique.py;0055;Application des normalisations et transformations
+fr;analyse_statistique.py;0060;Séparation ensembles apprentissage/test
+fr;analyse_statistique.py;0065;✅ Données prêtes pour prédiction
+fr;analyse_statistique.py;0070;Calcul des prédictions initiales
+fr;analyse_statistique.py;0075;✅ Prédictions générées
+fr;analyse_statistique.py;0080;Évaluation du modèle
+fr;analyse_statistique.py;0085;✅ Évaluation terminée
+fr;analyse_statistique.py;0090;Sauvegarde des résultats finaux
+fr;analyse_statistique.py;0095;✅ Résultats finaux exportés
+fr;analyse_statistique.py;0100;Génération du rapport complet
+fr;analyse_statistique.py;0105;✅ Rapport complet généré
+fr;analyse_statistique.py;0110;Envoi automatique par e-mail
+fr;analyse_statistique.py;0115;✅ E-mail envoyé
+fr;analyse_statistique.py;0120;Fin de l’analyse statistique
+fr;modelisation_physique.py;0001;Initialisation des paramètres physiques
+fr;modelisation_physique.py;0005;Chargement des constantes universelles
+fr;modelisation_physique.py;0010;✅ Constantes chargées
+fr;modelisation_physique.py;0015;Définition des conditions aux limites
+fr;modelisation_physique.py;0020;Application des équations de mouvement
+fr;modelisation_physique.py;0025;Calcul des trajectoires
+fr;modelisation_physique.py;0030;✅ Trajectoires calculées
+fr;modelisation_physique.py;0035;Simulation des interactions
+fr;modelisation_physique.py;0040;✅ Interactions simulées
+fr;modelisation_physique.py;0045;Enregistrement des résultats intermédiaires
+fr;modelisation_physique.py;0050;✅ Résultats sauvegardés
+fr;modelisation_physique.py;0055;Vérification de la cohérence physique
+fr;modelisation_physique.py;0060;✅ Cohérence vérifiée
+fr;modelisation_physique.py;0065;Calcul des énergies et potentiels
+fr;modelisation_physique.py;0070;✅ Énergies et potentiels calculés
+fr;modelisation_physique.py;0075;Préparation des données pour visualisation
+fr;modelisation_physique.py;0080;✅ Données prêtes pour graphique
+fr;modelisation_physique.py;0085;Simulation temporelle
+fr;modelisation_physique.py;0090;✅ Simulation temporelle complète
+fr;modelisation_physique.py;0095;Export des données pour analyse externe
+fr;modelisation_physique.py;0100;✅ Export terminé
+fr;modelisation_physique.py;0105;Génération des courbes et figures
+fr;modelisation_physique.py;0110;✅ Figures générées
+fr;modelisation_physique.py;0115;Sauvegarde des figures
+fr;modelisation_physique.py;0120;✅ Figures sauvegardées
+fr;modelisation_physique.py;0125;Création du rapport final
+fr;modelisation_physique.py;0130;✅ Rapport final créé
+fr;modelisation_physique.py;0135;Envoi des résultats au serveur
+fr;modelisation_physique.py;0140;✅ Résultats envoyés
+fr;modelisation_physique.py;0145;Fin de la modélisation physique
+fr;simulations_avancees.py;0001;Initialisation des simulations avancées
+fr;simulations_avancees.py;0005;Chargement des modules nécessaires
+fr;simulations_avancees.py;0010;✅ Modules chargés
+fr;simulations_avancees.py;0015;Définition des paramètres spécifiques
+fr;simulations_avancees.py;0020;Application des conditions initiales
+fr;simulations_avancees.py;0025;✅ Conditions initiales appliquées
+fr;simulations_avancees.py;0030;Exécution du moteur de simulation
+fr;simulations_avancees.py;0035;✅ Simulation exécutée
+fr;simulations_avancees.py;0040;Analyse des résultats simulés
+fr;simulations_avancees.py;0045;✅ Analyse terminée
+fr;simulations_avancees.py;0050;Export des résultats
+fr;simulations_avancees.py;0055;✅ Résultats exportés
+fr;simulations_avancees.py;0060;Génération des visualisations 3D
+fr;simulations_avancees.py;0065;✅ Visualisations 3D terminées
+fr;simulations_avancees.py;0070;Préparation du rapport final
+fr;simulations_avancees.py;0075;✅ Rapport final généré
+fr;simulations_avancees.py;0080;Fin des simulations avancées
+fr;thermodynamique_quantique.py;0001;Initialisation des constantes thermodynamiques
+fr;thermodynamique_quantique.py;0005;Chargement des états quantiques
+fr;thermodynamique_quantique.py;0010;✅ États quantiques chargés
+fr;thermodynamique_quantique.py;0015;Calcul de l'entropie
+fr;thermodynamique_quantique.py;0020;✅ Entropie calculée
+fr;thermodynamique_quantique.py;0025;Simulation des transitions de phase
+fr;thermodynamique_quantique.py;0030;✅ Transitions simulées
+fr;thermodynamique_quantique.py;0035;Analyse statistique des résultats
+fr;thermodynamique_quantique.py;0040;✅ Analyse terminée
+fr;thermodynamique_quantique.py;0045;Export des données thermodynamiques
+fr;thermodynamique_quantique.py;0050;✅ Export effectué
+fr;thermodynamique_quantique.py;0055;Génération des courbes d'énergie libre
+fr;thermodynamique_quantique.py;0060;✅ Courbes générées
+fr;thermodynamique_quantique.py;0065;Préparation du rapport final
+fr;thermodynamique_quantique.py;0070;✅ Rapport final prêt
+fr;thermodynamique_quantique.py;0075;Fin des calculs thermodynamiques
+fr;optique_quantique.py;0001;Initialisation du champ optique
+fr;optique_quantique.py;0005;Définition des états de photons
+fr;optique_quantique.py;0010;✅ États photonique définis
+fr;optique_quantique.py;0015;Simulation de l'interaction lumière-matière
+fr;optique_quantique.py;0020;✅ Simulation terminée
+fr;optique_quantique.py;0025;Calcul de la probabilité de détection
+fr;optique_quantique.py;0030;✅ Probabilités calculées
+fr;optique_quantique.py;0035;Export des résultats expérimentaux
+fr;optique_quantique.py;0040;✅ Export effectué
+fr;optique_quantique.py;0045;Génération des graphiques de photons
+fr;optique_quantique.py;0050;✅ Graphiques générés
+fr;optique_quantique.py;0055;Préparation du rapport final
+fr;optique_quantique.py;0060;✅ Rapport final prêt
+fr;optique_quantique.py;0065;Fin de la simulation optique
+fr;simulation_particules.py;0001;Initialisation des particules
+fr;simulation_particules.py;0005;Définition des charges et masses
+fr;simulation_particules.py;0010;✅ Paramètres des particules définis
+fr;simulation_particules.py;0015;Application des forces et interactions
+fr;simulation_particules.py;0020;✅ Forces appliquées
+fr;simulation_particules.py;0025;Simulation de la dynamique des particules
+fr;simulation_particules.py;0030;✅ Dynamique simulée
+fr;simulation_particules.py;0035;Calcul des trajectoires finales
+fr;simulation_particules.py;0040;✅ Trajectoires calculées
+fr;simulation_particules.py;0045;Export des résultats
+fr;simulation_particules.py;0050;✅ Résultats exportés
+fr;simulation_particules.py;0055;Génération des visualisations 3D
+fr;simulation_particules.py;0060;✅ Visualisations générées
+fr;simulation_particules.py;0065;Préparation du rapport final
+fr;simulation_particules.py;0070;✅ Rapport final prêt
+fr;simulation_particules.py;0075;Fin de la simulation des particules
+fr;champ_electromagnetique.py;0001;Initialisation du champ électrique et magnétique
+fr;champ_electromagnetique.py;0005;Définition des sources de charge
+fr;champ_electromagnetique.py;0010;✅ Sources définies
+fr;champ_electromagnetique.py;0015;Calcul des lignes de champ
+fr;champ_electromagnetique.py;0020;✅ Lignes de champ calculées
+fr;champ_electromagnetique.py;0025;Simulation des ondes électromagnétiques
+fr;champ_electromagnetique.py;0030;✅ Simulation terminée
+fr;champ_electromagnetique.py;0035;Analyse des interférences
+fr;champ_electromagnetique.py;0040;✅ Interférences analysées
+fr;champ_electromagnetique.py;0045;Export des résultats
+fr;champ_electromagnetique.py;0050;✅ Résultats exportés
+fr;champ_electromagnetique.py;0055;Préparation du rapport final
+fr;champ_electromagnetique.py;0060;✅ Rapport final prêt
+fr;champ_electromagnetique.py;0065;Fin de la simulation électromagnétique
+fr;ondes_quantique.py;0001;Initialisation des paramètres d'onde
+fr;ondes_quantique.py;0005;Définition des fonctions d'onde ψ(x,t)
+fr;ondes_quantique.py;0010;✅ Fonctions d'onde définies
+fr;ondes_quantique.py;0015;Simulation de la propagation de l'onde
+fr;ondes_quantique.py;0020;✅ Propagation simulée
+fr;ondes_quantique.py;0025;Calcul des probabilités de position
+fr;ondes_quantique.py;0030;✅ Probabilités calculées
+fr;ondes_quantique.py;0035;Export des résultats de simulation
+fr;ondes_quantique.py;0040;✅ Export effectué
+fr;ondes_quantique.py;0045;Génération des graphiques de densité
+fr;ondes_quantique.py;0050;✅ Graphiques générés
+fr;ondes_quantique.py;0055;Préparation du rapport final
+fr;ondes_quantique.py;0060;✅ Rapport final prêt
+fr;ondes_quantique.py;0065;Fin de la simulation d'ondes
+fr;simulation_particule_quantique.py;0001;Initialisation de la particule
+fr;simulation_particule_quantique.py;0005;Définition de la masse et charge
+fr;simulation_particule_quantique.py;0010;✅ Paramètres définis
+fr;simulation_particule_quantique.py;0015;Application du potentiel
+fr;simulation_particule_quantique.py;0020;✅ Potentiel appliqué
+fr;simulation_particule_quantique.py;0025;Simulation de la dynamique quantique
+fr;simulation_particule_quantique.py;0030;✅ Dynamique simulée
+fr;simulation_particule_quantique.py;0035;Calcul de la densité de probabilité
+fr;simulation_particule_quantique.py;0040;✅ Densité calculée
+fr;simulation_particule_quantique.py;0045;Export des résultats
+fr;simulation_particule_quantique.py;0050;✅ Résultats exportés
+fr;simulation_particule_quantique.py;0055;Préparation du rapport final
+fr;simulation_particule_quantique.py;0060;✅ Rapport final prêt
+fr;simulation_particule_quantique.py;0065;Fin de la simulation de particule quantique
+fr;simulation_champ_magnetique.py;0001;Initialisation du champ magnétique
+fr;simulation_champ_magnetique.py;0005;Définition des aimants et charges
+fr;simulation_champ_magnetique.py;0010;✅ Aimants et charges définis
+fr;simulation_champ_magnetique.py;0015;Calcul de la force magnétique
+fr;simulation_champ_magnetique.py;0020;✅ Forces calculées
+fr;simulation_champ_magnetique.py;0025;Simulation des trajectoires
+fr;simulation_champ_magnetique.py;0030;✅ Trajectoires simulées
+fr;simulation_champ_magnetique.py;0035;Export des résultats
+fr;simulation_champ_magnetique.py;0040;✅ Export effectué
+fr;simulation_champ_magnetique.py;0045;Préparation du rapport final
+fr;simulation_champ_magnetique.py;0050;✅ Rapport final prêt
+fr;simulation_champ_magnetique.py;0055;Fin de la simulation de champ magnétique
+fr;analyse_statistique.py;0001;Chargement des données expérimentales
+fr;analyse_statistique.py;0005;✅ Données chargées
+fr;analyse_statistique.py;0010;Calcul des moyennes et écarts-types
+fr;analyse_statistique.py;0015;✅ Calcul terminé
+fr;analyse_statistique.py;0020;Visualisation des distributions
+fr;analyse_statistique.py;0025;✅ Graphiques générés
+fr;analyse_statistique.py;0030;Export des résultats statistiques
+fr;analyse_statistique.py;0035;✅ Export terminé
+fr;analyse_statistique.py;0040;Préparation du rapport final
+fr;analyse_statistique.py;0045;✅ Rapport final prêt
+fr;analyse_statistique.py;0050;Fin de l'analyse statistique
+fr;visualisation_3D.py;0001;Initialisation de l'environnement 3D
+fr;visualisation_3D.py;0005;Chargement des modèles et textures
+fr;visualisation_3D.py;0010;✅ Modèles chargés
+fr;visualisation_3D.py;0015;Placement des objets dans la scène
+fr;visualisation_3D.py;0020;✅ Objets placés
+fr;visualisation_3D.py;0025;Simulation de la caméra
+fr;visualisation_3D.py;0030;✅ Caméra simulée
+fr;visualisation_3D.py;0035;Animation des objets
+fr;visualisation_3D.py;0040;✅ Animation terminée
+fr;visualisation_3D.py;0045;Export de la scène
+fr;visualisation_3D.py;0050;✅ Export effectué
+fr;visualisation_3D.py;0055;Préparation du rapport final
+fr;visualisation_3D.py;0060;✅ Rapport final prêt
+fr;visualisation_3D.py;0065;Fin de la visualisation 3D
+fr;optimisation.py;0001;Définition des paramètres d'optimisation
+fr;optimisation.py;0005;✅ Paramètres définis
+fr;optimisation.py;0010;Exécution de l'algorithme d'optimisation
+fr;optimisation.py;0015;✅ Optimisation terminée
+fr;optimisation.py;0020;Export des résultats
+fr;optimisation.py;0025;✅ Export effectué
+fr;optimisation.py;0030;Préparation du rapport final
+fr;optimisation.py;0035;✅ Rapport final prêt
+fr;optimisation.py;0040;Fin de l'optimisation
+fr;analyse_donnees_avancee.py;0001;Chargement des nouvelles données expérimentales
+fr;analyse_donnees_avancee.py;0005;✅ Données chargées
+fr;analyse_donnees_avancee.py;0010;Nettoyage des données et filtrage des anomalies
+fr;analyse_donnees_avancee.py;0015;✅ Nettoyage terminé
+fr;analyse_donnees_avancee.py;0020;Calcul des corrélations
+fr;analyse_donnees_avancee.py;0025;✅ Corrélations calculées
+fr;analyse_donnees_avancee.py;0030;Visualisation des résultats
+fr;analyse_donnees_avancee.py;0035;✅ Graphiques générés
+fr;analyse_donnees_avancee.py;0040;Export des résultats avancés
+fr;analyse_donnees_avancee.py;0045;✅ Export terminé
+fr;analyse_donnees_avancee.py;0050;Préparation du rapport final
+fr;analyse_donnees_avancee.py;0055;✅ Rapport final prêt
+fr;analyse_donnees_avancee.py;0060;Fin de l'analyse avancée
+fr;simulation_quantique.py;0001;Initialisation des qubits
+fr;simulation_quantique.py;0005;Définition des portes quantiques
+fr;simulation_quantique.py;0010;✅ Qubits et portes définis
+fr;simulation_quantique.py;0015;Exécution de l'algorithme quantique
+fr;simulation_quantique.py;0020;✅ Algorithme exécuté
+fr;simulation_quantique.py;0025;Mesure des états
+fr;simulation_quantique.py;0030;✅ États mesurés
+fr;simulation_quantique.py;0035;Export des résultats quantiques
+fr;simulation_quantique.py;0040;✅ Export terminé
+fr;simulation_quantique.py;0045;Préparation du rapport final
+fr;simulation_quantique.py;0050;✅ Rapport final prêt
+fr;simulation_quantique.py;0055;Fin de la simulation quantique
+fr;visualisation_quantique.py;0001;Chargement des résultats quantiques
+fr;visualisation_quantique.py;0005;✅ Résultats chargés
+fr;visualisation_quantique.py;0010;Construction des visualisations 3D
+fr;visualisation_quantique.py;0015;✅ Visualisations générées
+fr;visualisation_quantique.py;0020;Export des graphiques
+fr;visualisation_quantique.py;0025;✅ Export terminé
+fr;visualisation_quantique.py;0030;Préparation du rapport final
+fr;visualisation_quantique.py;0035;✅ Rapport final prêt
+fr;visualisation_quantique.py;0040;Fin de la visualisation quantique
+fr;analyse_stochastique.py;0001;Définition des paramètres stochastiques
+fr;analyse_stochastique.py;0005;✅ Paramètres définis
+fr;analyse_stochastique.py;0010;Exécution des simulations stochastiques
+fr;analyse_stochastique.py;0015;✅ Simulations terminées
+fr;analyse_stochastique.py;0020;Calcul des statistiques
+fr;analyse_stochastique.py;0025;✅ Statistiques calculées
+fr;analyse_stochastique.py;0030;Export des résultats stochastiques
+fr;analyse_stochastique.py;0035;✅ Export terminé
+fr;analyse_stochastique.py;0040;Préparation du rapport final
+fr;analyse_stochastique.py;0045;✅ Rapport final prêt
+fr;analyse_stochastique.py;0050;Fin de l'analyse stochastique
+fr;potentiels_dynamique_avances.py;0001;Définition des potentiels avancés
+fr;potentiels_dynamique_avances.py;0005;✅ Potentiels définis
+fr;potentiels_dynamique_avances.py;0010;Exécution de la simulation
+fr;potentiels_dynamique_avances.py;0015;✅ Simulation terminée
+fr;potentiels_dynamique_avances.py;0020;Export des résultats
+fr;potentiels_dynamique_avances.py;0025;✅ Export terminé
+fr;potentiels_dynamique_avances.py;0030;Préparation du rapport final
+fr;potentiels_dynamique_avances.py;0035;✅ Rapport final prêt
+fr;potentiels_dynamique_avances.py;0040;Fin de la simulation des potentiels avancés
+fr;controle_experiment.py;0001;Initialisation du banc expérimental
+fr;controle_experiment.py;0005;✅ Banc initialisé
+fr;controle_experiment.py;0010;Calibration des instruments
+fr;controle_experiment.py;0015;✅ Calibration terminée
+fr;controle_experiment.py;0020;Exécution des tests
+fr;controle_experiment.py;0025;✅ Tests réussis
+fr;controle_experiment.py;0030;Enregistrement des mesures
+fr;controle_experiment.py;0035;✅ Mesures enregistrées
+fr;controle_experiment.py;0040;Analyse préliminaire des résultats
+fr;controle_experiment.py;0045;✅ Analyse terminée
+fr;controle_experiment.py;0050;Préparation du rapport final
+fr;controle_experiment.py;0055;✅ Rapport prêt
+fr;controle_experiment.py;0060;Fin du contrôle expérimental
+fr;simulation_relativiste.py;0001;Initialisation des particules relativistes
+fr;simulation_relativiste.py;0005;✅ Particules initialisées
+fr;simulation_relativiste.py;0010;Définition des équations de mouvement
+fr;simulation_relativiste.py;0015;✅ Équations définies
+fr;simulation_relativiste.py;0020;Exécution de la simulation
+fr;simulation_relativiste.py;0025;✅ Simulation terminée
+fr;simulation_relativiste.py;0030;Mesure des trajectoires
+fr;simulation_relativiste.py;0035;✅ Trajectoires mesurées
+fr;simulation_relativiste.py;0040;Export des résultats
+fr;simulation_relativiste.py;0045;✅ Export terminé
+fr;simulation_relativiste.py;0050;Préparation du rapport final
+fr;simulation_relativiste.py;0055;✅ Rapport final prêt
+fr;simulation_relativiste.py;0060;Fin de la simulation relativiste
+fr;analyse_statistique.py;0001;Chargement des données statistiques
+fr;analyse_statistique.py;0005;✅ Données chargées
+fr;analyse_statistique.py;0010;Calcul des moyennes et écarts types
+fr;analyse_statistique.py;0015;✅ Calcul terminé
+fr;analyse_statistique.py;0020;Génération des histogrammes
+fr;analyse_statistique.py;0025;✅ Histogrammes générés
+fr;analyse_statistique.py;0030;Export des résultats
+fr;analyse_statistique.py;0035;✅ Export terminé
+fr;analyse_statistique.py;0040;Préparation du rapport final
+fr;analyse_statistique.py;0045;✅ Rapport final prêt
+fr;analyse_statistique.py;0050;Fin de l'analyse statistique
+fr;optimisation_parametres.py;0001;Initialisation des paramètres
+fr;optimisation_parametres.py;0005;✅ Paramètres initialisés
+fr;optimisation_parametres.py;0010;Optimisation des paramètres
+fr;optimisation_parametres.py;0015;✅ Optimisation terminée
+fr;optimisation_parametres.py;0020;Export des résultats
+fr;optimisation_parametres.py;0025;✅ Export terminé
+fr;optimisation_parametres.py;0030;Préparation du rapport final
+fr;optimisation_parametres.py;0035;✅ Rapport final prêt
+fr;optimisation_parametres.py;0040;Fin de l'optimisation des paramètres
+fr;visualisation_3d.py;0001;Initialisation de la scène 3D
+fr;visualisation_3d.py;0005;✅ Scène initialisée
+fr;visualisation_3d.py;0010;Chargement des modèles géométriques
+fr;visualisation_3d.py;0015;✅ Modèles chargés
+fr;visualisation_3d.py;0020;Application des textures et couleurs
+fr;visualisation_3d.py;0025;✅ Textures appliquées
+fr;visualisation_3d.py;0030;Positionnement des caméras
+fr;visualisation_3d.py;0035;✅ Caméras positionnées
+fr;visualisation_3d.py;0040;Rendu initial
+fr;visualisation_3d.py;0045;✅ Rendu terminé
+fr;visualisation_3d.py;0050;Animation des trajectoires
+fr;visualisation_3d.py;0055;✅ Animation terminée
+fr;visualisation_3d.py;0060;Export des images
+fr;visualisation_3d.py;0065;✅ Images exportées
+fr;visualisation_3d.py;0070;Préparation du rapport final
+fr;visualisation_3d.py;0075;✅ Rapport final prêt
+fr;visualisation_3d.py;0080;Fin de la visualisation 3D
+fr;analyse_temps_reel.py;0001;Démarrage de la collecte de données
+fr;analyse_temps_reel.py;0005;✅ Collecte initialisée
+fr;analyse_temps_reel.py;0010;Filtrage des signaux
+fr;analyse_temps_reel.py;0015;✅ Signaux filtrés
+fr;analyse_temps_reel.py;0020;Calcul des paramètres dynamiques
+fr;analyse_temps_reel.py;0025;✅ Calcul terminé
+fr;analyse_temps_reel.py;0030;Détection des anomalies
+fr;analyse_temps_reel.py;0035;✅ Détection terminée
+fr;analyse_temps_reel.py;0040;Export des résultats en temps réel
+fr;analyse_temps_reel.py;0045;✅ Export terminé
+fr;analyse_temps_reel.py;0050;Préparation du rapport final
+fr;analyse_temps_reel.py;0055;✅ Rapport final prêt
+fr;analyse_temps_reel.py;0060;Fin de l'analyse en temps réel
+fr;controle_feedback.py;0001;Initialisation du système de contrôle
+fr;controle_feedback.py;0005;✅ Système initialisé
+fr;controle_feedback.py;0010;Application des boucles de rétroaction
+fr;controle_feedback.py;0015;✅ Boucles appliquées
+fr;controle_feedback.py;0020;Mesure des réponses
+fr;controle_feedback.py;0025;✅ Mesures terminées
+fr;controle_feedback.py;0030;Export des résultats
+fr;controle_feedback.py;0035;✅ Export terminé
+fr;controle_feedback.py;0040;Préparation du rapport final
+fr;controle_feedback.py;0045;✅ Rapport final prêt
+fr;controle_feedback.py;0050;Fin du contrôle par feedback
+fr;simulation_particules.py;0001;Initialisation de la simulation des particules
+fr;simulation_particules.py;0005;✅ Simulation initialisée
+fr;simulation_particules.py;0010;Positionnement des particules
+fr;simulation_particules.py;0015;✅ Particules positionnées
+fr;simulation_particules.py;0020;Application des forces
+fr;simulation_particules.py;0025;✅ Forces appliquées
+fr;simulation_particules.py;0030;Calcul des trajectoires
+fr;simulation_particules.py;0035;✅ Trajectoires calculées
+fr;simulation_particules.py;0040;Animation de la simulation
+fr;simulation_particules.py;0045;✅ Animation terminée
+fr;simulation_particules.py;0050;Export des résultats
+fr;simulation_particules.py;0055;✅ Résultats exportés
+fr;simulation_particules.py;0060;Préparation du rapport final
+fr;simulation_particules.py;0065;✅ Rapport final prêt
+fr;simulation_particules.py;0070;Fin de la simulation des particules
+fr;analyse_spectre.py;0001;Démarrage de l'analyse spectrale
+fr;analyse_spectre.py;0005;✅ Analyse initialisée
+fr;analyse_spectre.py;0010;Acquisition des données spectrales
+fr;analyse_spectre.py;0015;✅ Données acquises
+fr;analyse_spectre.py;0020;Filtrage et traitement
+fr;analyse_spectre.py;0025;✅ Traitement terminé
+fr;analyse_spectre.py;0030;Détection des pics
+fr;analyse_spectre.py;0035;✅ Pics détectés
+fr;analyse_spectre.py;0040;Export des résultats
+fr;analyse_spectre.py;0045;✅ Export terminé
+fr;analyse_spectre.py;0050;Préparation du rapport final
+fr;analyse_spectre.py;0055;✅ Rapport final prêt
+fr;analyse_spectre.py;0060;Fin de l'analyse spectrale
+fr;controle_optique.py;0001;Initialisation du système optique
+fr;controle_optique.py;0005;✅ Système optique initialisé
+fr;controle_optique.py;0010;Alignement des faisceaux
+fr;controle_optique.py;0015;✅ Faisceaux alignés
+fr;controle_optique.py;0020;Réglage des lentilles
+fr;controle_optique.py;0025;✅ Lentilles réglées
+fr;controle_optique.py;0030;Mesure des intensités
+fr;controle_optique.py;0035;✅ Mesures terminées
+fr;controle_optique.py;0040;Export des résultats
+fr;controle_optique.py;0045;✅ Export terminé
+fr;controle_optique.py;0050;Préparation du rapport final
+fr;controle_optique.py;0055;✅ Rapport final prêt
+fr;controle_optique.py;0060;Fin du contrôle optique
+fr;modele_quantique.py;0001;Initialisation du modèle quantique
+fr;modele_quantique.py;0005;✅ Modèle initialisé
+fr;modele_quantique.py;0010;Définition des états
+fr;modele_quantique.py;0015;✅ États définis
+fr;modele_quantique.py;0020;Calcul des probabilités
+fr;modele_quantique.py;0025;✅ Probabilités calculées
+fr;modele_quantique.py;0030;Simulation de la dynamique
+fr;modele_quantique.py;0035;✅ Dynamique simulée
+fr;modele_quantique.py;0040;Visualisation des résultats
+fr;modele_quantique.py;0045;✅ Visualisation terminée
+fr;modele_quantique.py;0050;Export des données
+fr;modele_quantique.py;0055;✅ Export terminé
+fr;modele_quantique.py;0060;Préparation du rapport final
+fr;modele_quantique.py;0065;✅ Rapport final prêt
+fr;modele_quantique.py;0070;Fin du modèle quantique
+fr;analyse_statistique.py;0001;Démarrage de l'analyse statistique
+fr;analyse_statistique.py;0005;✅ Analyse initialisée
+fr;analyse_statistique.py;0010;Collecte des données
+fr;analyse_statistique.py;0015;✅ Données collectées
+fr;analyse_statistique.py;0020;Application des tests statistiques
+fr;analyse_statistique.py;0025;✅ Tests terminés
+fr;analyse_statistique.py;0030;Calcul des corrélations
+fr;analyse_statistique.py;0035;✅ Corrélations calculées
+fr;analyse_statistique.py;0040;Export des résultats
+fr;analyse_statistique.py;0045;✅ Export terminé
+fr;analyse_statistique.py;0050;Préparation du rapport final
+fr;analyse_statistique.py;0055;✅ Rapport final prêt
+fr;analyse_statistique.py;0060;Fin de l'analyse statistique
+fr;optimisation_modeles.py;0001;Initialisation de l'optimisation
+fr;optimisation_modeles.py;0005;✅ Optimisation initialisée
+fr;optimisation_modeles.py;0010;Définition des paramètres
+fr;optimisation_modeles.py;0015;✅ Paramètres définis
+fr;optimisation_modeles.py;0020;Exécution de l'optimisation
+fr;optimisation_modeles.py;0025;✅ Optimisation terminée
+fr;optimisation_modeles.py;0030;Analyse des résultats
+fr;optimisation_modeles.py;0035;✅ Analyse terminée
+fr;optimisation_modeles.py;0040;Export des résultats
+fr;optimisation_modeles.py;0045;✅ Export terminé
+fr;optimisation_modeles.py;0050;Préparation du rapport final
+fr;optimisation_modeles.py;0055;✅ Rapport final prêt
+fr;optimisation_modeles.py;0060;Fin de l'optimisation des modèles
+fr;simulation_particules.py;0001;Initialisation de la simulation de particules
+fr;simulation_particules.py;0005;✅ Simulation initialisée
+fr;simulation_particules.py;0010;Chargement des conditions initiales
+fr;simulation_particules.py;0015;✅ Conditions chargées
+fr;simulation_particules.py;0020;Calcul des trajectoires
+fr;simulation_particules.py;0025;✅ Trajectoires calculées
+fr;simulation_particules.py;0030;Application des forces
+fr;simulation_particules.py;0035;✅ Forces appliquées
+fr;simulation_particules.py;0040;Mise à jour des positions
+fr;simulation_particules.py;0045;✅ Positions mises à jour
+fr;simulation_particules.py;0050;Enregistrement des états
+fr;simulation_particules.py;0055;✅ États sauvegardés
+fr;simulation_particules.py;0060;Visualisation 3D des particules
+fr;simulation_particules.py;0065;✅ Visualisation terminée
+fr;simulation_particules.py;0070;Fin de la simulation
+fr;calcul_energies.py;0001;Démarrage du calcul des énergies
+fr;calcul_energies.py;0005;✅ Calcul initialisé
+fr;calcul_energies.py;0010;Énergie cinétique
+fr;calcul_energies.py;0015;✅ Énergie cinétique calculée
+fr;calcul_energies.py;0020;Énergie potentielle
+fr;calcul_energies.py;0025;✅ Énergie potentielle calculée
+fr;calcul_energies.py;0030;Énergie totale
+fr;calcul_energies.py;0035;✅ Énergie totale calculée
+fr;calcul_energies.py;0040;Export des résultats
+fr;calcul_energies.py;0045;✅ Export terminé
+fr;calcul_energies.py;0050;Préparation du rapport final
+fr;calcul_energies.py;0055;✅ Rapport final prêt
+fr;calcul_energies.py;0060;Fin du calcul des énergies
+fr;analyse_spectres.py;0001;Initialisation de l'analyse spectrale
+fr;analyse_spectres.py;0005;✅ Analyse initialisée
+fr;analyse_spectres.py;0010;Chargement des spectres
+fr;analyse_spectres.py;0015;✅ Spectres chargés
+fr;analyse_spectres.py;0020;Extraction des pics
+fr;analyse_spectres.py;0025;✅ Pics extraits
+fr;analyse_spectres.py;0030;Identification des transitions
+fr;analyse_spectres.py;0035;✅ Transitions identifiées
+fr;analyse_spectres.py;0040;Calcul des probabilités
+fr;analyse_spectres.py;0045;✅ Probabilités calculées
+fr;analyse_spectres.py;0050;Export des résultats
+fr;analyse_spectres.py;0055;✅ Export terminé
+fr;analyse_spectres.py;0060;Préparation du rapport final
+fr;analyse_spectres.py;0065;✅ Rapport final prêt
+fr;analyse_spectres.py;0070;Fin de l'analyse spectrale
+fr;visualisation_resultats.py;0001;Initialisation de la visualisation
+fr;visualisation_resultats.py;0005;✅ Visualisation initialisée
+fr;visualisation_resultats.py;0010;Chargement des données
+fr;visualisation_resultats.py;0015;✅ Données chargées
+fr;visualisation_resultats.py;0020;Création des graphiques 2D
+fr;visualisation_resultats.py;0025;✅ Graphiques 2D créés
+fr;visualisation_resultats.py;0030;Création des graphiques 3D
+fr;visualisation_resultats.py;0035;✅ Graphiques 3D créés
+fr;visualisation_resultats.py;0040;Application des légendes et titres
+fr;visualisation_resultats.py;0045;✅ Légendes appliquées
+fr;visualisation_resultats.py;0050;Ajustement des axes
+fr;visualisation_resultats.py;0055;✅ Axes ajustés
+fr;visualisation_resultats.py;0060;Export des graphiques
+fr;visualisation_resultats.py;0065;✅ Graphiques exportés
+fr;visualisation_resultats.py;0070;Fin de la visualisation
+fr;rapport_final.py;0001;Compilation des données finales
+fr;rapport_final.py;0005;✅ Compilation terminée
+fr;rapport_final.py;0010;Création du PDF
+fr;rapport_final.py;0015;✅ PDF créé
+fr;rapport_final.py;0020;Envoi par email
+fr;rapport_final.py;0025;✅ Email envoyé
+fr;rapport_final.py;0030;Archivage des résultats
+fr;rapport_final.py;0035;✅ Archivage terminé
+fr;rapport_final.py;0040;Fin du rapport final
+fr;statistiques_simulation.py;0001;Calcul des moyennes
+fr;statistiques_simulation.py;0005;✅ Moyennes calculées
+fr;statistiques_simulation.py;0010;Calcul des écarts-types
+fr;statistiques_simulation.py;0015;✅ Écarts-types calculés
+fr;statistiques_simulation.py;0020;Analyse des corrélations
+fr;statistiques_simulation.py;0025;✅ Corrélations analysées
+fr;statistiques_simulation.py;0030;Export des statistiques
+fr;statistiques_simulation.py;0035;✅ Export terminé
+fr;statistiques_simulation.py;0040;Préparation du rapport final
+fr;statistiques_simulation.py;0045;✅ Rapport prêt
+fr;statistiques_simulation.py;0050;Fin des statistiques
+fr;donnees_experimentales.py;0001;Importation des données brutes
+fr;donnees_experimentales.py;0005;✅ Données importées
+fr;donnees_experimentales.py;0010;Nettoyage des données
+fr;donnees_experimentales.py;0015;✅ Nettoyage terminé
+fr;donnees_experimentales.py;0020;Filtrage des anomalies
+fr;donnees_experimentales.py;0025;✅ Anomalies filtrées
+fr;donnees_experimentales.py;0030;Conversion des unités
+fr;donnees_experimentales.py;0035;✅ Conversion terminée
+fr;donnees_experimentales.py;0040;Normalisation des données
+fr;donnees_experimentales.py;0045;✅ Normalisation terminée
+fr;donnees_experimentales.py;0050;Export des données prêtes
+fr;donnees_experimentales.py;0055;✅ Export terminé
+fr;analyse_simulation.py;0001;Démarrage de l'analyse
+fr;analyse_simulation.py;0005;✅ Analyse initialisée
+fr;analyse_simulation.py;0010;Comparaison avec modèle théorique
+fr;analyse_simulation.py;0015;✅ Comparaison terminée
+fr;analyse_simulation.py;0020;Calcul des écarts
+fr;analyse_simulation.py;0025;✅ Écarts calculés
+fr;analyse_simulation.py;0030;Validation des résultats
+fr;analyse_simulation.py;0035;✅ Validation réussie
+fr;analyse_simulation.py;0040;Génération des graphiques
+fr;analyse_simulation.py;0045;✅ Graphiques générés
+fr;analyse_simulation.py;0050;Export des résultats
+fr;analyse_simulation.py;0055;✅ Résultats exportés
+fr;analyse_simulation.py;0060;Fin de l'analyse
+fr;rapport_final.py;0001;Création du rapport final
+fr;rapport_final.py;0005;✅ Rapport initialisé
+fr;rapport_final.py;0010;Insertion des graphiques
+fr;rapport_final.py;0015;✅ Graphiques insérés
+fr;rapport_final.py;0020;Résumé des résultats
+fr;rapport_final.py;0025;✅ Résumé terminé
+fr;rapport_final.py;0030;Vérification de cohérence
+fr;rapport_final.py;0035;✅ Cohérence vérifiée
+fr;rapport_final.py;0040;Export en PDF
+fr;rapport_final.py;0045;✅ Export PDF terminé
+fr;rapport_final.py;0050;Envoi automatique par e-mail
+fr;rapport_final.py;0055;✅ Rapport envoyé
+fr;rapport_final.py;0060;Archivage des résultats
+fr;rapport_final.py;0065;✅ Archivage terminé
+fr;rapport_final.py;0070;Fin du rapport final
+fr;analyse_statistique.py;0001;Chargement des données brutes
+fr;analyse_statistique.py;0005;✅ Données chargées
+fr;analyse_statistique.py;0010;Nettoyage des données
+fr;analyse_statistique.py;0015;✅ Nettoyage terminé
+fr;analyse_statistique.py;0020;Calcul des moyennes et écarts-types
+fr;analyse_statistique.py;0025;✅ Statistiques calculées
+fr;analyse_statistique.py;0030;Détection des anomalies
+fr;analyse_statistique.py;0035;✅ Anomalies identifiées
+fr;analyse_statistique.py;0040;Création des histogrammes
+fr;analyse_statistique.py;0045;✅ Histogrammes générés
+fr;analyse_statistique.py;0050;Comparaison des distributions
+fr;analyse_statistique.py;0055;✅ Comparaison effectuée
+fr;analyse_statistique.py;0060;Sauvegarde des résultats
+fr;analyse_statistique.py;0065;✅ Résultats sauvegardés
+fr;analyse_statistique.py;0070;Export des graphiques
+fr;analyse_statistique.py;0075;✅ Graphiques exportés
+fr;analyse_statistique.py;0080;Fin de l’analyse statistique
+fr;visualisation_donnees.py;0001;Chargement des résultats statistiques
+fr;visualisation_donnees.py;0005;✅ Résultats chargés
+fr;visualisation_donnees.py;0010;Initialisation du module graphique
+fr;visualisation_donnees.py;0015;✅ Module prêt
+fr;visualisation_donnees.py;0020;Création du graphique 1: Distribution radiale
+fr;visualisation_donnees.py;0025;✅ Graphique 1 généré
+fr;visualisation_donnees.py;0030;Création du graphique 2: Distribution angulaire
+fr;visualisation_donnees.py;0035;✅ Graphique 2 généré
+fr;visualisation_donnees.py;0040;Création du graphique 3: Comparaison VED vs MC
+fr;visualisation_donnees.py;0045;✅ Graphique 3 généré
+fr;visualisation_donnees.py;0050;Création du graphique 4: Précisions expérimentales
+fr;visualisation_donnees.py;0055;✅ Graphique 4 généré
+fr;visualisation_donnees.py;0060;Affichage des graphiques
+fr;visualisation_donnees.py;0065;✅ Affichage terminé
+fr;visualisation_donnees.py;0070;Exportation des graphiques
+fr;visualisation_donnees.py;0075;✅ Exportation terminée
+fr;visualisation_donnees.py;0080;Fin de la visualisation
+fr;statistiques.py;0001;Calcul des moyennes et écarts-types
+fr;statistiques.py;0005;✅ Calculs terminés
+fr;statistiques.py;0010;Analyse des corrélations entre paramètres
+fr;statistiques.py;0015;✅ Corrélations analysées
+fr;statistiques.py;0020;Création des tableaux de données
+fr;statistiques.py;0025;✅ Tableaux créés
+fr;statistiques.py;0030;Vérification des valeurs aberrantes
+fr;statistiques.py;0035;✅ Vérification effectuée
+fr;statistiques.py;0040;Préparation des données pour visualisation
+fr;statistiques.py;0045;✅ Données prêtes
+fr;statistiques.py;0050;Exportation des résultats statistiques
+fr;statistiques.py;0055;✅ Résultats exportés
+fr;statistiques.py;0060;Fin du module statistiques
+fr;visualisation.py;0001;Importation des bibliothèques graphiques
+fr;visualisation.py;0005;Configuration de la figure et des axes
+fr;visualisation.py;0010;✅ Figure initialisée
+fr;visualisation.py;0015;Tracé des courbes expérimentales
+fr;visualisation.py;0020;✅ Courbes tracées
+fr;visualisation.py;0025;Ajout des annotations et légendes
+fr;visualisation.py;0030;✅ Annotations ajoutées
+fr;visualisation.py;0035;Sauvegarde de la figure au format PNG
+fr;visualisation.py;0040;✅ Figure sauvegardée
+fr;visualisation.py;0045;Génération des graphiques interactifs
+fr;visualisation.py;0050;✅ Graphiques interactifs générés
+fr;visualisation.py;0055;Fin du module visualisation
+fr;donnees_experimentales.py;0001;Chargement des données expérimentales
+fr;donnees_experimentales.py;0005;✅ Données chargées
+fr;donnees_experimentales.py;0010;Nettoyage et normalisation des données
+fr;donnees_experimentales.py;0015;✅ Données nettoyées
+fr;donnees_experimentales.py;0020;Calcul des moyennes et écarts-types
+fr;donnees_experimentales.py;0025;✅ Statistiques calculées
+fr;donnees_experimentales.py;0030;Identification des valeurs aberrantes
+fr;donnees_experimentales.py;0035;✅ Valeurs aberrantes marquées
+fr;donnees_experimentales.py;0040;Export des données prétraitées
+fr;donnees_experimentales.py;0045;✅ Données exportées
+fr;donnees_experimentales.py;0050;Fin du module de traitement
+fr;visualisation_donnees.py;0001;Initialisation des graphiques
+fr;visualisation_donnees.py;0005;Configuration des axes et labels
+fr;visualisation_donnees.py;0010;Chargement des données à visualiser
+fr;visualisation_donnees.py;0015;✅ Données prêtes pour affichage
+fr;visualisation_donnees.py;0020;Création du graphique principal
+fr;visualisation_donnees.py;0025;Ajout des légendes et annotations
+fr;visualisation_donnees.py;0030;Formatage des couleurs et styles
+fr;visualisation_donnees.py;0035;✅ Graphique généré
+fr;visualisation_donnees.py;0040;Export du graphique en PNG
+fr;visualisation_donnees.py;0045;✅ Graphique exporté
+fr;visualisation_donnees.py;0050;Fin du module de visualisation
+fr;rapport_final.py;0001;Génération du rapport complet
+fr;rapport_final.py;0005;Compilation des résultats et statistiques
+fr;rapport_final.py;0010;Insertion des graphiques et figures
+fr;rapport_final.py;0015;✅ Rapport intermédiaire généré
+fr;rapport_final.py;0020;Vérification des données et cohérence
+fr;rapport_final.py;0025;Formatage final du document
+fr;rapport_final.py;0030;Exportation en PDF
+fr;rapport_final.py;0035;✅ Rapport final prêt à être partagé
+fr;rapport_final.py;0040;Archivage des fichiers sources
+fr;rapport_final.py;0045;Nettoyage des variables temporaires
+fr;rapport_final.py;0050;Fin du module de rapport
+fr;visualisation_donnees.py;0001;Chargement des données expérimentales
+fr;visualisation_donnees.py;0005;Préparation des axes et échelles
+fr;visualisation_donnees.py;0010;Création du graphique 1: Distribution des particules
+fr;visualisation_donnees.py;0015;Application des couleurs et styles
+fr;visualisation_donnees.py;0020;✅ Graphique 1 généré
+fr;visualisation_donnees.py;0025;Création du graphique 2: Comparaison théorie vs expérience
+fr;visualisation_donnees.py;0030;Ajustement des légendes et annotations
+fr;visualisation_donnees.py;0035;✅ Graphique 2 généré
+fr;visualisation_donnees.py;0040;Création du graphique 3: Probabilités cumulées
+fr;visualisation_donnees.py;0045;Vérification des valeurs extrêmes
+fr;visualisation_donnees.py;0050;✅ Graphique 3 généré
+fr;visualisation_donnees.py;0055;Exportation de tous les graphiques au format PNG
+fr;visualisation_donnees.py;0060;✅ Exportation terminée
+fr;visualisation_donnees.py;0065;Archivage des fichiers graphiques
+fr;visualisation_donnees.py;0070;Fin du module de visualisation
+fr;statistiques_quantiques.py;0001;Calcul des distributions Fermi-Dirac et Bose-Einstein
+fr;statistiques_quantiques.py;0005;Initialisation des paramètres de simulation
+fr;statistiques_quantiques.py;0010;Simulation 2D: Électron
+fr;statistiques_quantiques.py;0015;Simulation 3D: Proton
+fr;statistiques_quantiques.py;0020;✅ Simulations terminées
+fr;statistiques_quantiques.py;0025;Calcul des moyennes et écarts-types
+fr;statistiques_quantiques.py;0030;Comparaison avec les données expérimentales
+fr;statistiques_quantiques.py;0035;✅ Calculs statistiques terminés
+fr;statistiques_quantiques.py;0040;Génération des tableaux de résultats
+fr;statistiques_quantiques.py;0045;Exportation vers CSV
+fr;statistiques_quantiques.py;0050;✅ Tableaux exportés
+fr;statistiques_quantiques.py;0055;Archivage des fichiers de simulation
+fr;statistiques_quantiques.py;0060;Fin du module statistique
+fr;energie_confinement.py;0001;Calcul de l’énergie de confinement pour différents quarks
+fr;energie_confinement.py;0010;Initialisation des constantes fondamentales
+fr;energie_confinement.py;0020;Électron: énergie 2D
+fr;energie_confinement.py;0030;Proton: énergie 3D
+fr;energie_confinement.py;0040;✅ Calculs terminés
+fr;energie_confinement.py;0050;Comparaison avec résultats expérimentaux
+fr;energie_confinement.py;0060;Exportation des résultats vers CSV
+fr;energie_confinement.py;0070;✅ Résultats exportés
+fr;energie_confinement.py;0080;Archivage des fichiers de calcul
+fr;energie_confinement.py;0090;Fin du module énergie de confinement
+fr;interactions_quantiques.py;0001;Définition des interactions quantiques entre particules
+fr;interactions_quantiques.py;0010;Chargement des paramètres expérimentaux
+fr;interactions_quantiques.py;0020;Simulation des collisions de quarks
+fr;interactions_quantiques.py;0030;✅ Simulation terminée
+fr;interactions_quantiques.py;0040;Analyse des résultats
+fr;interactions_quantiques.py;0050;Visualisation graphique des trajectoires
+fr;interactions_quantiques.py;0060;Exportation des données analysées
+fr;interactions_quantiques.py;0070;✅ Résultats exportés
+fr;interactions_quantiques.py;0080;Archivage des fichiers de simulation
+fr;interactions_quantiques.py;0090;Fin du module interactions quantiques
+fr;thermodynamique_quantique.py;0001;Initialisation des paramètres thermodynamiques
+fr;thermodynamique_quantique.py;0010;Calcul de l’énergie libre
+fr;thermodynamique_quantique.py;0020;Évaluation des fluctuations quantiques
+fr;thermodynamique_quantique.py;0030;✅ Calculs terminés
+fr;thermodynamique_quantique.py;0040;Visualisation des distributions de probabilité
+fr;thermodynamique_quantique.py;0050;Exportation des résultats thermodynamiques
+fr;thermodynamique_quantique.py;0060;Archivage des fichiers de simulation
+fr;thermodynamique_quantique.py;0070;Fin du module thermodynamique quantique
+fr;oscillations_particulaires.py;0001;Paramètres initiaux de l’oscillation
+fr;oscillations_particulaires.py;0010;Calcul des amplitudes et phases
+fr;oscillations_particulaires.py;0020;Analyse des interférences
+fr;oscillations_particulaires.py;0030;✅ Simulation des oscillations terminée
+fr;oscillations_particulaires.py;0040;Génération des graphiques d’amplitude
+fr;oscillations_particulaires.py;0050;Sauvegarde des résultats
+fr;oscillations_particulaires.py;0060;Archivage des données pour comparaison
+fr;oscillations_particulaires.py;0070;Fin du module d’oscillations particulaires
+fr;analyse_donnees.py;0071;Chargement des données pour analyse avancée
+fr;analyse_donnees.py;0075;Application des filtres statistiques
+fr;analyse_donnees.py;0080;Validation des ensembles de données
+fr;analyse_donnees.py;0085;Comparaison avec modèles théoriques
+fr;analyse_donnees.py;0090;✅ Analyse des corrélations terminée
+fr;visualisation_graphes.py;0001;Initialisation du module de visualisation
+fr;visualisation_graphes.py;0010;Configuration des axes et légendes
+fr;visualisation_graphes.py;0020;Dessin des courbes principales
+fr;visualisation_graphes.py;0030;Superposition des résultats expérimentaux
+fr;visualisation_graphes.py;0040;Application des styles et couleurs
+fr;visualisation_graphes.py;0050;Export des graphiques en PNG et SVG
+fr;visualisation_graphes.py;0060;✅ Visualisations terminées avec succès
+fr;simulation_particules.py;0001;Paramètres initiaux des particules
+fr;simulation_particules.py;0010;Calcul des trajectoires
+fr;simulation_particules.py;0020;Interaction entre particules
+fr;simulation_particules.py;0030;Application des contraintes physiques
+fr;simulation_particules.py;0040;Génération des résultats numériques
+fr;simulation_particules.py;0050;✅ Simulation complète
+fr;simulation_particules.py;0060;Archivage des résultats pour analyse
+fr;potentiels_quantique.py;0001;Définition des potentiels quantiques
+fr;potentiels_quantique.py;0010;Évaluation des énergies propres
+fr;potentiels_quantique.py;0020;Application des conditions aux limites
+fr;potentiels_quantique.py;0030;Calcul des fonctions d’onde
+fr;potentiels_quantique.py;0040;Visualisation des densités de probabilité
+fr;potentiels_quantique.py;0050;✅ Calculs des potentiels terminés
+fr;resumen_final.py;0051;Compilation des résultats finaux
+fr;resumen_final.py;0055;Vérification des cohérences internes
+fr;resumen_final.py;0060;Préparation du rapport complet
+fr;resumen_final.py;0065;Export PDF et CSV
+fr;resumen_final.py;0070;✅ Rapport final généré
+fr;analyse_donnees.py;0070;✅ Résultats exportés
+fr;analyse_donnees.py;0071;Chargement des données pour analyse avancée
+fr;analyse_donnees.py;0075;Application des filtres statistiques
+fr;analyse_donnees.py;0080;Validation des ensembles de données
+fr;analyse_donnees.py;0085;Comparaison avec modèles théoriques
+fr;analyse_donnees.py;0090;✅ Analyse des corrélations terminée
+fr;visualisation_graphes.py;0001;Initialisation du module de visualisation
+fr;visualisation_graphes.py;0010;Configuration des axes et légendes
+fr;visualisation_graphes.py;0020;Dessin des courbes principales
+fr;visualisation_graphes.py;0030;Superposition des résultats expérimentaux
+fr;visualisation_graphes.py;0040;Application des styles et couleurs
+fr;visualisation_graphes.py;0050;Export des graphiques en PNG et SVG
+fr;visualisation_graphes.py;0060;✅ Visualisations terminées avec succès
+fr;simulation_particules.py;0001;Paramètres initiaux des particules
+fr;simulation_particules.py;0010;Calcul des trajectoires
+fr;simulation_particules.py;0020;Interaction entre particules
+fr;simulation_particules.py;0030;Application des contraintes physiques
+fr;simulation_particules.py;0040;Génération des résultats numériques
+fr;simulation_particules.py;0050;✅ Simulation complète
+fr;simulation_particules.py;0060;Archivage des résultats pour analyse
+fr;potentiels_quantique.py;0001;Définition des potentiels quantiques
+fr;potentiels_quantique.py;0010;Évaluation des énergies propres
+fr;potentiels_quantique.py;0020;Application des conditions aux limites
+fr;potentiels_quantique.py;0030;Calcul des fonctions d’onde
+fr;potentiels_quantique.py;0040;Visualisation des densités de probabilité
+fr;potentiels_quantique.py;0050;✅ Calculs des potentiels terminés
+fr;resumen_final.py;0051;Compilation des résultats finaux
+fr;resumen_final.py;0055;Vérification des cohérences internes
+fr;resumen_final.py;0060;Préparation du rapport complet
+fr;resumen_final.py;0065;Export PDF et CSV
+fr;resumen_final.py;0070;✅ Rapport final généré
+fr;confinamiento.py;0395;• Multiples particules même état
+fr;confinamiento.py;0396;Pas des propriétés fondamentales
+fr;confinamiento.py;0397;Sont des conséquences géométriques
+fr;confinamiento.py;0405;Sauvegarde de toutes les figures
+fr;confinamiento.py;0408;Génération des visualisations Einstein-VED...
+fr;confinamiento.py;0411;Génération Figure 1 : Géométries de confinement...
+fr;confinamiento.py;0418;✓ Géométries de confinement sauvegardées
+fr;confinamiento.py;0420;Génération Figure 2 : Validation expérimentale...
+fr;confinamiento.py;0427;✓ Validation expérimentale sauvegardée
+fr;confinamiento.py;0429;Génération Figure 3 : Solution paradoxes quantiques...
+fr;confinamiento.py;0435;✓ Solution paradoxes quantiques sauvegardée
+fr;confinamiento.py;0437;\n✅ Toutes les figures sauvegardées au format {format} (DPI: {dpi})
+fr;confinamiento.py;0440;❌ Erreur lors de la génération : {e}
+fr;confinamiento.py;0448;Démarrage de la génération de visualisations Einstein-VED...
+fr;confinamiento.py;0453;\n🎨 Visualisations terminées!
+fr;confinamiento.py;0454;Fichiers générés:
+fr;confinamiento_geometrico.py;0023;Onda ψ(x)
+fr;confinamiento_geometrico.py;0026;Position x
+fr;confinamiento_geometrico.py;0027;Amplitude ψ(x)
+fr;confinamiento_geometrico.py;0028;CONFINEMENT EINSTEIN-VED: Onde → Particule
+fr;confinamiento_geometrico.py;0043;Position x
+fr;confinamiento_geometrico.py;0044;Amplitude ψ(x)
+fr;confinamiento_geometrico.py;0045;1. Onde Sinusoidale sur Surface Plane
+fr;confinamiento_geometrico.py;0064;2. Transition: Enroulement ({progress*100:.0f}%)
+fr;confinamiento_geometrico.py;0065;Coordonnée X
+fr;confinamiento_geometrico.py;0066;Coordonnée Y
+fr;confinamiento_geometrico.py;0076;Confinée (n={n_cycles})
+fr;confinamiento_geometrico.py;0077;CONDITION EINSTEIN-VED: L = {n_cycles}λ
+fr;confinamiento_geometrico.py;0080;3. Onde Auto-Confinée - Particule Stable
+fr;confinamiento_geometrico.py;0081;Coordonnée X
+fr;confinamiento_geometrico.py;0082;Coordonnée Y
+fr;confinamiento_geometrico.py;0118;a) Onde Plane Libre
+fr;confinamiento_geometrico.py;0119;Position x
+fr;confinamiento_geometrico.py;0120;Amplitude ψ(x)
+fr;confinamiento_geometrico.py;0137;b) Transition
+fr;confinamiento_geometrico.py;0138;Coordonnée X
+fr;confinamiento_geometrico.py;0139;Coordonnée Y
+fr;confinamiento_geometrico.py;0155;c) Confiné n=3\nL = 3λ
+fr;confinamiento_geometrico.py;0156;Coordonnée X
+fr;confinamiento_geometrico.py;0157;Coordonnée Y
+fr;confinamiento_geometrico.py;0159;CONDITION: L = nλ
+fr;confinamiento_geometrico_tiempo.py;0011;n=1: Tube espace-temps lisse + onde circulaire fondamentale
+fr;confinamiento_geometrico_tiempo.py;0044;ETAT FONDAMENTAL n=1\nEspace-Temps + Onde Circulaire
+fr;confinamiento_geometrico_tiempo.py;0056;n=3: Variété espace-temps + onde avec 3 nœuds
+fr;confinamiento_geometrico_tiempo.py;0093;ETAT EXCITÉ n=3\nVariété Espace-Temps + 3 Nœuds
+fr;confinamiento_geometrico_tiempo.py;0105;Comparaison côte à côte n=1 vs n=3
+fr;confinamiento_geometrico_tiempo.py;0132;n=1: Etat Fondamental
+fr;confinamiento_geometrico_tiempo.py;0153;n=3: Etat Excité
+fr;confinamiento_geometrico_tiempo.py;0164;Montre comment les courbes dt génèrent la surface n=1
+fr;confinamiento_geometrico_tiempo.py;0202;GÉNÉRATION n=1: dt → Surface\nCourbes Circulaires Génèrent Cylindre
+fr;confinamiento_geometrico_tiempo.py;0214;Montre comment les courbes dt génèrent la surface n=3
+fr;confinamiento_geometrico_tiempo.py;0257;GÉNÉRATION n=3: dt → Variété\nCourbes avec Nœuds Génèrent Géométrie
+fr;confinamiento_geometrico_tiempo.py;0269;Évolution complète dt à travers δt
+fr;confinamiento_geometrico_tiempo.py;0302;δt={t}
+fr;confinamiento_geometrico_tiempo.py;0309;Évolution\ntemporelle
+fr;confinamiento_geometrico_tiempo.py;0313;ÉVOLUTION COMPLÈTE: dt → δt → Etats n\nConfinement Quantique Einstein-VED
+fr;confinamiento_geometrico_tiempo.py;0325;🎨 GÉNÉRATION DES 6 GRAPHIQUES COMPLETS EINSTEIN-VED...
+fr;confinamiento_geometrico_tiempo.py;0337;\n✅ LES 6 GRAPHIQUES COMPLETS
+fr;Constante_G.py;0042;Rayon du proton (ligne moyenne)
+fr;Constante_G.py;0046;Figure 1: Onde confinée VED du proton, n=2
+fr;Constante_G.py;0059;Trou noir
+fr;Constante_G.py;0061;Surface 2D
+fr;Constante_G.py;0066;Figure 2: Trou noir et surface 2D holographique
+fr;Constante_G.py;0078;G expérimentale
+fr;Constante_G.py;0083;n={n}
+fr;Constante_G.py;0088;G calculé [m^3/kg/s^2]
+fr;Constante_G.py;0089;Figure 3: Cible de G ±3σ
+fr;Constante_G.py;0116;G calculé [m^3/kg/s^2]
+fr;Constante_G.py;0117;Figure 4: Cible de G ±4σ (flèches)
+fr;Constante_G.py;0130;G(n) asymptotique (continu)
+fr;Constante_G.py;0133;G expérimentale
+fr;Constante_G.py;0140;arrondir,pad=0.5
+fr;Constante_G.py;0143;Figure 5: Comportement asymptotique de G(n) n→∞ (log-log)
+fr;Constante_G.py;0164;Valeur [m³/kg·s²]
+fr;Constante_G.py;0165;{G_max:.8e}
+fr;Constante_G.py;0165;Limite supérieure
+fr;Constante_G.py;0166;$G_2^{EXP}$ Expérimental
+fr;Constante_G.py;0166;{G_exp:.8e}
+fr;Constante_G.py;0166;Valeur moyenne
+fr;Constante_G.py;0167;{G_min:.8e}
+fr;Constante_G.py;0167;Limite inférieure
+fr;Constante_G.py;0168;$G_1^{VED}$ (n=2) EXACT
+fr;Constante_G.py;0168;Obtenu empiriquement
+fr;Constante_G.py;0169;Différence absolue
+fr;Constante_G.py;0169;{error_abs:.8e}
+fr;Constante_G.py;0170;Erreur relative
+fr;Constante_G.py;0170;{error_rel:.6f} %
+fr;Constante_G.py;0170;Précision VED
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
