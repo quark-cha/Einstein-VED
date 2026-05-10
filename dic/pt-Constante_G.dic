@@ -1,0 +1,39 @@
+
+pt;Constante_G.py;63;Raio do próton (linha média)
+pt;Constante_G.py;66;Figura 1: Onda confinada VED do próton, n=2
+pt;Constante_G.py;79;Buraco negro
+pt;Constante_G.py;81;Superfície 2D
+pt;Constante_G.py;86;Figura 2: Buraco negro e superfície 2D holográfica
+pt;Constante_G.py;97;$\pm 3\sigma$
+pt;Constante_G.py;98;G experimental
+pt;Constante_G.py;107;$n \in \mathbb{Z}^+$
+pt;Constante_G.py;108;G calculado [m³/kg/s²]
+pt;Constante_G.py;109;Figura 3: Alvo de G ±3σ
+pt;Constante_G.py;126;$\uparrow$
+pt;Constante_G.py;131;$\downarrow$
+pt;Constante_G.py;135;$n \in \mathbb{Z}^+$
+pt;Constante_G.py;136;G calculado [m³/kg/s²]
+pt;Constante_G.py;137;Figura 4: Alvo de G ±4σ (setas)
+pt;Constante_G.py;149;G(n) assintótico (contínuo)
+pt;Constante_G.py;152;G experimental
+pt;Constante_G.py;157;$n \in \mathbb{Z}^+$
+pt;Constante_G.py;157;$\lim_{n \to \infty} G(n)=0$
+pt;Constante_G.py;159;round,pad=0.5
+pt;Constante_G.py;161;G(n) [m³/kg/s²]
+pt;Constante_G.py;162;Figura 5: Comportamento assintótico de G(n) n→∞ (log-log)
+pt;Constante_G.py;182;Conceito
+pt;Constante_G.py;182;Valor [m³/kg·s²]
+pt;Constante_G.py;182;Origem
+pt;Constante_G.py;183;$G_{MAX}$ ±3σ
+pt;Constante_G.py;183;Limite superior
+pt;Constante_G.py;184;$G_2^{EXP}$ Experimental
+pt;Constante_G.py;184;Valor médio
+pt;Constante_G.py;185;$G_{MIN}$ ∓3σ
+pt;Constante_G.py;185;Limite inferior
+pt;Constante_G.py;186;$G_1^{VED}$ (n=2) EXATO
+pt;Constante_G.py;186;Obtido empiricamente
+pt;Constante_G.py;187;Diferença absoluta
+pt;Constante_G.py;187;$|G_1 - G_2|$
+pt;Constante_G.py;188;Erro relativo
+pt;Constante_G.py;188;Precisão VED
+pt;Constante_G.py;234;Constante gravitacional $G$

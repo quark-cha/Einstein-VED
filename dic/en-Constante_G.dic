@@ -1,0 +1,39 @@
+
+en;Constante_G.py;63;Proton radius (median line)
+en;Constante_G.py;66;Figure 1: VED confined wave of the proton, n=2
+en;Constante_G.py;79;Black hole
+en;Constante_G.py;81;2D surface
+en;Constante_G.py;86;Figure 2: Black hole and 2D surface holography
+en;Constante_G.py;97;$\pm 3\sigma$
+en;Constante_G.py;98;Experimental G
+en;Constante_G.py;107;$n \in \mathbb{Z}^+$
+en;Constante_G.py;108;Calculated G [m^3/kg/s^2]
+en;Constante_G.py;109;Figure 3: G dartboard $\pm 3\sigma$
+en;Constante_G.py;126;$\uparrow$
+en;Constante_G.py;131;$\downarrow$
+en;Constante_G.py;135;$n \in \mathbb{Z}^+$
+en;Constante_G.py;136;Calculated G [m^3/kg/s^2]
+en;Constante_G.py;137;Figure 4: G dartboard $\pm 4\sigma$ (arrows)
+en;Constante_G.py;149;Asymptotic G(n) (continuous)
+en;Constante_G.py;152;Experimental G
+en;Constante_G.py;157;$n \in \mathbb{Z}^+$
+en;Constante_G.py;157;$\lim_{n \to \infty} G(n)=0$
+en;Constante_G.py;159;round,pad=0.5
+en;Constante_G.py;161;G(n) [m^3/kg/s^2]
+en;Constante_G.py;162;Figure 5: Asymptotic behavior of G(n) n → ∞ (log-log)
+en;Constante_G.py;182;Concept
+en;Constante_G.py;182;Value [m^3/kg·s^2]
+en;Constante_G.py;182;Source
+en;Constante_G.py;183;G_MAX ± 3σ
+en;Constante_G.py;183;Upper limit
+en;Constante_G.py;184;G_2^EXP Experimental
+en;Constante_G.py;184;Mean value
+en;Constante_G.py;185;G_MIN ∓ 3σ
+en;Constante_G.py;185;Lower limit
+en;Constante_G.py;186;G_1^VED (n=2) EXACT
+en;Constante_G.py;186;Empirically obtained
+en;Constante_G.py;187;Absolute difference
+en;Constante_G.py;187;|G1 - G2|
+en;Constante_G.py;188;Relative error
+en;Constante_G.py;188;VED accuracy
+en;Constante_G.py;234;GRAVITATIONAL CONSTANT G

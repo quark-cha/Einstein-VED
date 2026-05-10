@@ -1,0 +1,39 @@
+
+el;Constante_G.py;63;Ακτίνα πρωτονίου (μεσαία γραμμή)
+el;Constante_G.py;66;Σχήμα 1: Περιορισμένο κύμα VED του πρωτονίου, n=2
+el;Constante_G.py;79;Μαύρη τρύπα
+el;Constante_G.py;81;2Δ επιφάνεια
+el;Constante_G.py;86;Σχήμα 2: Μαύρη τρύπα και 2Δ ολογραφική επιφάνεια
+el;Constante_G.py;97;$\pm 3\sigma$
+el;Constante_G.py;98;Πειραματική G
+el;Constante_G.py;107;$n \in \mathbb{Z}^+$
+el;Constante_G.py;108;Υπολογισμένο G [m³/kg/s²]
+el;Constante_G.py;109;Σχήμα 3: Στόχος G ±3σ
+el;Constante_G.py;126;$\uparrow$
+el;Constante_G.py;131;$\downarrow$
+el;Constante_G.py;135;$n \in \mathbb{Z}^+$
+el;Constante_G.py;136;Υπολογισμένο G [m³/kg/s²]
+el;Constante_G.py;137;Σχήμα 4: Στόχος G ±4σ (βέλη)
+el;Constante_G.py;149;G(n) ασυμπτωτικό (συνεχές)
+el;Constante_G.py;152;Πειραματική G
+el;Constante_G.py;157;$n \in \mathbb{Z}^+$
+el;Constante_G.py;157;$\lim_{n \to \infty} G(n)=0$
+el;Constante_G.py;159;round,pad=0.5
+el;Constante_G.py;161;G(n) [m³/kg/s²]
+el;Constante_G.py;162;Σχήμα 5: Ασυμπτωτική συμπεριφορά G(n) n → ∞ (log-log)
+el;Constante_G.py;182;Έννοια
+el;Constante_G.py;182;Τιμή [m³/kg·s²]
+el;Constante_G.py;182;Πηγή
+el;Constante_G.py;183;$G_{MAX}$ ±3σ
+el;Constante_G.py;183;Άνω όριο
+el;Constante_G.py;184;$G_2^{EXP}$ Πειραματικό
+el;Constante_G.py;184;Μέση τιμή
+el;Constante_G.py;185;$G_{MIN}$ ∓3σ
+el;Constante_G.py;185;Κάτω όριο
+el;Constante_G.py;186;$G_1^{VED}$ (n=2) ΑΚΡΙΒΕΣ
+el;Constante_G.py;186;Λήφθηκε εμπειρικά
+el;Constante_G.py;187;Απόλυτη διαφορά
+el;Constante_G.py;187;$|G_1 - G_2|$
+el;Constante_G.py;188;Σχετικό σφάλμα
+el;Constante_G.py;188;Ακρίβεια VED
+el;Constante_G.py;234;ΒΑΡΥΤΙΚΗ ΣΤΑΘΕΡΑ $G$

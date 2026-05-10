@@ -1,0 +1,39 @@
+
+sk;Constante_G.py;63;Polomer protónu (stredná čiara)
+sk;Constante_G.py;66;Obrázok 1: VED uzavretá vlna protónu, n=2
+sk;Constante_G.py;79;Čierna diera
+sk;Constante_G.py;81;Plocha 2D
+sk;Constante_G.py;86;Obrázok 2: Čierna diera a 2D holografická plocha
+sk;Constante_G.py;97;$\pm 3\sigma$
+sk;Constante_G.py;98;Experimentálna G
+sk;Constante_G.py;107;$n \in \mathbb{Z}^+$
+sk;Constante_G.py;108;Vypočítaná G [m³/kg/s²]
+sk;Constante_G.py;109;Obrázok 3: Terč G ±3σ
+sk;Constante_G.py;126;$\uparrow$
+sk;Constante_G.py;131;$\downarrow$
+sk;Constante_G.py;135;$n \in \mathbb{Z}^+$
+sk;Constante_G.py;136;Vypočítaná G [m³/kg/s²]
+sk;Constante_G.py;137;Obrázok 4: Terč G ±4σ (šípky)
+sk;Constante_G.py;149;G(n) asymptotické (kontinuálne)
+sk;Constante_G.py;152;Experimentálna G
+sk;Constante_G.py;157;$n \in \mathbb{Z}^+$
+sk;Constante_G.py;157;$\lim_{n \to \infty} G(n)=0$
+sk;Constante_G.py;159;round,pad=0.5
+sk;Constante_G.py;161;G(n) [m³/kg/s²]
+sk;Constante_G.py;162;Obrázok 5: Asymptotické správanie G(n) n→∞ (log-log)
+sk;Constante_G.py;182;Koncept
+sk;Constante_G.py;182;Hodnota [m³/kg·s²]
+sk;Constante_G.py;182;Pôvod
+sk;Constante_G.py;183;$G_{MAX}$ ±3σ
+sk;Constante_G.py;183;Horná hranica
+sk;Constante_G.py;184;$G_2^{EXP}$ Experimentálne
+sk;Constante_G.py;184;Stredná hodnota
+sk;Constante_G.py;185;$G_{MIN}$ ∓3σ
+sk;Constante_G.py;185;Dolná hranica
+sk;Constante_G.py;186;$G_1^{VED}$ (n=2) PRESNÉ
+sk;Constante_G.py;186;Získané empiricky
+sk;Constante_G.py;187;Absolútna odchýlka
+sk;Constante_G.py;187;$|G_1 - G_2|$
+sk;Constante_G.py;188;Relatívna chyba
+sk;Constante_G.py;188;Presnosť VED
+sk;Constante_G.py;234;Gravitačná konštanta $G$

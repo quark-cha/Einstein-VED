@@ -1,0 +1,50 @@
+idioma;archivo;id;texto_traducido
+fr;entrelazamiento_geometrico.py;8;police.family
+fr;entrelazamiento_geometrico.py;9;Arial
+fr;entrelazamiento_geometrico.py;48;INTRICATION QUANTIQUE : Explication Géométrique Einstein-VED
+fr;entrelazamiento_geometrico.py;59;k--
+fr;entrelazamiento_geometrico.py;65;Cadre Interne : Temps Propre Partagé
+fr;entrelazamiento_geometrico.py;84;Cadre Externe : Perspective Conventionnelle
+fr;entrelazamiento_geometrico.py;89;SYMBOLOGIE :\n\n
+fr;entrelazamiento_geometrico.py;90;🔴 Particule A (45°)\n
+fr;entrelazamiento_geometrico.py;91;🟢 Particule B (225°)\n
+fr;entrelazamiento_geometrico.py;92;⚫ Observateur\n
+fr;entrelazamiento_geometrico.py;93;▬▬ Connexion géométrique\n
+fr;entrelazamiento_geometrico.py;94;▬▬ Lignes de visée
+fr;entrelazamiento_geometrico.py;100;rond,remplissage=0.6
+fr;entrelazamiento_geometrico.py;106;CLÉ EINSTEIN-VED :\n\n
+fr;entrelazamiento_geometrico.py;107;Les deux particules (y compris les antipodales)\npartagent le même espace-temps propre t₀, s₀\n\n
+fr;entrelazamiento_geometrico.py;108; → 0 à la vitesse c\n\n
+fr;entrelazamiento_geometrico.py;109;t = t₀ + dt
+fr;entrelazamiento_geometrico.py;110;s = s₀ + ds
+fr;entrelazamiento_geometrico.py;111;Pas d'action à distance
+fr;entrelazamiento_geometrico.py;117;rond,remplissage=0.8
+fr;entrelazamiento_geometrico.py;125;FONDEMENT EINSTEIN-VED :\n\n
+fr;entrelazamiento_geometrico.py;126;Les particules intriquées partagent un espace-temps propre commun depuis leur origine.
+fr;entrelazamiento_geometrico.py;127;Lorsqu'elles voyagent à la vitesse c, leurs différentiels de temps et d'espace propres tendent vers zéro
+fr;entrelazamiento_geometrico.py;128; → 0), les maintenant connectées au même instant t₀ et position s₀.
+fr;entrelazamiento_geometrico.py;129;Cette simultanéité géométrique explique les corrélations quantiques sans violer la relativité.
+fr;entrelazamiento_geometrico.py;134;italique
+fr;entrelazamiento_geometrico.py;135;rond,remplissage=0.8
+fr;entrelazamiento_geometrico.py;141;ÉQUATIONS FONDAMENTALES :\n\n
+fr;entrelazamiento_geometrico.py;142;Pour les particules à la vitesse c :\n
+fr;entrelazamiento_geometrico.py;143; → 0\n
+fr;entrelazamiento_geometrico.py;144;• t = t₀ + dt
+fr;entrelazamiento_geometrico.py;145;• s = s₀ + ds
+fr;entrelazamiento_geometrico.py;146;Équation de champ :\n
+fr;entrelazamiento_geometrico.py;147;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+fr;entrelazamiento_geometrico.py;148;Simultanéité absolue dans le repère propre
+fr;entrelazamiento_geometrico.py;154;rond,remplissage=0.8
+fr;entrelazamiento_geometrico.py;160;INTERPRÉTATION EINSTEIN-VED : L'intrication quantique cesse d'être paradoxale lorsqu'elle est comprise
+fr;entrelazamiento_geometrico.py;161;depuis la géométrie de l'espace-temps. Les particules générées dans le même événement partagent un front
+fr;entrelazamiento_geometrico.py;162;d'onde où leur temps propre reste gelé à t₀. Cette simultanéité intrinsèque explique
+fr;entrelazamiento_geometrico.py;163;. La probabilité quantique reflète la perspective
+fr;entrelazamiento_geometrico.py;164;limitée de l'observateur, non une propriété fondamentale.
+fr;entrelazamiento_geometrico.py;170;rond,remplissage=0.8
+fr;entrelazamiento_geometrico.py;177;svg
+fr;entrelazamiento_geometrico.py;184;🎯 CRÉATION DE LA VERSION FINALE AVEC BOÎTES AU MÊME NIVEAU...
+fr;entrelazamiento_geometrico.py;188; au MÊME NIVEAU
+fr;entrelazamiento_geometrico.py;189;   • Figure plus LARGE (16x10) pour accommoder les deux
+fr;entrelazamiento_geometrico.py;190;   • Design équilibré et symétrique
+fr;entrelazamiento_geometrico.py;191;   • Décoration et couleurs RESPECTÉES
+fr;entrelazamiento_geometrico.py;192;   • ZÉRO chevauchements

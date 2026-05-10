@@ -1,0 +1,23 @@
+
+el;confinamiento_geometrico_tiempo.py;25;n=1: Ομαλός σωλήνας χωροχρόνου + βασικό κυκλικό κύμα
+el;confinamiento_geometrico_tiempo.py;58;ΒΑΣΙΚΗ ΚΑΤΑΣΤΑΣΗ n=1\\nΧωροχρόνος + Κυκλικό Κύμα
+el;confinamiento_geometrico_tiempo.py;71;n=3: Ποικιλία χωροχρόνου + κύμα με 3 κόμβους
+el;confinamiento_geometrico_tiempo.py;108;ΔΙΕΓΕΡΜΕΝΗ ΚΑΤΑΣΤΑΣΗ n=3\\nΠοικιλία Χωροχρόνου + 3 Κόμβοι
+el;confinamiento_geometrico_tiempo.py;121;Σύγκριση δίπλα-δίπλα n=1 vs n=3
+el;confinamiento_geometrico_tiempo.py;148;n=1: Βασική Κατάσταση
+el;confinamiento_geometrico_tiempo.py;169;n=3: Διεγερμένη Κατάσταση
+el;confinamiento_geometrico_tiempo.py;182;Δείχνει πώς οι καμπύλες dt δημιουργούν την επιφάνεια n=1
+el;confinamiento_geometrico_tiempo.py;220;ΔΗΜΙΟΥΡΓΙΑ n=1: dt → Επιφάνεια\\nΚυκλικές Καμπύλες Δημιουργούν Κύλινδρο
+el;confinamiento_geometrico_tiempo.py;234;Δείχνει πώς οι καμπύλες dt δημιουργούν την επιφάνεια n=3
+el;confinamiento_geometrico_tiempo.py;277;ΔΗΜΙΟΥΡΓΙΑ n=3: dt → Ποικιλία\\nΚαμπύλες με Κόμβους Δημιουργούν Γεωμετρία
+el;confinamiento_geometrico_tiempo.py;291;Πλήρης εξέλιξη dt μέσω δt
+el;confinamiento_geometrico_tiempo.py;331;Χρονική\\nΕξέλιξη
+el;confinamiento_geometrico_tiempo.py;335;ΠΛΗΡΗΣ ΕΞΕΛΙΞΗ: dt → δt → Καταστάσεις n\\nΚβαντικός Περιορισμός Einstein-VED
+el;confinamiento_geometrico_tiempo.py;348;🎨 ΔΗΜΙΟΥΡΓΙΑ 6 ΠΛΗΡΩΝ ΔΙΑΓΡΑΜΜΑΤΩΝ EINSTEIN-VED...
+el;confinamiento_geometrico_tiempo.py;360;\\n✅ ΤΑ 6 ΠΛΗΡΗ ΔΙΑΓΡΑΜΜΑΤΑ:
+el;confinamiento_geometrico_tiempo.py;361;1. 1_n1_fundamental.svg - Βασική κατάσταση
+el;confinamiento_geometrico_tiempo.py;362;2. 2_n3_excited.svg - Διεγερμένη κατάσταση
+el;confinamiento_geometrico_tiempo.py;363;3. 3_comparacion_n1_n3.svg - Σύγκριση
+el;confinamiento_geometrico_tiempo.py;364;4. 4_generacion_dt_n1.svg - Δημιουργία n=1
+el;confinamiento_geometrico_tiempo.py;365;5. 5_generacion_dt_n3.svg - Δημιουργία n=3
+el;confinamiento_geometrico_tiempo.py;366;6. 6_evolucion_temporal.svg - Πλήρης εξέλιξη

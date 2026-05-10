@@ -1,0 +1,23 @@
+
+ast;confinamiento_geometrico_tiempo.py;25;n=1: Tubu espaciu-tempu lisu + onda circular fundamental
+ast;confinamiento_geometrico_tiempo.py;58;ESTÁU FUNDAMENTAL n=1\\nEspaciu-Tempu + Onda Circular
+ast;confinamiento_geometrico_tiempo.py;71;n=3: Variedá espaciu-tempu + onda con 3 nodos
+ast;confinamiento_geometrico_tiempo.py;108;ESTÁU EXCITÁU n=3\\nVariedá Espaciu-Tempu + 3 Nodos
+ast;confinamiento_geometrico_tiempo.py;121;Comparación lado a lado n=1 vs n=3
+ast;confinamiento_geometrico_tiempo.py;148;n=1: Estáu Fundamental
+ast;confinamiento_geometrico_tiempo.py;169;n=3: Estáu Excitáu
+ast;confinamiento_geometrico_tiempo.py;182;Amuestra cómo les curvas dt xeneren la superficie n=1
+ast;confinamiento_geometrico_tiempo.py;220;XENERACIÓN n=1: dt → Superficie\\nCurves Circulares Xeneren Cilindru
+ast;confinamiento_geometrico_tiempo.py;234;Amuestra cómo les curvas dt xeneren la superficie n=3
+ast;confinamiento_geometrico_tiempo.py;277;XENERACIÓN n=3: dt → Variedá\\nCurves con Nodos Xeneren Xeometría
+ast;confinamiento_geometrico_tiempo.py;291;Evolución completa dt a traviés de δt
+ast;confinamiento_geometrico_tiempo.py;331;Evolución\\ntemporal
+ast;confinamiento_geometrico_tiempo.py;335;EVOLUCIÓN COMPLETA: dt → δt → Estáus n\\nConfinamientu Cuánticu Einstein-VED
+ast;confinamiento_geometrico_tiempo.py;348;🎨 XENERANDO LOS 6 GRÁFICOS COMPLETOS EINSTEIN-VED...
+ast;confinamiento_geometrico_tiempo.py;360;\\n✅ LOS 6 GRÁFICOS COMPLETOS:
+ast;confinamiento_geometrico_tiempo.py;361;1. 1_n1_fundamental.svg - Estáu base
+ast;confinamiento_geometrico_tiempo.py;362;2. 2_n3_excitado.svg - Estáu excitáu
+ast;confinamiento_geometrico_tiempo.py;363;3. 3_comparacion_n1_n3.svg - Comparación
+ast;confinamiento_geometrico_tiempo.py;364;4. 4_generacion_dt_n1.svg - Xeneración n=1
+ast;confinamiento_geometrico_tiempo.py;365;5. 5_generacion_dt_n3.svg - Xeneración n=3
+ast;confinamiento_geometrico_tiempo.py;366;6. 6_evolucion_temporal.svg - Evolución completa

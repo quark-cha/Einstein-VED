@@ -1,0 +1,50 @@
+idioma;archivo;id;texto_traducido
+zh;entrelazamiento_geometrico.py;8;字体.系列
+zh;entrelazamiento_geometrico.py;9;Arial
+zh;entrelazamiento_geometrico.py;48;量子纠缠：爱因斯坦-VED几何解释
+zh;entrelazamiento_geometrico.py;59;k--
+zh;entrelazamiento_geometrico.py;65;内部框架：共享的固有时
+zh;entrelazamiento_geometrico.py;84;外部框架：传统视角
+zh;entrelazamiento_geometrico.py;89;符号体系：\n\n
+zh;entrelazamiento_geometrico.py;90;🔴 粒子A（45°）\n
+zh;entrelazamiento_geometrico.py;91;🟢 粒子B（225°）\n
+zh;entrelazamiento_geometrico.py;92;⚫ 观察者\n
+zh;entrelazamiento_geometrico.py;93;▬▬ 几何连接\n
+zh;entrelazamiento_geometrico.py;94;▬▬ 视线
+zh;entrelazamiento_geometrico.py;100;圆形,填充=0.6
+zh;entrelazamiento_geometrico.py;106;爱因斯坦-VED关键：\n\n
+zh;entrelazamiento_geometrico.py;107;两个粒子（包括对跖点）\n共享相同的固有时空t₀，s₀\n\n
+zh;entrelazamiento_geometrico.py;108; → 0 在光速c下\n\n
+zh;entrelazamiento_geometrico.py;109;t = t₀ + dt
+zh;entrelazamiento_geometrico.py;110;s = s₀ + ds
+zh;entrelazamiento_geometrico.py;111;无超距作用
+zh;entrelazamiento_geometrico.py;117;圆形,填充=0.8
+zh;entrelazamiento_geometrico.py;125;爱因斯坦-VED基础：\n\n
+zh;entrelazamiento_geometrico.py;126;纠缠粒子从其起源起共享共同的固有时空。
+zh;entrelazamiento_geometrico.py;127;当以光速c运动时，它们的固有时间和空间微分趋于零
+zh;entrelazamiento_geometrico.py;128; → 0），使它们保持连接在相同的时刻t₀和位置s₀。
+zh;entrelazamiento_geometrico.py;129;这种几何同时性解释了量子关联而不违反相对论。
+zh;entrelazamiento_geometrico.py;134;斜体
+zh;entrelazamiento_geometrico.py;135;圆形,填充=0.8
+zh;entrelazamiento_geometrico.py;141;基本方程：\n\n
+zh;entrelazamiento_geometrico.py;142;对于以光速c运动的粒子：\n
+zh;entrelazamiento_geometrico.py;143; → 0\n
+zh;entrelazamiento_geometrico.py;144;• t = t₀ + dt
+zh;entrelazamiento_geometrico.py;145;• s = s₀ + ds
+zh;entrelazamiento_geometrico.py;146;场方程：\n
+zh;entrelazamiento_geometrico.py;147;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+zh;entrelazamiento_geometrico.py;148;在固有坐标系中的绝对同时性
+zh;entrelazamiento_geometrico.py;154;圆形,填充=0.8
+zh;entrelazamiento_geometrico.py;160;爱因斯坦-VED解释：当从时空几何理解时
+zh;entrelazamiento_geometrico.py;161;量子纠缠不再具有悖论性。在同一事件中产生的粒子共享一个
+zh;entrelazamiento_geometrico.py;162;波前，其中它们的固有时保持冻结在t₀。这种内在同时性解释了
+zh;entrelazamiento_geometrico.py;163;。量子概率反映了观察者的
+zh;entrelazamiento_geometrico.py;164;有限视角，而非基本属性。
+zh;entrelazamiento_geometrico.py;170;圆形,填充=0.8
+zh;entrelazamiento_geometrico.py;177;svg
+zh;entrelazamiento_geometrico.py;184;🎯 创建包含同级别框图的最终版本...
+zh;entrelazamiento_geometrico.py;188; 在同一级别
+zh;entrelazamiento_geometrico.py;189;   • 更宽的图形（16x10）以容纳两者
+zh;entrelazamiento_geometrico.py;190;   • 平衡对称的设计
+zh;entrelazamiento_geometrico.py;191;   • 装饰和颜色得到尊重
+zh;entrelazamiento_geometrico.py;192;   • 零重叠

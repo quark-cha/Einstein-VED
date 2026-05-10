@@ -1,0 +1,56 @@
+idioma;archivo;id;texto
+ch;Constante_G;0045;质子半径 (中线)
+ch;Constante_G;0049;图 1: VED约束质子波, n=2
+ch;Constante_G;0062;黑洞
+ch;Constante_G;0064;二维表面
+ch;Constante_G;0069;图 2: 黑洞和全息二维表面
+ch;Constante_G;0080;±3σ
+ch;Constante_G;0081;实验G值
+ch;Constante_G;0086;n={n}
+ch;Constante_G;0090;n ∈ Z⁺
+ch;Constante_G;0091;计算G [m^3/kg/s^2]
+ch;Constante_G;0092;图 3: G靶心图 ±3σ
+ch;Constante_G;0118;n ∈ Z⁺
+ch;Constante_G;0119;计算G [m^3/kg/s^2]
+ch;Constante_G;0120;图 4: G靶心图 ±4σ (箭头)
+ch;Constante_G;0133;G(n)渐近 (连续)
+ch;Constante_G;0136;实验G值
+ch;Constante_G;0141;n ∈ Z⁺ \n极限 n→∞ G(n)=0
+ch;Constante_G;0145;G(n) [m^3/kg/s^2]
+ch;Constante_G;0146;图 5: G(n)渐近行为 n→∞ (对数-对数)
+ch;Constante_G;0167;数值 [m³/kg·s²]
+ch;Constante_G;0168;上限
+ch;Constante_G;0169;平均值
+ch;Constante_G;0170;下限
+ch;Constante_G;0171;经验获得
+ch;Constante_G;0172;|G₁ - G₂|
+ch;Constante_G;0173;VED精度
+ch;Constante_G;0251;万有引力常数 G
+ch;Constante_G;0270;约束物质波
+ch;Constante_G;0280;二维全息图
+ch;Constante_G;0289;G的涌现
+ch;Constante_G;0291;图 8: 物质作为二维全息图上的约束波
+ch;Constante_G;0320;质子半径
+ch;Constante_G;0321;质子径向波
+ch;Constante_G;0322;质子二维波动 (n=4)
+ch;Constante_G;0325;质子半径
+ch;Constante_G;0326;质子波
+ch;Constante_G;0327;二维波动
+ch;Constante_G;0329;质子 - 飞米尺度 (10⁻¹⁵ m)
+ch;Constante_G;0345;电子轨道半径
+ch;Constante_G;0346;电子径向波
+ch;Constante_G;0347;电子二维波动 (n=137)
+ch;Constante_G;0350;电子轨道半径
+ch;Constante_G;0351;电子波
+ch;Constante_G;0352;二维波动
+ch;Constante_G;0354;电子 - 原子尺度 (10⁻¹¹ m)
+ch;Constante_G;0361;图 9. 质子和电子的二维及径向波\n(全息 → 粒子)
+ch;Constante_G;0381;$(L_\mathrm{geom} c)$
+ch;Constante_G;0382;质量相等,\nM消失
+ch;Constante_G;0383;VED定义
+ch;Constante_G;0384;每边定义\n自己的尺度
+ch;Constante_G;0385;M和G的离散值
+ch;Constante_G;0386;n=2与\nG的实验值一致
+ch;Constante_G;0387;(表面)
+ch;Constante_G;0388;引力的涌现起源
+ch;Constante_G;0412;图 10: VED与Schwarzschild概念比较

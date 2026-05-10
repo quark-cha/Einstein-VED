@@ -1,0 +1,740 @@
+fr;confinamiento_geometrico_tiempo.py;001;n=1: Tube espace-temps lisse + onde circulaire fondamentale
+fr;confinamiento_geometrico_tiempo.py;002;n=3: Variété espace-temps + onde avec 3 nœuds
+fr;confinamiento_geometrico_tiempo.py;003;Comparaison côte à côte n=1 vs n=3
+fr;confinamiento_geometrico_tiempo.py;004;Montre comment les courbes dt génèrent la surface n=1
+fr;confinamiento_geometrico_tiempo.py;005;Montre comment les courbes dt génèrent la surface n=3
+fr;confinamiento_geometrico_tiempo.py;006;Évolution complète dt à travers δt
+fr;confinamiento_geometrico_tiempo.py;007;rond
+fr;confinamiento_geometrico_tiempo.py;008;blanc
+fr;confinamiento_geometrico_tiempo.py;009;🎨 GÉNÉRATION DES 6 GRAPHIQUES COMPLETS EINSTEIN-VED...
+fr;confinamiento_geometrico_tiempo.py;010;\n✅ LES 6 GRAPHIQUES COMPLETS:
+fr;confinamiento_geometrico_tiempo.py;011;__main__
+fr;confinamiento_geometrico_tiempo.py;012;bleu clair
+fr;confinamiento_geometrico_tiempo.py;013;rouge
+fr;confinamiento_geometrico_tiempo.py;014;ÉTAT FONDAMENTAL n=1\nEspace-Temps + Onde Circulaire
+fr;confinamiento_geometrico_tiempo.py;015;gras
+fr;confinamiento_geometrico_tiempo.py;016;serré
+fr;confinamiento_geometrico_tiempo.py;017;blanc
+fr;confinamiento_geometrico_tiempo.py;018;rouge
+fr;confinamiento_geometrico_tiempo.py;019;ÉTAT EXCITÉ n=3\nVariété Espace-Temps + 3 Nœuds
+fr;confinamiento_geometrico_tiempo.py;020;gras
+fr;confinamiento_geometrico_tiempo.py;021;serré
+fr;confinamiento_geometrico_tiempo.py;022;blanc
+fr;confinamiento_geometrico_tiempo.py;023;bleu clair
+fr;confinamiento_geometrico_tiempo.py;024;rouge
+fr;confinamiento_geometrico_tiempo.py;025;n=1: État Fondamental
+fr;confinamiento_geometrico_tiempo.py;026;gras
+fr;confinamiento_geometrico_tiempo.py;027;rouge
+fr;confinamiento_geometrico_tiempo.py;028;n=3: État Excité
+fr;confinamiento_geometrico_tiempo.py;029;gras
+fr;confinamiento_geometrico_tiempo.py;030;serré
+fr;confinamiento_geometrico_tiempo.py;031;blanc
+fr;confinamiento_geometrico_tiempo.py;032;bleu clair
+fr;confinamiento_geometrico_tiempo.py;033;rouge
+fr;confinamiento_geometrico_tiempo.py;034;vert
+fr;confinamiento_geometrico_tiempo.py;035;vert
+fr;confinamiento_geometrico_tiempo.py;036;vert
+fr;confinamiento_geometrico_tiempo.py;037;gras
+fr;confinamiento_geometrico_tiempo.py;038;GÉNÉRATION n=1: dt → Surface\nCourbes Circulaires Génèrent Cylindre
+fr;confinamiento_geometrico_tiempo.py;039;gras
+fr;confinamiento_geometrico_tiempo.py;040;serré
+fr;confinamiento_geometrico_tiempo.py;041;blanc
+fr;confinamiento_geometrico_tiempo.py;042;rouge
+fr;confinamiento_geometrico_tiempo.py;043;vert
+fr;confinamiento_geometrico_tiempo.py;044;vert
+fr;confinamiento_geometrico_tiempo.py;045;vert
+fr;confinamiento_geometrico_tiempo.py;046;gras
+fr;confinamiento_geometrico_tiempo.py;047;GÉNÉRATION n=3: dt → Variété\nCourbes avec Nœuds Génèrent Géométrie
+fr;confinamiento_geometrico_tiempo.py;048;gras
+fr;confinamiento_geometrico_tiempo.py;049;serré
+fr;confinamiento_geometrico_tiempo.py;050;blanc
+fr;confinamiento_geometrico_tiempo.py;051;rouge
+fr;confinamiento_geometrico_tiempo.py;052;rouge foncé
+fr;confinamiento_geometrico_tiempo.py;053;δt={t}
+fr;confinamiento_geometrico_tiempo.py;054;centre
+fr;confinamiento_geometrico_tiempo.py;055;gras
+fr;confinamiento_geometrico_tiempo.py;056;bleu
+fr;confinamiento_geometrico_tiempo.py;057;bleu
+fr;confinamiento_geometrico_tiempo.py;058;Évolution\ntemporelle
+fr;confinamiento_geometrico_tiempo.py;059;bleu
+fr;confinamiento_geometrico_tiempo.py;060;gras
+fr;confinamiento_geometrico_tiempo.py;061;ÉVOLUTION COMPLÈTE: dt → δt → États n\nConfinement Quantique Einstein-VED
+fr;confinamiento_geometrico_tiempo.py;062;gras
+fr;confinamiento_geometrico_tiempo.py;063;serré
+fr;confinamiento_geometrico_tiempo.py;064;blanc
+
+sk;confinamiento_geometrico_tiempo.py;001;n=1: Hladká časopriestorová trubica + základná kruhová vlna
+sk;confinamiento_geometrico_tiempo.py;002;n=3: Časopriestorová varieta + vlna s 3 uzlami
+sk;confinamiento_geometrico_tiempo.py;003;Porovnanie n=1 vs n=3 vedľa seba
+sk;confinamiento_geometrico_tiempo.py;004;Ukazuje ako krivky dt generujú povrch n=1
+sk;confinamiento_geometrico_tiempo.py;005;Ukazuje ako krivky dt generujú povrch n=3
+sk;confinamiento_geometrico_tiempo.py;006;Úplná evolúcia dt cez δt
+sk;confinamiento_geometrico_tiempo.py;007;okrúhly
+sk;confinamiento_geometrico_tiempo.py;008;biely
+sk;confinamiento_geometrico_tiempo.py;009;🎨 GENEROVANIE 6 ÚPLNÝCH GRAFOV EINSTEIN-VED...
+sk;confinamiento_geometrico_tiempo.py;010;\n✅ 6 ÚPLNÝCH GRAFOV:
+sk;confinamiento_geometrico_tiempo.py;011;__main__
+sk;confinamiento_geometrico_tiempo.py;012;svetlomodrá
+sk;confinamiento_geometrico_tiempo.py;013;červená
+sk;confinamiento_geometrico_tiempo.py;014;ZÁKLADNÝ STAV n=1\nČasopriestor + Kruhová Vlna
+sk;confinamiento_geometrico_tiempo.py;015;tučný
+sk;confinamiento_geometrico_tiempo.py;016;tesný
+sk;confinamiento_geometrico_tiempo.py;017;biely
+sk;confinamiento_geometrico_tiempo.py;018;červená
+sk;confinamiento_geometrico_tiempo.py;019;EXCITOVANÝ STAV n=3\nČasopriestorová Varieta + 3 Uzly
+sk;confinamiento_geometrico_tiempo.py;020;tučný
+sk;confinamiento_geometrico_tiempo.py;021;tesný
+sk;confinamiento_geometrico_tiempo.py;022;biely
+sk;confinamiento_geometrico_tiempo.py;023;svetlomodrá
+sk;confinamiento_geometrico_tiempo.py;024;červená
+sk;confinamiento_geometrico_tiempo.py;025;n=1: Základný Stav
+sk;confinamiento_geometrico_tiempo.py;026;tučný
+sk;confinamiento_geometrico_tiempo.py;027;červená
+sk;confinamiento_geometrico_tiempo.py;028;n=3: Excitovaný Stav
+sk;confinamiento_geometrico_tiempo.py;029;tučný
+sk;confinamiento_geometrico_tiempo.py;030;tesný
+sk;confinamiento_geometrico_tiempo.py;031;biely
+sk;confinamiento_geometrico_tiempo.py;032;svetlomodrá
+sk;confinamiento_geometrico_tiempo.py;033;červená
+sk;confinamiento_geometrico_tiempo.py;034;zelená
+sk;confinamiento_geometrico_tiempo.py;035;zelená
+sk;confinamiento_geometrico_tiempo.py;036;zelená
+sk;confinamiento_geometrico_tiempo.py;037;tučný
+sk;confinamiento_geometrico_tiempo.py;038;GENERÁCIA n=1: dt → Povrch\nKruhové Krivky Generujú Valec
+sk;confinamiento_geometrico_tiempo.py;039;tučný
+sk;confinamiento_geometrico_tiempo.py;040;tesný
+sk;confinamiento_geometrico_tiempo.py;041;biely
+sk;confinamiento_geometrico_tiempo.py;042;červená
+sk;confinamiento_geometrico_tiempo.py;043;zelená
+sk;confinamiento_geometrico_tiempo.py;044;zelená
+sk;confinamiento_geometrico_tiempo.py;045;zelená
+sk;confinamiento_geometrico_tiempo.py;046;tučný
+sk;confinamiento_geometrico_tiempo.py;047;GENERÁCIA n=3: dt → Varieta\nKrivky s Uzlami Generujú Geometriu
+sk;confinamiento_geometrico_tiempo.py;048;tučný
+sk;confinamiento_geometrico_tiempo.py;049;tesný
+sk;confinamiento_geometrico_tiempo.py;050;biely
+sk;confinamiento_geometrico_tiempo.py;051;červená
+sk;confinamiento_geometrico_tiempo.py;052;tmavočervená
+sk;confinamiento_geometrico_tiempo.py;053;δt={t}
+sk;confinamiento_geometrico_tiempo.py;054;stred
+sk;confinamiento_geometrico_tiempo.py;055;tučný
+sk;confinamiento_geometrico_tiempo.py;056;modrá
+sk;confinamiento_geometrico_tiempo.py;057;modrá
+sk;confinamiento_geometrico_tiempo.py;058;Časová\nevolúcia
+sk;confinamiento_geometrico_tiempo.py;059;modrá
+sk;confinamiento_geometrico_tiempo.py;060;tučný
+sk;confinamiento_geometrico_tiempo.py;061;ÚPLNÁ EVOLÚCIA: dt → δt → Stavy n\nKvantové Uväznenie Einstein-VED
+sk;confinamiento_geometrico_tiempo.py;062;tučný
+sk;confinamiento_geometrico_tiempo.py;063;tesný
+sk;confinamiento_geometrico_tiempo.py;064;biely
+
+ar;confinamiento_geometrico_tiempo.py;001;n=1: أنبوب زمكان أملس + موجة دائرية أساسية
+ar;confinamiento_geometrico_tiempo.py;002;n=3: مشعب زمكان + موجة ذات 3 عقد
+ar;confinamiento_geometrico_tiempo.py;003;مقارنة جنبًا إلى جنب n=1 مقابل n=3
+ar;confinamiento_geometrico_tiempo.py;004;يظهر كيف تُنشئ منحنيات dt السطح n=1
+ar;confinamiento_geometrico_tiempo.py;005;يظهر كيف تُنشئ منحنيات dt السطح n=3
+ar;confinamiento_geometrico_tiempo.py;006;تطور كامل dt عبر δt
+ar;confinamiento_geometrico_tiempo.py;007;مدور
+ar;confinamiento_geometrico_tiempo.py;008;أبيض
+ar;confinamiento_geometrico_tiempo.py;009;🎨 جاري إنشاء 6 رسومات كاملة لأينشتاين-فيد...
+ar;confinamiento_geometrico_tiempo.py;010;\n✅ الـ6 رسومات الكاملة:
+ar;confinamiento_geometrico_tiempo.py;011;__main__
+ar;confinamiento_geometrico_tiempo.py;012;أزرق فاتح
+ar;confinamiento_geometrico_tiempo.py;013;أحمر
+ar;confinamiento_geometrico_tiempo.py;014;الحالة الأساسية n=1\nالزمكان + موجة دائرية
+ar;confinamiento_geometrico_tiempo.py;015;عريض
+ar;confinamiento_geometrico_tiempo.py;016;مضغوط
+ar;confinamiento_geometrico_tiempo.py;017;أبيض
+ar;confinamiento_geometrico_tiempo.py;018;أحمر
+ar;confinamiento_geometrico_tiempo.py;019;الحالة المثارة n=3\nمشعب الزمكان + 3 عقد
+ar;confinamiento_geometrico_tiempo.py;020;عريض
+ar;confinamiento_geometrico_tiempo.py;021;مضغوط
+ar;confinamiento_geometrico_tiempo.py;022;أبيض
+ar;confinamiento_geometrico_tiempo.py;023;أزرق فاتح
+ar;confinamiento_geometrico_tiempo.py;024;أحمر
+ar;confinamiento_geometrico_tiempo.py;025;n=1: الحالة الأساسية
+ar;confinamiento_geometrico_tiempo.py;026;عريض
+ar;confinamiento_geometrico_tiempo.py;027;أحمر
+ar;confinamiento_geometrico_tiempo.py;028;n=3: الحالة المثارة
+ar;confinamiento_geometrico_tiempo.py;029;عريض
+ar;confinamiento_geometrico_tiempo.py;030;مضغوط
+ar;confinamiento_geometrico_tiempo.py;031;أبيض
+ar;confinamiento_geometrico_tiempo.py;032;أزرق فاتح
+ar;confinamiento_geometrico_tiempo.py;033;أحمر
+ar;confinamiento_geometrico_tiempo.py;034;أخضر
+ar;confinamiento_geometrico_tiempo.py;035;أخضر
+ar;confinamiento_geometrico_tiempo.py;036;أخضر
+ar;confinamiento_geometrico_tiempo.py;037;عريض
+ar;confinamiento_geometrico_tiempo.py;038;توليد n=1: dt → سطح\nمنحنيات دائرية تُنشئ أسطوانة
+ar;confinamiento_geometrico_tiempo.py;039;عريض
+ar;confinamiento_geometrico_tiempo.py;040;مضغوط
+ar;confinamiento_geometrico_tiempo.py;041;أبيض
+ar;confinamiento_geometrico_tiempo.py;042;أحمر
+ar;confinamiento_geometrico_tiempo.py;043;أخضر
+ar;confinamiento_geometrico_tiempo.py;044;أخضر
+ar;confinamiento_geometrico_tiempo.py;045;أخضر
+ar;confinamiento_geometrico_tiempo.py;046;عريض
+ar;confinamiento_geometrico_tiempo.py;047;توليد n=3: dt → مشعب\nمنحنيات ذات عقد تُنشئ هندسة
+ar;confinamiento_geometrico_tiempo.py;048;عريض
+ar;confinamiento_geometrico_tiempo.py;049;مضغوط
+ar;confinamiento_geometrico_tiempo.py;050;أبيض
+ar;confinamiento_geometrico_tiempo.py;051;أحمر
+ar;confinamiento_geometrico_tiempo.py;052;أحمر غامق
+ar;confinamiento_geometrico_tiempo.py;053;δt={t}
+ar;confinamiento_geometrico_tiempo.py;054;مركز
+ar;confinamiento_geometrico_tiempo.py;055;عريض
+ar;confinamiento_geometrico_tiempo.py;056;أزرق
+ar;confinamiento_geometrico_tiempo.py;057;أزرق
+ar;confinamiento_geometrico_tiempo.py;058;تطور\nزمني
+ar;confinamiento_geometrico_tiempo.py;059;أزرق
+ar;confinamiento_geometrico_tiempo.py;060;عريض
+ar;confinamiento_geometrico_tiempo.py;061;تطور كامل: dt → δt → حالات n\nالحصر الكمومي لأينشتاين-فيد
+ar;confinamiento_geometrico_tiempo.py;062;عريض
+ar;confinamiento_geometrico_tiempo.py;063;مضغوط
+ar;confinamiento_geometrico_tiempo.py;064;أبيض
+
+zh;confinamiento_geometrico_tiempo.py;001;n=1: 平滑时空管 + 基本圆形波
+zh;confinamiento_geometrico_tiempo.py;002;n=3: 时空流形 + 具有3个节点的波
+zh;confinamiento_geometrico_tiempo.py;003;并排比较 n=1 与 n=3
+zh;confinamiento_geometrico_tiempo.py;004;显示dt曲线如何生成n=1表面
+zh;confinamiento_geometrico_tiempo.py;005;显示dt曲线如何生成n=3表面
+zh;confinamiento_geometrico_tiempo.py;006;通过δt的完整dt演化
+zh;confinamiento_geometrico_tiempo.py;007;圆形
+zh;confinamiento_geometrico_tiempo.py;008;白色
+zh;confinamiento_geometrico_tiempo.py;009;🎨 生成6个完整的爱因斯坦-VED图表...
+zh;confinamiento_geometrico_tiempo.py;010;\n✅ 6个完整图表:
+zh;confinamiento_geometrico_tiempo.py;011;__main__
+zh;confinamiento_geometrico_tiempo.py;012;浅蓝色
+zh;confinamiento_geometrico_tiempo.py;013;红色
+zh;confinamiento_geometrico_tiempo.py;014;基态 n=1\n时空 + 圆形波
+zh;confinamiento_geometrico_tiempo.py;015;粗体
+zh;confinamiento_geometrico_tiempo.py;016;紧凑
+zh;confinamiento_geometrico_tiempo.py;017;白色
+zh;confinamiento_geometrico_tiempo.py;018;红色
+zh;confinamiento_geometrico_tiempo.py;019;激发态 n=3\n时空流形 + 3个节点
+zh;confinamiento_geometrico_tiempo.py;020;粗体
+zh;confinamiento_geometrico_tiempo.py;021;紧凑
+zh;confinamiento_geometrico_tiempo.py;022;白色
+zh;confinamiento_geometrico_tiempo.py;023;浅蓝色
+zh;confinamiento_geometrico_tiempo.py;024;红色
+zh;confinamiento_geometrico_tiempo.py;025;n=1: 基态
+zh;confinamiento_geometrico_tiempo.py;026;粗体
+zh;confinamiento_geometrico_tiempo.py;027;红色
+zh;confinamiento_geometrico_tiempo.py;028;n=3: 激发态
+zh;confinamiento_geometrico_tiempo.py;029;粗体
+zh;confinamiento_geometrico_tiempo.py;030;紧凑
+zh;confinamiento_geometrico_tiempo.py;031;白色
+zh;confinamiento_geometrico_tiempo.py;032;浅蓝色
+zh;confinamiento_geometrico_tiempo.py;033;红色
+zh;confinamiento_geometrico_tiempo.py;034;绿色
+zh;confinamiento_geometrico_tiempo.py;035;绿色
+zh;confinamiento_geometrico_tiempo.py;036;绿色
+zh;confinamiento_geometrico_tiempo.py;037;粗体
+zh;confinamiento_geometrico_tiempo.py;038;生成 n=1: dt → 表面\n圆形曲线生成圆柱体
+zh;confinamiento_geometrico_tiempo.py;039;粗体
+zh;confinamiento_geometrico_tiempo.py;040;紧凑
+zh;confinamiento_geometrico_tiempo.py;041;白色
+zh;confinamiento_geometrico_tiempo.py;042;红色
+zh;confinamiento_geometrico_tiempo.py;043;绿色
+zh;confinamiento_geometrico_tiempo.py;044;绿色
+zh;confinamiento_geometrico_tiempo.py;045;绿色
+zh;confinamiento_geometrico_tiempo.py;046;粗体
+zh;confinamiento_geometrico_tiempo.py;047;生成 n=3: dt → 流形\n带节点曲线生成几何
+zh;confinamiento_geometrico_tiempo.py;048;粗体
+zh;confinamiento_geometrico_tiempo.py;049;紧凑
+zh;confinamiento_geometrico_tiempo.py;050;白色
+zh;confinamiento_geometrico_tiempo.py;051;红色
+zh;confinamiento_geometrico_tiempo.py;052;深红色
+zh;confinamiento_geometrico_tiempo.py;053;δt={t}
+zh;confinamiento_geometrico_tiempo.py;054;居中
+zh;confinamiento_geometrico_tiempo.py;055;粗体
+zh;confinamiento_geometrico_tiempo.py;056;蓝色
+zh;confinamiento_geometrico_tiempo.py;057;蓝色
+zh;confinamiento_geometrico_tiempo.py;058;时间\n演化
+zh;confinamiento_geometrico_tiempo.py;059;蓝色
+zh;confinamiento_geometrico_tiempo.py;060;粗体
+zh;confinamiento_geometrico_tiempo.py;061;完整演化: dt → δt → n态\n爱因斯坦-VED量子约束
+zh;confinamiento_geometrico_tiempo.py;062;粗体
+zh;confinamiento_geometrico_tiempo.py;063;紧凑
+zh;confinamiento_geometrico_tiempo.py;064;白色
+
+ja;confinamiento_geometrico_tiempo.py;001;n=1: 滑らかな時空チューブ + 基本円形波
+ja;confinamiento_geometrico_tiempo.py;002;n=3: 時空多様体 + 3ノード波
+ja;confinamiento_geometrico_tiempo.py;003;n=1対n=3の並列比較
+ja;confinamiento_geometrico_tiempo.py;004;dt曲線がn=1表面を生成する方法を示す
+ja;confinamiento_geometrico_tiempo.py;005;dt曲線がn=3表面を生成する方法を示す
+ja;confinamiento_geometrico_tiempo.py;006;δtを通じた完全なdt進化
+ja;confinamiento_geometrico_tiempo.py;007;丸い
+ja;confinamiento_geometrico_tiempo.py;008;白
+ja;confinamiento_geometrico_tiempo.py;009;🎨 6つの完全なアインシュタイン-VEDグラフ生成中...
+ja;confinamiento_geometrico_tiempo.py;010;\n✅ 6つの完全なグラフ:
+ja;confinamiento_geometrico_tiempo.py;011;__main__
+ja;confinamiento_geometrico_tiempo.py;012;薄青色
+ja;confinamiento_geometrico_tiempo.py;013;赤色
+ja;confinamiento_geometrico_tiempo.py;014;基底状態 n=1\n時空 + 円形波
+ja;confinamiento_geometrico_tiempo.py;015;太字
+ja;confinamiento_geometrico_tiempo.py;016;密
+ja;confinamiento_geometrico_tiempo.py;017;白
+ja;confinamiento_geometrico_tiempo.py;018;赤色
+ja;confinamiento_geometrico_tiempo.py;019;励起状態 n=3\n時空多様体 + 3ノード
+ja;confinamiento_geometrico_tiempo.py;020;太字
+ja;confinamiento_geometrico_tiempo.py;021;密
+ja;confinamiento_geometrico_tiempo.py;022;白
+ja;confinamiento_geometrico_tiempo.py;023;薄青色
+ja;confinamiento_geometrico_tiempo.py;024;赤色
+ja;confinamiento_geometrico_tiempo.py;025;n=1: 基底状態
+ja;confinamiento_geometrico_tiempo.py;026;太字
+ja;confinamiento_geometrico_tiempo.py;027;赤色
+ja;confinamiento_geometrico_tiempo.py;028;n=3: 励起状態
+ja;confinamiento_geometrico_tiempo.py;029;太字
+ja;confinamiento_geometrico_tiempo.py;030;密
+ja;confinamiento_geometrico_tiempo.py;031;白
+ja;confinamiento_geometrico_tiempo.py;032;薄青色
+ja;confinamiento_geometrico_tiempo.py;033;赤色
+ja;confinamiento_geometrico_tiempo.py;034;緑色
+ja;confinamiento_geometrico_tiempo.py;035;緑色
+ja;confinamiento_geometrico_tiempo.py;036;緑色
+ja;confinamiento_geometrico_tiempo.py;037;太字
+ja;confinamiento_geometrico_tiempo.py;038;生成 n=1: dt → 表面\n円形曲線が円柱を生成
+ja;confinamiento_geometrico_tiempo.py;039;太字
+ja;confinamiento_geometrico_tiempo.py;040;密
+ja;confinamiento_geometrico_tiempo.py;041;白
+ja;confinamiento_geometrico_tiempo.py;042;赤色
+ja;confinamiento_geometrico_tiempo.py;043;緑色
+ja;confinamiento_geometrico_tiempo.py;044;緑色
+ja;confinamiento_geometrico_tiempo.py;045;緑色
+ja;confinamiento_geometrico_tiempo.py;046;太字
+ja;confinamiento_geometrico_tiempo.py;047;生成 n=3: dt → 多様体\nノード付き曲線が幾何学を生成
+ja;confinamiento_geometrico_tiempo.py;048;太字
+ja;confinamiento_geometrico_tiempo.py;049;密
+ja;confinamiento_geometrico_tiempo.py;050;白
+ja;confinamiento_geometrico_tiempo.py;051;赤色
+ja;confinamiento_geometrico_tiempo.py;052;暗赤色
+ja;confinamiento_geometrico_tiempo.py;053;δt={t}
+ja;confinamiento_geometrico_tiempo.py;054;中央
+ja;confinamiento_geometrico_tiempo.py;055;太字
+ja;confinamiento_geometrico_tiempo.py;056;青色
+ja;confinamiento_geometrico_tiempo.py;057;青色
+ja;confinamiento_geometrico_tiempo.py;058;時間的\n進化
+ja;confinamiento_geometrico_tiempo.py;059;青色
+ja;confinamiento_geometrico_tiempo.py;060;太字
+ja;confinamiento_geometrico_tiempo.py;061;完全進化: dt → δt → n状態\nアインシュタイン-VED量子閉じ込め
+ja;confinamiento_geometrico_tiempo.py;062;太字
+ja;confinamiento_geometrico_tiempo.py;063;密
+ja;confinamiento_geometrico_tiempo.py;064;白
+
+fr;entrelazamiento_geometrico.py;001;"
+    Version finale corrigée:
+    - Cadres "
+fr;entrelazamiento_geometrico.py;002; et 
+fr;entrelazamiento_geometrico.py;003;" au même niveau
+    - Conception plus large pour accommoder les deux cadres
+    - Respect de la décoration actuelle
+    "
+fr;entrelazamiento_geometrico.py;004;SYMBOLOGIE:\n\n
+fr;entrelazamiento_geometrico.py;005;🔴 Particule A (45°)\n
+fr;entrelazamiento_geometrico.py;006;🟢 Particule B (225°)\n
+fr;entrelazamiento_geometrico.py;007;⚫ Observateur\n
+fr;entrelazamiento_geometrico.py;008;▬▬ Connexion géométrique\n
+fr;entrelazamiento_geometrico.py;009;▬▬ Lignes de vision
+fr;entrelazamiento_geometrico.py;010;rond,pad=0.6
+fr;entrelazamiento_geometrico.py;011;blanc
+fr;entrelazamiento_geometrico.py;012;FRONT D'ONDE
+fr;entrelazamiento_geometrico.py;013;CLÉ EINSTEIN-VED:\n\n
+fr;entrelazamiento_geometrico.py;014;Les deux particules (y compris les antipodales)\npartagent le même espace-temps propre t₀, s₀\n\n
+fr;entrelazamiento_geometrico.py;015;Car: dt' → 0 et ds' → 0 à vitesse c\n\n
+fr;entrelazamiento_geometrico.py;016;t = t₀ + dt' → t₀\n
+fr;entrelazamiento_geometrico.py;017;s = s₀ + ds' → s₀\n\n
+fr;entrelazamiento_geometrico.py;018;Pas d'action à distance
+fr;entrelazamiento_geometrico.py;019;rond,pad=0.8
+fr;entrelazamiento_geometrico.py;020;#fffacd
+fr;entrelazamiento_geometrico.py;021;FONDEMENT EINSTEIN-VED:\n\n
+fr;entrelazamiento_geometrico.py;022;Les particules intriquées partagent un espace-temps propre commun depuis leur origine. 
+fr;entrelazamiento_geometrico.py;023;Lorsqu'elles voyagent à vitesse c, leurs différentiels de temps et d'espace propres tendent vers zéro 
+fr;entrelazamiento_geometrico.py;024;(dt' → 0, ds' → 0), les maintenant connectées au même instant t₀ et position s₀. 
+fr;entrelazamiento_geometrico.py;025;Cette simultanéité géométrique explique les corrélations quantiques sans violer la relativité.
+fr;entrelazamiento_geometrico.py;026;rond,pad=0.8
+fr;entrelazamiento_geometrico.py;027;#ffebee
+fr;entrelazamiento_geometrico.py;028;ÉQUATIONS FONDAMENTALES:\n\n
+fr;entrelazamiento_geometrico.py;029;Pour particules à vitesse c:\n
+fr;entrelazamiento_geometrico.py;030;• dt' → 0, ds' → 0\n
+fr;entrelazamiento_geometrico.py;031;• t = t₀ + dt' → t₀\n
+fr;entrelazamiento_geometrico.py;032;• s = s₀ + ds' → s₀\n\n
+fr;entrelazamiento_geometrico.py;033;Équation de champ:\n
+fr;entrelazamiento_geometrico.py;034;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+fr;entrelazamiento_geometrico.py;035;Simultanéité absolue dans le référentiel propre
+fr;entrelazamiento_geometrico.py;036;rond,pad=0.8
+fr;entrelazamiento_geometrico.py;037;#f0f8ff
+fr;entrelazamiento_geometrico.py;038;INTERPRÉTATION EINSTEIN-VED: L'intrication quantique cesse d'être paradoxale lorsqu'elle est comprise 
+fr;entrelazamiento_geometrico.py;039;depuis la géométrie de l'espace-temps. Les particules générées dans le même événement partagent un front 
+fr;entrelazamiento_geometrico.py;040;d'onde où leur temps propre reste gelé en t₀. Cette simultanéité intrinsèque explique 
+fr;entrelazamiento_geometrico.py;041;les corrélations parfaites sans 'action fantôme'. La probabilité quantique reflète la perspective 
+fr;entrelazamiento_geometrico.py;042;limitée de l'observateur, pas une propriété fondamentale.
+fr;entrelazamiento_geometrico.py;043;rond,pad=0.8
+fr;entrelazamiento_geometrico.py;044;#f5f5f5
+fr;entrelazamiento_geometrico.py;045;__main__
+fr;entrelazamiento_geometrico.py;046;🎯 CRÉATION DE LA VERSION FINALE AVEC CADRES AU MÊME NIVEAU...
+fr;entrelazamiento_geometrico.py;047;\n✨ CORRECTIONS APPLIQUÉES:
+fr;entrelazamiento_geometrico.py;048;   • Cadres 'Fondement Einstein' et 'Équations' au MÊME NIVEAU
+fr;entrelazamiento_geometrico.py;049;   • Figure plus LARGE (16x10) pour accommoder les deux
+fr;entrelazamiento_geometrico.py;050;   • Conception équilibrée et symétrique
+fr;entrelazamiento_geometrico.py;051;   • Décoration et couleurs RESPECTÉES
+fr;entrelazamiento_geometrico.py;052;   • ZERO chevauchements
+fr;entrelazamiento_geometrico.py;053;INTRICATION QUANTIQUE: Explication Géométrique Einstein-VED
+fr;entrelazamiento_geometrico.py;054;gras
+fr;entrelazamiento_geometrico.py;055;bleu
+fr;entrelazamiento_geometrico.py;056;k--
+fr;entrelazamiento_geometrico.py;057;égal
+fr;entrelazamiento_geometrico.py;058;Cadre Interne: Temps Propre Partagé
+fr;entrelazamiento_geometrico.py;059;gras
+fr;entrelazamiento_geometrico.py;060;bleu
+fr;entrelazamiento_geometrico.py;061;égal
+fr;entrelazamiento_geometrico.py;062;Cadre Externe: Perspective Conventionnelle
+fr;entrelazamiento_geometrico.py;063;gras
+fr;entrelazamiento_geometrico.py;064;gauche
+fr;entrelazamiento_geometrico.py;065;centre
+fr;entrelazamiento_geometrico.py;066;gras
+fr;entrelazamiento_geometrico.py;067;gris
+fr;entrelazamiento_geometrico.py;068; → 0 et ds
+fr;entrelazamiento_geometrico.py;069;" → t₀\n""
+        ""s = s₀ + ds"
+fr;entrelazamiento_geometrico.py;070;centre
+fr;entrelazamiento_geometrico.py;071;centre
+fr;entrelazamiento_geometrico.py;072;gras
+fr;entrelazamiento_geometrico.py;073;orange
+fr;entrelazamiento_geometrico.py;074; → 0, ds
+fr;entrelazamiento_geometrico.py;075;centre
+fr;entrelazamiento_geometrico.py;076;centre
+fr;entrelazamiento_geometrico.py;077;italique
+fr;entrelazamiento_geometrico.py;078;rouge
+fr;entrelazamiento_geometrico.py;079; → 0, ds
+fr;entrelazamiento_geometrico.py;080;" → t₀\n"" 
+        ""• s = s₀ + ds"
+fr;entrelazamiento_geometrico.py;081;centre
+fr;entrelazamiento_geometrico.py;082;centre
+fr;entrelazamiento_geometrico.py;083;gras
+fr;entrelazamiento_geometrico.py;084;bleu
+fr;entrelazamiento_geometrico.py;085;action fantôme
+fr;entrelazamiento_geometrico.py;086;centre
+fr;entrelazamiento_geometrico.py;087;centre
+fr;entrelazamiento_geometrico.py;088;noir
+fr;entrelazamiento_geometrico.py;089;svg
+fr;entrelazamiento_geometrico.py;090;serré
+fr;entrelazamiento_geometrico.py;091;blanc
+fr;entrelazamiento_geometrico.py;092;Fondement Einstein
+fr;entrelazamiento_geometrico.py;093;Équations
+
+sk;entrelazamiento_geometrico.py;001;"
+    Opravená finálna verzia:
+    - Rámce "
+sk;entrelazamiento_geometrico.py;002; a 
+sk;entrelazamiento_geometrico.py;003;" na rovnakej úrovni
+    - Širší dizajn pre umiestnenie oboch rámcov
+    - Rešpektovanie aktuálnej dekorácie
+    "
+sk;entrelazamiento_geometrico.py;004;SYMBOLIKA:\n\n
+sk;entrelazamiento_geometrico.py;005;🔴 Častica A (45°)\n
+sk;entrelazamiento_geometrico.py;006;🟢 Častica B (225°)\n
+sk;entrelazamiento_geometrico.py;007;⚫ Pozorovateľ\n
+sk;entrelazamiento_geometrico.py;008;▬▬ Geometrické prepojenie\n
+sk;entrelazamiento_geometrico.py;009;▬▬ Línie videnia
+sk;entrelazamiento_geometrico.py;010;okrúhly,pad=0.6
+sk;entrelazamiento_geometrico.py;011;biely
+sk;entrelazamiento_geometrico.py;012;VLNOVÉ ČELO
+sk;entrelazamiento_geometrico.py;013;KĽÚČ EINSTEIN-VED:\n\n
+sk;entrelazamiento_geometrico.py;014;Obe častice (vrátane antipodálnych)\nzdieľajú rovnaký vlastný časopriestor t₀, s₀\n\n
+sk;entrelazamiento_geometrico.py;015;Pretože: dt' → 0 a ds' → 0 pri rýchlosti c\n\n
+sk;entrelazamiento_geometrico.py;016;t = t₀ + dt' → t₀\n
+sk;entrelazamiento_geometrico.py;017;s = s₀ + ds' → s₀\n\n
+sk;entrelazamiento_geometrico.py;018;Žiadna akcia na diaľku
+sk;entrelazamiento_geometrico.py;019;okrúhly,pad=0.8
+sk;entrelazamiento_geometrico.py;020;#fffacd
+sk;entrelazamiento_geometrico.py;021;ZÁKLAD EINSTEIN-VED:\n\n
+sk;entrelazamiento_geometrico.py;022;Preplietené častice zdieľajú spoločný vlastný časopriestor od svojho vzniku. 
+sk;entrelazamiento_geometrico.py;023;Keď cestujú rýchlosťou c, ich diferenciály vlastného času a priestoru majú tendenciu k nule 
+sk;entrelazamiento_geometrico.py;024;(dt' → 0, ds' → 0), čím zostávajú spojené v rovnakom okamihu t₀ a polohe s₀. 
+sk;entrelazamiento_geometrico.py;025;Táto geometrická simultánnosť vysvetľuje kvantové korelácie bez porušenia relativity.
+sk;entrelazamiento_geometrico.py;026;okrúhly,pad=0.8
+sk;entrelazamiento_geometrico.py;027;#ffebee
+sk;entrelazamiento_geometrico.py;028;ZÁKLADNÉ ROVNICE:\n\n
+sk;entrelazamiento_geometrico.py;029;Pre častice pri rýchlosti c:\n
+sk;entrelazamiento_geometrico.py;030;• dt' → 0, ds' → 0\n
+sk;entrelazamiento_geometrico.py;031;• t = t₀ + dt' → t₀\n
+sk;entrelazamiento_geometrico.py;032;• s = s₀ + ds' → s₀\n\n
+sk;entrelazamiento_geometrico.py;033;Rovnica poľa:\n
+sk;entrelazamiento_geometrico.py;034;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+sk;entrelazamiento_geometrico.py;035;Absolútna simultánnosť vo vlastnej sústave
+sk;entrelazamiento_geometrico.py;036;okrúhly,pad=0.8
+sk;entrelazamiento_geometrico.py;037;#f0f8ff
+sk;entrelazamiento_geometrico.py;038;INTERPRETÁCIA EINSTEIN-VED: Kvantové prepletanie prestáva byť paradoxné, keď je pochopené 
+sk;entrelazamiento_geometrico.py;039;z geometrie časopriestoru. Častice generované v tej istej udalosti zdieľajú vlnové 
+sk;entrelazamiento_geometrico.py;040;čelo, kde ich vlastný čas zostáva zmrazený v t₀. Táto vnútorná simultánnosť vysvetľuje 
+sk;entrelazamiento_geometrico.py;041;perfektné korelácie bez 'fantomového pôsobenia'. Kvantová pravdepodobnosť odráža obmedzenú 
+sk;entrelazamiento_geometrico.py;042;perspektívu pozorovateľa, nie fundamentálnu vlastnosť.
+sk;entrelazamiento_geometrico.py;043;okrúhly,pad=0.8
+sk;entrelazamiento_geometrico.py;044;#f5f5f5
+sk;entrelazamiento_geometrico.py;045;__main__
+sk;entrelazamiento_geometrico.py;046;🎯 VYTVÁRANIE FINÁLNEJ VERZIE S RÁMCAMI NA ROVNAKEJ ÚROVNI...
+sk;entrelazamiento_geometrico.py;047;\n✨ APLIKOVANÉ OPRAVY:
+sk;entrelazamiento_geometrico.py;048;   • Rámce 'Základ Einstein' a 'Rovnice' na ROVNAKEJ ÚROVNI
+sk;entrelazamiento_geometrico.py;049;   • ŠIRŠÍ obrázok (16x10) pre umiestnenie oboch
+sk;entrelazamiento_geometrico.py;050;   • Vyvážený a symetrický dizajn
+sk;entrelazamiento_geometrico.py;051;   • Rešpektovaná dekorácia a farby
+sk;entrelazamiento_geometrico.py;052;   • ŽIADNE prekrytia
+sk;entrelazamiento_geometrico.py;053;KVANTOVÉ PREPLETANIE: Geometrické vysvetlenie Einstein-VED
+sk;entrelazamiento_geometrico.py;054;tučný
+sk;entrelazamiento_geometrico.py;055;modrý
+sk;entrelazamiento_geometrico.py;056;k--
+sk;entrelazamiento_geometrico.py;057;rovnaký
+sk;entrelazamiento_geometrico.py;058;Vnútorný rámec: Zdieľaný vlastný čas
+sk;entrelazamiento_geometrico.py;059;tučný
+sk;entrelazamiento_geometrico.py;060;modrý
+sk;entrelazamiento_geometrico.py;061;rovnaký
+sk;entrelazamiento_geometrico.py;062;Vonkajší rámec: Konvenčná perspektíva
+sk;entrelazamiento_geometrico.py;063;tučný
+sk;entrelazamiento_geometrico.py;064;vľavo
+sk;entrelazamiento_geometrico.py;065;stred
+sk;entrelazamiento_geometrico.py;066;tučný
+sk;entrelazamiento_geometrico.py;067;šedý
+sk;entrelazamiento_geometrico.py;068; → 0 a ds
+sk;entrelazamiento_geometrico.py;069;" → t₀\n""
+        ""s = s₀ + ds"
+sk;entrelazamiento_geometrico.py;070;stred
+sk;entrelazamiento_geometrico.py;071;stred
+sk;entrelazamiento_geometrico.py;072;tučný
+sk;entrelazamiento_geometrico.py;073;oranžový
+sk;entrelazamiento_geometrico.py;074; → 0, ds
+sk;entrelazamiento_geometrico.py;075;stred
+sk;entrelazamiento_geometrico.py;076;stred
+sk;entrelazamiento_geometrico.py;077;kurzíva
+sk;entrelazamiento_geometrico.py;078;červený
+sk;entrelazamiento_geometrico.py;079; → 0, ds
+sk;entrelazamiento_geometrico.py;080;" → t₀\n"" 
+        ""• s = s₀ + ds"
+sk;entrelazamiento_geometrico.py;081;stred
+sk;entrelazamiento_geometrico.py;082;stred
+sk;entrelazamiento_geometrico.py;083;tučný
+sk;entrelazamiento_geometrico.py;084;modrý
+sk;entrelazamiento_geometrico.py;085;fantomové pôsobenie
+sk;entrelazamiento_geometrico.py;086;stred
+sk;entrelazamiento_geometrico.py;087;stred
+sk;entrelazamiento_geometrico.py;088;čierny
+sk;entrelazamiento_geometrico.py;089;svg
+sk;entrelazamiento_geometrico.py;090;tesný
+sk;entrelazamiento_geometrico.py;091;biely
+sk;entrelazamiento_geometrico.py;092;Základ Einstein
+sk;entrelazamiento_geometrico.py;093;Rovnice
+
+ar;entrelazamiento_geometrico.py;001;"
+    الإصدار النهائي المصحح:
+    - الإطارات "
+ar;entrelazamiento_geometrico.py;002; و 
+ar;entrelazamiento_geometrico.py;003;" على نفس المستوى
+    - تصميم أوسع لاستيعاب كلا الإطارين
+    - احترام الزخرفة الحالية
+    "
+ar;entrelazamiento_geometrico.py;004;الرموز:\n\n
+ar;entrelazamiento_geometrico.py;005;🔴 الجسيم A (45°)\n
+ar;entrelazamiento_geometrico.py;006;🟢 الجسيم B (225°)\n
+ar;entrelazamiento_geometrico.py;007;⚫ المراقب\n
+ar;entrelazamiento_geometrico.py;008;▬▬ اتصال هندسي\n
+ar;entrelazamiento_geometrico.py;009;▬▬ خطوط الرؤية
+ar;entrelazamiento_geometrico.py;010;مدور,pad=0.6
+ar;entrelazamiento_geometrico.py;011;أبيض
+ar;entrelazamiento_geometrico.py;012;جبهة الموجة
+ar;entrelazamiento_geometrico.py;013;مفتاح أينشتاين-فيد:\n\n
+ar;entrelazamiento_geometrico.py;014;كلا الجسيمين (بما في ذلك المتقابلة)\nيتشاركان نفس الزمكان الخاص t₀, s₀\n\n
+ar;entrelazamiento_geometrico.py;015;لأن: dt' → 0 و ds' → 0 عند السرعة c\n\n
+ar;entrelazamiento_geometrico.py;016;t = t₀ + dt' → t₀\n
+ar;entrelazamiento_geometrico.py;017;s = s₀ + ds' → s₀\n\n
+ar;entrelazamiento_geometrico.py;018;لا يوجد فعل عن بعد
+ar;entrelazamiento_geometrico.py;019;مدور,pad=0.8
+ar;entrelazamiento_geometrico.py;020;#fffacd
+ar;entrelazamiento_geometrico.py;021;أساس أينشتاين-فيد:\n\n
+ar;entrelazamiento_geometrico.py;022;الجسيمات المتشابكة تتشارك زمكانًا خاصًا مشتركًا من منشأها. 
+ar;entrelazamiento_geometrico.py;023;عندما تنتقل بسرعة c، فإن تفاضلات الزمكان الخاصة بها تميل إلى الصفر 
+ar;entrelazamiento_geometrico.py;024;(dt' → 0, ds' → 0)، مما يبقيها متصلة في نفس اللحظة t₀ والموقع s₀. 
+ar;entrelazamiento_geometrico.py;025;هذا التزامن الهندسي يفسر الارتباطات الكمومية دون انتهاك النسبية.
+ar;entrelazamiento_geometrico.py;026;مدور,pad=0.8
+ar;entrelazamiento_geometrico.py;027;#ffebee
+ar;entrelazamiento_geometrico.py;028;المعادلات الأساسية:\n\n
+ar;entrelazamiento_geometrico.py;029;للجسيمات عند السرعة c:\n
+ar;entrelazamiento_geometrico.py;030;• dt' → 0, ds' → 0\n
+ar;entrelazamiento_geometrico.py;031;• t = t₀ + dt' → t₀\n
+ar;entrelazamiento_geometrico.py;032;• s = s₀ + ds' → s₀\n\n
+ar;entrelazamiento_geometrico.py;033;معادلة المجال:\n
+ar;entrelazamiento_geometrico.py;034;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+ar;entrelazamiento_geometrico.py;035;تزامن مطلق في الإطار الخاص
+ar;entrelazamiento_geometrico.py;036;مدور,pad=0.8
+ar;entrelazamiento_geometrico.py;037;#f0f8ff
+ar;entrelazamiento_geometrico.py;038;تفسير أينشتاين-فيد: التشابك الكمومي يتوقف عن كونه مفارقة عندما يُفهم 
+ar;entrelazamiento_geometrico.py;039;من هندسة الزمكان. الجسيمات المتولدة في نفس الحدث تتشارك جبهة 
+ar;entrelazamiento_geometrico.py;040;موجة حيث يظل وقتها الخاص مجمدًا عند t₀. هذا التزامن الجوهري يفسر 
+ar;entrelazamiento_geometrico.py;041;الارتباطات المثالية دون 'فعل شبحي'. الاحتمال الكمومي يعكس منظور 
+ar;entrelazamiento_geometrico.py;042;المراقب المحدود، وليس خاصية أساسية.
+ar;entrelazamiento_geometrico.py;043;مدور,pad=0.8
+ar;entrelazamiento_geometrico.py;044;#f5f5f5
+ar;entrelazamiento_geometrico.py;045;__main__
+ar;entrelazamiento_geometrico.py;046;🎯 إنشاء الإصدار النهائي مع إطارات على نفس المستوى...
+ar;entrelazamiento_geometrico.py;047;\n✨ التصحيحات المطبقة:
+ar;entrelazamiento_geometrico.py;048;   • إطارات 'أساس أينشتاين' و'المعادلات' على نفس المستوى
+ar;entrelazamiento_geometrico.py;049;   • شكل أوسع (16x10) لاستيعاب كليهما
+ar;entrelazamiento_geometrico.py;050;   • تصميم متوازن ومتماثل
+ar;entrelazamiento_geometrico.py;051;   • الزخرفة والألوان محترمة
+ar;entrelazamiento_geometrico.py;052;   • لا تتداخلات
+ar;entrelazamiento_geometrico.py;053;التشابك الكمومي: التفسير الهندسي لأينشتاين-فيد
+ar;entrelazamiento_geometrico.py;054;عريض
+ar;entrelazamiento_geometrico.py;055;أزرق
+ar;entrelazamiento_geometrico.py;056;k--
+ar;entrelazamiento_geometrico.py;057;متساوي
+ar;entrelazamiento_geometrico.py;058;الإطار الداخلي: الوقت الخاص المشترك
+ar;entrelazamiento_geometrico.py;059;عريض
+ar;entrelazamiento_geometrico.py;060;أزرق
+ar;entrelazamiento_geometrico.py;061;متساوي
+ar;entrelazamiento_geometrico.py;062;الإطار الخارجي: المنظور التقليدي
+ar;entrelazamiento_geometrico.py;063;عريض
+ar;entrelazamiento_geometrico.py;064;يسار
+ar;entrelazamiento_geometrico.py;065;مركز
+ar;entrelazamiento_geometrico.py;066;عريض
+ar;entrelazamiento_geometrico.py;067;رمادي
+ar;entrelazamiento_geometrico.py;068; → 0 و ds
+ar;entrelazamiento_geometrico.py;069;" → t₀\n""
+        ""s = s₀ + ds"
+ar;entrelazamiento_geometrico.py;070;مركز
+ar;entrelazamiento_geometrico.py;071;مركز
+ar;entrelazamiento_geometrico.py;072;عريض
+ar;entrelazamiento_geometrico.py;073;برتقالي
+ar;entrelazamiento_geometrico.py;074; → 0, ds
+ar;entrelazamiento_geometrico.py;075;مركز
+ar;entrelazamiento_geometrico.py;076;مركز
+ar;entrelazamiento_geometrico.py;077;مائل
+ar;entrelazamiento_geometrico.py;078;أحمر
+ar;entrelazamiento_geometrico.py;079; → 0, ds
+ar;entrelazamiento_geometrico.py;080;" → t₀\n"" 
+        ""• s = s₀ + ds"
+ar;entrelazamiento_geometrico.py;081;مركز
+ar;entrelazamiento_geometrico.py;082;مركز
+ar;entrelazamiento_geometrico.py;083;عريض
+ar;entrelazamiento_geometrico.py;084;أزرق
+ar;entrelazamiento_geometrico.py;085;فعل شبح
+ar;entrelazamiento_geometrico.py;086;مركز
+ar;entrelazamiento_geometrico.py;087;مركز
+ar;entrelazamiento_geometrico.py;088;أسود
+ar;entrelazamiento_geometrico.py;089;svg
+ar;entrelazamiento_geometrico.py;090;مضغوط
+ar;entrelazamiento_geometrico.py;091;أبيض
+ar;entrelazamiento_geometrico.py;092;أساس أينشتاين
+ar;entrelazamiento_geometrico.py;093;المعادلات
+
+zh;entrelazamiento_geometrico.py;001;"
+    最终修正版本:
+    - 框架 "
+zh;entrelazamiento_geometrico.py;002; 和 
+zh;entrelazamiento_geometrico.py;003;" 在同一水平
+    - 更宽的设计以容纳两个框架
+    - 尊重当前装饰
+    "
+zh;entrelazamiento_geometrico.py;004;符号说明:\n\n
+zh;entrelazamiento_geometrico.py;005;🔴 粒子 A (45°)\n
+zh;entrelazamiento_geometrico.py;006;🟢 粒子 B (225°)\n
+zh;entrelazamiento_geometrico.py;007;⚫ 观察者\n
+zh;entrelazamiento_geometrico.py;008;▬▬ 几何连接\n
+zh;entrelazamiento_geometrico.py;009;▬▬ 视线
+zh;entrelazamiento_geometrico.py;010;圆形,pad=0.6
+zh;entrelazamiento_geometrico.py;011;白色
+zh;entrelazamiento_geometrico.py;012;波前
+zh;entrelazamiento_geometrico.py;013;爱因斯坦-VED关键:\n\n
+zh;entrelazamiento_geometrico.py;014;两个粒子(包括对映点)\n共享相同的固有时空 t₀, s₀\n\n
+zh;entrelazamiento_geometrico.py;015;因为: dt' → 0 和 ds' → 0 在光速 c\n\n
+zh;entrelazamiento_geometrico.py;016;t = t₀ + dt' → t₀\n
+zh;entrelazamiento_geometrico.py;017;s = s₀ + ds' → s₀\n\n
+zh;entrelazamiento_geometrico.py;018;无超距作用
+zh;entrelazamiento_geometrico.py;019;圆形,pad=0.8
+zh;entrelazamiento_geometrico.py;020;#fffacd
+zh;entrelazamiento_geometrico.py;021;爱因斯坦-VED基础:\n\n
+zh;entrelazamiento_geometrico.py;022;纠缠粒子从其起源共享共同的固有时空。 
+zh;entrelazamiento_geometrico.py;023;当以光速c传播时，它们的固有时空微分趋于零 
+zh;entrelazamiento_geometrico.py;024;(dt' → 0, ds' → 0)，使它们保持连接在相同的时刻t₀和位置s₀。 
+zh;entrelazamiento_geometrico.py;025;这种几何同时性解释了量子关联而不违反相对论。
+zh;entrelazamiento_geometrico.py;026;圆形,pad=0.8
+zh;entrelazamiento_geometrico.py;027;#ffebee
+zh;entrelazamiento_geometrico.py;028;基本方程:\n\n
+zh;entrelazamiento_geometrico.py;029;对于以光速c的粒子:\n
+zh;entrelazamiento_geometrico.py;030;• dt' → 0, ds' → 0\n
+zh;entrelazamiento_geometrico.py;031;• t = t₀ + dt' → t₀\n
+zh;entrelazamiento_geometrico.py;032;• s = s₀ + ds' → s₀\n\n
+zh;entrelazamiento_geometrico.py;033;场方程:\n
+zh;entrelazamiento_geometrico.py;034;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+zh;entrelazamiento_geometrico.py;035;在固有系中的绝对同时性
+zh;entrelazamiento_geometrico.py;036;圆形,pad=0.8
+zh;entrelazamiento_geometrico.py;037;#f0f8ff
+zh;entrelazamiento_geometrico.py;038;爱因斯坦-VED解释: 当从时空几何理解时，量子纠缠不再矛盾。 
+zh;entrelazamiento_geometrico.py;039;在同一事件中生成的粒子共享一个波前，其中它们的固有时间保持冻结在t₀。 
+zh;entrelazamiento_geometrico.py;040;这种内在同时性解释了完美关联而无'幽灵作用'。 
+zh;entrelazamiento_geometrico.py;041;量子概率反映了观察者的有限视角，而不是基本属性。
+zh;entrelazamiento_geometrico.py;042;量子概率反映了观察者的有限视角，而不是基本属性。
+zh;entrelazamiento_geometrico.py;043;圆形,pad=0.8
+zh;entrelazamiento_geometrico.py;044;#f5f5f5
+zh;entrelazamiento_geometrico.py;045;__main__
+zh;entrelazamiento_geometrico.py;046;🎯 创建具有相同水平框架的最终版本...
+zh;entrelazamiento_geometrico.py;047;\n✨ 应用的修正:
+zh;entrelazamiento_geometrico.py;048;   • '爱因斯坦基础'和'方程'框架在同一水平
+zh;entrelazamiento_geometrico.py;049;   • 更宽的图形(16x10)以容纳两者
+zh;entrelazamiento_geometrico.py;050;   • 平衡对称的设计
+zh;entrelazamiento_geometrico.py;051;   • 装饰和颜色得到尊重
+zh;entrelazamiento_geometrico.py;052;   • 零重叠
+zh;entrelazamiento_geometrico.py;053;量子纠缠: 爱因斯坦-VED几何解释
+zh;entrelazamiento_geometrico.py;054;粗体
+zh;entrelazamiento_geometrico.py;055;蓝色
+zh;entrelazamiento_geometrico.py;056;k--
+zh;entrelazamiento_geometrico.py;057;等于
+zh;entrelazamiento_geometrico.py;058;内部框架: 共享固有时间
+zh;entrelazamiento_geometrico.py;059;粗体
+zh;entrelazamiento_geometrico.py;060;蓝色
+zh;entrelazamiento_geometrico.py;061;等于
+zh;entrelazamiento_geometrico.py;062;外部框架: 常规视角
+zh;entrelazamiento_geometrico.py;063;粗体
+zh;entrelazamiento_geometrico.py;064;左
+zh;entrelazamiento_geometrico.py;065;居中
+zh;entrelazamiento_geometrico.py;066;粗体
+zh;entrelazamiento_geometrico.py;067;灰色
+zh;entrelazamiento_geometrico.py;068; → 0 和 ds
+zh;entrelazamiento_geometrico.py;069;" → t₀\n""
+        ""s = s₀ + ds"
+zh;entrelazamiento_geometrico.py;070;居中
+zh;entrelazamiento_geometrico.py;071;居中
+zh;entrelazamiento_geometrico.py;072;粗体
+zh;entrelazamiento_geometrico.py;073;橙色
+zh;entrelazamiento_geometrico.py;074; → 0, ds
+zh;entrelazamiento_geometrico.py;075;居中
+zh;entrelazamiento_geometrico.py;076;居中
+zh;entrelazamiento_geometrico.py;077;斜体
+zh;entrelazamiento_geometrico.py;078;红色
+zh;entrelazamiento_geometrico.py;079; → 0, ds
+zh;entrelazamiento_geometrico.py;080;" → t₀\n"" 
+        ""• s = s₀ + ds"
+zh;entrelazamiento_geometrico.py;081;居中
+zh;entrelazamiento_geometrico.py;082;居中
+zh;entrelazamiento_geometrico.py;083;粗体
+zh;entrelazamiento_geometrico.py;084;蓝色
+zh;entrelazamiento_geometrico.py;085;幽灵作用
+zh;entrelazamiento_geometrico.py;086;居中
+zh;entrelazamiento_geometrico.py;087;居中
+zh;entrelazamiento_geometrico.py;088;黑色
+zh;entrelazamiento_geometrico.py;089;svg
+zh;entrelazamiento_geometrico.py;090;紧凑
+zh;entrelazamiento_geometrico.py;091;白色
+zh;entrelazamiento_geometrico.py;092;爱因斯坦基础
+zh;entrelazamiento_geometrico.py;093;方程
+
+ja;entrelazamiento_geometrico.py;001;"
+    修正された最終版:
+    - フレーム "
+ja;entrelazamiento_geometrico.py;002; と 
+ja;entrelazamiento_geometrico.py;003;" を同じレベルに
+    - 両方のフレームを収容するより広いデザイン
+    - 現在の装飾を尊重
+    "
+ja;entrelazamiento_geometrico.py;004;シンボル説明:\n\n
+ja;entrelazamiento_geometrico.py;005;🔴 粒子 A (45°)\n
+ja;entrelaz

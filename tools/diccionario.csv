@@ -1,0 +1,437 @@
+idioma,archivo,id,texto
+es,0-busca-regenera.py,1,dic
+es,0-busca-regenera.py,2,global.csv
+es,0-busca-regenera.py,3,es-*.dic
+es,0-busca-regenera.py,4,es-
+es,0-busca-regenera.py,5,.dic
+es,0-busca-regenera.py,6,utf-8
+es,0-busca-regenera.py,7,*-*.dic
+es,0-busca-regenera.py,8,es-
+es,0-busca-regenera.py,9,utf-8
+es,0-busca-regenera.py,10,.py
+es,0-busca-regenera.py,11,{idioma}-{archivo_sinpy}.dic
+es,0-busca-regenera.py,12,utf-8
+es,0-busca-regenera.py,13,idioma
+es,0-busca-regenera.py,14,archivo
+es,0-busca-regenera.py,15,texto
+es,0-busca-regenera.py,16,❌ No se encuentra {GLOBAL_CSV}
+es,0-busca-regenera.py,17,utf-8
+es,0-busca-regenera.py,18,\rProcesando línea: {cuenta_lineas}
+es,0-busca-regenera.py,19,\n\n===== Guardando diccionarios actualizados =====
+es,0-busca-regenera.py,20,\n===== Estadísticas finales =====
+es,0-busca-regenera.py,21,Idioma: {idioma}
+es,0-busca-regenera.py,22,Correcto
+es,0-busca-regenera.py,23,"Incompleto, faltan {total_es - total_idioma} líneas"
+es,0-busca-regenera.py,24,Diccionario {idioma}-{archivo}: {total_idioma}/{total_es} líneas → {estado}
+es,0-busca-regenera.py,25,Procesado completado para idiomas:
+es,0-busca-regenera.py,26,__main__
+es,1-init-dic.py,1,todas
+es,1-init-dic.py,2,todo
+es,1-init-dic.py,3,todas
+es,1-init-dic.py,4,todo
+es,1-init-dic.py,5,tmp
+es,1-init-dic.py,6,..\\log
+es,1-init-dic.py,7,"Procesa un CSV de traducciones, validando con el diccionario español.
+    Retorna las líneas válidas para reincorporar al diccionario de cada idioma."
+es,1-init-dic.py,8,Renombra un CSV procesado para evitar reprocesarlo.
+es,1-init-dic.py,9,_procesado
+es,1-init-dic.py,10,Ejecuta la actualización de diccionarios desde CSV.
+es,1-init-dic.py,11,todas
+es,1-init-dic.py,12,todo
+es,1-init-dic.py,13,*.csv
+es,1-init-dic.py,14,__main__
+es,1-init-dic.py,15,todas
+es,1-init-dic.py,16,todo
+es,1-init-dic.py,17,todas
+es,1-init-dic.py,18,todo
+es,1-init-dic.py,19,tmp
+es,1-init-dic.py,20,..\\log
+es,1-init-dic.py,21,"Procesa un CSV de traducciones, validando con el diccionario español.
+    Retorna las líneas válidas para reincorporar al diccionario de cada idioma."
+es,1-init-dic.py,22,Renombra un CSV procesado para evitar reprocesarlo.
+es,1-init-dic.py,23,_procesado
+es,1-init-dic.py,24,Ejecuta la actualización de diccionarios desde CSV.
+es,1-init-dic.py,25,todas
+es,1-init-dic.py,26,todo
+es,1-init-dic.py,27,*.csv
+es,1-init-dic.py,28,__main__
+es,1-init-dic.py,29,utf-8
+es,1-init-dic.py,30,utf-8
+es,md_to_pdf.py,1,MD2HTML_MATHPLC_{}
+es,md_to_pdf.py,2,"Extrae $...$, $$...$$ y \[...\] como placeholders."
+es,md_to_pdf.py,3,display
+es,md_to_pdf.py,4,\$\$\s*([\s\S]+?)\s*\$\$
+es,md_to_pdf.py,5,display
+es,md_to_pdf.py,6,\\\[\s*([\s\S]+?)\s*\\\]
+es,md_to_pdf.py,7,inline
+es,md_to_pdf.py,8,(?<!\$)\$(?!\$)([^$\n]+?)(?<!\$)\$(?!\$)
+es,md_to_pdf.py,9,Reemplaza los placeholders por delimitadores MathJax.
+es,md_to_pdf.py,10,</script>
+es,md_to_pdf.py,11,<\\/script>
+es,md_to_pdf.py,12,\\({code_safe}\\)
+es,md_to_pdf.py,13,inline
+es,md_to_pdf.py,14,\\[{code_safe}\\]
+es,md_to_pdf.py,15,MD2HTML_MATHPLC_(\d+)
+es,md_to_pdf.py,16,Determina el MIME type correcto para la imagen.
+es,md_to_pdf.py,17,Convierte imágenes locales en data URIs con manejo especial para SVG.
+es,md_to_pdf.py,18,http
+es,md_to_pdf.py,19,data:
+es,md_to_pdf.py,20,Imagen no encontrada: {src}
+es,md_to_pdf.py,21,background:#ffebee; padding:10px; border:1px solid red;
+es,md_to_pdf.py,22,auto
+es,md_to_pdf.py,23,"data:image/svg+xml;base64,{svg_encoded}"
+es,md_to_pdf.py,24,max-width:100%; height:auto;
+es,md_to_pdf.py,25,"data:{mime_type};base64,{data}"
+es,md_to_pdf.py,26,max-width:100%; height:auto;
+es,md_to_pdf.py,27,Error procesando imagen {src}: {e}
+es,md_to_pdf.py,28,background:#ffebee; padding:10px; border:1px solid red;
+es,md_to_pdf.py,29,"[^>]*>', repl, html, flags=re.IGNORECASE)
+
+HTML_TEMPLATE ="
+es,md_to_pdf.py,30,utf-8
+es,md_to_pdf.py,31,data:image
+es,md_to_pdf.py,32,svg
+es,md_to_pdf.py,33,svg
+es,md_to_pdf.py,34,https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js
+es,md_to_pdf.py,35,container
+es,md_to_pdf.py,36,"def md_to_pdf(md_path: Path):
+    out_pdf = md_path.with_suffix("
+es,md_to_pdf.py,37,")
+    md_text = md_path.read_text(encoding="
+es,md_to_pdf.py,38,")
+
+    no_math = extract_math(md_text)
+
+    md = markdown.Markdown(extensions=["
+es,md_to_pdf.py,39,"])
+    html_body = md.convert(no_math)
+
+    html_body = restore_math(html_body)
+    html_body = embed_images(html_body, md_path.parent)
+
+    full_html = HTML_TEMPLATE.format(body=html_body)
+
+    with tempfile.NamedTemporaryFile("
+es,md_to_pdf.py,40,", encoding="
+es,md_to_pdf.py,41,", suffix="
+es,md_to_pdf.py,42,", delete=False) as f:
+        tmp_html_path = Path(f.name)
+        f.write(full_html)
+
+    with sync_playwright() as p:
+        browser = p.chromium.launch()
+        page = browser.new_page()
+        
+        # Viewport para A4
+        page.set_viewport_size({"
+es,md_to_pdf.py,43,": 1123})
+        
+        # SOLUCIÓN AL TIMEOUT: usar wait_for_timeout en lugar de wait_for_load_state
+        page.goto(tmp_html_path.as_uri())
+        page.wait_for_timeout(5000)  # 5 segundos para cargar todo
+        
+        try:
+            page.evaluate("
+es,md_to_pdf.py,44,")
+            page.wait_for_timeout(2000)
+        except Exception:
+            pass
+        
+        # Generar PDF
+        page.pdf(
+            path=str(out_pdf), 
+            format="
+es,md_to_pdf.py,45,", 
+            print_background=True,
+            margin={"
+es,md_to_pdf.py,46,"},
+            prefer_css_page_size=True
+        )
+        browser.close()
+
+    try:
+        tmp_html_path.unlink()
+    except Exception:
+        pass
+
+    print(f"
+es,md_to_pdf.py,47,")
+
+def main():
+    if len(sys.argv) < 2:
+        print("
+es,md_to_pdf.py,48,")
+        sys.exit(1)
+    md_file = Path(sys.argv[1])
+    if not md_file.exists():
+        print(f"
+es,md_to_pdf.py,49,")
+        sys.exit(1)
+    md_to_pdf(md_file)
+
+if __name__ =="
+es,md_to_pdf.py,50,.png
+es,md_to_pdf.py,51,image/png
+es,md_to_pdf.py,52,.jpg
+es,md_to_pdf.py,53,image/jpeg
+es,md_to_pdf.py,54,.jpeg
+es,md_to_pdf.py,55,image/jpeg
+es,md_to_pdf.py,56,.gif
+es,md_to_pdf.py,57,image/gif
+es,md_to_pdf.py,58,.webp
+es,md_to_pdf.py,59,image/webp
+es,md_to_pdf.py,60,.svg
+es,md_to_pdf.py,61,image/svg+xml
+es,md_to_pdf.py,62,.mng
+es,md_to_pdf.py,63,video/mng
+es,md_to_pdf.py,64,application/octet-stream
+es,md_to_pdf.py,65,"<div style=""background:#ffebee; padding:10px; border:1px solid red;""> Imagen no encontrada: {src}</div>"
+es,md_to_pdf.py,66,.svg
+es,md_to_pdf.py,67,utf-8
+es,md_to_pdf.py,68,width=
+es,md_to_pdf.py,69,viewBox=
+es,md_to_pdf.py,70,<svg
+es,md_to_pdf.py,71,"<svg width=""100%"" height=""auto"""
+es,md_to_pdf.py,72,utf-8
+es,md_to_pdf.py,73,ascii
+es,md_to_pdf.py,74,"<img src=""data:image/svg+xml;base64,{svg_encoded}"" style=""max-width:100%; height:auto;"">"
+es,md_to_pdf.py,75,ascii
+es,md_to_pdf.py,76,"<img src=""data:{mime_type};base64,{data}"" style=""max-width:100%; height:auto;"">"
+es,md_to_pdf.py,77,"<div style=""background:#ffebee; padding:10px; border:1px solid red;""> Error cargando imagen: {src}</div>"
+es,md_to_pdf.py,78,"<img[^>]*src=""([^""]+)""[^>]*>"
+es,md_to_pdf.py,79,global
+es,1-init-dic.py,31,label
+es,1-init-dic.py,32,text
+es,1-init-dic.py,33,input
+es,1-init-dic.py,34,output
+es,1-init-dic.py,35,data
+es,1-init-dic.py,36,plot
+es,1-init-dic.py,37,chart
+es,1-init-dic.py,38,graph
+es,1-init-dic.py,39,axis
+es,1-init-dic.py,40,title
+es,1-init-dic.py,41,legend
+es,1-init-dic.py,42,grid
+es,1-init-dic.py,43,color
+es,1-init-dic.py,44,size
+es,1-init-dic.py,45,width
+es,1-init-dic.py,46,height
+es,1-init-dic.py,47,margin
+es,1-init-dic.py,48,padding
+es,1-init-dic.py,49,border
+es,1-init-dic.py,50,background
+es,1-init-dic.py,51,font
+es,1-init-dic.py,52,style
+es,1-init-dic.py,53,class
+es,1-init-dic.py,54,function
+es,1-init-dic.py,55,method
+es,1-init-dic.py,56,variable
+es,1-init-dic.py,57,constant
+es,1-init-dic.py,58,parameter
+es,1-init-dic.py,59,return
+es,1-init-dic.py,60,import
+es,1-init-dic.py,61,export
+es,1-init-dic.py,62,module
+es,1-init-dic.py,63,package
+es,1-init-dic.py,64,library
+es,1-init-dic.py,65,framework
+es,1-init-dic.py,66,database
+es,1-init-dic.py,67,server
+es,1-init-dic.py,68,client
+es,1-init-dic.py,69,network
+es,1-init-dic.py,70,protocol
+es,1-init-dic.py,71,api
+es,1-init-dic.py,72,json
+es,1-init-dic.py,73,xml
+es,1-init-dic.py,74,html
+es,1-init-dic.py,75,css
+es,1-init-dic.py,76,javascript
+es,1-init-dic.py,77,python
+es,1-init-dic.py,78,java
+es,1-init-dic.py,79,c++
+es,1-init-dic.py,80,php
+es,1-init-dic.py,81,ruby
+es,1-init-dic.py,82,sql
+es,1-init-dic.py,83,nosql
+es,1-init-dic.py,84,mysql
+es,1-init-dic.py,85,postgresql
+es,1-init-dic.py,86,mongodb
+es,1-init-dic.py,87,redis
+es,1-init-dic.py,88,docker
+es,1-init-dic.py,89,kubernetes
+es,1-init-dic.py,90,aws
+es,1-init-dic.py,91,azure
+es,1-init-dic.py,92,gcp
+es,1-init-dic.py,93,🔹 Este script genera diccionarios en español a partir de archivos .py en ../src
+es,1-init-dic.py,94,Uso: python 1-init-dic.py [archivo.py|todos]
+es,1-init-dic.py,95,todos
+es,1-init-dic.py,96,*.py
+es,1-init-dic.py,97,❌ Archivo {archivo_path} no encontrado
+es,1-init-dic.py,98,❌ No se encontraron archivos a procesar
+es,1-init-dic.py,99,❌ No se encontraron textos en {archivo}
+es,1-init-dic.py,100,.py
+es,1-init-dic.py,101,es-{nombre_base}.dic
+es,1-init-dic.py,102,idioma;archivo;id;texto_traducido\n
+es,1-init-dic.py,103,es;{t['archivo']};{t['id']};{t['texto']}\n
+es,1-init-dic.py,104,✅ Diccionario generado: {archivo_dic}
+es,1-init-dic.py,105,📝 Total entradas: {len(textos)}
+es,1-init-dic.py,106,"):
+                    i = 0
+                    while i < len(linea):
+                        if linea[i] == comilla:
+                            start = i + 1
+                            i += 1
+                            while i < len(linea) and linea[i] != comilla:
+                                i += 1
+                            if i < len(linea):
+                                texto = linea[start:i].strip()
+                                if self._es_texto_valido(texto):
+                                    id_texto = f"
+es,1-init-dic.py,107,"textos.append({
+                                        'archivo': nombre_archivo,
+                                        'id': id_texto,
+                                        'texto': texto
+                                    })
+                                i += 1
+                        else:
+                            i += 1
+        except Exception as e:
+            print(f"
+es,1-init-dic.py,108,")
+        return textos
+
+    def _es_texto_valido(self, texto):
+        if not texto or len(texto) < 3:
+            return False
+        if texto.lower() in self.palabras_excluidas:
+            return False
+        if re.match(r'^#', texto):
+            return False
+        # Evitar extensiones de archivo
+        if any(ext in texto.lower() for ext in ("
+es,1-init-dic.py,109,")):
+            return False
+        # Evitar que sea solo números
+        if texto.replace("
+es,1-init-dic.py,110,).replace(
+es,1-init-dic.py,111,).replace(
+es,1-init-dic.py,112,").isdigit():
+            return False
+        # Evitar colores hex
+        if re.match(r'^#[0-9A-Fa-f]{3,8}$', texto):
+            return False
+        # Evitar cadenas demasiado técnicas o nombres de variables
+        if re.match(r'^[a-zA-Z0-9_]+$', texto):
+            return False
+        return True
+
+def main():
+    archivo = sys.argv[1] if len(sys.argv) > 1 else None
+    init_dic = InitDic(archivo)
+    init_dic.crear_diccionario()
+
+if __name__ =="
+es,1-init-dic.py,113,utf-8
+es,1-init-dic.py,114,archivo
+es,1-init-dic.py,115,texto
+es,1-init-dic.py,116,utf-8
+es,1-init-dic.py,117,"""):
+                    i = 0
+                    while i < len(linea):
+                        if linea[i] == comilla:
+                            start = i + 1
+                            i += 1
+                            while i < len(linea) and linea[i] != comilla:
+                                i += 1
+                            if i < len(linea):
+                                texto = linea[start:i].strip()
+                                if self._es_texto_valido(texto):
+                                    id_texto = f""{num_linea:04d}""
+                                    textos.append({"
+es,1-init-dic.py,118,": nombre_archivo,"
+es,1-init-dic.py,119,": id_texto,"
+es,1-init-dic.py,120,": texto
+                                    })
+                                i += 1
+                        else:
+                            i += 1
+        except Exception as e:
+            print(f""❌ Error extrayendo textos de {ruta_archivo}: {e}"")
+        return textos
+
+    def _es_texto_valido(self, texto):
+        if not texto or len(texto) < 3:
+            return False
+        if texto.lower() in self.palabras_excluidas:
+            return False
+        if re.match(r"
+es,1-init-dic.py,121,", texto):
+            return False
+        # Evitar extensiones de archivo
+        if any(ext in texto.lower() for ext in ("".png"","".jpg"","".jpeg"","".svg"","".gif"","".pdf"","".eps"")):
+            return False
+        # Evitar que sea solo números
+        if texto.replace(""."","""").replace("","","""").replace("" "","""").isdigit():
+            return False
+        # Evitar colores hex
+        if re.match(r"
+es,1-init-dic.py,122,", texto):
+            return False
+        # Evitar cadenas demasiado técnicas o nombres de variables
+        if re.match(r"
+es,confinamiento_aritmetico.py,1,figura_n_discreto_lambda_continua.png
+es,confinamiento_aritmetico.py,2,blue
+es,confinamiento_aritmetico.py,3,Modos enteros $n \in \mathbb{Z}^+$
+es,confinamiento_aritmetico.py,4,blue
+es,confinamiento_aritmetico.py,5,red
+es,confinamiento_aritmetico.py,6,$\lambda$ continua
+es,confinamiento_aritmetico.py,7,λ continua según masa
+es,confinamiento_aritmetico.py,8,red
+es,confinamiento_aritmetico.py,9,Número de ciclos enteros n
+es,confinamiento_aritmetico.py,10,Longitud de onda λ
+es,confinamiento_aritmetico.py,11,Confinamiento cuantizado: solo n enteros generan modos estables
+es,confinamiento_aritmetico.py,12,upper right
+es,imagenes.py,1,../src
+es,imagenes.py,2,../tmp
+es,imagenes.py,3,../img
+es,imagenes.py,4,Busca patrones de nombres de imágenes dentro del .py
+es,imagenes.py,5,utf-8
+es,imagenes.py,6,normal
+es,imagenes.py,7,normal
+es,imagenes.py,8,.py
+es,imagenes.py,9,todos
+es,imagenes.py,10,^[a-z]{2}_
+es,imagenes.py,11,normal
+es,imagenes.py,12,{idioma}_{img}
+es,imagenes.py,13,{idioma}✅
+es,imagenes.py,14,{idioma}_{img}
+es,imagenes.py,15,{i}✅
+es,imagenes.py,16,{row[0].ljust(ancho_izq)}| {row[1].ljust(ancho_med)}| {row[2]}
+es,imagenes.py,17,__main__
+es,imagenes.py,18,normal
+es,imagenes.py,19,todos
+es,imagenes.py,20,todo
+es,imagenes.py,21,todos
+es,imagenes.py,22,"\""]([a-zA-Z0-9_\-]+?\.(?:png|svg|jpg))["
+es,md_to_pdf.py,80,image/svg+xml
+es,md_to_pdf.py,81,.mng
+es,md_to_pdf.py,82,video/mng
+es,md_to_pdf.py,83,application/octet-stream
+es,md_to_pdf.py,84,"<img src=""{src}"" style=""width:100%;max-width:100%;height:auto;display:block;margin:1em auto;"" />"
+es,md_to_pdf.py,85,"<div style=""background:#ffebee;padding:10px;border:1px solid red;""> Imagen no encontrada: {src}</div>"
+es,md_to_pdf.py,86,width=
+es,md_to_pdf.py,87,"<svg width=""100%"""
+es,md_to_pdf.py,88,height=
+es,md_to_pdf.py,89,"<svg height=""auto"""
+es,md_to_pdf.py,90,"<svg viewBox=""0 0 100 100"""
+es,md_to_pdf.py,91,"<img src=""data:image/svg+xml;base64,{svg_encoded}"""
+es,md_to_pdf.py,92,"style=""width:100%;max-width:100%;height:auto;display:block;margin:1em auto;"" />"
+es,md_to_pdf.py,93,"<img src=""data:{mime_type};base64,{data}"""
+es,md_to_pdf.py,94,"style=""width:100%;max-width:100%;height:auto;display:block;margin:1em auto;"" />"
+es,md_to_pdf.py,95,"<div style=""background:#ffebee;padding:10px;border:1px solid red;""> Error cargando imagen: {src}</div>"
+es,md_to_pdf.py,96,"<img[^>]*src=""([^""]+)""[^>]*>"
+es,md_to_pdf.py,97,todos
+es,0-busca-regenera.py,27,__main__
+es,0-busca-regenera.py,28,\xff\xfe
+es,0-busca-regenera.py,29,\xfe\xff
+es,0-busca-regenera.py,30,.py

@@ -1,0 +1,39 @@
+
+ast;Constante_G.py;63;Radio del protón (llínea media)
+ast;Constante_G.py;66;Figura 1: Onde confinao VED del protón, n=2
+ast;Constante_G.py;79;Agujeru negru
+ast;Constante_G.py;81;Superficie 2D
+ast;Constante_G.py;86;Figura 2: Agujeru negru y superficie 2D holográfica
+ast;Constante_G.py;97;$\pm 3\sigma$
+ast;Constante_G.py;98;G esperimental
+ast;Constante_G.py;107;$n \in \mathbb{Z}^+$
+ast;Constante_G.py;108;G calculáu [m³/kg/s²]
+ast;Constante_G.py;109;Figura 3: Diana de G ±3σ
+ast;Constante_G.py;126;$\uparrow$
+ast;Constante_G.py;131;$\downarrow$
+ast;Constante_G.py;135;$n \in \mathbb{Z}^+$
+ast;Constante_G.py;136;G calculáu [m³/kg/s²]
+ast;Constante_G.py;137;Figura 4: Diana de G ±4σ (fleches)
+ast;Constante_G.py;149;G(n) asintótxicu (continuu)
+ast;Constante_G.py;152;G esperimental
+ast;Constante_G.py;157;$n \in \mathbb{Z}^+$
+ast;Constante_G.py;157;$\lim_{n \to \infty} G(n)=0$
+ast;Constante_G.py;159;round,pad=0.5
+ast;Constante_G.py;161;G(n) [m³/kg/s²]
+ast;Constante_G.py;162;Figura 5: Comportamiento asintótxicu de G(n) n → ∞ (log-log)
+ast;Constante_G.py;182;Conceptu
+ast;Constante_G.py;182;Valor [m³/kg·s²]
+ast;Constante_G.py;182;Orixe
+ast;Constante_G.py;183;G_MAX ± 3σ
+ast;Constante_G.py;183;Límite superior
+ast;Constante_G.py;184;G_2^EXP Esperimental
+ast;Constante_G.py;184;Valor mediu
+ast;Constante_G.py;185;G_MIN ∓ 3σ
+ast;Constante_G.py;185;Límite inferiu
+ast;Constante_G.py;186;G_1^VED (n=2) EXACTU
+ast;Constante_G.py;186;Obtieníu empíricamente
+ast;Constante_G.py;187;Diferencia absoluta
+ast;Constante_G.py;187;|G1 - G2|
+ast;Constante_G.py;188;Errores relativos
+ast;Constante_G.py;188;Precisión VED
+ast;Constante_G.py;234;Constante gravitatoria G

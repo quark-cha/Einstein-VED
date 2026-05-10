@@ -1,0 +1,56 @@
+idioma;archivo;id;texto
+de;Constante_G;0045;Protonenradius (Mittellinie)
+de;Constante_G;0049;Abbildung 1: VED eingeschlossene Protonwelle, n=2
+de;Constante_G;0062;Schwarzes Loch
+de;Constante_G;0064;2D-Oberfläche
+de;Constante_G;0069;Abbildung 2: Schwarzes Loch und holographische 2D-Oberfläche
+de;Constante_G;0080;±3σ
+de;Constante_G;0081;G experimentell
+de;Constante_G;0086;n={n}
+de;Constante_G;0090;n ∈ Z⁺
+de;Constante_G;0091;G berechnet [m^3/kg/s^2]
+de;Constante_G;0092;Abbildung 3: G Zielscheibe ±3σ
+de;Constante_G;0118;n ∈ Z⁺
+de;Constante_G;0119;G berechnet [m^3/kg/s^2]
+de;Constante_G;0120;Abbildung 4: G Zielscheibe ±4σ (Pfeile)
+de;Constante_G;0133;G(n) asymptotisch (kontinuierlich)
+de;Constante_G;0136;G experimentell
+de;Constante_G;0141;n ∈ Z⁺ \ngrenze n→∞ G(n)=0
+de;Constante_G;0145;G(n) [m^3/kg/s^2]
+de;Constante_G;0146;Abbildung 5: Asymptotisches Verhalten von G(n) n→∞ (log-log)
+de;Constante_G;0167;Wert [m³/kg·s²]
+de;Constante_G;0168;Obergrenze
+de;Constante_G;0169;Mittelwert
+de;Constante_G;0170;Untergrenze
+de;Constante_G;0171;Empirisch erhalten
+de;Constante_G;0172;|G₁ - G₂|
+de;Constante_G;0173;VED Genauigkeit
+de;Constante_G;0251;GRAVITATIONSKONSTANTE G
+de;Constante_G;0270;Eingeschlossene Materiewelle
+de;Constante_G;0280;2D-Hologramm
+de;Constante_G;0289;Emergenz von G
+de;Constante_G;0291;Abbildung 8: Materie als eingeschlossene Welle auf 2D-Hologramm
+de;Constante_G;0320;Protonenradius
+de;Constante_G;0321;Radiale Protonwellen
+de;Constante_G;0322;2D-Protonwelligkeit (n=4)
+de;Constante_G;0325;Protonenradius
+de;Constante_G;0326;Protonwellen
+de;Constante_G;0327;2D-Welligkeit
+de;Constante_G;0329;Proton - Femtometerskala (10⁻¹⁵ m)
+de;Constante_G;0345;Elektronenorbitalradius
+de;Constante_G;0346;Radiale Elektronwellen
+de;Constante_G;0347;2D-Elektronwelligkeit (n=137)
+de;Constante_G;0350;Elektronenorbitalradius
+de;Constante_G;0351;Elektronwellen
+de;Constante_G;0352;2D-Welligkeit
+de;Constante_G;0354;Elektron - Atomskala (10⁻¹¹ m)
+de;Constante_G;0361;Abbildung 9. 2D- und radiale Wellen von Proton und Elektron\n(Holographie → Teilchen)
+de;Constante_G;0381;$(L_\mathrm{geom} c)$
+de;Constante_G;0382;Massen gleichsetzen,\nM verschwindet
+de;Constante_G;0383;durch VED
+de;Constante_G;0384;Jede Seite definiert\neigene Skala
+de;Constante_G;0385;Werte von M und G
+de;Constante_G;0386;n=2 stimmt mit\nexperimentellem G-Wert überein
+de;Constante_G;0387;(Oberfläche)
+de;Constante_G;0388;Emergenter Ursprung\nder Gravitation
+de;Constante_G;0412;Abbildung 10: Konzeptvergleich VED vs Schwarzschild

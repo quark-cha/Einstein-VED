@@ -1,0 +1,39 @@
+
+zh;Constante_G.py;63;质子半径（中线）
+zh;Constante_G.py;66;图 1：VED 限域质子波，n=2
+zh;Constante_G.py;79;黑洞
+zh;Constante_G.py;81;二维表面
+zh;Constante_G.py;86;图 2：黑洞与二维全息表面
+zh;Constante_G.py;97;$\pm 3\sigma$
+zh;Constante_G.py;98;实验值 G
+zh;Constante_G.py;107;$n \in \mathbb{Z}^+$
+zh;Constante_G.py;108;计算的 G [$\mathrm{m^3/kg/s^2}$]
+zh;Constante_G.py;109;图 3：G $\pm 3\sigma$ 靶图
+zh;Constante_G.py;126;$\uparrow$
+zh;Constante_G.py;131;$\downarrow$
+zh;Constante_G.py;135;$n \in \mathbb{Z}^+$
+zh;Constante_G.py;136;计算的 G [$\mathrm{m^3/kg/s^2}$]
+zh;Constante_G.py;137;图 4：G $\pm 4\sigma$ 靶图（箭头）
+zh;Constante_G.py;149;G(n) 渐近值（连续）
+zh;Constante_G.py;152;实验值 G
+zh;Constante_G.py;157;$n \in \mathbb{Z}^+$
+zh;Constante_G.py;157;$\lim_{n \to \infty} G(n)=0$
+zh;Constante_G.py;159;round,pad=0.5
+zh;Constante_G.py;161;G(n) [$\mathrm{m^3/kg/s^2}$]
+zh;Constante_G.py;162;图 5：G(n) 渐近行为 $n\to\infty$（对数图）
+zh;Constante_G.py;182;概念
+zh;Constante_G.py;182;数值 [$\mathrm{m^3/kg \cdot s^2}$]
+zh;Constante_G.py;182;来源
+zh;Constante_G.py;183;$G_{MAX} \pm 3\sigma$
+zh;Constante_G.py;183;上限
+zh;Constante_G.py;184;$G_2^{\mathrm{EXP}}$ 实验值
+zh;Constante_G.py;184;平均值
+zh;Constante_G.py;185;$G_{MIN} \mp 3\sigma$
+zh;Constante_G.py;185;下限
+zh;Constante_G.py;186;$G_1^{\mathrm{VED}}$ (n=2) 精确
+zh;Constante_G.py;186;经验获得
+zh;Constante_G.py;187;绝对差
+zh;Constante_G.py;187;$|G_1 - G_2|$
+zh;Constante_G.py;188;相对误差
+zh;Constante_G.py;188;VED 精度
+zh;Constante_G.py;234;引力常数 $G$

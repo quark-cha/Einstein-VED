@@ -1,0 +1,50 @@
+idioma;archivo;id;texto_traducido
+ja;entrelazamiento_geometrico.py;8;フォント.ファミリー
+ja;entrelazamiento_geometrico.py;9;Arial
+ja;entrelazamiento_geometrico.py;48;量子もつれ：アインシュタイン-VED幾何学的説明
+ja;entrelazamiento_geometrico.py;59;k--
+ja;entrelazamiento_geometrico.py;65;内部フレーム：共有される固有時間
+ja;entrelazamiento_geometrico.py;84;外部フレーム：従来の視点
+ja;entrelazamiento_geometrico.py;89;シンボル体系：\n\n
+ja;entrelazamiento_geometrico.py;90;🔴 粒子A（45°）\n
+ja;entrelazamiento_geometrico.py;91;🟢 粒子B（225°）\n
+ja;entrelazamiento_geometrico.py;92;⚫ 観測者\n
+ja;entrelazamiento_geometrico.py;93;▬▬ 幾何学的接続\n
+ja;entrelazamiento_geometrico.py;94;▬▬ 視線
+ja;entrelazamiento_geometrico.py;100;丸,パディング=0.6
+ja;entrelazamiento_geometrico.py;106;アインシュタイン-VEDキー：\n\n
+ja;entrelazamiento_geometrico.py;107;両方の粒子（対蹠点を含む）\n同じ固有時空t₀、s₀を共有\n\n
+ja;entrelazamiento_geometrico.py;108; → 0 光速cで\n\n
+ja;entrelazamiento_geometrico.py;109;t = t₀ + dt
+ja;entrelazamiento_geometrico.py;110;s = s₀ + ds
+ja;entrelazamiento_geometrico.py;111;非局所的作用なし
+ja;entrelazamiento_geometrico.py;117;丸,パディング=0.8
+ja;entrelazamiento_geometrico.py;125;アインシュタイン-VED基礎：\n\n
+ja;entrelazamiento_geometrico.py;126;もつれた粒子は起源から共通の固有時空を共有します。
+ja;entrelazamiento_geometrico.py;127;光速cで移動すると、固有時間と空間の微分はゼロに近づきます
+ja;entrelazamiento_geometrico.py;128; → 0）、同じ瞬間t₀と位置s₀で接続を維持します。
+ja;entrelazamiento_geometrico.py;129;この幾何学的同時性は、相対性理論を破ることなく量子相関を説明します。
+ja;entrelazamiento_geometrico.py;134;イタリック
+ja;entrelazamiento_geometrico.py;135;丸,パディング=0.8
+ja;entrelazamiento_geometrico.py;141;基本方程式：\n\n
+ja;entrelazamiento_geometrico.py;142;光速cでの粒子について：\n
+ja;entrelazamiento_geometrico.py;143; → 0\n
+ja;entrelazamiento_geometrico.py;144;• t = t₀ + dt
+ja;entrelazamiento_geometrico.py;145;• s = s₀ + ds
+ja;entrelazamiento_geometrico.py;146;場の方程式：\n
+ja;entrelazamiento_geometrico.py;147;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+ja;entrelazamiento_geometrico.py;148;固有座標系における絶対同時性
+ja;entrelazamiento_geometrico.py;154;丸,パディング=0.8
+ja;entrelazamiento_geometrico.py;160;アインシュタイン-VED解釈：時空幾何学から理解すると
+ja;entrelazamiento_geometrico.py;161;量子もつれは逆説的ではなくなります。同じ事象で生成された粒子は
+ja;entrelazamiento_geometrico.py;162;波面を共有し、そこでは固有時間がt₀で凍結されたままです。この本質的な同時性は
+ja;entrelazamiento_geometrico.py;163;を説明します。量子確率は観測者の
+ja;entrelazamiento_geometrico.py;164;限られた視点を反映し、基本的な性質ではありません。
+ja;entrelazamiento_geometrico.py;170;丸,パディング=0.8
+ja;entrelazamiento_geometrico.py;177;svg
+ja;entrelazamiento_geometrico.py;184;🎯 同じレベルでボックスを含む最終版を作成中...
+ja;entrelazamiento_geometrico.py;188; 同じレベルで
+ja;entrelazamiento_geometrico.py;189;   • より幅広い図（16x10）で両方を収容
+ja;entrelazamiento_geometrico.py;190;   • バランスの取れた対称デザイン
+ja;entrelazamiento_geometrico.py;191;   • 装飾と色は尊重
+ja;entrelazamiento_geometrico.py;192;   • ゼロ重なり

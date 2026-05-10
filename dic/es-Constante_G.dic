@@ -1,0 +1,39 @@
+idioma;archivo;linea;texto_traducido
+es;Constante_G.py;63;Radio del protón (línea media)
+es;Constante_G.py;66;Figura 1: Onda confinada VED del protón, n=2
+es;Constante_G.py;79;Agujero negro
+es;Constante_G.py;81;Superficie 2D
+es;Constante_G.py;86;Figura 2: Agujero negro y superficie 2D holográfica
+es;Constante_G.py;97;$\\pm 3\\sigma$
+es;Constante_G.py;98;G experimental
+es;Constante_G.py;107;$n \\in \\mathbb{Z}^+$
+es;Constante_G.py;108;$G$ calculado [m$^3$/kg/s$^2$]
+es;Constante_G.py;109;Figura 3: Diana de G $\\pm 3\\sigma$
+es;Constante_G.py;126;$\\uparrow$
+es;Constante_G.py;131;$\\downarrow$
+es;Constante_G.py;135;$n \\in \\mathbb{Z}^+$
+es;Constante_G.py;136;$G$ calculado [m$^3$/kg/s$^2$]
+es;Constante_G.py;137;Figura 4: Diana de G $\\pm 4\\sigma$ (flechas)
+es;Constante_G.py;149;G(n) asintótico (continuo)
+es;Constante_G.py;152;G experimental
+es;Constante_G.py;157;$n \\in \\mathbb{Z}^+$
+es;Constante_G.py;157;$\\lim_{n \\to \\infty} G(n)=0$
+es;Constante_G.py;159;round,pad=0.5
+es;Constante_G.py;161;$G(n)$ [m$^3$/kg/s$^2$]
+es;Constante_G.py;162;Figura 5: Comportamiento asintótico de $G(n)$ $n \\to \\infty$ (log-log)
+es;Constante_G.py;182;Concepto
+es;Constante_G.py;182;Valor [m$^3$/kg$\\cdot$s$^2$]
+es;Constante_G.py;182;Origen
+es;Constante_G.py;183;$G_{MAX} \\pm 3\\sigma$
+es;Constante_G.py;183;Límite superior
+es;Constante_G.py;184;$G_2^{{EXP}}$ Experimental
+es;Constante_G.py;184;Valor medio
+es;Constante_G.py;185;$G_{MIN} \\mp 3\\sigma$
+es;Constante_G.py;185;Límite inferior
+es;Constante_G.py;186;$G_1^{{VED}}$ (n=2) EXACTO
+es;Constante_G.py;186;Obtenido empíricamente
+es;Constante_G.py;187;Diferencia absoluta
+es;Constante_G.py;187;$|G_1 - G_2|$
+es;Constante_G.py;188;Error relativo
+es;Constante_G.py;188;Precisión VED
+es;Constante_G.py;234;CONSTANTE GRAVITATORIA $G$

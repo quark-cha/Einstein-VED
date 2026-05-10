@@ -1,0 +1,39 @@
+
+fr;Constante_G.py;63;Rayon du proton (ligne médiane)
+fr;Constante_G.py;66;Figure 1 : Onde confinée VED du proton, n=2
+fr;Constante_G.py;79;Trou noir
+fr;Constante_G.py;81;Surface 2D
+fr;Constante_G.py;86;Figure 2 : Trou noir et surface 2D holographique
+fr;Constante_G.py;97;$\pm 3\sigma$
+fr;Constante_G.py;98;G expérimentale
+fr;Constante_G.py;107;$n \in \mathbb{Z}^+$
+fr;Constante_G.py;108;G calculé [m³/kg/s²]
+fr;Constante_G.py;109;Figure 3 : Cible de G ±3σ
+fr;Constante_G.py;126;$\uparrow$
+fr;Constante_G.py;131;$\downarrow$
+fr;Constante_G.py;135;$n \in \mathbb{Z}^+$
+fr;Constante_G.py;136;G calculé [m³/kg/s²]
+fr;Constante_G.py;137;Figure 4 : Cible de G ±4σ (flèches)
+fr;Constante_G.py;149;G(n) asymptotique (continu)
+fr;Constante_G.py;152;G expérimentale
+fr;Constante_G.py;157;$n \in \mathbb{Z}^+$
+fr;Constante_G.py;157;$\lim_{n \to \infty} G(n)=0$
+fr;Constante_G.py;159;round,pad=0.5
+fr;Constante_G.py;161;G(n) [m³/kg/s²]
+fr;Constante_G.py;162;Figure 5 : Comportement asymptotique de G(n) n → ∞ (log-log)
+fr;Constante_G.py;182;Concept
+fr;Constante_G.py;182;Valeur [m³/kg·s²]
+fr;Constante_G.py;182;Origine
+fr;Constante_G.py;183;$G_{MAX}$ ±3σ
+fr;Constante_G.py;183;Limite supérieure
+fr;Constante_G.py;184;$G_2^{EXP}$ Expérimental
+fr;Constante_G.py;184;Valeur moyenne
+fr;Constante_G.py;185;$G_{MIN}$ ∓3σ
+fr;Constante_G.py;185;Limite inférieure
+fr;Constante_G.py;186;$G_1^{VED}$ (n=2) EXACT
+fr;Constante_G.py;186;Obtenu empiriquement
+fr;Constante_G.py;187;Différence absolue
+fr;Constante_G.py;187;$|G_1 - G_2|$
+fr;Constante_G.py;188;Erreur relative
+fr;Constante_G.py;188;Précision VED
+fr;Constante_G.py;234;CONSTANTE GRAVITATIONNELLE $G$

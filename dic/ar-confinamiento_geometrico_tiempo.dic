@@ -1,0 +1,23 @@
+
+ar;confinamiento_geometrico_tiempo.py;25;n=1: أنبوب الزمكان الأملس + موجة دائرية أساسية
+ar;confinamiento_geometrico_tiempo.py;58;الحالة الأساسية n=1\\nالزمكان + موجة دائرية
+ar;confinamiento_geometrico_tiempo.py;71;n=3: تنوع الزمكان + موجة بثلاث عقد
+ar;confinamiento_geometrico_tiempo.py;108;الحالة المثارة n=3\\nتنوع الزمكان + 3 عقد
+ar;confinamiento_geometrico_tiempo.py;121;مقارنة جنبًا إلى جنب n=1 مقابل n=3
+ar;confinamiento_geometrico_tiempo.py;148;n=1: الحالة الأساسية
+ar;confinamiento_geometrico_tiempo.py;169;n=3: الحالة المثارة
+ar;confinamiento_geometrico_tiempo.py;182;يعرض كيف تولد منحنيات dt السطح n=1
+ar;confinamiento_geometrico_tiempo.py;220;الإنشاء n=1: dt → السطح\\nالمنحنيات الدائرية تولد أسطوانة
+ar;confinamiento_geometrico_tiempo.py;234;يعرض كيف تولد منحنيات dt السطح n=3
+ar;confinamiento_geometrico_tiempo.py;277;الإنشاء n=3: dt → التنوع\\nالمنحنيات ذات العقد تولد الهندسة
+ar;confinamiento_geometrico_tiempo.py;291;التطور الكامل لـ dt عبر δt
+ar;confinamiento_geometrico_tiempo.py;331;التطور\\nالزمني
+ar;confinamiento_geometrico_tiempo.py;335;التطور الكامل: dt → δt → الحالات n\\nالحصر الكمي أينشتاين-VED
+ar;confinamiento_geometrico_tiempo.py;348;🎨 جاري إنشاء 6 الرسوم الكاملة أينشتاين-VED...
+ar;confinamiento_geometrico_tiempo.py;360;\\n✅ الرسوم الكاملة الستة:
+ar;confinamiento_geometrico_tiempo.py;361;1. 1_n1_fundamental.svg - الحالة الأساسية
+ar;confinamiento_geometrico_tiempo.py;362;2. 2_n3_excitado.svg - الحالة المثارة
+ar;confinamiento_geometrico_tiempo.py;363;3. 3_comparacion_n1_n3.svg - المقارنة
+ar;confinamiento_geometrico_tiempo.py;364;4. 4_generacion_dt_n1.svg - الإنشاء n=1
+ar;confinamiento_geometrico_tiempo.py;365;5. 5_generacion_dt_n3.svg - الإنشاء n=3
+ar;confinamiento_geometrico_tiempo.py;366;6. 6_evolucion_temporal.svg - التطور الكامل

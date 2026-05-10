@@ -1,0 +1,50 @@
+idioma;archivo;id;texto_traducido
+sk;entrelazamiento_geometrico.py;8;font.family
+sk;entrelazamiento_geometrico.py;9;Arial
+sk;entrelazamiento_geometrico.py;48;KVANTOVÉ PREPLETENIE: Einstein-VED Geometrické Vysvetlenie
+sk;entrelazamiento_geometrico.py;59;k--
+sk;entrelazamiento_geometrico.py;65;Interný Rámec: Zdieľaný Vlastný Čas
+sk;entrelazamiento_geometrico.py;84;Externý Rámec: Konvenčná Perspektíva
+sk;entrelazamiento_geometrico.py;89;SYMBOLIKA:\n\n
+sk;entrelazamiento_geometrico.py;90;🔴 Častica A (45°)\n
+sk;entrelazamiento_geometrico.py;91;🟢 Častica B (225°)\n
+sk;entrelazamiento_geometrico.py;92;⚫ Pozorovateľ\n
+sk;entrelazamiento_geometrico.py;93;▬▬ Geometrické spojenie\n
+sk;entrelazamiento_geometrico.py;94;▬▬ Línie dohľadu
+sk;entrelazamiento_geometrico.py;100;okrúhle,odskok=0.6
+sk;entrelazamiento_geometrico.py;106;KLÚČ EINSTEIN-VED:\n\n
+sk;entrelazamiento_geometrico.py;107;Obe častice (vrátane antipodálnych)\nzdieľajú ten istý vlastný časopriestor t₀, s₀\n\n
+sk;entrelazamiento_geometrico.py;108; → 0 pri rýchlosti c\n\n
+sk;entrelazamiento_geometrico.py;109;t = t₀ + dt
+sk;entrelazamiento_geometrico.py;110;s = s₀ + ds
+sk;entrelazamiento_geometrico.py;111;Žiadna akcia na diaľku
+sk;entrelazamiento_geometrico.py;117;okrúhle,odskok=0.8
+sk;entrelazamiento_geometrico.py;125;ZÁKLAD EINSTEIN-VED:\n\n
+sk;entrelazamiento_geometrico.py;126;Prepletené častice zdieľajú spoločný vlastný časopriestor od svojho vzniku.
+sk;entrelazamiento_geometrico.py;127;Pri pohybe rýchlosťou c sa ich diferenciály vlastného času a priestoru blížia k nule
+sk;entrelazamiento_geometrico.py;128; → 0), čím zostávajú spojené v rovnakom okamihu t₀ a polohe s₀.
+sk;entrelazamiento_geometrico.py;129;Táto geometrická simultánnosť vysvetľuje kvantové korelácie bez porušenia relativity.
+sk;entrelazamiento_geometrico.py;134;kurzíva
+sk;entrelazamiento_geometrico.py;135;okrúhle,odskok=0.8
+sk;entrelazamiento_geometrico.py;141;ZÁKLADNÉ ROVNICE:\n\n
+sk;entrelazamiento_geometrico.py;142;Pre častice pri rýchlosti c:\n
+sk;entrelazamiento_geometrico.py;143; → 0\n
+sk;entrelazamiento_geometrico.py;144;• t = t₀ + dt
+sk;entrelazamiento_geometrico.py;145;• s = s₀ + ds
+sk;entrelazamiento_geometrico.py;146;Rovnica poľa:\n
+sk;entrelazamiento_geometrico.py;147;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+sk;entrelazamiento_geometrico.py;148;Absolútna simultánnosť vo vlastnej sústave
+sk;entrelazamiento_geometrico.py;154;okrúhle,odskok=0.8
+sk;entrelazamiento_geometrico.py;160;INTERPRETÁCIA EINSTEIN-VED: Kvantové prepletenie prestáva byť paradoxné, keď je chápané
+sk;entrelazamiento_geometrico.py;161;z hľadiska geometrie časopriestoru. Častice vzniknuté v rovnakej udalosti zdieľajú vlnový
+sk;entrelazamiento_geometrico.py;162;front, kde ich vlastný čas zostáva zmrazený pri t₀. Táto vnútorná simultánnosť vysvetľuje
+sk;entrelazamiento_geometrico.py;163;. Kvantová pravdepodobnosť odráža obmedzenú
+sk;entrelazamiento_geometrico.py;164;perspektívu pozorovateľa, nie základnú vlastnosť.
+sk;entrelazamiento_geometrico.py;170;okrúhle,odskok=0.8
+sk;entrelazamiento_geometrico.py;177;svg
+sk;entrelazamiento_geometrico.py;184;🎯 VYTVÁRANIE FINÁLNEJ VERZIE S BOXMI NA ROVNAKEJ ÚROVNI...
+sk;entrelazamiento_geometrico.py;188; na ROVNAKEJ ÚROVNI
+sk;entrelazamiento_geometrico.py;189;   • ŠIRŠÍ Obrázok (16x10) pre umiestnenie oboch
+sk;entrelazamiento_geometrico.py;190;   • Vyvážený a symetrický dizajn
+sk;entrelazamiento_geometrico.py;191;   • Dekorácia a farby REŠPEKTOVANÉ
+sk;entrelazamiento_geometrico.py;192;   • ŽIADNE prekrytia

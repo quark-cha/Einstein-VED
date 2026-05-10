@@ -1,0 +1,19 @@
+idioma;archivo;linea;texto_traducido
+es;proton_comparativa_destacado.py;31;#377eb8
+es;proton_comparativa_destacado.py;32;#4daf4a
+es;proton_comparativa_destacado.py;33;#e41a1c
+es;proton_comparativa_destacado.py;34;#f0f0f0
+es;proton_comparativa_destacado.py;37;Calcula rango ±3σ para visualización
+es;proton_comparativa_destacado.py;61;MC: Probabilistic
+es;proton_comparativa_destacado.py;63;LHC: Experimental
+es;proton_comparativa_destacado.py;65;Einstein-VED: Deterministic
+es;proton_comparativa_destacado.py;78;Quantum Mechanics
+es;proton_comparativa_destacado.py;78;LHC Experimental
+es;proton_comparativa_destacado.py;78;Einstein-VED
+es;proton_comparativa_destacado.py;79;Proton Radius (fm)
+es;proton_comparativa_destacado.py;80;Proton Radius Estimates\\nwith ±3σ Ranges
+es;proton_comparativa_destacado.py;88;upper right
+es;proton_comparativa_destacado.py;92;Einstein-VED: Deterministic geometric model of proton. \\n
+es;proton_comparativa_destacado.py;93;Radius derived from 4 wavelengths of confinement.
+es;proton_comparativa_destacado.py;96;round,pad=0.3
+es;proton_comparativa_destacado.py;96;#ffebee

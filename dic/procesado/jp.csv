@@ -1,0 +1,259 @@
+jp;confinamiento.py;0020;可視化のための±3σ範囲を計算
+jp;confinamiento.py;0037;平均半径 (fm)
+jp;confinamiento.py;0037;最小 (fm)
+jp;confinamiento.py;0037;最大 (fm)
+jp;confinamiento.py;0038;{mc_mean:.3f}
+jp;confinamiento.py;0038;{mc_min:.3f}
+jp;confinamiento.py;0038;{mc_max:.3f}
+jp;confinamiento.py;0038;±{MC_sigma:.3f}
+jp;confinamiento.py;0038;量子力学 (MC)
+jp;confinamiento.py;0039;{lhc_mean:.5f}
+jp;confinamiento.py;0039;{lhc_min:.5f}
+jp;confinamiento.py;0039;{lhc_max:.5f}
+jp;confinamiento.py;0039;±{LHC_sigma:.3f}
+jp;confinamiento.py;0039;LHC 実験
+jp;confinamiento.py;0040;{ved_mean:.5f}
+jp;confinamiento.py;0040;{ved_min:.5f}
+jp;confinamiento.py;0040;{ved_max:.5f}
+jp;confinamiento.py;0040;±{VED_sigma:.5f}
+jp;confinamiento.py;0040;アインシュタイン-VED
+jp;confinamiento.py;0072;図1: 2D対3D閉じ込め幾何学
+jp;confinamiento.py;0079;電子: 2D閉じ込め\nn = 137 (表面)
+jp;confinamiento.py;0084;陽子: 3D閉じ込め\nn = 4 (体積)
+jp;confinamiento.py;0089;クォーク: 幾何学的双極子\n3D固定
+jp;confinamiento.py;0094;創発量子統計: 2D対3D
+jp;confinamiento.py;0100;電子2D表面 - クリーンスケール
+jp;confinamiento.py;0132;陽子3D体積 - クリーンスケール
+jp;confinamiento.py;0171;次元に固定されたクォーク双極子
+jp;confinamiento.py;0187;クォーク {dim}
+jp;confinamiento.py;0192;ハドロン閉じ込め
+jp;confinamiento.py;0200;フェルミ対ボース統計比較
+jp;confinamiento.py;0201;2D閉じ込め\n(電子)
+jp;confinamiento.py;0201;3D閉じ込め\n(陽子)
+jp;confinamiento.py;0208;フェルミ-ディラック (排他)
+jp;confinamiento.py;0210;ボース-アインシュタイン (凝縮)
+jp;confinamiento.py;0213;統計的振る舞い
+jp;confinamiento.py;0218;最大1粒子\n状態ごと
+jp;confinamiento.py;0219;複数粒子\n同じ状態
+jp;confinamiento.py;0224;図2: 実験的検証
+jp;confinamiento.py;0228;陽子 VED
+jp;confinamiento.py;0228;陽子 LHC
+jp;confinamiento.py;0228;中性子 VED
+jp;confinamiento.py;0228;中性子 実験
+jp;confinamiento.py;0234;半径 (fm)
+jp;confinamiento.py;0235;ハドロン半径予測
+jp;confinamiento.py;0240;{radius:.5f}
+jp;confinamiento.py;0243;アインシュタイン-VED
+jp;confinamiento.py;0243;格子QCD
+jp;confinamiento.py;0243;構成子模型
+jp;confinamiento.py;0247;精度 (%)
+jp;confinamiento.py;0248;精度比較
+jp;confinamiento.py;0253;{prec}%
+jp;confinamiento.py;0259;アインシュタイン-VED
+jp;confinamiento.py;0265;微細構造定数
+jp;confinamiento.py;0270;{value:.3f}
+jp;confinamiento.py;0275;LHCジェットの双極子説明:\n\n
+jp;confinamiento.py;0276;• クォーク = 次元に固定された幾何学的双極子\n
+jp;confinamiento.py;0277;• エネルギー印加時: 双極子破断\n
+jp;confinamiento.py;0278;• 新しいクォーク-反クォーク対の生成\n
+jp;confinamiento.py;0279;• 反対方向へのハドロンジェット形成\n
+jp;confinamiento.py;0280;• 無限の'閉じ込め力'なし\n
+jp;confinamiento.py;0280;閉じ込め力
+jp;confinamiento.py;0281;• 自然な幾何学的再構成のみ
+jp;confinamiento.py;0290;図3: 量子パラドックス解決
+jp;confinamiento.py;0310;二重スリット解決
+jp;confinamiento.py;0328;伝播方向
+jp;confinamiento.py;0329;位置
+jp;confinamiento.py;0330;二重スリット解決:\n完全表面が相互作用
+jp;confinamiento.py;0333;二経路を通る粒子
+jp;confinamiento.py;0333;"二経路を通る粒子"ではない\n両方を通る表面である
+jp;confinamiento.py;0337;量子もつれの幾何学的解決
+jp;confinamiento.py;0349;粒子A
+jp;confinamiento.py;0350;粒子B
+jp;confinamiento.py;0351;共有幾何学
+jp;confinamiento.py;0357;量子もつれ:\n共通幾何学、遠隔作用なし
+jp;confinamiento.py;0362;波動関数収縮解決
+jp;confinamiento.py;0368;実幾何学 (常に定義)
+jp;confinamiento.py;0369;測定前確率
+jp;confinamiento.py;0369;MC: "測定前確率"
+jp;confinamiento.py;0375;位置
+jp;confinamiento.py;0377;"収縮"の終わり:\n定義幾何学、非確率的
+jp;confinamiento.py;0383;量子統計解決
+jp;confinamiento.py;0387;創発量子統計\n\n
+jp;confinamiento.py;0388;フェルミ-ディラック (排他):\n
+jp;confinamiento.py;0389;• 2D閉じ込め (電子)\n
+jp;confinamiento.py;0390;• 自然な位相制限\n
+jp;confinamiento.py;0391;• 状態ごと1粒子のみ\n\n
+jp;confinamiento.py;0392;ボース-アインシュタイン (凝縮):\n
+jp;confinamiento.py;0393;• 3D閉じ込め (陽子)\n
+jp;confinamiento.py;0394;• 完全球面幾何学\n
+jp;confinamiento.py;0395;• 複数粒子同じ状態\n\n
+jp;confinamiento.py;0396;基本的性質ではない\n
+jp;confinamiento.py;0397;幾何学的結果である
+jp;confinamiento.py;0405;全ての図を保存
+jp;confinamiento.py;0408;アインシュタイン-VED可視化生成中...
+jp;confinamiento.py;0411;図1生成: 閉じ込め幾何学...
+jp;confinamiento.py;0418;✓ 閉じ込め幾何学保存済
+jp;confinamiento.py;0420;図2生成: 実験的検証...
+jp;confinamiento.py;0427;✓ 実験的検証保存済
+jp;confinamiento.py;0429;図3生成: 量子パラドックス解決...
+jp;confinamiento.py;0435;✓ 量子パラドックス解決保存済
+jp;confinamiento.py;0437;\n✅ 全ての図を{format}形式で保存 (DPI: {dpi})
+jp;confinamiento.py;0440;❌ 生成中エラー: {e}
+jp;confinamiento.py;0448;アインシュタイン-VED可視化生成開始...
+jp;confinamiento.py;0453;\n🎨 可視化完了!
+jp;confinamiento.py;0454;生成ファイル:
+jp;confinamiento_geometrico.py;0023;波動 ψ(x)
+jp;confinamiento_geometrico.py;0026;位置 x
+jp;confinamiento_geometrico.py;0027;振幅 ψ(x)
+jp;confinamiento_geometrico.py;0028;アインシュタイン-VED閉じ込め: 波動 → 粒子
+jp;confinamiento_geometrico.py;0043;位置 x
+jp;confinamiento_geometrico.py;0044;振幅 ψ(x)
+jp;confinamiento_geometrico.py;0045;1. 平面表面の正弦波
+jp;confinamiento_geometrico.py;0064;2. 遷移: 巻き付け ({progress*100:.0f}%)
+jp;confinamiento_geometrico.py;0065;X座標
+jp;confinamiento_geometrico.py;0066;Y座標
+jp;confinamiento_geometrico.py;0076;閉じ込め (n={n_cycles})
+jp;confinamiento_geometrico.py;0077;アインシュタイン-VED条件: L = {n_cycles}λ
+jp;confinamiento_geometrico.py;0080;3. 自己閉じ込め波動 - 安定粒子
+jp;confinamiento_geometrico.py;0081;X座標
+jp;confinamiento_geometrico.py;0082;Y座標
+jp;confinamiento_geometrico.py;0118;a) 自由平面波
+jp;confinamiento_geometrico.py;0119;位置 x
+jp;confinamiento_geometrico.py;0120;振幅 ψ(x)
+jp;confinamiento_geometrico.py;0137;b) 遷移
+jp;confinamiento_geometrico.py;0138;X座標
+jp;confinamiento_geometrico.py;0139;Y座標
+jp;confinamiento_geometrico.py;0155;c) 閉じ込め n=3\nL = 3λ
+jp;confinamiento_geometrico.py;0156;X座標
+jp;confinamiento_geometrico.py;0157;Y座標
+jp;confinamiento_geometrico.py;0159;条件: L = nλ
+jp;confinamiento_geometrico_tiempo.py;0011;n=1: 滑らかな時空チューブ + 基本円波
+jp;confinamiento_geometrico_tiempo.py;0044;基本状態 n=1\n時空 + 円波
+jp;confinamiento_geometrico_tiempo.py;0056;n=3: 時空多様体 + 3節点波
+jp;confinamiento_geometrico_tiempo.py;0093;励起状態 n=3\n時空多様体 + 3節点
+jp;confinamiento_geometrico_tiempo.py;0105;並列比較 n=1対n=3
+jp;confinamiento_geometrico_tiempo.py;0132;n=1: 基本状態
+jp;confinamiento_geometrico_tiempo.py;0153;n=3: 励起状態
+jp;confinamiento_geometrico_tiempo.py;0164;dt曲線がn=1表面を生成する方法を示す
+jp;confinamiento_geometrico_tiempo.py;0202;生成 n=1: dt → 表面\n円曲線が円筒を生成
+jp;confinamiento_geometrico_tiempo.py;0214;dt曲線がn=3表面を生成する方法を示す
+jp;confinamiento_geometrico_tiempo.py;0257;生成 n=3: dt → 多様体\n節点曲線が幾何学を生成
+jp;confinamiento_geometrico_tiempo.py;0269;δtを通じた完全dt進化
+jp;confinamiento_geometrico_tiempo.py;0302;δt={t}
+jp;confinamiento_geometrico_tiempo.py;0309;時間的\n進化
+jp;confinamiento_geometrico_tiempo.py;0313;完全進化: dt → δt → n状態\nアインシュタイン-VED量子閉じ込め
+jp;confinamiento_geometrico_tiempo.py;0325;🎨 6完全アインシュタイン-VEDグラフ生成中...
+jp;confinamiento_geometrico_tiempo.py;0337;\n✅ 6完全グラフ:
+jp;Constante_G.py;0042;陽子半径 (中心線)
+jp;Constante_G.py;0046;図1: 陽子のVED閉じ込め波, n=2
+jp;Constante_G.py;0059;ブラックホール
+jp;Constante_G.py;0061;2D表面
+jp;Constante_G.py;0066;図2: ブラックホールと2Dホログラム表面
+jp;Constante_G.py;0078;実験的G
+jp;Constante_G.py;0083;n={n}
+jp;Constante_G.py;0088;計算G [m^3/kg/s^2]
+jp;Constante_G.py;0089;図3: Gターゲット ±3σ
+jp;Constante_G.py;0116;計算G [m^3/kg/s^2]
+jp;Constante_G.py;0117;図4: Gターゲット ±4σ (矢印)
+jp;Constante_G.py;0130;漸近的G(n) (連続)
+jp;Constante_G.py;0133;実験的G
+jp;Constante_G.py;0140;round,pad=0.5
+jp;Constante_G.py;0143;図5: G(n)の漸近的振る舞い n→∞ (対数-対数)
+jp;Constante_G.py;0164;値 [m³/kg·s²]
+jp;Constante_G.py;0165;{G_max:.8e}
+jp;Constante_G.py;0165;上限
+jp;Constante_G.py;0166;$G_2^{EXP}$ 実験的
+jp;Constante_G.py;0166;{G_exp:.8e}
+jp;Constante_G.py;0166;平均値
+jp;Constante_G.py;0167;{G_min:.8e}
+jp;Constante_G.py;0167;下限
+jp;Constante_G.py;0168;$G_1^{VED}$ (n=2) 正確
+jp;Constante_G.py;0168;経験的に取得
+jp;Constante_G.py;0169;絶対差
+jp;Constante_G.py;0169;{error_abs:.8e}
+jp;Constante_G.py;0170;相対誤差
+jp;Constante_G.py;0170;{error_rel:.6f} %
+jp;Constante_G.py;0170;VED精度
+jp;Constante_G.py;0248;重力定数 G
+jp;Constante_G.py;0267;閉じ込め物質波
+jp;Constante_G.py;0277;2Dホログラム
+jp;Constante_G.py;0286;Gの創発
+jp;Constante_G.py;0288;図8: 2Dホログラム上の閉じ込め波としての物質
+jp;Constante_G.py;0317;陽子半径
+jp;Constante_G.py;0318;陽子放射状波
+jp;Constante_G.py;0319;陽子2D波動 (n=4)
+jp;Constante_G.py;0322;陽子半径
+jp;Constante_G.py;0323;陽子波
+jp;Constante_G.py;0324;2D波動
+jp;Constante_G.py;0326;陽子 - フェムトメートルスケール (10⁻¹⁵ m)
+jp;Constante_G.py;0342;電子軌道半径
+jp;Constante_G.py;0343;電子放射状波
+jp;Constante_G.py;0344;電子2D波動 (n=137)
+jp;Constante_G.py;0347;電子軌道半径
+jp;Constante_G.py;0348;電子波
+jp;Constante_G.py;0349;2D波動
+jp;Constante_G.py;0351;電子 - 原子スケール (10⁻¹¹ m)
+jp;Constante_G.py;0358;図9. 陽子と電子の2Dおよび放射状波\n(ホログラフィー → 粒子)
+jp;Constante_G.py;0378;$M_\mathrm{VED} = n h /$
+jp;Constante_G.py;0378;$(L_\mathrm{geom} c)$
+jp;Constante_G.py;0379;$M_\mathrm{Sch} = c^2 R_s /$
+jp;Constante_G.py;0379;質量を等しくすると、\nMが消える
+jp;Constante_G.py;0380;$L_\mathrm{geom}$ 定義
+jp;Constante_G.py;0380;VEDによる
+jp;Constante_G.py;0381;$R_s$ 定義
+jp;Constante_G.py;0381;各側が独自の\nスケールを定義
+jp;Constante_G.py;0382;量子化
+jp;Constante_G.py;0382;n整数 → MとGの\n離散値
+jp;Constante_G.py;0383;nは現れず、\nGが決定される
+jp;Constante_G.py;0383;n=2が実験的G値と\n一致
+jp;Constante_G.py;0384;2D閉じ込め
+jp;Constante_G.py;0384;(表面)
+jp;Constante_G.py;0385;3D → 暗黙的\nホログラフィー
+jp;Constante_G.py;0385;重力の創発的\n起源
+jp;Constante_G.py;0409;図10: VED対シュワルツシルト概念比較
+jp;entrelazamiento_geometrico.py;0009;アインシュタイン基礎
+jp;entrelazamiento_geometrico.py;0009;基本方程式
+jp;entrelazamiento_geometrico.py;0032;量子もつれ: 幾何学的説明 アインシュタイン-VED
+jp;entrelazamiento_geometrico.py;0049;内部枠: 共有固有時間
+jp;entrelazamiento_geometrico.py;0068;外部枠: 従来の視点
+jp;entrelazamiento_geometrico.py;0073;象徴:\n\n
+jp;entrelazamiento_geometrico.py;0074;🔴 粒子A (45°)\n
+jp;entrelazamiento_geometrico.py;0075;🟢 粒子B (225°)\n
+jp;entrelazamiento_geometrico.py;0076;⚫ 観測者\n
+jp;entrelazamiento_geometrico.py;0077;▬▬ 幾何学的接続\n
+jp;entrelazamiento_geometrico.py;0078;▬▬ 視線
+jp;entrelazamiento_geometrico.py;0084;round,pad=0.6
+jp;entrelazamiento_geometrico.py;0088;波面
+jp;entrelazamiento_geometrico.py;0090;アインシュタイン-VED鍵:\n\n
+jp;entrelazamiento_geometrico.py;0091;両粒子 (反対点を含む)\n同じ固有時空t₀, s₀を共有\n\n
+jp;entrelazamiento_geometrico.py;0092;なぜなら: 速度cでdt' → 0およびds' → 0\n\n
+jp;entrelazamiento_geometrico.py;0095;遠隔作用なし
+jp;entrelazamiento_geometrico.py;0101;round,pad=0.8
+jp;entrelazamiento_geometrico.py;0109;アインシュタイン-VED基礎:\n\n
+jp;entrelazamiento_geometrico.py;0110;もつれ粒子は起源から共通の固有時空を共有する。
+jp;entrelazamiento_geometrico.py;0111;光速で移動すると、それらの固有時間と空間微分はゼロに向かう
+jp;entrelazamiento_geometrico.py;0112;(dt' → 0, ds' → 0)、同じ瞬間t₀と位置s₀で接続を維持。
+jp;entrelazamiento_geometrico.py;0113;この幾何学的同時性は、相対性を破ることなく量子相関を説明する。
+jp;entrelazamiento_geometrico.py;0119;round,pad=0.8
+jp;entrelazamiento_geometrico.py;0125;基本方程式:\n\n
+jp;entrelazamiento_geometrico.py;0126;光速の粒子の場合:\n
+jp;entrelazamiento_geometrico.py;0130;場の方程式:\n
+jp;entrelazamiento_geometrico.py;0131;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+jp;entrelazamiento_geometrico.py;0132;固有枠での絶対同時性
+jp;entrelazamiento_geometrico.py;0138;round,pad=0.8
+jp;entrelazamiento_geometrico.py;0144;アインシュタイン-VED解釈: 量子もつれは理解されると\n
+jp;entrelazamiento_geometrico.py;0145;時空幾何学からパラドックスでなくなる。同じ事象で生成された粒子は波面を共有し\n
+jp;entrelazamiento_geometrico.py;0146;それらの固有時間はt₀で凍結されたまま。この内在的同時性は\n
+jp;entrelazamiento_geometrico.py;0147;完璧な相関を'不気味な遠隔作用'なしで説明。量子確率は限られた\n
+jp;entrelazamiento_geometrico.py;0147;不気味な遠隔作用
+jp;entrelazamiento_geometrico.py;0148;観測者視点を反映、基本性質ではない。
+jp;entrelazamiento_geometrico.py;0154;round,pad=0.8
+jp;entrelazamiento_geometrico.py;0167;🎯 同じレベルでボックスを持つ最終版作成中...
+jp;entrelazamiento_geometrico.py;0170;\n✨ 適用された修正:
+jp;entrelazamiento_geometrico.py;0171;• 'アインシュタイン基礎'と'方程式'ボックスを同じレベルに
+jp;entrelazamiento_geometrico.py;0171;アインシュタイン基礎
+jp;entrelazamiento_geometrico.py;0172;• 両方を収容するより広い図 (16x10)
+jp;entrelazamiento_geometrico.py;0173;• バランスの取れた対称デザイン
+jp;entrelazamiento_geometrico.py;0174;• 装飾と色を尊重
+jp;entrelazamiento_geometrico.py;0175;• ゼロ重複

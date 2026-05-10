@@ -1,0 +1,50 @@
+idioma;archivo;id;texto_traducido
+pt;entrelazamiento_geometrico.py;8;fonte.família
+pt;entrelazamiento_geometrico.py;9;Arial
+pt;entrelazamiento_geometrico.py;48;ENTRELAÇAMENTO QUÂNTICO: Explicação Geométrica Einstein-VED
+pt;entrelazamiento_geometrico.py;59;k--
+pt;entrelazamiento_geometrico.py;65;Quadro Interno: Tempo Próprio Compartilhado
+pt;entrelazamiento_geometrico.py;84;Quadro Externo: Perspectiva Convencional
+pt;entrelazamiento_geometrico.py;89;SIMBOLOGIA:\n\n
+pt;entrelazamiento_geometrico.py;90;🔴 Partícula A (45°)\n
+pt;entrelazamiento_geometrico.py;91;🟢 Partícula B (225°)\n
+pt;entrelazamiento_geometrico.py;92;⚫ Observador\n
+pt;entrelazamiento_geometrico.py;93;▬▬ Conexão geométrica\n
+pt;entrelazamiento_geometrico.py;94;▬▬ Linhas de visão
+pt;entrelazamiento_geometrico.py;100;redondo,preenchimento=0.6
+pt;entrelazamiento_geometrico.py;106;CHAVE EINSTEIN-VED:\n\n
+pt;entrelazamiento_geometrico.py;107;Ambas as partículas (incluindo as antípodas)\ncompartilham o mesmo espaço-tempo próprio t₀, s₀\n\n
+pt;entrelazamiento_geometrico.py;108; → 0 na velocidade c\n\n
+pt;entrelazamiento_geometrico.py;109;t = t₀ + dt
+pt;entrelazamiento_geometrico.py;110;s = s₀ + ds
+pt;entrelazamiento_geometrico.py;111;Não há ação à distância
+pt;entrelazamiento_geometrico.py;117;redondo,preenchimento=0.8
+pt;entrelazamiento_geometrico.py;125;FUNDAMENTO EINSTEIN-VED:\n\n
+pt;entrelazamiento_geometrico.py;126;As partículas entrelaçadas compartilham um espaço-tempo próprio comum desde sua origem.
+pt;entrelazamiento_geometrico.py;127;Ao viajar na velocidade c, seus diferenciais de tempo e espaço próprios tendem a zero
+pt;entrelazamiento_geometrico.py;128; → 0), mantendo-as conectadas no mesmo instante t₀ e posição s₀.
+pt;entrelazamiento_geometrico.py;129;Essa simultaneidade geométrica explica as correlações quânticas sem violar a relatividade.
+pt;entrelazamiento_geometrico.py;134;itálico
+pt;entrelazamiento_geometrico.py;135;redondo,preenchimento=0.8
+pt;entrelazamiento_geometrico.py;141;EQUAÇÕES FUNDAMENTAIS:\n\n
+pt;entrelazamiento_geometrico.py;142;Para partículas na velocidade c:\n
+pt;entrelazamiento_geometrico.py;143; → 0\n
+pt;entrelazamiento_geometrico.py;144;• t = t₀ + dt
+pt;entrelazamiento_geometrico.py;145;• s = s₀ + ds
+pt;entrelazamiento_geometrico.py;146;Equação de campo:\n
+pt;entrelazamiento_geometrico.py;147;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+pt;entrelazamiento_geometrico.py;148;Simultaneidade absoluta no referencial próprio
+pt;entrelazamiento_geometrico.py;154;redondo,preenchimento=0.8
+pt;entrelazamiento_geometrico.py;160;INTERPRETAÇÃO EINSTEIN-VED: O entrelaçamento quântico deixa de ser paradoxal quando compreendido
+pt;entrelazamiento_geometrico.py;161;a partir da geometria do espaço-tempo. Partículas geradas no mesmo evento compartilham uma frente
+pt;entrelazamiento_geometrico.py;162;de onda onde seu tempo próprio permanece congelado em t₀. Essa simultaneidade intrínseca explica
+pt;entrelazamiento_geometrico.py;163;. A probabilidade quântica reflete a perspectiva
+pt;entrelazamiento_geometrico.py;164;limitada do observador, não uma propriedade fundamental.
+pt;entrelazamiento_geometrico.py;170;redondo,preenchimento=0.8
+pt;entrelazamiento_geometrico.py;177;svg
+pt;entrelazamiento_geometrico.py;184;🎯 CRIANDO VERSÃO FINAL COM CAIXAS NO MESMO NÍVEL...
+pt;entrelazamiento_geometrico.py;188; no MESMO NÍVEL
+pt;entrelazamiento_geometrico.py;189;   • Figura mais LARGA (16x10) para acomodar ambas
+pt;entrelazamiento_geometrico.py;190;   • Design equilibrado e simétrico
+pt;entrelazamiento_geometrico.py;191;   • Decoração e cores RESPEITADAS
+pt;entrelazamiento_geometrico.py;192;   • ZERO sobreposições

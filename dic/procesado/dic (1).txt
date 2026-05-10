@@ -1,0 +1,319 @@
+fr;confinamiento_geometrico.py;001;rond
+fr;confinamiento_geometrico.py;002;jaune
+fr;confinamiento_geometrico.py;003;rond
+fr;confinamiento_geometrico.py;004;jaune
+fr;confinamiento_geometrico.py;005;Génération de l'animation SVG du confinement...
+fr;confinamiento_geometrico.py;006;✅ Animation SVG terminée
+fr;confinamiento_geometrico.py;007;__main__
+fr;confinamiento_geometrico.py;008;Génération de l'animation SVG du confinement...
+fr;confinamiento_geometrico.py;009;✅ Animation SVG terminée
+fr;confinamiento_geometrico.py;010;égal
+fr;confinamiento_geometrico.py;011;Onde ψ(x)
+fr;confinamiento_geometrico.py;012;Position x
+fr;confinamiento_geometrico.py;013;Amplitude ψ(x)
+fr;confinamiento_geometrico.py;014;CONFINEMENT EINSTEIN-VED: Onde → Particule
+fr;confinamiento_geometrico.py;015;gras
+fr;confinamiento_geometrico.py;016;égal
+fr;confinamiento_geometrico.py;017;marron
+fr;confinamiento_geometrico.py;018;Position x
+fr;confinamiento_geometrico.py;019;Amplitude ψ(x)
+fr;confinamiento_geometrico.py;020;1. Onde sinusoïdale sur surface plane
+fr;confinamiento_geometrico.py;021;gras
+fr;confinamiento_geometrico.py;022;gris
+fr;confinamiento_geometrico.py;023;centre
+fr;confinamiento_geometrico.py;024;rouge
+fr;confinamiento_geometrico.py;025;2. Transition: Enroulement ({progress*100:.0f}%)
+fr;confinamiento_geometrico.py;026;gras
+fr;confinamiento_geometrico.py;027;Coordonnée X
+fr;confinamiento_geometrico.py;028;Coordonnée Y
+fr;confinamiento_geometrico.py;029;gris
+fr;confinamiento_geometrico.py;030;rouge
+fr;confinamiento_geometrico.py;031;Confinée (n={n_cycles})
+fr;confinamiento_geometrico.py;032;CONDITION EINSTEIN-VED: L = {n_cycles}λ
+fr;confinamiento_geometrico.py;033;gras
+fr;confinamiento_geometrico.py;034;3. Onde auto-confinée - Particule stable
+fr;confinamiento_geometrico.py;035;gras
+fr;confinamiento_geometrico.py;036;Coordonnée X
+fr;confinamiento_geometrico.py;037;Coordonnée Y
+fr;confinamiento_geometrico.py;038;svg
+fr;confinamiento_geometrico.py;039;serré
+fr;confinamiento_geometrico.py;040;marron
+fr;confinamiento_geometrico.py;041;égal
+fr;confinamiento_geometrico.py;042;a) Onde plane libre
+fr;confinamiento_geometrico.py;043;gras
+fr;confinamiento_geometrico.py;044;Position x
+fr;confinamiento_geometrico.py;045;Amplitude ψ(x)
+fr;confinamiento_geometrico.py;046;orange
+fr;confinamiento_geometrico.py;047;égal
+fr;confinamiento_geometrico.py;048;b) Transition
+fr;confinamiento_geometrico.py;049;gras
+fr;confinamiento_geometrico.py;050;Coordonnée X
+fr;confinamiento_geometrico.py;051;Coordonnée Y
+fr;confinamiento_geometrico.py;052;gris
+fr;confinamiento_geometrico.py;053;rouge
+fr;confinamiento_geometrico.py;054;égal
+fr;confinamiento_geometrico.py;055;c) Confiné n=3\nL = 3λ
+fr;confinamiento_geometrico.py;056;gras
+fr;confinamiento_geometrico.py;057;Coordonnée X
+fr;confinamiento_geometrico.py;058;Coordonnée Y
+fr;confinamiento_geometrico.py;059;CONDITION: L = nλ
+fr;confinamiento_geometrico.py;060;centre
+fr;confinamiento_geometrico.py;061;gras
+fr;confinamiento_geometrico.py;062;svg
+fr;confinamiento_geometrico.py;063;serré
+
+sk;confinamiento_geometrico.py;001;okrúhly
+sk;confinamiento_geometrico.py;002;žltá
+sk;confinamiento_geometrico.py;003;okrúhly
+sk;confinamiento_geometrico.py;004;žltá
+sk;confinamiento_geometrico.py;005;Generovanie SVG animácie uväznenia...
+sk;confinamiento_geometrico.py;006;✅ SVG animácia dokončená
+sk;confinamiento_geometrico.py;007;__main__
+sk;confinamiento_geometrico.py;008;Generovanie SVG animácie uväznenia...
+sk;confinamiento_geometrico.py;009;✅ SVG animácia dokončená
+sk;confinamiento_geometrico.py;010;rovnaký
+sk;confinamiento_geometrico.py;011;Vlna ψ(x)
+sk;confinamiento_geometrico.py;012;Pozícia x
+sk;confinamiento_geometrico.py;013;Amplitúda ψ(x)
+sk;confinamiento_geometrico.py;014;EINSTEIN-VED UVAZNENIE: Vlna → Častica
+sk;confinamiento_geometrico.py;015;tučný
+sk;confinamiento_geometrico.py;016;rovnaký
+sk;confinamiento_geometrico.py;017;hnedá
+sk;confinamiento_geometrico.py;018;Pozícia x
+sk;confinamiento_geometrico.py;019;Amplitúda ψ(x)
+sk;confinamiento_geometrico.py;020;1. Sínusová vlna na plochom povrchu
+sk;confinamiento_geometrico.py;021;tučný
+sk;confinamiento_geometrico.py;022;šedá
+sk;confinamiento_geometrico.py;023;stred
+sk;confinamiento_geometrico.py;024;červená
+sk;confinamiento_geometrico.py;025;2. Prechod: Zvinovanie ({progress*100:.0f}%)
+sk;confinamiento_geometrico.py;026;tučný
+sk;confinamiento_geometrico.py;027;Súradnica X
+sk;confinamiento_geometrico.py;028;Súradnica Y
+sk;confinamiento_geometrico.py;029;šedá
+sk;confinamiento_geometrico.py;030;červená
+sk;confinamiento_geometrico.py;031;Uväznená (n={n_cycles})
+sk;confinamiento_geometrico.py;032;EINSTEIN-VED PODMIENKA: L = {n_cycles}λ
+sk;confinamiento_geometrico.py;033;tučný
+sk;confinamiento_geometrico.py;034;3. Samouväznená vlna - Stabilná častica
+sk;confinamiento_geometrico.py;035;tučný
+sk;confinamiento_geometrico.py;036;Súradnica X
+sk;confinamiento_geometrico.py;037;Súradnica Y
+sk;confinamiento_geometrico.py;038;svg
+sk;confinamiento_geometrico.py;039;tesný
+sk;confinamiento_geometrico.py;040;hnedá
+sk;confinamiento_geometrico.py;041;rovnaký
+sk;confinamiento_geometrico.py;042;a) Voľná rovinná vlna
+sk;confinamiento_geometrico.py;043;tučný
+sk;confinamiento_geometrico.py;044;Pozícia x
+sk;confinamiento_geometrico.py;045;Amplitúda ψ(x)
+sk;confinamiento_geometrico.py;046;oranžová
+sk;confinamiento_geometrico.py;047;rovnaký
+sk;confinamiento_geometrico.py;048;b) Prechod
+sk;confinamiento_geometrico.py;049;tučný
+sk;confinamiento_geometrico.py;050;Súradnica X
+sk;confinamiento_geometrico.py;051;Súradnica Y
+sk;confinamiento_geometrico.py;052;šedá
+sk;confinamiento_geometrico.py;053;červená
+sk;confinamiento_geometrico.py;054;rovnaký
+sk;confinamiento_geometrico.py;055;c) Uväznené n=3\nL = 3λ
+sk;confinamiento_geometrico.py;056;tučný
+sk;confinamiento_geometrico.py;057;Súradnica X
+sk;confinamiento_geometrico.py;058;Súradnica Y
+sk;confinamiento_geometrico.py;059;PODMIENKA: L = nλ
+sk;confinamiento_geometrico.py;060;stred
+sk;confinamiento_geometrico.py;061;tučný
+sk;confinamiento_geometrico.py;062;svg
+sk;confinamiento_geometrico.py;063;tesný
+
+ar;confinamiento_geometrico.py;001;مدور
+ar;confinamiento_geometrico.py;002;أصفر
+ar;confinamiento_geometrico.py;003;مدور
+ar;confinamiento_geometrico.py;004;أصفر
+ar;confinamiento_geometrico.py;005;جارٍ إنشاء رسوم متحركة SVG للحصر...
+ar;confinamiento_geometrico.py;006;✅ اكتملت رسوم SVG المتحركة
+ar;confinamiento_geometrico.py;007;__main__
+ar;confinamiento_geometrico.py;008;جارٍ إنشاء رسوم متحركة SVG للحصر...
+ar;confinamiento_geometrico.py;009;✅ اكتملت رسوم SVG المتحركة
+ar;confinamiento_geometrico.py;010;متساوي
+ar;confinamiento_geometrico.py;011;موجة ψ(x)
+ar;confinamiento_geometrico.py;012;الموضع x
+ar;confinamiento_geometrico.py;013;سعة ψ(x)
+ar;confinamiento_geometrico.py;014;الحصر الهندسي لأينشتاين-فيد: موجة → جسيم
+ar;confinamiento_geometrico.py;015;عريض
+ar;confinamiento_geometrico.py;016;متساوي
+ar;confinamiento_geometrico.py;017;بني
+ar;confinamiento_geometrico.py;018;الموضع x
+ar;confinamiento_geometrico.py;019;سعة ψ(x)
+ar;confinamiento_geometrico.py;020;1. موجة جيبية على سطح مستو
+ar;confinamiento_geometrico.py;021;عريض
+ar;confinamiento_geometrico.py;022;رمادي
+ar;confinamiento_geometrico.py;023;مركز
+ar;confinamiento_geometrico.py;024;أحمر
+ar;confinamiento_geometrico.py;025;2. انتقال: لف ({progress*100:.0f}%)
+ar;confinamiento_geometrico.py;026;عريض
+ar;confinamiento_geometrico.py;027;الإحداثي X
+ar;confinamiento_geometrico.py;028;الإحداثي Y
+ar;confinamiento_geometrico.py;029;رمادي
+ar;confinamiento_geometrico.py;030;أحمر
+ar;confinamiento_geometrico.py;031;محصورة (n={n_cycles})
+ar;confinamiento_geometrico.py;032;شرط أينشتاين-فيد: L = {n_cycles}λ
+ar;confinamiento_geometrico.py;033;عريض
+ar;confinamiento_geometrico.py;034;3. موجة ذاتية الحصر - جسيم مستقر
+ar;confinamiento_geometrico.py;035;عريض
+ar;confinamiento_geometrico.py;036;الإحداثي X
+ar;confinamiento_geometrico.py;037;الإحداثي Y
+ar;confinamiento_geometrico.py;038;svg
+ar;confinamiento_geometrico.py;039;مضغوط
+ar;confinamiento_geometrico.py;040;بني
+ar;confinamiento_geometrico.py;041;متساوي
+ar;confinamiento_geometrico.py;042;أ) موجة حرة مستوية
+ar;confinamiento_geometrico.py;043;عريض
+ar;confinamiento_geometrico.py;044;الموضع x
+ar;confinamiento_geometrico.py;045;سعة ψ(x)
+ar;confinamiento_geometrico.py;046;برتقالي
+ar;confinamiento_geometrico.py;047;متساوي
+ar;confinamiento_geometrico.py;048;ب) انتقال
+ar;confinamiento_geometrico.py;049;عريض
+ar;confinamiento_geometrico.py;050;الإحداثي X
+ar;confinamiento_geometrico.py;051;الإحداثي Y
+ar;confinamiento_geometrico.py;052;رمادي
+ar;confinamiento_geometrico.py;053;أحمر
+ar;confinamiento_geometrico.py;054;متساوي
+ar;confinamiento_geometrico.py;055;ج) محصور n=3\nL = 3λ
+ar;confinamiento_geometrico.py;056;عريض
+ar;confinamiento_geometrico.py;057;الإحداثي X
+ar;confinamiento_geometrico.py;058;الإحداثي Y
+ar;confinamiento_geometrico.py;059;الشرط: L = nλ
+ar;confinamiento_geometrico.py;060;مركز
+ar;confinamiento_geometrico.py;061;عريض
+ar;confinamiento_geometrico.py;062;svg
+ar;confinamiento_geometrico.py;063;مضغوط
+
+zh;confinamiento_geometrico.py;001;圆形
+zh;confinamiento_geometrico.py;002;黄色
+zh;confinamiento_geometrico.py;003;圆形
+zh;confinamiento_geometrico.py;004;黄色
+zh;confinamiento_geometrico.py;005;生成几何约束SVG动画...
+zh;confinamiento_geometrico.py;006;✅ SVG动画完成
+zh;confinamiento_geometrico.py;007;__main__
+zh;confinamiento_geometrico.py;008;生成几何约束SVG动画...
+zh;confinamiento_geometrico.py;009;✅ SVG动画完成
+zh;confinamiento_geometrico.py;010;等于
+zh;confinamiento_geometrico.py;011;波函数 ψ(x)
+zh;confinamiento_geometrico.py;012;位置 x
+zh;confinamiento_geometrico.py;013;振幅 ψ(x)
+zh;confinamiento_geometrico.py;014;爱因斯坦-VED约束：波 → 粒子
+zh;confinamiento_geometrico.py;015;粗体
+zh;confinamiento_geometrico.py;016;等于
+zh;confinamiento_geometrico.py;017;棕色
+zh;confinamiento_geometrico.py;018;位置 x
+zh;confinamiento_geometrico.py;019;振幅 ψ(x)
+zh;confinamiento_geometrico.py;020;1. 平面上的正弦波
+zh;confinamiento_geometrico.py;021;粗体
+zh;confinamiento_geometrico.py;022;灰色
+zh;confinamiento_geometrico.py;023;居中
+zh;confinamiento_geometrico.py;024;红色
+zh;confinamiento_geometrico.py;025;2. 过渡：卷曲 ({progress*100:.0f}%)
+zh;confinamiento_geometrico.py;026;粗体
+zh;confinamiento_geometrico.py;027;X坐标
+zh;confinamiento_geometrico.py;028;Y坐标
+zh;confinamiento_geometrico.py;029;灰色
+zh;confinamiento_geometrico.py;030;红色
+zh;confinamiento_geometrico.py;031;约束态 (n={n_cycles})
+zh;confinamiento_geometrico.py;032;爱因斯坦-VED条件: L = {n_cycles}λ
+zh;confinamiento_geometrico.py;033;粗体
+zh;confinamiento_geometrico.py;034;3. 自约束波 - 稳定粒子
+zh;confinamiento_geometrico.py;035;粗体
+zh;confinamiento_geometrico.py;036;X坐标
+zh;confinamiento_geometrico.py;037;Y坐标
+zh;confinamiento_geometrico.py;038;svg
+zh;confinamiento_geometrico.py;039;紧凑
+zh;confinamiento_geometrico.py;040;棕色
+zh;confinamiento_geometrico.py;041;等于
+zh;confinamiento_geometrico.py;042;a) 自由平面波
+zh;confinamiento_geometrico.py;043;粗体
+zh;confinamiento_geometrico.py;044;位置 x
+zh;confinamiento_geometrico.py;045;振幅 ψ(x)
+zh;confinamiento_geometrico.py;046;橙色
+zh;confinamiento_geometrico.py;047;等于
+zh;confinamiento_geometrico.py;048;b) 过渡
+zh;confinamiento_geometrico.py;049;粗体
+zh;confinamiento_geometrico.py;050;X坐标
+zh;confinamiento_geometrico.py;051;Y坐标
+zh;confinamiento_geometrico.py;052;灰色
+zh;confinamiento_geometrico.py;053;红色
+zh;confinamiento_geometrico.py;054;等于
+zh;confinamiento_geometrico.py;055;c) 约束 n=3\nL = 3λ
+zh;confinamiento_geometrico.py;056;粗体
+zh;confinamiento_geometrico.py;057;X坐标
+zh;confinamiento_geometrico.py;058;Y坐标
+zh;confinamiento_geometrico.py;059;条件: L = nλ
+zh;confinamiento_geometrico.py;060;居中
+zh;confinamiento_geometrico.py;061;粗体
+zh;confinamiento_geometrico.py;062;svg
+zh;confinamiento_geometrico.py;063;紧凑
+
+ja;confinamiento_geometrico.py;001;丸い
+ja;confinamiento_geometrico.py;002;黄色
+ja;confinamiento_geometrico.py;003;丸い
+ja;confinamiento_geometrico.py;004;黄色
+ja;confinamiento_geometrico.py;005;幾何学的閉じ込めのSVGアニメーション生成中...
+ja;confinamiento_geometrico.py;006;✅ SVGアニメーション完了
+ja;confinamiento_geometrico.py;007;__main__
+ja;confinamiento_geometrico.py;008;幾何学的閉じ込めのSVGアニメーション生成中...
+ja;confinamiento_geometrico.py;009;✅ SVGアニメーション完了
+ja;confinamiento_geometrico.py;010;等しい
+ja;confinamiento_geometrico.py;011;波動 ψ(x)
+ja;confinamiento_geometrico.py;012;位置 x
+ja;confinamiento_geometrico.py;013;振幅 ψ(x)
+ja;confinamiento_geometrico.py;014;アインシュタイン-VED閉じ込め：波 → 粒子
+ja;confinamiento_geometrico.py;015;太字
+ja;confinamiento_geometrico.py;016;等しい
+ja;confinamiento_geometrico.py;017;茶色
+ja;confinamiento_geometrico.py;018;位置 x
+ja;confinamiento_geometrico.py;019;振幅 ψ(x)
+ja;confinamiento_geometrico.py;020;1. 平面上の正弦波
+ja;confinamiento_geometrico.py;021;太字
+ja;confinamiento_geometrico.py;022;灰色
+ja;confinamiento_geometrico.py;023;中央
+ja;confinamiento_geometrico.py;024;赤色
+ja;confinamiento_geometrico.py;025;2. 遷移：巻き付け ({progress*100:.0f}%)
+ja;confinamiento_geometrico.py;026;太字
+ja;confinamiento_geometrico.py;027;X座標
+ja;confinamiento_geometrico.py;028;Y座標
+ja;confinamiento_geometrico.py;029;灰色
+ja;confinamiento_geometrico.py;030;赤色
+ja;confinamiento_geometrico.py;031;閉じ込め状態 (n={n_cycles})
+ja;confinamiento_geometrico.py;032;アインシュタイン-VED条件: L = {n_cycles}λ
+ja;confinamiento_geometrico.py;033;太字
+ja;confinamiento_geometrico.py;034;3. 自己閉じ込め波 - 安定粒子
+ja;confinamiento_geometrico.py;035;太字
+ja;confinamiento_geometrico.py;036;X座標
+ja;confinamiento_geometrico.py;037;Y座標
+ja;confinamiento_geometrico.py;038;svg
+ja;confinamiento_geometrico.py;039;密
+ja;confinamiento_geometrico.py;040;茶色
+ja;confinamiento_geometrico.py;041;等しい
+ja;confinamiento_geometrico.py;042;a) 自由平面波
+ja;confinamiento_geometrico.py;043;太字
+ja;confinamiento_geometrico.py;044;位置 x
+ja;confinamiento_geometrico.py;045;振幅 ψ(x)
+ja;confinamiento_geometrico.py;046;橙色
+ja;confinamiento_geometrico.py;047;等しい
+ja;confinamiento_geometrico.py;048;b) 遷移
+ja;confinamiento_geometrico.py;049;太字
+ja;confinamiento_geometrico.py;050;X座標
+ja;confinamiento_geometrico.py;051;Y座標
+ja;confinamiento_geometrico.py;052;灰色
+ja;confinamiento_geometrico.py;053;赤色
+ja;confinamiento_geometrico.py;054;等しい
+ja;confinamiento_geometrico.py;055;c) 閉じ込め n=3\nL = 3λ
+ja;confinamiento_geometrico.py;056;太字
+ja;confinamiento_geometrico.py;057;X座標
+ja;confinamiento_geometrico.py;058;Y座標
+ja;confinamiento_geometrico.py;059;条件: L = nλ
+ja;confinamiento_geometrico.py;060;中央
+ja;confinamiento_geometrico.py;061;太字
+ja;confinamiento_geometrico.py;062;svg
+ja;confinamiento_geometrico.py;063;密

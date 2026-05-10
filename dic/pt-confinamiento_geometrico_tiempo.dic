@@ -1,0 +1,23 @@
+
+pt;confinamiento_geometrico_tiempo.py;25;n=1: Tubo espaço-tempo liso + onda circular fundamental
+pt;confinamiento_geometrico_tiempo.py;58;ESTADO FUNDAMENTAL n=1\\nEspaço-Tempo + Onda Circular
+pt;confinamiento_geometrico_tiempo.py;71;n=3: Variedade espaço-tempo + onda com 3 nós
+pt;confinamiento_geometrico_tiempo.py;108;ESTADO EXCITADO n=3\\nVariedade Espaço-Tempo + 3 Nós
+pt;confinamiento_geometrico_tiempo.py;121;Comparação lado a lado n=1 vs n=3
+pt;confinamiento_geometrico_tiempo.py;148;n=1: Estado Fundamental
+pt;confinamiento_geometrico_tiempo.py;169;n=3: Estado Excitado
+pt;confinamiento_geometrico_tiempo.py;182;Mostra como as curvas dt geram a superfície n=1
+pt;confinamiento_geometrico_tiempo.py;220;GERAÇÃO n=1: dt → Superfície\\nCurvas Circulares Geram Cilindro
+pt;confinamiento_geometrico_tiempo.py;234;Mostra como as curvas dt geram a superfície n=3
+pt;confinamiento_geometrico_tiempo.py;277;GERAÇÃO n=3: dt → Variedade\\nCurvas com Nós Geram Geometria
+pt;confinamiento_geometrico_tiempo.py;291;Evolução completa dt através de δt
+pt;confinamiento_geometrico_tiempo.py;331;Evolução\\ntemporal
+pt;confinamiento_geometrico_tiempo.py;335;EVOLUÇÃO COMPLETA: dt → δt → Estados n\\nConfinamento Quântico Einstein-VED
+pt;confinamiento_geometrico_tiempo.py;348;🎨 GERANDO OS 6 GRÁFICOS COMPLETOS EINSTEIN-VED...
+pt;confinamiento_geometrico_tiempo.py;360;\\n✅ OS 6 GRÁFICOS COMPLETOS:
+pt;confinamiento_geometrico_tiempo.py;361;1. 1_n1_fundamental.svg - Estado base
+pt;confinamiento_geometrico_tiempo.py;362;2. 2_n3_excitado.svg - Estado excitado
+pt;confinamiento_geometrico_tiempo.py;363;3. 3_comparacion_n1_n3.svg - Comparação
+pt;confinamiento_geometrico_tiempo.py;364;4. 4_generacion_dt_n1.svg - Geração n=1
+pt;confinamiento_geometrico_tiempo.py;365;5. 5_generacion_dt_n3.svg - Geração n=3
+pt;confinamiento_geometrico_tiempo.py;366;6. 6_evolucion_temporal.svg - Evolução completa

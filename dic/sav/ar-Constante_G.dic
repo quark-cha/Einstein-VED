@@ -1,0 +1,56 @@
+idioma;archivo;id;texto
+ar;Constante_G;0045;Proton radius (center line)
+ar;Constante_G;0049;Figure 1: VED confined proton wave, n=2
+ar;Constante_G;0062;Black hole
+ar;Constante_G;0064;2D surface
+ar;Constante_G;0069;Figure 2: Black hole and holographic 2D surface
+ar;Constante_G;0080;±3σ
+ar;Constante_G;0081;Experimental G
+ar;Constante_G;0086;n={n}
+ar;Constante_G;0090;n ∈ Z⁺
+ar;Constante_G;0091;Calculated G [m^3/kg/s^2]
+ar;Constante_G;0092;Figure 3: G target ±3σ
+ar;Constante_G;0118;n ∈ Z⁺
+ar;Constante_G;0119;Calculated G [m^3/kg/s^2]
+ar;Constante_G;0120;Figure 4: G target ±4σ (arrows)
+ar;Constante_G;0133;G(n) asymptotic (continuous)
+ar;Constante_G;0136;Experimental G
+ar;Constante_G;0141;n ∈ Z⁺ \nlim n→∞ G(n)=0
+ar;Constante_G;0145;G(n) [m^3/kg/s^2]
+ar;Constante_G;0146;Figure 5: Asymptotic behavior of G(n) n→∞ (log-log)
+ar;Constante_G;0167;Value [m³/kg·s²]
+ar;Constante_G;0168;Upper limit
+ar;Constante_G;0169;Mean value
+ar;Constante_G;0170;Lower limit
+ar;Constante_G;0171;Empirically obtained
+ar;Constante_G;0172;|G₁ - G₂|
+ar;Constante_G;0173;VED accuracy
+ar;Constante_G;0251;GRAVITATIONAL CONSTANT G
+ar;Constante_G;0270;Confined matter wave
+ar;Constante_G;0280;2D hologram
+ar;Constante_G;0289;Emergence of G
+ar;Constante_G;0291;Figure 8: Matter as confined wave on 2D hologram
+ar;Constante_G;0320;Proton radius
+ar;Constante_G;0321;Radial proton waves
+ar;Constante_G;0322;2D proton waviness (n=4)
+ar;Constante_G;0325;Proton radius
+ar;Constante_G;0326;Proton waves
+ar;Constante_G;0327;2D waviness
+ar;Constante_G;0329;Proton - Femtometer scale (10⁻¹⁵ m)
+ar;Constante_G;0345;Electron orbital radius
+ar;Constante_G;0346;Radial electron waves
+ar;Constante_G;0347;2D electron waviness (n=137)
+ar;Constante_G;0350;Electron orbital radius
+ar;Constante_G;0351;Electron waves
+ar;Constante_G;0352;2D waviness
+ar;Constante_G;0354;Electron - Atomic scale (10⁻¹¹ m)
+ar;Constante_G;0361;Figure 9. 2D and radial waves of proton and electron\n(holography → particles)
+ar;Constante_G;0381;$(L_\mathrm{geom} c)$
+ar;Constante_G;0382;Equating masses,\nM disappears
+ar;Constante_G;0383;by VED
+ar;Constante_G;0384;Each side defines\nits own scale
+ar;Constante_G;0385;discrete of M and G
+ar;Constante_G;0386;n=2 coincides with\nexperimental G value
+ar;Constante_G;0387;(surface)
+ar;Constante_G;0388;Emergent origin\nof gravity
+ar;Constante_G;0412;Figure 10: Conceptual comparison VED vs Schwarzschild

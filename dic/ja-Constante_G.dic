@@ -1,0 +1,39 @@
+
+ja;Constante_G.py;63;陽子の半径（中央線）
+ja;Constante_G.py;66;図1: VED閉じ込め波（陽子）、n=2
+ja;Constante_G.py;79;ブラックホール
+ja;Constante_G.py;81;2D表面
+ja;Constante_G.py;86;図2: ブラックホールと2Dホログラフィック表面
+ja;Constante_G.py;97;$\pm 3\sigma$
+ja;Constante_G.py;98;実験的G
+ja;Constante_G.py;107;$n \in \mathbb{Z}^+$
+ja;Constante_G.py;108;計算G [m³/kg/s²]
+ja;Constante_G.py;109;図3: Gのターゲット ±3σ
+ja;Constante_G.py;126;$\uparrow$
+ja;Constante_G.py;131;$\downarrow$
+ja;Constante_G.py;135;$n \in \mathbb{Z}^+$
+ja;Constante_G.py;136;計算G [m³/kg/s²]
+ja;Constante_G.py;137;図4: Gのターゲット ±4σ（矢印）
+ja;Constante_G.py;149;G(n) 漸近（連続）
+ja;Constante_G.py;152;実験的G
+ja;Constante_G.py;157;$n \in \mathbb{Z}^+$
+ja;Constante_G.py;157;$\lim_{n \to \infty} G(n)=0$
+ja;Constante_G.py;159;round,pad=0.5
+ja;Constante_G.py;161;G(n) [m³/kg/s²]
+ja;Constante_G.py;162;図5: G(n)の漸近的挙動 n→∞ (log-log)
+ja;Constante_G.py;182;概念
+ja;Constante_G.py;182;値 [m³/kg·s²]
+ja;Constante_G.py;182;由来
+ja;Constante_G.py;183;$G_{MAX}$ ±3σ
+ja;Constante_G.py;183;上限
+ja;Constante_G.py;184;$G_2^{EXP}$ 実験値
+ja;Constante_G.py;184;平均値
+ja;Constante_G.py;185;$G_{MIN}$ ∓3σ
+ja;Constante_G.py;185;下限
+ja;Constante_G.py;186;$G_1^{VED}$ (n=2) 正確
+ja;Constante_G.py;186;経験的に得られた
+ja;Constante_G.py;187;絶対差
+ja;Constante_G.py;187;$|G_1 - G_2|$
+ja;Constante_G.py;188;相対誤差
+ja;Constante_G.py;188;VED精度
+ja;Constante_G.py;234;万有引力定数 $G$

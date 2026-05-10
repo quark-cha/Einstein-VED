@@ -1,0 +1,259 @@
+ch;confinamiento.py;0020;计算±3σ范围用于可视化
+ch;confinamiento.py;0037;平均半径 (fm)
+ch;confinamiento.py;0037;最小 (fm)
+ch;confinamiento.py;0037;最大 (fm)
+ch;confinamiento.py;0038;{mc_mean:.3f}
+ch;confinamiento.py;0038;{mc_min:.3f}
+ch;confinamiento.py;0038;{mc_max:.3f}
+ch;confinamiento.py;0038;±{MC_sigma:.3f}
+ch;confinamiento.py;0038;量子力学 (MC)
+ch;confinamiento.py;0039;{lhc_mean:.5f}
+ch;confinamiento.py;0039;{lhc_min:.5f}
+ch;confinamiento.py;0039;{lhc_max:.5f}
+ch;confinamiento.py;0039;±{LHC_sigma:.3f}
+ch;confinamiento.py;0039;LHC 实验
+ch;confinamiento.py;0040;{ved_mean:.5f}
+ch;confinamiento.py;0040;{ved_min:.5f}
+ch;confinamiento.py;0040;{ved_max:.5f}
+ch;confinamiento.py;0040;±{VED_sigma:.5f}
+ch;confinamiento.py;0040;爱因斯坦-VED
+ch;confinamiento.py;0072;图1: 2D与3D约束几何
+ch;confinamiento.py;0079;电子: 2D约束\nn = 137 (表面)
+ch;confinamiento.py;0084;质子: 3D约束\nn = 4 (体积)
+ch;confinamiento.py;0089;夸克: 几何偶极子\n3D锚定
+ch;confinamiento.py;0094;涌现量子统计: 2D与3D
+ch;confinamiento.py;0100;电子2D表面 - 清洁尺度
+ch;confinamiento.py;0132;质子3D体积 - 清洁尺度
+ch;confinamiento.py;0171;锚定到维度的夸克偶极子
+ch;confinamiento.py;0187;夸克 {dim}
+ch;confinamiento.py;0192;强子约束
+ch;confinamiento.py;0200;费米与玻色统计比较
+ch;confinamiento.py;0201;2D约束\n(电子)
+ch;confinamiento.py;0201;3D约束\n(质子)
+ch;confinamiento.py;0208;费米-狄拉克 (排斥)
+ch;confinamiento.py;0210;玻色-爱因斯坦 (凝聚)
+ch;confinamiento.py;0213;统计行为
+ch;confinamiento.py;0218;最大1粒子\n每个状态
+ch;confinamiento.py;0219;多个粒子\n相同状态
+ch;confinamiento.py;0224;图2: 实验验证
+ch;confinamiento.py;0228;质子 VED
+ch;confinamiento.py;0228;质子 LHC
+ch;confinamiento.py;0228;中子 VED
+ch;confinamiento.py;0228;中子 实验
+ch;confinamiento.py;0234;半径 (fm)
+ch;confinamiento.py;0235;强子半径预测
+ch;confinamiento.py;0240;{radius:.5f}
+ch;confinamiento.py;0243;爱因斯坦-VED
+ch;confinamiento.py;0243;格点QCD
+ch;confinamiento.py;0243;组分模型
+ch;confinamiento.py;0247;精度 (%)
+ch;confinamiento.py;0248;精度比较
+ch;confinamiento.py;0253;{prec}%
+ch;confinamiento.py;0259;爱因斯坦-VED
+ch;confinamiento.py;0265;精细结构常数
+ch;confinamiento.py;0270;{value:.3f}
+ch;confinamiento.py;0275;LHC喷注的偶极子解释:\n\n
+ch;confinamiento.py;0276;• 夸克 = 锚定到维度的几何偶极子\n
+ch;confinamiento.py;0277;• 施加能量时: 偶极子断裂\n
+ch;confinamiento.py;0278;• 产生新的夸克-反夸克对\n
+ch;confinamiento.py;0279;• 在相反方向形成强子喷注\n
+ch;confinamiento.py;0280;• 没有无限的'约束力'\n
+ch;confinamiento.py;0280;约束力
+ch;confinamiento.py;0281;• 只有自然的几何重构
+ch;confinamiento.py;0290;图3: 量子悖论解决方案
+ch;confinamiento.py;0310;双缝解决方案
+ch;confinamiento.py;0328;传播方向
+ch;confinamiento.py;0329;位置
+ch;confinamiento.py;0330;双缝解决方案:\n完整表面相互作用
+ch;confinamiento.py;0333;粒子通过两条路径
+ch;confinamiento.py;0333;不是"粒子通过两条路径"\n是表面通过两者
+ch;confinamiento.py;0337;量子纠缠的几何解决方案
+ch;confinamiento.py;0349;粒子A
+ch;confinamiento.py;0350;粒子B
+ch;confinamiento.py;0351;共享几何
+ch;confinamiento.py;0357;量子纠缠:\n共同几何，无超距作用
+ch;confinamiento.py;0362;波函数坍缩解决方案
+ch;confinamiento.py;0368;真实几何 (始终定义)
+ch;confinamiento.py;0369;测量前概率
+ch;confinamiento.py;0369;MC: "测量前概率"
+ch;confinamiento.py;0375;位置
+ch;confinamiento.py;0377;"坍缩"的结束:\n定义几何，非概率性
+ch;confinamiento.py;0383;量子统计解决方案
+ch;confinamiento.py;0387;涌现量子统计\n\n
+ch;confinamiento.py;0388;费米-狄拉克 (排斥):\n
+ch;confinamiento.py;0389;• 2D约束 (电子)\n
+ch;confinamiento.py;0390;• 自然拓扑限制\n
+ch;confinamiento.py;0391;• 每个状态仅1粒子\n\n
+ch;confinamiento.py;0392;玻色-爱因斯坦 (凝聚):\n
+ch;confinamiento.py;0393;• 3D约束 (质子)\n
+ch;confinamiento.py;0394;• 完整球面几何\n
+ch;confinamiento.py;0395;• 多个粒子相同状态\n\n
+ch;confinamiento.py;0396;不是基本属性\n
+ch;confinamiento.py;0397;是几何结果
+ch;confinamiento.py;0405;保存所有图形
+ch;confinamiento.py;0408;生成爱因斯坦-VED可视化...
+ch;confinamiento.py;0411;生成图1: 约束几何...
+ch;confinamiento.py;0418;✓ 约束几何已保存
+ch;confinamiento.py;0420;生成图2: 实验验证...
+ch;confinamiento.py;0427;✓ 实验验证已保存
+ch;confinamiento.py;0429;生成图3: 量子悖论解决方案...
+ch;confinamiento.py;0435;✓ 量子悖论解决方案已保存
+ch;confinamiento.py;0437;\n✅ 所有图形以{format}格式保存 (DPI: {dpi})
+ch;confinamiento.py;0440;❌ 生成期间错误: {e}
+ch;confinamiento.py;0448;开始生成爱因斯坦-VED可视化...
+ch;confinamiento.py;0453;\n🎨 可视化完成!
+ch;confinamiento.py;0454;生成的文件:
+ch;confinamiento_geometrico.py;0023;波函数 ψ(x)
+ch;confinamiento_geometrico.py;0026;位置 x
+ch;confinamiento_geometrico.py;0027;振幅 ψ(x)
+ch;confinamiento_geometrico.py;0028;爱因斯坦-VED约束: 波 → 粒子
+ch;confinamiento_geometrico.py;0043;位置 x
+ch;confinamiento_geometrico.py;0044;振幅 ψ(x)
+ch;confinamiento_geometrico.py;0045;1. 平面上的正弦波
+ch;confinamiento_geometrico.py;0064;2. 过渡: 卷绕 ({progress*100:.0f}%)
+ch;confinamiento_geometrico.py;0065;X坐标
+ch;confinamiento_geometrico.py;0066;Y坐标
+ch;confinamiento_geometrico.py;0076;约束 (n={n_cycles})
+ch;confinamiento_geometrico.py;0077;爱因斯坦-VED条件: L = {n_cycles}λ
+ch;confinamiento_geometrico.py;0080;3. 自约束波 - 稳定粒子
+ch;confinamiento_geometrico.py;0081;X坐标
+ch;confinamiento_geometrico.py;0082;Y坐标
+ch;confinamiento_geometrico.py;0118;a) 自由平面波
+ch;confinamiento_geometrico.py;0119;位置 x
+ch;confinamiento_geometrico.py;0120;振幅 ψ(x)
+ch;confinamiento_geometrico.py;0137;b) 过渡
+ch;confinamiento_geometrico.py;0138;X坐标
+ch;confinamiento_geometrico.py;0139;Y坐标
+ch;confinamiento_geometrico.py;0155;c) 约束 n=3\nL = 3λ
+ch;confinamiento_geometrico.py;0156;X坐标
+ch;confinamiento_geometrico.py;0157;Y坐标
+ch;confinamiento_geometrico.py;0159;条件: L = nλ
+ch;confinamiento_geometrico_tiempo.py;0011;n=1: 光滑时空管 + 基本圆波
+ch;confinamiento_geometrico_tiempo.py;0044;基态 n=1\n时空 + 圆波
+ch;confinamiento_geometrico_tiempo.py;0056;n=3: 时空流形 + 带3节点的波
+ch;confinamiento_geometrico_tiempo.py;0093;激发态 n=3\n时空流形 + 3节点
+ch;confinamiento_geometrico_tiempo.py;0105;并排比较 n=1 对 n=3
+ch;confinamiento_geometrico_tiempo.py;0132;n=1: 基态
+ch;confinamiento_geometrico_tiempo.py;0153;n=3: 激发态
+ch;confinamiento_geometrico_tiempo.py;0164;显示dt曲线如何生成n=1表面
+ch;confinamiento_geometrico_tiempo.py;0202;生成 n=1: dt → 表面\n圆曲线生成圆柱
+ch;confinamiento_geometrico_tiempo.py;0214;显示dt曲线如何生成n=3表面
+ch;confinamiento_geometrico_tiempo.py;0257;生成 n=3: dt → 流形\n带节点曲线生成几何
+ch;confinamiento_geometrico_tiempo.py;0269;通过δt的完整dt演化
+ch;confinamiento_geometrico_tiempo.py;0302;δt={t}
+ch;confinamiento_geometrico_tiempo.py;0309;时间\n演化
+ch;confinamiento_geometrico_tiempo.py;0313;完整演化: dt → δt → n状态\n爱因斯坦-VED量子约束
+ch;confinamiento_geometrico_tiempo.py;0325;🎨 生成6个完整爱因斯坦-VED图形...
+ch;confinamiento_geometrico_tiempo.py;0337;\n✅ 6个完整图形:
+ch;Constante_G.py;0042;质子半径 (中线)
+ch;Constante_G.py;0046;图1: 质子的VED约束波, n=2
+ch;Constante_G.py;0059;黑洞
+ch;Constante_G.py;0061;2D表面
+ch;Constante_G.py;0066;图2: 黑洞和全息2D表面
+ch;Constante_G.py;0078;实验G
+ch;Constante_G.py;0083;n={n}
+ch;Constante_G.py;0088;计算G [m^3/kg/s^2]
+ch;Constante_G.py;0089;图3: G目标 ±3σ
+ch;Constante_G.py;0116;计算G [m^3/kg/s^2]
+ch;Constante_G.py;0117;图4: G目标 ±4σ (箭头)
+ch;Constante_G.py;0130;渐近G(n) (连续)
+ch;Constante_G.py;0133;实验G
+ch;Constante_G.py;0140;round,pad=0.5
+ch;Constante_G.py;0143;图5: G(n)的渐近行为 n→∞ (对数-对数)
+ch;Constante_G.py;0164;值 [m³/kg·s²]
+ch;Constante_G.py;0165;{G_max:.8e}
+ch;Constante_G.py;0165;上限
+ch;Constante_G.py;0166;$G_2^{EXP}$ 实验
+ch;Constante_G.py;0166;{G_exp:.8e}
+ch;Constante_G.py;0166;平均值
+ch;Constante_G.py;0167;{G_min:.8e}
+ch;Constante_G.py;0167;下限
+ch;Constante_G.py;0168;$G_1^{VED}$ (n=2) 精确
+ch;Constante_G.py;0168;经验获得
+ch;Constante_G.py;0169;绝对差
+ch;Constante_G.py;0169;{error_abs:.8e}
+ch;Constante_G.py;0170;相对误差
+ch;Constante_G.py;0170;{error_rel:.6f} %
+ch;Constante_G.py;0170;VED精度
+ch;Constante_G.py;0248;引力常数 G
+ch;Constante_G.py;0267;约束物质波
+ch;Constante_G.py;0277;2D全息图
+ch;Constante_G.py;0286;G的涌现
+ch;Constante_G.py;0288;图8: 物质作为2D全息图上的约束波
+ch;Constante_G.py;0317;质子半径
+ch;Constante_G.py;0318;质子径向波
+ch;Constante_G.py;0319;质子2D波动 (n=4)
+ch;Constante_G.py;0322;质子半径
+ch;Constante_G.py;0323;质子波
+ch;Constante_G.py;0324;2D波动
+ch;Constante_G.py;0326;质子 - 飞米尺度 (10⁻¹⁵ m)
+ch;Constante_G.py;0342;电子轨道半径
+ch;Constante_G.py;0343;电子径向波
+ch;Constante_G.py;0344;电子2D波动 (n=137)
+ch;Constante_G.py;0347;电子轨道半径
+ch;Constante_G.py;0348;电子波
+ch;Constante_G.py;0349;2D波动
+ch;Constante_G.py;0351;电子 - 原子尺度 (10⁻¹¹ m)
+ch;Constante_G.py;0358;图9. 质子和电子的2D和径向波\n(全息 → 粒子)
+ch;Constante_G.py;0378;$M_\mathrm{VED} = n h /$
+ch;Constante_G.py;0378;$(L_\mathrm{geom} c)$
+ch;Constante_G.py;0379;$M_\mathrm{Sch} = c^2 R_s /$
+ch;Constante_G.py;0379;质量相等时，\nM消失
+ch;Constante_G.py;0380;$L_\mathrm{geom}$ 定义
+ch;Constante_G.py;0380;通过VED
+ch;Constante_G.py;0381;$R_s$ 定义通过
+ch;Constante_G.py;0381;每边定义\n自己的尺度
+ch;Constante_G.py;0382;量子化
+ch;Constante_G.py;0382;n整数 → M和G的\n离散值
+ch;Constante_G.py;0383;n不出现，\nG被确定
+ch;Constante_G.py;0383;n=2与实验G值\n一致
+ch;Constante_G.py;0384;2D约束
+ch;Constante_G.py;0384;(表面)
+ch;Constante_G.py;0385;3D → 隐含\n全息
+ch;Constante_G.py;0385;引力的涌现\n起源
+ch;Constante_G.py;0409;图10: VED与史瓦西概念比较
+ch;entrelazamiento_geometrico.py;0009;爱因斯坦基础
+ch;entrelazamiento_geometrico.py;0009;基本方程
+ch;entrelazamiento_geometrico.py;0032;量子纠缠: 几何解释 爱因斯坦-VED
+ch;entrelazamiento_geometrico.py;0049;内部框架: 共享固有时
+ch;entrelazamiento_geometrico.py;0068;外部框架: 传统视角
+ch;entrelazamiento_geometrico.py;0073;符号说明:\n\n
+ch;entrelazamiento_geometrico.py;0074;🔴 粒子A (45°)\n
+ch;entrelazamiento_geometrico.py;0075;🟢 粒子B (225°)\n
+ch;entrelazamiento_geometrico.py;0076;⚫ 观察者\n
+ch;entrelazamiento_geometrico.py;0077;▬▬ 几何连接\n
+ch;entrelazamiento_geometrico.py;0078;▬▬ 视线
+ch;entrelazamiento_geometrico.py;0084;round,pad=0.6
+ch;entrelazamiento_geometrico.py;0088;波前
+ch;entrelazamiento_geometrico.py;0090;爱因斯坦-VED关键:\n\n
+ch;entrelazamiento_geometrico.py;0091;两个粒子 (包括对跖点)\n共享相同固有时空t₀, s₀\n\n
+ch;entrelazamiento_geometrico.py;0092;因为: 在速度c时dt' → 0和ds' → 0\n\n
+ch;entrelazamiento_geometrico.py;0095;无超距作用
+ch;entrelazamiento_geometrico.py;0101;round,pad=0.8
+ch;entrelazamiento_geometrico.py;0109;爱因斯坦-VED基础:\n\n
+ch;entrelazamiento_geometrico.py;0110;纠缠粒子从其起源共享共同的固有时空。
+ch;entrelazamiento_geometrico.py;0111;当以光速旅行时，它们的固有时间和空间微分趋于零
+ch;entrelazamiento_geometrico.py;0112;(dt' → 0, ds' → 0)，将它们保持在相同时刻t₀和位置s₀。
+ch;entrelazamiento_geometrico.py;0113;这种几何同时性解释了量子关联而不违反相对论。
+ch;entrelazamiento_geometrico.py;0119;round,pad=0.8
+ch;entrelazamiento_geometrico.py;0125;基本方程:\n\n
+ch;entrelazamiento_geometrico.py;0126;对于光速粒子:\n
+ch;entrelazamiento_geometrico.py;0130;场方程:\n
+ch;entrelazamiento_geometrico.py;0131;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+ch;entrelazamiento_geometrico.py;0132;在固有框架中的绝对同时性
+ch;entrelazamiento_geometrico.py;0138;round,pad=0.8
+ch;entrelazamiento_geometrico.py;0144;爱因斯坦-VED解释: 量子纠缠当从时空几何理解时\n
+ch;entrelazamiento_geometrico.py;0145;不再是悖论。在同一事件生成的粒子共享波前\n
+ch;entrelazamiento_geometrico.py;0146;其中它们的固有时在t₀保持冻结。这种内在同时性解释\n
+ch;entrelazamiento_geometrico.py;0147;完美关联而无'幽灵作用'。量子概率反映有限\n
+ch;entrelazamiento_geometrico.py;0147;幽灵作用
+ch;entrelazamiento_geometrico.py;0148;观察者视角，非基本属性。
+ch;entrelazamiento_geometrico.py;0154;round,pad=0.8
+ch;entrelazamiento_geometrico.py;0167;🎯 创建具有相同级别框的最终版本...
+ch;entrelazamiento_geometrico.py;0170;\n✨ 应用的修正:
+ch;entrelazamiento_geometrico.py;0171;• '爱因斯坦基础'和'方程'框在同一级别
+ch;entrelazamiento_geometrico.py;0171;爱因斯坦基础
+ch;entrelazamiento_geometrico.py;0172;• 更宽的图形 (16x10) 以容纳两者
+ch;entrelazamiento_geometrico.py;0173;• 平衡对称设计
+ch;entrelazamiento_geometrico.py;0174;• 装饰和颜色被尊重
+ch;entrelazamiento_geometrico.py;0175;• 零重叠

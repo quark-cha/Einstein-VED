@@ -1,0 +1,26 @@
+2025:11:27-04:02:39;0;  CAMBIO línea 114: 'transform=ax4.transAxes, ha='center', weight='bold', fontsize=11,' -> 'transform=ax4.transAxes, ha='center', weight='{ved_min:.3f}', fontsize=11,'
+2025:11:27-04:02:39;0;  CAMBIO línea 121: 'plt.suptitle('PREDICCIONES EINSTEIN-VED: Geometría Exacta vs Datos Experimentales\n' +' -> 'plt.suptitle('EINSTEIN-VED PREDIKCIE: Geometría Exacta vs Datos Experimentales\n' +'
+2025:11:27-04:02:39;0;  CAMBIO línea 122: ''De átomos a quarks - Todos los tamaños calculables exactamente',' -> ''Od atómov po quarky - Všetky veľkosti exaktne vypočítateľné','
+2025:11:27-04:02:39;0;  CAMBIO línea 123: 'fontsize=14, fontweight='bold')' -> 'fontsize=14, fontweight='{ved_min:.3f}')'
+2025:11:27-04:02:39;0;  CAMBIO línea 125: 'plt.savefig('validacion_experimental.svg', format='svg', bbox_inches='tight', dpi=300)' -> 'plt.savefig('validacion_experimental.svg', format='Rozsahy (±3σ) v fm', bbox_inches='tight', dpi=300)'
+2025:11:27-04:02:39;0;  CAMBIO línea 130: 'print("PREDICCIONES EXACTAS EINSTEIN-VED")' -> 'print("EXAKTNÉ EINSTEIN-VED PREDIKCIE")'
+2025:11:27-04:02:39;0;  CAMBIO línea 133: 'print(f"\nPRECISIÓN vs EXPERIMENTAL:")' -> 'print(f"\nPRESNOSŤ vs EXPERIMENTÁLNA:")'
+2025:11:27-04:02:39;0;  CAMBIO línea 134: 'print(f"Protón:  {precisiones_ved[0]:.2f}%")' -> 'print(f"Protón:  {presnosťes_ved[0]:.2f}%")'
+2025:11:27-04:02:39;0;  CAMBIO línea 135: 'print(f"Neutrón: {precisiones_ved[1]:.2f}%")' -> 'print(f"Neutrón: {presnosťes_ved[1]:.2f}%")'
+2025:11:27-04:02:39;0;  CAMBIO línea 137: 'print(f"\nPREDICCIÓN SOBRE QUARKS:")' -> 'print(f"\nPREDIKCIA PRE QUARKY:")'
+2025:11:27-04:02:39;0;  CAMBIO línea 138: 'print(f"Tamaño mínimo quark (VED): {datos_experimentales['prediccion_quark_ved']*1e15:.3f} fm")' -> 'print(f"Tamaño mínimo quark (VED): {datos_experimentales['predikcia_quark_ved']*1e15:.3f} fm")'
+2025:11:27-04:02:39;0;  CAMBIO línea 139: 'print(f"Límite experimental actual: < 0.001 fm")' -> 'print(f"Aktuálna experimentálna hranica: < 0.001 fm")'
+2025:11:27-04:02:39;0;  CAMBIO línea 140: 'print(f"Conclusión: Los quarks NO pueden ser puntuales")' -> 'print(f"Conclusión: Los quarks NO pueden ser bodovýes")'
+2025:11:27-04:02:39;0;  CAMBIO línea 142: 'print(f"\nRELACIÓN MASA-TAMAÑO:")' -> 'print(f"\nVZŤAH HMOTNOSŤ-VEĽKOSŤ:")'
+2025:11:27-04:02:39;0;  CAMBIO línea 143: 'print(f"Electrón (0.511 MeV): {2.426e-12:.2e} m")' -> 'print(f"Elektrón (0.511 MeV): {2.426e-12:.2e} m")'
+2025:11:27-04:02:39;0;  CAMBIO línea 148: 'print("🔬 GENERANDO PREDICCIONES EINSTEIN-VED...")' -> 'print("🔬 GENEROVANIE EINSTEIN-VED PREDIKCIÍ...")'
+2025:11:27-04:02:39;0;  CAMBIO línea 150: 'print("✅ GRÁFICO DE PREDICCIONES GENERADO")' -> 'print("✅ GRAF PREDIKCIÍ VYGENEROVANÝ")'
+2025:11:27-04:02:39;0;  Cambios realizados: 56
+2025:11:27-04:02:39;0;✅ Script generado: c:\Users\vedq\Desktop\desarrollo\SRC-VED\Einstein-VED\tmp\sk_validacion_experimental.py (cambios: 56)
+2025:11:27-04:02:41;3;Error ejecutando c:\Users\vedq\Desktop\desarrollo\SRC-VED\Einstein-VED\tmp\sk_proton_comparativa_destacado.py: Command '['c:\\Python313\\python.exe', 'c:\\Users\\vedq\\Desktop\\desarrollo\\SRC-VED\\Einstein-VED\\tmp\\sk_proton_comparativa_destacado.py']' returned non-zero exit status 1.
+2025:11:27-04:02:41;0;[sk_confinamiento.py stdout] Total imágenes movidas: 0
+2025:11:27-04:02:41;3;Error ejecutando c:\Users\vedq\Desktop\desarrollo\SRC-VED\Einstein-VED\tmp\sk_confinamiento_geometrico.py: Command '['c:\\Python313\\python.exe', 'c:\\Users\\vedq\\Desktop\\desarrollo\\SRC-VED\\Einstein-VED\\tmp\\sk_confinamiento_geometrico.py']' returned non-zero exit status 1.
+2025:11:27-04:02:42;0;[sk_confinamiento_geometrico_tiempo.py stdout] Total imágenes movidas: 0
+2025:11:27-04:02:42;0;[sk_entrelazamiento_geometrico.py stdout] Total imágenes movidas: 0
+2025:11:27-04:02:42;0;[sk_graficas_einstein_ved_n4.py stdout] Error moviendo figura_1_proton.png: [WinError 32] El proceso no tiene acceso al archivo porque está siendo utilizado por otro proceso: 'figura_1_proton.png'
+Total imágenes movidas: 0

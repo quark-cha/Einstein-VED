@@ -1,0 +1,23 @@
+
+ja;confinamiento_geometrico_tiempo.py;25;n=1：滑らかな時空チューブ＋基本円形波
+ja;confinamiento_geometrico_tiempo.py;58;基底状態 n=1\\n時空＋円形波
+ja;confinamiento_geometrico_tiempo.py;71;n=3：時空多様体＋3つのノードを持つ波
+ja;confinamiento_geometrico_tiempo.py;108;励起状態 n=3\\n時空多様体＋3ノード
+ja;confinamiento_geometrico_tiempo.py;121;n=1 と n=3 の並列比較
+ja;confinamiento_geometrico_tiempo.py;148;n=1：基底状態
+ja;confinamiento_geometrico_tiempo.py;169;n=3：励起状態
+ja;confinamiento_geometrico_tiempo.py;182;dt 曲線が n=1 の表面を生成する様子を示す
+ja;confinamiento_geometrico_tiempo.py;220;生成 n=1：dt → 表面\\n円形曲線が円柱を生成
+ja;confinamiento_geometrico_tiempo.py;234;dt 曲線が n=3 の表面を生成する様子を示す
+ja;confinamiento_geometrico_tiempo.py;277;生成 n=3：dt → 多様体\\nノードを持つ曲線が幾何学を生成
+ja;confinamiento_geometrico_tiempo.py;291;δt を通した dt の完全な進化
+ja;confinamiento_geometrico_tiempo.py;331;時間的\\n進化
+ja;confinamiento_geometrico_tiempo.py;335;完全進化：dt → δt → n 状態\\nアインシュタイン-VED 量子閉じ込め
+ja;confinamiento_geometrico_tiempo.py;348;🎨 EINSTEIN-VED の 6 つの完全なグラフを生成中...
+ja;confinamiento_geometrico_tiempo.py;360;\\n✅ 6 つの完全なグラフ：
+ja;confinamiento_geometrico_tiempo.py;361;1. 1_n1_fundamental.svg - 基底状態
+ja;confinamiento_geometrico_tiempo.py;362;2. 2_n3_excited.svg - 励起状態
+ja;confinamiento_geometrico_tiempo.py;363;3. 3_comparacion_n1_n3.svg - 比較
+ja;confinamiento_geometrico_tiempo.py;364;4. 4_generacion_dt_n1.svg - 生成 n=1
+ja;confinamiento_geometrico_tiempo.py;365;5. 5_generacion_dt_n3.svg - 生成 n=3
+ja;confinamiento_geometrico_tiempo.py;366;6. 6_evolucion_temporal.svg - 完全な進化

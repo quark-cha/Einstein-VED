@@ -1,0 +1,23 @@
+
+zh;confinamiento_geometrico_tiempo.py;25;n=1：平滑时空管 + 基本圆波
+zh;confinamiento_geometrico_tiempo.py;58;基态 n=1\\n时空 + 圆波
+zh;confinamiento_geometrico_tiempo.py;71;n=3：时空流形 + 具有3个节点的波
+zh;confinamiento_geometrico_tiempo.py;108;激发态 n=3\\n时空流形 + 3 个节点
+zh;confinamiento_geometrico_tiempo.py;121;并排比较 n=1 vs n=3
+zh;confinamiento_geometrico_tiempo.py;148;n=1：基态
+zh;confinamiento_geometrico_tiempo.py;169;n=3：激发态
+zh;confinamiento_geometrico_tiempo.py;182;显示 dt 曲线如何生成 n=1 的表面
+zh;confinamiento_geometrico_tiempo.py;220;生成 n=1：dt → 表面\\n圆形曲线生成圆柱
+zh;confinamiento_geometrico_tiempo.py;234;显示 dt 曲线如何生成 n=3 的表面
+zh;confinamiento_geometrico_tiempo.py;277;生成 n=3：dt → 流形\\n带节点的曲线生成几何结构
+zh;confinamiento_geometrico_tiempo.py;291;通过 δt 的 dt 完整演化
+zh;confinamiento_geometrico_tiempo.py;331;时间\\n演化
+zh;confinamiento_geometrico_tiempo.py;335;完整演化：dt → δt → n 状态\\n爱因斯坦-VED 量子束缚
+zh;confinamiento_geometrico_tiempo.py;348;🎨 生成 6 个完整的 EINSTEIN-VED 图表...
+zh;confinamiento_geometrico_tiempo.py;360;\\n✅ 6 个完整图表：
+zh;confinamiento_geometrico_tiempo.py;361;1. 1_n1_fundamental.svg - 基本状态
+zh;confinamiento_geometrico_tiempo.py;362;2. 2_n3_excited.svg - 激发状态
+zh;confinamiento_geometrico_tiempo.py;363;3. 3_comparacion_n1_n3.svg - 比较
+zh;confinamiento_geometrico_tiempo.py;364;4. 4_generacion_dt_n1.svg - 生成 n=1
+zh;confinamiento_geometrico_tiempo.py;365;5. 5_generacion_dt_n3.svg - 生成 n=3
+zh;confinamiento_geometrico_tiempo.py;366;6. 6_evolucion_temporal.svg - 完整演化

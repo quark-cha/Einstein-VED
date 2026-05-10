@@ -1,0 +1,400 @@
+fr;confinamiento.py;0020;Calcule la plage ±3σ pour la visualisation
+fr;confinamiento.py;0037;Rayon moyen (fm)
+fr;confinamiento.py;0037;Min (fm)
+fr;confinamiento.py;0037;Max (fm)
+fr;confinamiento.py;0038;{mc_mean:.3f}
+fr;confinamiento.py;0038;{mc_min:.3f}
+fr;confinamiento.py;0038;{mc_max:.3f}
+fr;confinamiento.py;0038;±{MC_sigma:.3f}
+fr;confinamiento.py;0038;Mécanique Quantique (MC)
+fr;confinamiento.py;0039;{lhc_mean:.5f}
+fr;confinamiento.py;0039;{lhc_min:.5f}
+fr;confinamiento.py;0039;{lhc_max:.5f}
+fr;confinamiento.py;0039;±{LHC_sigma:.3f}
+fr;confinamiento.py;0039;Expérimental LHC
+fr;confinamiento.py;0040;{ved_mean:.5f}
+fr;confinamiento.py;0040;{ved_min:.5f}
+fr;confinamiento.py;0040;{ved_max:.5f}
+fr;confinamiento.py;0040;±{VED_sigma:.5f}
+fr;confinamiento.py;0040;Einstein-VED
+fr;confinamiento.py;0072;Figure 1: Géométries de confinement 2D vs 3D
+fr;confinamiento.py;0079;Électron: Confinement 2D\nn = 137 (Surface)
+fr;confinamiento.py;0084;Proton: Confinement 3D\nn = 4 (Volume)
+fr;confinamiento.py;0089;Quarks: Dipôles Géométriques\nAncrage 3D
+fr;confinamiento.py;0094;Statistique Quantique Émergente: 2D vs 3D
+fr;confinamiento.py;0100;Surface 2D de l'électron - ÉCHELLES NETTES
+fr;confinamiento.py;0132;Volume 3D du proton - ÉCHELLES NETTES
+fr;confinamiento.py;0171;Dipôles de quarks ancrés aux dimensions
+fr;confinamiento.py;0187;Quark {dim}
+fr;confinamiento.py;0192;Confinement Hadronique
+fr;confinamiento.py;0200;Comparaison statistique Fermi vs Bose
+fr;confinamiento.py;0201;Confinement 2D\n(Électron)
+fr;confinamiento.py;0201;Confinement 3D\n(Proton)
+fr;confinamiento.py;0208;Fermi-Dirac (Exclusion)
+fr;confinamiento.py;0210;Bose-Einstein (Condensation)
+fr;confinamiento.py;0213;Comportement Statistique
+fr;confinamiento.py;0218;Maximum 1 particule\npar état
+fr;confinamiento.py;0219;Multiples particules\nmême état
+fr;confinamiento.py;0224;Figure 2: Validation expérimentale
+fr;confinamiento.py;0228;Proton VED
+fr;confinamiento.py;0228;Proton LHC
+fr;confinamiento.py;0228;Neutron VED
+fr;confinamiento.py;0228;Neutron Exp
+fr;confinamiento.py;0234;Rayon (fm)
+fr;confinamiento.py;0235;Prédiction des Rayons Hadroniques
+fr;confinamiento.py;0240;{radius:.5f}
+fr;confinamiento.py;0243;Einstein-VED
+fr;confinamiento.py;0243;QCD Réseau
+fr;confinamiento.py;0243;Modèle Constituant
+fr;confinamiento.py;0247;Précision (%)
+fr;confinamiento.py;0248;Comparaison des Précisions
+fr;confinamiento.py;0253;{prec}%
+fr;confinamiento.py;0259;Einstein-VED
+fr;confinamiento.py;0265;Constante de Structure Fine
+fr;confinamiento.py;0270;{value:.3f}
+fr;confinamiento.py;0275;EXPLICATION DIPOLAIRE DES JETS AU LHC:\n\n
+fr;confinamiento.py;0276;• Quarks = Dipôles géométriques ancrés aux dimensions\n
+fr;confinamiento.py;0277;• En appliquant l'énergie: rupture dipolaire\n
+fr;confinamiento.py;0278;• Création de nouvelles paires quark-antiquark\n
+fr;confinamiento.py;0279;• Formation de jets hadroniques en directions opposées\n
+fr;confinamiento.py;0280;• Pas de 'force de confinement' infinie\n
+fr;confinamiento.py;0280;force de confinement
+fr;confinamiento.py;0281;• Seulement reconfiguration géométrique naturelle
+fr;confinamiento.py;0290;Figure 3: Solution aux paradoxes quantiques
+fr;confinamiento.py;0310;Solution à la double fente
+fr;confinamiento.py;0328;Direction de propagation
+fr;confinamiento.py;0329;Position
+fr;confinamiento.py;0330;SOLUTION DOUBLE FENTE:\nSurface complète interagit
+fr;confinamiento.py;0333;particule par deux chemins
+fr;confinamiento.py;0333;Pas "particule par deux chemins"\nC'est SURFACE par les deux
+fr;confinamiento.py;0337;Solution géométrique à l'intrication
+fr;confinamiento.py;0349;Particule A
+fr;confinamiento.py;0350;Particule B
+fr;confinamiento.py;0351;GÉOMÉTRIE PARTAGÉE
+fr;confinamiento.py;0357;INTRICATION:\nGéométrie commune, pas d'action à distance
+fr;confinamiento.py;0362;Solution à l'effondrement de la fonction d'onde
+fr;confinamiento.py;0368;Géométrie réelle (toujours définie)
+fr;confinamiento.py;0369;Probabilité avant mesure
+fr;confinamiento.py;0369;MC: "Probabilité avant mesure"
+fr;confinamiento.py;0375;Position
+fr;confinamiento.py;0377;FIN DE "L'EFFONDREMENT":\nGéométrie définie, non probabiliste
+fr;confinamiento.py;0383;Solution à la statistique quantique
+fr;confinamiento.py;0387;STATISTIQUE QUANTIQUE ÉMERGENTE\n\n
+fr;confinamiento.py;0388;Fermi-Dirac (Exclusion):\n
+fr;confinamiento.py;0389;• Confinement 2D (électron)\n
+fr;confinamiento.py;0390;• Restriction topologique naturelle\n
+fr;confinamiento.py;0391;• Seulement 1 particule par état\n\n
+fr;confinamiento.py;0392;Bose-Einstein (Condensation):\n
+fr;confinamiento.py;0393;• Confinement 3D (proton)\n
+fr;confinamiento.py;0394;• Géométrie sphérique complète\n
+fr;confinamiento.py;0395;• Multiples particules même état\n\n
+fr;confinamiento.py;0396;Ce ne sont PAS des propriétés fondamentales\n
+fr;confinamiento.py;0397;Ce SONT des conséquences géométriques
+fr;confinamiento.py;0405;Sauvegarder toutes les figures
+fr;confinamiento.py;0408;Génération des visualisations Einstein-VED...
+fr;confinamiento.py;0411;Génération Figure 1: Géométries de confinement...
+fr;confinamiento.py;0418;✓ Géométries de confinement sauvegardées
+fr;confinamiento.py;0420;Génération Figure 2: Validation expérimentale...
+fr;confinamiento.py;0427;✓ Validation expérimentale sauvegardée
+fr;confinamiento.py;0429;Génération Figure 3: Solution paradoxes quantiques...
+fr;confinamiento.py;0435;✓ Solution paradoxes quantiques sauvegardée
+fr;confinamiento.py;0437;\n✅ Toutes les figures sauvegardées en format {format} (DPI: {dpi})
+fr;confinamiento.py;0440;❌ Erreur pendant la génération: {e}
+fr;confinamiento.py;0448;Début de la génération des visualisations Einstein-VED...
+fr;confinamiento.py;0453;\n🎨 Visualisations terminées!
+fr;confinamiento.py;0454;Fichiers générés:
+fr;confinamiento_geometrico.py;0023;Onde ψ(x)
+fr;confinamiento_geometrico.py;0026;Position x
+fr;confinamiento_geometrico.py;0027;Amplitude ψ(x)
+fr;confinamiento_geometrico.py;0028;CONFINEMENT EINSTEIN-VED: Onde → Particule
+fr;confinamiento_geometrico.py;0043;Position x
+fr;confinamiento_geometrico.py;0044;Amplitude ψ(x)
+fr;confinamiento_geometrico.py;0045;1. Onde Sinusoïdale sur Surface Plane
+fr;confinamiento_geometrico.py;0064;2. Transition: Enroulement ({progress*100:.0f}%)
+fr;confinamiento_geometrico.py;0065;Coordonnée X
+fr;confinamiento_geometrico.py;0066;Coordonnée Y
+fr;confinamiento_geometrico.py;0076;Confinée (n={n_cycles})
+fr;confinamiento_geometrico.py;0077;CONDITION EINSTEIN-VED: L = {n_cycles}λ
+fr;confinamiento_geometrico.py;0080;3. Onde Auto-Confinée - Particule Stable
+fr;confinamiento_geometrico.py;0081;Coordonnée X
+fr;confinamiento_geometrico.py;0082;Coordonnée Y
+fr;confinamiento_geometrico.py;0118;a) Onde Plane Libre
+fr;confinamiento_geometrico.py;0119;Position x
+fr;confinamiento_geometrico.py;0120;Amplitude ψ(x)
+fr;confinamiento_geometrico.py;0137;b) Transition
+fr;confinamiento_geometrico.py;0138;Coordonnée X
+fr;confinamiento_geometrico.py;0139;Coordonnée Y
+fr;confinamiento_geometrico.py;0155;c) Confiné n=3\nL = 3λ
+fr;confinamiento_geometrico.py;0156;Coordonnée X
+fr;confinamiento_geometrico.py;0157;Coordonnée Y
+fr;confinamiento_geometrico.py;0159;CONDITION: L = nλ
+fr;confinamiento_geometrico_tiempo.py;0011;n=1: Tube espace-temps lisse + onde circulaire fondamentale
+fr;confinamiento_geometrico_tiempo.py;0044;ÉTAT FONDAMENTAL n=1\nEspace-Temps + Onde Circulaire
+fr;confinamiento_geometrico_tiempo.py;0056;n=3: Variété espace-temps + onde avec 3 nœuds
+fr;confinamiento_geometrico_tiempo.py;0093;ÉTAT EXCITÉ n=3\nVariété Espace-Temps + 3 Nœuds
+fr;confinamiento_geometrico_tiempo.py;0105;Comparaison côte à côte n=1 vs n=3
+fr;confinamiento_geometrico_tiempo.py;0132;n=1: État Fondamental
+fr;confinamiento_geometrico_tiempo.py;0153;n=3: État Excité
+fr;confinamiento_geometrico_tiempo.py;0164;Montre comment les courbes dt génèrent la surface n=1
+fr;confinamiento_geometrico_tiempo.py;0202;GÉNÉRATION n=1: dt → Surface\nCourbes Circulaires Génèrent Cylindre
+fr;confinamiento_geometrico_tiempo.py;0214;Montre comment les courbes dt génèrent la surface n=3
+fr;confinamiento_geometrico_tiempo.py;0257;GÉNÉRATION n=3: dt → Variété\nCourbes avec Nœuds Génèrent Géométrie
+fr;confinamiento_geometrico_tiempo.py;0269;Évolution complète dt à travers δt
+fr;confinamiento_geometrico_tiempo.py;0302;δt={t}
+fr;confinamiento_geometrico_tiempo.py;0309;Évolution\ntemporelle
+fr;confinamiento_geometrico_tiempo.py;0313;ÉVOLUTION COMPLÈTE: dt → δt → États n\nConfinement Quantique Einstein-VED
+fr;confinamiento_geometrico_tiempo.py;0325;🎨 GÉNÉRATION DES 6 GRAPHIQUES COMPLÈTES EINSTEIN-VED...
+fr;confinamiento_geometrico_tiempo.py;0337;\n✅ LES 6 GRAPHIQUES COMPLÈTES:
+fr;Constante_G.py;0042;Rayon du proton (ligne médiane)
+fr;Constante_G.py;0046;Figure 1: Onde confinée VED du proton, n=2
+fr;Constante_G.py;0059;Trou noir
+fr;Constante_G.py;0061;Surface 2D
+fr;Constante_G.py;0066;Figure 2: Trou noir et surface holographique 2D
+fr;Constante_G.py;0078;G expérimental
+fr;Constante_G.py;0083;n={n}
+fr;Constante_G.py;0088;G calculé [m^3/kg/s^2]
+fr;Constante_G.py;0089;Figure 3: Cible G ±3σ
+fr;Constante_G.py;0116;G calculé [m^3/kg/s^2]
+fr;Constante_G.py;0117;Figure 4: Cible G ±4σ (flèches)
+fr;Constante_G.py;0130;G(n) asymptotique (continu)
+fr;Constante_G.py;0133;G expérimental
+fr;Constante_G.py;0140;round,pad=0.5
+fr;Constante_G.py;0143;Figure 5: Comportement asymptotique de G(n) n→∞ (log-log)
+fr;Constante_G.py;0164;Valeur [m³/kg·s²]
+fr;Constante_G.py;0165;{G_max:.8e}
+fr;Constante_G.py;0165;Limite supérieure
+fr;Constante_G.py;0166;$G_2^{EXP}$ Expérimental
+fr;Constante_G.py;0166;{G_exp:.8e}
+fr;Constante_G.py;0166;Valeur moyenne
+fr;Constante_G.py;0167;{G_min:.8e}
+fr;Constante_G.py;0167;Limite inférieure
+fr;Constante_G.py;0168;$G_1^{VED}$ (n=2) EXACT
+fr;Constante_G.py;0168;Obtenu empiriquement
+fr;Constante_G.py;0169;Différence absolue
+fr;Constante_G.py;0169;{error_abs:.8e}
+fr;Constante_G.py;0170;Erreur relative
+fr;Constante_G.py;0170;{error_rel:.6f} %
+fr;Constante_G.py;0170;Précision VED
+fr;Constante_G.py;0248;CONSTANTE GRAVITATIONNELLE G
+fr;Constante_G.py;0267;Onde de matière confinée
+fr;Constante_G.py;0277;Hologramme 2D
+fr;Constante_G.py;0286;Émergence de G
+fr;Constante_G.py;0288;Figure 8: Matière comme onde confinée sur hologramme 2D
+fr;Constante_G.py;0317;Rayon du proton
+fr;Constante_G.py;0318;Ondes radiales proton
+fr;Constante_G.py;0319;Ondulation 2D proton (n=4)
+fr;Constante_G.py;0322;Rayon du proton
+fr;Constante_G.py;0323;Ondes du proton
+fr;Constante_G.py;0324;Ondulation 2D
+fr;Constante_G.py;0326;Proton - Échelle femtométrique (10⁻¹⁵ m)
+fr;Constante_G.py;0342;Rayon orbital électron
+fr;Constante_G.py;0343;Ondes radiales électron
+fr;Constante_G.py;0344;Ondulation 2D électron (n=137)
+fr;Constante_G.py;0347;Rayon orbital électron
+fr;Constante_G.py;0348;Ondes de l'électron
+fr;Constante_G.py;0349;Ondulation 2D
+fr;Constante_G.py;0351;Électron - Échelle atomique (10⁻¹¹ m)
+fr;Constante_G.py;0358;Figure 9. Ondes 2D et radiales du proton et de l'électron\n(holographie → particules)
+fr;Constante_G.py;0378;$M_\mathrm{VED} = n h /$
+fr;Constante_G.py;0378;$(L_\mathrm{geom} c)$
+fr;Constante_G.py;0379;$M_\mathrm{Sch} = c^2 R_s /$
+fr;Constante_G.py;0379;Égalisant masses,\nM disparaît
+fr;Constante_G.py;0380;$L_\mathrm{geom}$ définie
+fr;Constante_G.py;0380;par VED
+fr;Constante_G.py;0381;$R_s$ définie par
+fr;Constante_G.py;0381;Chaque côté définit\nsa propre échelle
+fr;Constante_G.py;0382;Quantification
+fr;Constante_G.py;0382;n entier → valeurs
+fr;Constante_G.py;0382;discrètes de M et G
+fr;Constante_G.py;0383;n n'apparaît pas,\nG est déterminé
+fr;Constante_G.py;0383;n=2 coïncide avec\nvaleur expérimentale de G
+fr;Constante_G.py;0384;Confinement 2D
+fr;Constante_G.py;0384;(surface)
+fr;Constante_G.py;0385;3D → holographie
+fr;Constante_G.py;0385;implicite
+fr;Constante_G.py;0385;Origine émergente\nde gravité
+fr;Constante_G.py;0409;Figure 10: Comparaison conceptuelle VED vs Schwarzschild
+fr;entrelazamiento_geometrico.py;0009;Fondation Einstein
+fr;entrelazamiento_geometrico.py;0009;Équations Fondamentales
+fr;entrelazamiento_geometrico.py;0032;INTRICATION QUANTIQUE: Explication Géométrique Einstein-VED
+fr;entrelazamiento_geometrico.py;0049;Cadre Interne: Temps Propre Partagé
+fr;entrelazamiento_geometrico.py;0068;Cadre Externe: Perspective Conventionnelle
+fr;entrelazamiento_geometrico.py;0073;SYMBOLOGIE:\n\n
+fr;entrelazamiento_geometrico.py;0074;🔴 Particule A (45°)\n
+fr;entrelazamiento_geometrico.py;0075;🟢 Particule B (225°)\n
+fr;entrelazamiento_geometrico.py;0076;⚫ Observateur\n
+fr;entrelazamiento_geometrico.py;0077;▬▬ Connexion géométrique\n
+fr;entrelazamiento_geometrico.py;0078;▬▬ Lignes de vision
+fr;entrelazamiento_geometrico.py;0084;round,pad=0.6
+fr;entrelazamiento_geometrico.py;0088;FRONT D'ONDE
+fr;entrelazamiento_geometrico.py;0090;CLÉ EINSTEIN-VED:\n\n
+fr;entrelazamiento_geometrico.py;0091;Les deux particules (incluant antipodales)\npartagent le même espace-temps propre t₀, s₀\n\n
+fr;entrelazamiento_geometrico.py;0092;Car: dt' → 0 et ds' → 0 à vitesse c\n\n
+fr;entrelazamiento_geometrico.py;0095;Pas d'action à distance
+fr;entrelazamiento_geometrico.py;0101;round,pad=0.8
+fr;entrelazamiento_geometrico.py;0109;FONDATION EINSTEIN-VED:\n\n
+fr;entrelazamiento_geometrico.py;0110;Les particules intriquées partagent un espace-temps propre commun depuis leur origine.
+fr;entrelazamiento_geometrico.py;0111;Quand elles voyagent à vitesse c, leurs différentiels de temps et espace propres tendent vers zéro
+fr;entrelazamiento_geometrico.py;0112;(dt' → 0, ds' → 0), les maintenant connectées au même instant t₀ et position s₀.
+fr;entrelazamiento_geometrico.py;0113;Cette simultanéité géométrique explique les corrélations quantiques sans violer la relativité.
+fr;entrelazamiento_geometrico.py;0119;round,pad=0.8
+fr;entrelazamiento_geometrico.py;0125;ÉQUATIONS FONDAMENTALES:\n\n
+fr;entrelazamiento_geometrico.py;0126;Pour particules à vitesse c:\n
+fr;entrelazamiento_geometrico.py;0130;Équation de champ:\n
+fr;entrelazamiento_geometrico.py;0131;Gₘₙ + Λgₘₙ = (8πG/c⁴)Tₘₙ\n\n
+fr;entrelazamiento_geometrico.py;0132;Simultanéité absolue en cadre propre
+fr;entrelazamiento_geometrico.py;0138;round,pad=0.8
+fr;entrelazamiento_geometrico.py;0144;INTERPRÉTATION EINSTEIN-VED: L'intrication quantique cesse d'être paradoxale quand comprise
+fr;entrelazamiento_geometrico.py;0145;depuis la géométrie de l'espace-temps. Particules générées dans même événement partagent un front
+fr;entrelazamiento_geometrico.py;0146;d'onde où leur temps propre reste gelé à t₀. Cette simultanéité intrinsèque explique
+fr;entrelazamiento_geometrico.py;0147;corrélations parfaites sans 'action fantôme'. La probabilité quantique reflète perspective
+fr;entrelazamiento_geometrico.py;0147;action fantôme
+fr;entrelazamiento_geometrico.py;0148;limitée de l'observateur, pas propriété fondamentale.
+fr;entrelazamiento_geometrico.py;0154;round,pad=0.8
+fr;entrelazamiento_geometrico.py;0167;🎯 CRÉATION VERSION FINALE AVEC CADRES AU MÊME NIVEAU...
+fr;entrelazamiento_geometrico.py;0170;\n✨ CORRECTIONS APPLIQUÉES:
+fr;entrelazamiento_geometrico.py;0171;• Cadres 'Fondation Einstein' et 'Équations' au MÊME NIVEAU
+fr;entrelazamiento_geometrico.py;0171;Fondation Einstein
+fr;entrelazamiento_geometrico.py;0172;• Figure plus LARGE (16x10) pour accommoder les deux
+fr;entrelazamiento_geometrico.py;0173;• Design équilibré et symétrique
+fr;entrelazamiento_geometrico.py;0174;• Décoration et couleurs RESPECTÉES
+fr;entrelazamiento_geometrico.py;0175;• ZÉRO chevauchements
+fr;generador_svg.py;0019;Fonction radiale état 1s: R₁₀(r) = 2/a₀^(3/2) exp(-r/a₀)
+fr;generador_svg.py;0023;Fonction radiale état 2p: R₂₁(r) = (1/2√6)(r/a₀²) exp(-r/2a₀)
+fr;generador_svg.py;0027;Fonction radiale état 3d: R₃₂(r) = (4/81√30)(r²/a₀^(7/2)) exp(-r/3a₀)
+fr;generador_svg.py;0032;Fonction d'onde complète ψₙℓₘ(r,θ,φ) = Rₙℓ(r)Yℓₘ(θ,φ)
+fr;generador_svg.py;0040;État n={n}, ℓ={ell} non implémenté
+fr;generador_svg.py;0046;Calcule surface VED: r(θ,φ) = n²a₀(1 + α|Yℓₘ|)
+fr;generador_svg.py;0063;Vérifie coïncidence entre maximum P(r) et rayon VED
+fr;generador_svg.py;0085;Génère comparaison complète Einstein-VED vs Mécanique Quantique
+fr;generador_svg.py;0090;🔬 CALCUL COMPARAISON EINSTEIN-VED vs MQ...
+fr;generador_svg.py;0119;Densité |ψ|² - {estado["label"]}\n(plan Z=0.5Y)
+fr;generador_svg.py;0120;x (m)
+fr;generador_svg.py;0121;y (m)
+fr;generador_svg.py;0129;VED: {r_ved:.2e}m
+fr;generador_svg.py;0147;P(r) MQ
+fr;generador_svg.py;0149;VED: {r_ved:.2e} m
+fr;generador_svg.py;0155;Précision: {precision:.2f}%
+fr;generador_svg.py;0159;Probabilité Radiale - {estado["label"]}
+fr;generador_svg.py;0160;r (m)
+fr;generador_svg.py;0161;P(r) normalisée
+fr;generador_svg.py;0172;COMPARAISON EINSTEIN-VED vs MÉCANIQUE QUANTIQUE - CALCULS EXACTS\n
+fr;generador_svg.py;0173;Rayons déterministes vs distributions probabilistiques
+fr;generador_svg.py;0189;RÉSULTATS EXACTS EINSTEIN-VED
+fr;generador_svg.py;0192;{res['estado']}: r_VED = {res['r_ved']:.3e} m,
+fr;generador_svg.py;0193;r_MQ = {res['r_max_mc']:.3e} m,
+fr;generador_svg.py;0194;Précision = {res['precision']:.2f}%
+fr;generador_svg.py;0196;✅ COMPARAISON GÉNÉRÉE - COÏNCIDENCE >99% CONFIRMÉE
+fr;graficas_einstein_ved_n4.py;0012;font.size
+fr;graficas_einstein_ved_n4.py;0013;axes.titlesize
+fr;graficas_einstein_ved_n4.py;0014;axes.labelsize
+fr;graficas_einstein_ved_n4.py;0015;xtick.labelsize
+fr;graficas_einstein_ved_n4.py;0016;ytick.labelsize
+fr;graficas_einstein_ved_n4.py;0017;legend.fontsize
+fr;graficas_einstein_ved_n4.py;0018;figure.titlesize
+fr;graficas_einstein_ved_n4.py;0051;Modèle Conventionnel ±3σ
+fr;graficas_einstein_ved_n4.py;0055;LHC Expérimental ±3σ
+fr;graficas_einstein_ved_n4.py;0059;Einstein-VED Déterministe
+fr;graficas_einstein_ved_n4.py;0069;Modèle Conventionnel
+fr;graficas_einstein_ved_n4.py;0069;LHC Expérimental
+fr;graficas_einstein_ved_n4.py;0069;Einstein-VED (n=4)
+fr;graficas_einstein_ved_n4.py;0070;Rayon du Proton (fm)
+fr;graficas_einstein_ved_n4.py;0078;✅ Sauvegardé: {filename}
+fr;graficas_einstein_ved_n4.py;0082;MQ Probabiliste\n(1920s-)
+fr;graficas_einstein_ved_n4.py;0082;Données LHC\n(2010s-)
+fr;graficas_einstein_ved_n4.py;0082;Einstein-VED\n(2024-)
+fr;graficas_einstein_ved_n4.py;0094;Rayon du Proton (fm)
+fr;graficas_einstein_ved_n4.py;0095;Évolution Théorique: De Probabilité à Géométrie Déterministe
+fr;graficas_einstein_ved_n4.py;0098;Einstein-VED:\nGéométrie exacte\nsans probabilité
+fr;graficas_einstein_ved_n4.py;0101;round,pad=0.3
+fr;graficas_einstein_ved_n4.py;0116;Théorie
+fr;graficas_einstein_ved_n4.py;0116;Rayon (fm)
+fr;graficas_einstein_ved_n4.py;0116;Précision
+fr;graficas_einstein_ved_n4.py;0118;Einstein-VED (n=4)
+fr;graficas_einstein_ved_n4.py;0118;{VED_mean:.5f}
+fr;graficas_einstein_ved_n4.py;0119;LHC Expérimental
+fr;graficas_einstein_ved_n4.py;0119;{LHC_mean:.5f}
+fr;graficas_einstein_ved_n4.py;0120;Modèle Conventionnel
+fr;graficas_einstein_ved_n4.py;0120;{MC_mean:.2f}
+fr;graficas_einstein_ved_n4.py;0120;Faible précision
+fr;graficas_einstein_ved_n4.py;0138;Comparaison des Rayons Protoniques - Données VED Exactes (n=4)
+fr;graficas_einstein_ved_n4.py;0156;Einstein-VED
+fr;graficas_einstein_ved_n4.py;0157;MQ (max. prob.)
+fr;graficas_einstein_ved_n4.py;0158;État Quantique
+fr;graficas_einstein_ved_n4.py;0159;Rayon (unités de a₀)
+fr;graficas_einstein_ved_n4.py;0160;Rayons Atomiques: Valeurs Exactes vs Probabilistiques
+fr;graficas_einstein_ved_n4.py;0168;{height:.0f}
+fr;graficas_einstein_ved_n4.py;0177;1s (MQ)
+fr;graficas_einstein_ved_n4.py;0178;2p (MQ)
+fr;graficas_einstein_ved_n4.py;0179;3d (MQ)
+fr;graficas_einstein_ved_n4.py;0180;Rayon VED 1s
+fr;graficas_einstein_ved_n4.py;0181;Rayon VED 2p
+fr;graficas_einstein_ved_n4.py;0182;Rayon VED 3d
+fr;graficas_einstein_ved_n4.py;0183;Distance radiale (unités de a₀)
+fr;graficas_einstein_ved_n4.py;0184;Densité (normalisée)
+fr;graficas_einstein_ved_n4.py;0185;Interprétation: Probabilité MQ vs Géométrie VED
+fr;graficas_einstein_ved_n4.py;0200;🚀 GÉNÉRATION TOUTES LES GRAPHIQUES EINSTEIN-VED (n=4)...
+fr;graficas_einstein_ved_n4.py;0202;Rayon du Proton: Comparaison Exacte Einstein-VED
+fr;graficas_einstein_ved_n4.py;0207;🎯 TOUTES LES GRAPHIQUES GÉNÉRÉES ✅
+fr;orbitales.py;0034;Orbitales d'Hydrogène avec onde confinée (Einstein-VED)
+fr;orbitales.py;0040;n={n}, {n_cycles} λ
+fr;orbitales.py;0042;X [m]
+fr;orbitales.py;0043;Y [m]
+fr;orbitales.py;0044;Z [m]
+fr;proton_comparativa_destacado.py;0021;Calcule plage ±3σ pour visualisation
+fr;proton_comparativa_destacado.py;0045;MC: Probabiliste
+fr;proton_comparativa_destacado.py;0047;LHC: Expérimental
+fr;proton_comparativa_destacado.py;0049;Einstein-VED: Déterministe
+fr;proton_comparativa_destacado.py;0062;Mécanique Quantique
+fr;proton_comparativa_destacado.py;0062;LHC Expérimental
+fr;proton_comparativa_destacado.py;0062;Einstein-VED
+fr;proton_comparativa_destacado.py;0063;Rayon du Proton (fm)
+fr;proton_comparativa_destacado.py;0064;Estimations Rayon Proton\navec Plages ±3σ
+fr;proton_comparativa_destacado.py;0080;round,pad=0.3
+fr;validacion_experimental.py;0020;Génère comparaison avec PRÉDICTIONS EXACTES Einstein-VED
+fr;validacion_experimental.py;0027;Proton
+fr;validacion_experimental.py;0027;Neutron
+fr;validacion_experimental.py;0036;Einstein-VED
+fr;validacion_experimental.py;0038;LHC (Expérimental)
+fr;validacion_experimental.py;0040;Nucléon
+fr;validacion_experimental.py;0041;Rayon de Charge (fm)
+fr;validacion_experimental.py;0042;a) Rayons Nucléaires: VED vs Expérimental\n(Précision >99%)
+fr;validacion_experimental.py;0053;{precision:.1f}%
+fr;validacion_experimental.py;0060;Proton (LHC)
+fr;validacion_experimental.py;0060;Quark (VED)
+fr;validacion_experimental.py;0060;Limite "ponctuelle"
+fr;validacion_experimental.py;0073;Taille (fm)
+fr;validacion_experimental.py;0074;b) Prédiction VED: Quarks NON Ponctuels
+fr;validacion_experimental.py;0079;{long*1e15:.3f} fm
+fr;validacion_experimental.py;0089;ro-
+fr;validacion_experimental.py;0090;Masse (eV/c²) - Échelle log
+fr;validacion_experimental.py;0091;Longueur Compton (m) - Échelle log
+fr;validacion_experimental.py;0092;c) Relation Masse-Taille Einstein-VED\nλ = h/mc
+fr;validacion_experimental.py;0096;électron
+fr;validacion_experimental.py;0096;quark up
+fr;validacion_experimental.py;0096;quark down
+fr;validacion_experimental.py;0096;muon
+fr;validacion_experimental.py;0098;offset points
+fr;validacion_experimental.py;0103;PRÉDICTIONS EINSTEIN-VED:
+fr;validacion_experimental.py;0104;• Rayons EXACTS depuis premiers principes
+fr;validacion_experimental.py;0105;• Quarks: ~0.05 fm (NON ponctuels)
+fr;validacion_experimental.py;0106;• Sans probabilités - Valeurs déterministes
+fr;validacion_experimental.py;0108;FONDEMENT:
+fr;validacion_experimental.py;0109;• Masse connue → Longueur Compton exacte
+fr;validacion_experimental.py;0110;• Confinement: L = nλ (n entier)
+fr;validacion_experimental.py;0111;• Géométrie → Structure exacte
+fr;validacion_experimental.py;0113;VÉRIFICATION FUTURE:\nLHC amélioré confirmera\nstructure quark prédite
+fr;validacion_experimental.py;0121;PRÉDICTIONS EINSTEIN-VED: Géométrie Exacte vs Données Expérimentales\n
+fr;validacion_experimental.py;0122;D'atomes à quarks - Toutes tailles calculables exactement
+fr;validacion_experimental.py;0130;PRÉDICTIONS EXACTES EINSTEIN-VED
+fr;validacion_experimental.py;0133;\nPRÉCISION vs EXPÉRIMENTAL:
+fr;validacion_experimental.py;0134;Proton:  {precisiones_ved[0]:.2f}%
+fr;validacion_experimental.py;0135;Neutron: {precisiones_ved[1]:.2f}%
+fr;validacion_experimental.py;0137;\nPRÉDICTION SUR QUARKS:
+fr;validacion_experimental.py;0138;Taille minimale quark (VED): {datos_experimentales['prediccion_quark_ved']*1e15:.3f} fm
+fr;validacion_experimental.py;0139;Limite expérimentale actuelle: < 0.001 fm
+fr;validacion_experimental.py;0140;Conclusion: Les quarks NE peuvent PAS être ponctuels
+fr;validacion_experimental.py;0142;\nRELATION MASSE-TAILLE:
+fr;validacion_experimental.py;0145;Quark down (4.8 MeV): {4.1e-16:.2e} m
+fr;validacion_experimental.py;0148;🔬 GÉNÉRATION PRÉDICTIONS EINSTEIN-VED...
+fr;validacion_experimental.py;0150;✅ GRAPHIQUE DE PRÉDICTIONS GÉNÉRÉ

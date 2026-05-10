@@ -1,0 +1,39 @@
+
+it;Constante_G.py;63;Raggio del protone (linea centrale)
+it;Constante_G.py;66;Figura 1: Onda confinata VED del protone, n=2
+it;Constante_G.py;79;Buco nero
+it;Constante_G.py;81;Superficie 2D
+it;Constante_G.py;86;Figura 2: Buco nero e superficie 2D olografica
+it;Constante_G.py;97;$\pm 3\sigma$
+it;Constante_G.py;98;G sperimentale
+it;Constante_G.py;107;$n \in \mathbb{Z}^+$
+it;Constante_G.py;108;G calcolata [m³/kg/s²]
+it;Constante_G.py;109;Figura 3: Bersaglio di G ±3σ
+it;Constante_G.py;126;$\uparrow$
+it;Constante_G.py;131;$\downarrow$
+it;Constante_G.py;135;$n \in \mathbb{Z}^+$
+it;Constante_G.py;136;G calcolata [m³/kg/s²]
+it;Constante_G.py;137;Figura 4: Bersaglio di G ±4σ (frecce)
+it;Constante_G.py;149;G(n) asintotica (continuo)
+it;Constante_G.py;152;G sperimentale
+it;Constante_G.py;157;$n \in \mathbb{Z}^+$
+it;Constante_G.py;157;$\lim_{n \to \infty} G(n)=0$
+it;Constante_G.py;159;round,pad=0.5
+it;Constante_G.py;161;G(n) [m³/kg/s²]
+it;Constante_G.py;162;Figura 5: Comportamento asintotico di G(n) n → ∞ (log-log)
+it;Constante_G.py;182;Concetto
+it;Constante_G.py;182;Valore [m³/kg·s²]
+it;Constante_G.py;182;Origine
+it;Constante_G.py;183;$G_{MAX}$ ±3σ
+it;Constante_G.py;183;Limite superiore
+it;Constante_G.py;184;$G_2^{EXP}$ Sperimentale
+it;Constante_G.py;184;Valore medio
+it;Constante_G.py;185;$G_{MIN}$ ∓3σ
+it;Constante_G.py;185;Limite inferiore
+it;Constante_G.py;186;$G_1^{VED}$ (n=2) ESATTO
+it;Constante_G.py;186;Ottenuto empiricamente
+it;Constante_G.py;187;Differenza assoluta
+it;Constante_G.py;187;$|G_1 - G_2|$
+it;Constante_G.py;188;Errore relativo
+it;Constante_G.py;188;Precisione VED
+it;Constante_G.py;234;COSTANTE GRAVITAZIONALE $G$

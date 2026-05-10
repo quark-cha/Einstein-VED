@@ -1,0 +1,11 @@
+*.log
+*.bak
+*.tmp
+*.cache
+*.old
+
+# Archivos con contraseñas
+*.env
+*.key
+*.json.secret
+*.credentials

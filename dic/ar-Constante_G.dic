@@ -1,0 +1,39 @@
+
+ar;Constante_G.py;63;نصف قطر البروتون (الخط المتوسط)
+ar;Constante_G.py;66;الشكل 1: الموجة المحصورة VED للبروتون، n=2
+ar;Constante_G.py;79;الثقب الأسود
+ar;Constante_G.py;81;السطح ثنائي الأبعاد
+ar;Constante_G.py;86;الشكل 2: الثقب الأسود والسطح ثنائي الأبعاد الهولوغرافي
+ar;Constante_G.py;97;$\pm 3\sigma$
+ar;Constante_G.py;98;G التجريبي
+ar;Constante_G.py;107;$n \in \mathbb{Z}^+$
+ar;Constante_G.py;108;G محسوبة [م³/كغ/ث²]
+ar;Constante_G.py;109;الشكل 3: الهدف G ±3σ
+ar;Constante_G.py;126;$\uparrow$
+ar;Constante_G.py;131;$\downarrow$
+ar;Constante_G.py;135;$n \in \mathbb{Z}^+$
+ar;Constante_G.py;136;G محسوبة [م³/كغ/ث²]
+ar;Constante_G.py;137;الشكل 4: الهدف G ±4σ (أسهم)
+ar;Constante_G.py;149;G(n) متقاربة (مستمرة)
+ar;Constante_G.py;152;G التجريبي
+ar;Constante_G.py;157;$n \in \mathbb{Z}^+$
+ar;Constante_G.py;157;$\lim_{n \to \infty} G(n)=0$
+ar;Constante_G.py;159;round,pad=0.5
+ar;Constante_G.py;161;G(n) [م³/كغ/ث²]
+ar;Constante_G.py;162;الشكل 5: السلوك المتقارب لـ G(n) عند n → ∞ (لوغاريتمي-لوغاريتمي)
+ar;Constante_G.py;182;المفهوم
+ar;Constante_G.py;182;القيمة [م³/كغ·ث²]
+ar;Constante_G.py;182;المصدر
+ar;Constante_G.py;183;G_MAX ± 3σ
+ar;Constante_G.py;183;الحد الأعلى
+ar;Constante_G.py;184;G_2^EXP التجريبي
+ar;Constante_G.py;184;القيمة المتوسطة
+ar;Constante_G.py;185;G_MIN ∓ 3σ
+ar;Constante_G.py;185;الحد الأدنى
+ar;Constante_G.py;186;G_1^VED (n=2) دقيق
+ar;Constante_G.py;186;تم الحصول عليه تجريبياً
+ar;Constante_G.py;187;الفرق المطلق
+ar;Constante_G.py;187;|G1 - G2|
+ar;Constante_G.py;188;الخطأ النسبي
+ar;Constante_G.py;188;دقة VED
+ar;Constante_G.py;234;الثابت الجاذبي G
