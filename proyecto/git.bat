@@ -1,55 +1,113 @@
-cd C:\Users\vedq\Desktop\desarrollo\SRC-VED\Einstein-VED
+@echo off
+chcp 65001 >nul 2>&1
+cd /d "C:\Users\vedq\Desktop\desarrollo\SRC-VED\Einstein-VED"
+title GIT MAINTENANCE - EINSTEIN-VED
+color 0A
 
-Write-Host "========================================" -ForegroundColor Cyan
-Write-Host "PREPARANDO EINSTEIN-VED PARA GITHUB" -ForegroundColor Cyan
-Write-Host "========================================" -ForegroundColor Cyan
+:menu
+cls
+echo ========================================
+echo    GIT MAINTENANCE - EINSTEIN-VED
+echo ========================================
+echo.
+echo [1] SUBIR CAMBIOS (commit + push)
+echo [2] VER ESTADO
+echo [3] VER HISTORIAL
+echo [4] SALIR
+echo.
+set /p op=">>> Selecciona una opcion [1-4]: "
 
-# 1. Eliminar .git sucio
-Write-Host "[1/6] Eliminando .git local..." -ForegroundColor Yellow
-Remove-Item -Path .git -Force -Recurse -ErrorAction SilentlyContinue
+if "%op%"=="1" goto subir
+if "%op%"=="2" goto estado
+if "%op%"=="3" goto historial
+if "%op%"=="4" exit
 
-# 2. Eliminar SOLO basura (ZIPs, backups, temporales)
-Write-Host "[2/6] Eliminando basura (ZIPs, backups, logs)..." -ForegroundColor Yellow
-Remove-Item -Path *.zip -Force -ErrorAction SilentlyContinue
-Remove-Item -Path backup_* -Force -Recurse -ErrorAction SilentlyContinue
-Remove-Item -Path tmp -Force -Recurse -ErrorAction SilentlyContinue
-Remove-Item -Path __pycache__ -Force -Recurse -ErrorAction SilentlyContinue
-Remove-Item -Path *.log -Force -ErrorAction SilentlyContinue
+:subir
+cls
+echo ========================================
+echo    SUBIENDO CAMBIOS A GITHUB
+echo ========================================
+echo.
 
-# NO eliminar: .pdf, .png, .bat, .py, papers/, tools/, img/, etc.
+:: 1. Verificar si hay .git
+if not exist .git (
+    echo [1/6] Inicializando repositorio...
+    git init
+) else (
+    echo [1/6] Repositorio inicializado correctamente.
+)
 
-# 3. Crear .gitignore (solo lo estrictamente basura)
-Write-Host "[3/6] Creando .gitignore..." -ForegroundColor Yellow
-@"
-# Excluir solo comprimidos y backups
-*.zip
-*.7z
-*.rar
-backup_*/
-tmp/
-__pycache__/
-.ipynb_checkpoints/
-.vscode/
-*.log
-.env
-.local
-"@ | Out-File -FilePath .gitignore -Encoding utf8
+:: 2. Limpiar basura temporal
+echo [2/6] Limpiando archivos temporales (ZIPs, logs, backups)...
+del *.zip 2>nul
+del *.log 2>nul
+for /d %%i in (backup_*) do rmdir /s /q "%%i" 2>nul
+rmdir /s /q tmp 2>nul
+rmdir /s /q __pycache__ 2>nul
 
-# 4. Inicializar repositorio
-Write-Host "[4/6] Inicializando repositorio Git..." -ForegroundColor Yellow
-git init
+:: 3. Crear .gitignore si no existe
+echo [3/6] Verificando .gitignore...
+if not exist .gitignore (
+    echo *.zip > .gitignore
+    echo *.7z >> .gitignore
+    echo *.rar >> .gitignore
+    echo *.log >> .gitignore
+    echo backup_*/ >> .gitignore
+    echo tmp/ >> .gitignore
+    echo __pycache__/ >> .gitignore
+    echo .ipynb_checkpoints/ >> .gitignore
+    echo .vscode/ >> .gitignore
+    echo [OK] .gitignore creado.
+) else (
+    echo [OK] .gitignore ya existe.
+)
 
-# 5. Añadir TODO (excepto lo excluido por .gitignore)
-Write-Host "[5/6] Añadiendo archivos..." -ForegroundColor Yellow
+:: 4. Añadir archivos
+echo [4/6] Añadiendo archivos...
 git add .
 
-# 6. Commit y push
-Write-Host "[6/6] Commit y push..." -ForegroundColor Yellow
-git commit -m "Version completa EINSTEIN-VED - $(Get-Date -Format 'yyyy-MM-dd HH:mm')"
-git remote add origin https://github.com/quark-cha/Einstein-VED.git
-git push -u origin main --force
+:: 5. Commit
+echo [5/6] Confirmando commit...
+set fecha=%date:~10,4%-%date:~4,2%-%date:~7,2% %time:~0,2%:%time:~3,2%
+git commit -m "Actualizacion EINSTEIN-VED - %fecha%"
 
-Write-Host "========================================" -ForegroundColor Green
-Write-Host "[OK] Repositorio actualizado" -ForegroundColor Green
-Write-Host "https://github.com/quark-cha/Einstein-VED" -ForegroundColor Cyan
-Write-Host "========================================" -ForegroundColor Green
+:: 6. Push (detectar rama y forzar si es necesario)
+echo [6/6] Subiendo a GitHub...
+for /f %%i in ('git branch --show-current 2^>nul') do set rama=%%i
+if "%rama%"=="" set rama=main
+
+:: Añadir remoto si no existe
+git remote add origin https://github.com/quark-cha/Einstein-VED.git 2>nul
+
+:: Subir con force para resolver conflictos
+git push -u origin %rama% --force
+
+echo.
+echo ========================================
+echo [OK] Repositorio actualizado
+echo https://github.com/quark-cha/Einstein-VED
+echo ========================================
+pause
+goto menu
+
+:estado
+cls
+echo ========================================
+echo    ESTADO DEL REPOSITORIO
+echo ========================================
+echo.
+git status
+echo.
+pause
+goto menu
+
+:historial
+cls
+echo ========================================
+echo    HISTORIAL DE COMMITS
+echo ========================================
+echo.
+git log --oneline --decorate --graph -10
+echo.
+pause
+goto menu
